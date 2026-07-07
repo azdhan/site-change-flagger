@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Govt Website Change Monitor</title>
+<link rel="alternate" type="application/rss+xml" title="Change alerts" href="./feed.xml">
+<style>
+  :root {
+    --page: #f9f9f7;
+    --surface: #fcfcfb;
+    --ink: #0b0b0b;
+    --ink-2: #52514e;
+    --muted: #898781;
+    --hairline: #e1e0d9;
+    --border: rgba(11,11,11,0.10);
+    --accent: #2a78d6;
+    --good: #006300;
+    --good-dot: #0ca30c;
+    --critical: #d03b3b;
+    --add-bg: rgba(12,163,12,0.08);
+    --chip: #f0efec;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --page: #0d0d0d;
+      --surface: #1a1a19;
+      --ink: #ffffff;
+      --ink-2: #c3c2b7;
+      --muted: #898781;
+      --hairline: #2c2c2a;
+      --border: rgba(255,255,255,0.10);
+      --accent: #3987e5;
+      --good: #0ca30c;
+      --good-dot: #0ca30c;
+      --critical: #d03b3b;
+      --add-bg: rgba(12,163,12,0.12);
+      --chip: #383835;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    background: var(--page);
+    color: var(--ink);
+    font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+    padding: 24px 16px 64px;
+  }
+  .wrap { max-width: 860px; margin: 0 auto; }
+  header h1 { font-size: 1.5rem; letter-spacing: -0.01em; }
+  header p { color: var(--ink-2); margin-top: 4px; }
+  .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin: 14px 0 22px; align-items: center; }
+  .toolbar a, .toolbar span.stamp {
+    font-size: 0.82rem; color: var(--ink-2); text-decoration: none;
+    border: 1px solid var(--border); border-radius: 999px; padding: 4px 12px;
+    background: var(--surface);
+  }
+  .toolbar a:hover { color: var(--accent); border-color: var(--accent); }
+
+  .tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 10px; margin-bottom: 30px; }
+  .tile {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px 14px; display: flex; flex-direction: column; gap: 3px;
+  }
+  .tile .site { font-weight: 600; font-size: 0.88rem; line-height: 1.3; }
+  .tile .site a { color: var(--ink); text-decoration: none; }
+  .tile .site a:hover { color: var(--accent); }
+  .tile .status { font-size: 0.78rem; display: flex; align-items: center; gap: 6px; }
+  .tile .status.ok { color: var(--good); }
+  .tile .status.err { color: var(--critical); }
+  .tile .meta { font-size: 0.75rem; color: var(--muted); }
+
+  h2 { font-size: 1.05rem; margin: 26px 0 4px; }
+  .day { font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em;
+         color: var(--muted); margin: 26px 0 10px; border-bottom: 1px solid var(--hairline); padding-bottom: 6px; }
+  .change {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 14px 16px; margin-bottom: 12px;
+  }
+  .change .head { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: baseline; }
+  .change .head a.sitelink { font-weight: 600; color: var(--ink); text-decoration: none; }
+  .change .head a.sitelink:hover { color: var(--accent); }
+  .change .when { font-size: 0.78rem; color: var(--muted); white-space: nowrap; }
+  .change .summary { display: inline-block; font-size: 0.76rem; color: var(--ink-2);
+    background: var(--chip); border-radius: 999px; padding: 2px 10px; margin-top: 6px; }
+  .block-label { font-size: 0.74rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.05em; color: var(--muted); margin: 12px 0 5px; }
+  ul.newlinks { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 4px; }
+  ul.newlinks li { font-size: 0.86rem; overflow-wrap: anywhere; }
+  ul.newlinks a { color: var(--accent); text-decoration: none; }
+  ul.newlinks a:hover { text-decoration: underline; }
+  .added { background: var(--add-bg); border-radius: 6px; padding: 8px 10px;
+    font-size: 0.84rem; color: var(--ink-2); }
+  .added div { padding: 1px 0; overflow-wrap: anywhere; }
+  .added div::before { content: "+ "; color: var(--good); font-weight: 700; }
+  .more { font-size: 0.78rem; color: var(--muted); margin-top: 6px; }
+  .empty { color: var(--ink-2); background: var(--surface); border: 1px dashed var(--border);
+    border-radius: 10px; padding: 28px; text-align: center; margin-top: 12px; }
+  footer { margin-top: 44px; font-size: 0.78rem; color: var(--muted); }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🔔 Govt Website Change Monitor</h1>
+    <p>Automated tracking of Indian government websites. A new entry appears whenever a monitored page changes — new notices, documents, or text.</p>
+  </header>
+  <div class="toolbar">
+    <a href="./feed.xml">📡 RSS feed</a>
+    <span class="stamp" id="stamp">loading…</span>
+  </div>
+
+  <div class="tiles" id="tiles"></div>
+
+  <h2>Detected changes</h2>
+  <div id="log"><div class="empty">Loading change log…</div></div>
+
+  <footer>
+    Checks run every 3 hours via GitHub Actions. Times shown in IST.
+    Baselines are created on a site's first check; changes are reported from the second check onward.
+  </footer>
+</div>
+
+<script>
+const fmtTime = new Intl.DateTimeFormat('en-IN', { timeZone: 'Asia/Kolkata', hour: '2-digit', minute: '2-digit', hour12: true });
+const fmtDay  = new Intl.DateTimeFormat('en-IN', { timeZone: 'Asia/Kolkata', weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+const fmtFull = new Intl.DateTimeFormat('en-IN', { timeZone: 'Asia/Kolkata', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', hour12: true });
+const esc = s => (s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+async function load() {
+  const bust = '?t=' + Date.now();
+  let status = {}, changes = [];
+  try { status = await (await fetch('./data/status.json' + bust)).json(); } catch (e) {}
+  try { changes = await (await fetch('./data/changes.json' + bust)).json(); } catch (e) {}
+
+  // --- status tiles ---
+  const tiles = Object.values(status).sort((a, b) => a.name.localeCompare(b.name)).map(s => {
+    const ok = s.ok !== false;
+    const badge = ok ? '<span class="status ok">✓ reachable</span>'
+                     : `<span class="status err">✗ unreachable</span>`;
+    const last = s.last_change
+      ? 'Last change: ' + fmtFull.format(new Date(s.last_change))
+      : 'No changes yet';
+    const checked = s.last_checked ? 'Checked ' + fmtFull.format(new Date(s.last_checked)) : '';
+    return `<div class="tile">
+      <span class="site"><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></span>
+      ${badge}
+      <span class="meta">${esc(last)}</span>
+      <span class="meta">${esc(checked)}</span>
+    </div>`;
+  });
+  document.getElementById('tiles').innerHTML = tiles.join('') ||
+    '<div class="empty">No sites checked yet — the first GitHub Actions run will populate this.</div>';
+
+  const newest = Object.values(status).map(s => s.last_checked).filter(Boolean).sort().pop();
+  document.getElementById('stamp').textContent = newest
+    ? 'Last check: ' + fmtFull.format(new Date(newest)) + ' IST' : 'No checks yet';
+
+  // --- change log grouped by IST day ---
+  if (!changes.length) {
+    document.getElementById('log').innerHTML =
+      '<div class="empty">No changes detected yet. Once any monitored site updates, it will appear here automatically.</div>';
+    return;
+  }
+  let out = '', lastDay = '';
+  for (const c of changes) {
+    const d = new Date(c.time);
+    const day = fmtDay.format(d);
+    if (day !== lastDay) { out += `<div class="day">${day}</div>`; lastDay = day; }
+
+    let body = '';
+    const links = c.new_links || [];
+    if (links.length) {
+      body += '<div class="block-label">New links found</div><ul class="newlinks">' +
+        links.map(l => `<li>🔗 <a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.text || l.url)}</a></li>`).join('') +
+        '</ul>';
+      if ((c.new_links_total || 0) > links.length)
+        body += `<div class="more">…and ${c.new_links_total - links.length} more new links</div>`;
+    }
+    const added = c.added_lines || [];
+    if (added.length) {
+      body += '<div class="block-label">New text on page</div><div class="added">' +
+        added.map(l => `<div>${esc(l)}</div>`).join('') + '</div>';
+      if ((c.added_lines_total || 0) > added.length)
+        body += `<div class="more">…and ${c.added_lines_total - added.length} more new text blocks</div>`;
+    }
+    if ((c.removed_lines_total || 0) > 0)
+      body += `<div class="more">${c.removed_lines_total} text block(s) were removed from the page.</div>`;
+
+    out += `<div class="change">
+      <div class="head">
+        <a class="sitelink" href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.site)}</a>
+        <span class="when">${fmtTime.format(d)} IST</span>
+      </div>
+      <span class="summary">${esc(c.summary)}</span>
+      ${body}
+    </div>`;
+  }
+  document.getElementById('log').innerHTML = out;
+}
+load();
+</script>
+</body>
+</html>

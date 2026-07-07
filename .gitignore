@@ -1,0 +1,4 @@
+alert.txt
+__pycache__/
+*.pyc
+.venv/

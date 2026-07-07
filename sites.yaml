@@ -1,0 +1,45 @@
+# ============================================================
+# Websites to monitor.
+# To add a new site, just add two lines:
+#   - name: Some Ministry
+#     url: https://example.gov.in/
+# That's it. The system auto-creates a baseline on the next run.
+# ============================================================
+
+sites:
+  - name: Ministry of Electronics & IT (MeitY)
+    url: https://meity.gov.in/
+
+  - name: Ministry of Information & Broadcasting (MIB)
+    url: https://mib.gov.in/
+
+  - name: Telecom Regulatory Authority of India (TRAI)
+    url: https://www.trai.gov.in/
+
+  - name: Department of Telecommunications (DoT)
+    url: https://dot.gov.in/
+
+# ------------------------------------------------------------
+# Lines matching these regex patterns are ignored when comparing,
+# so visitor counters / "last updated" stamps / dates don't cause
+# false alarms. Add more patterns if a site keeps false-alerting.
+# ------------------------------------------------------------
+ignore_patterns:
+  - '(?i)visitor'
+  - '(?i)hit\s*count'
+  - '(?i)last\s*(updated|reviewed|modified)'
+  - '(?i)page\s*last'
+  - '(?i)updated\s*on'
+  - '(?i)current\s*(date|time)'
+  - '^\d[\d,\.\s]*$'                       # lines that are only numbers (counters)
+  - '^\s*\d{1,2}[-/]\d{1,2}[-/]\d{2,4}\s*$' # lines that are only a date
+  - '(?i)^(today|yesterday)\b'
+  - '(?i)you are visitor'
+  - '(?i)screen reader access'
+  - '(?i)uses cookies'
+  - '(?i)cookies? (settings|policy|preferences)'
+  - '(?i)(accept|decline|customize|manage) .*cookies'
+  - '(?i)^(accept|decline)$'
+  - '(?i)view this post on'          # social media embed chrome
+  - 'इस पोस्ट को .* देखें'
+  - '(?i)a post shared by'

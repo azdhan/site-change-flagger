@@ -1,0 +1,81 @@
+name: Check websites for changes
+
+on:
+  schedule:
+    # Every 3 hours. GitHub cron is UTC; this is 8 checks/day.
+    # Make it more/less frequent by editing this line, e.g.:
+    #   '0 * * * *'   = every hour
+    #   '0 */6 * * *' = every 6 hours
+    - cron: '15 */3 * * *'
+  workflow_dispatch: {}   # lets you trigger a check manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run change detector
+        run: python check.py
+
+      - name: Commit and publish results
+        run: |
+          git config user.name "change-detector-bot"
+          git config user.email "actions@github.com"
+          git add snapshots docs
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+          else
+            git commit -m "Detected changes: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      # ---------- OPTIONAL EMAIL ALERT ----------
+      # Works only if you add these repository secrets (Settings > Secrets
+      # and variables > Actions):
+      #   MAIL_USERNAME  = your Gmail address
+      #   MAIL_PASSWORD  = a Gmail App Password (not your real password)
+      #   MAIL_TO        = where alerts should go (can be same address)
+      # If the secrets are absent, this step silently skips. Zero cost.
+      - name: Decide whether to email
+        id: gate
+        env:
+          MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
+        run: |
+          if [ -f alert.txt ] && [ -n "$MAIL_USERNAME" ]; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "send=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send email alert
+        if: steps.gate.outputs.send == 'true'
+        uses: dawidd6/action-send-mail@v4
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "🔔 Govt website change detected"
+          to: ${{ secrets.MAIL_TO }}
+          from: Website Change Detector
+          body: file://alert.txt
