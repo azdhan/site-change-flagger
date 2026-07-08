@@ -153,15 +153,17 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद करें",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 07.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -430,27 +432,27 @@
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://dot.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://dot.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://dot.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://dot.gov.in/help",
-   "text": "Help"
+   "text": "मदद करें"
   },
   {
    "url": "https://dot.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://x.com/DoT_India",
@@ -478,7 +480,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-08T03:31:40Z",
+ "fetched_at": "2026-07-08T03:43:11Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -662,28 +664,28 @@
    "View more": 0,
    "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
-   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
-   "Help": 0,
-   "Feedback": 0,
-   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 0,
-   "HMoC’s Address note: June 2026 Edition": 0,
-   "Two Days Training Programme on 'MoDSI' and 'Guidelines on Information Security Practices for Government Entities' by NCA-T from 16.07.2026 to 17.07.2026": 0,
-   "What’s New": 0,
-   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 0,
-   "View this post on Instagram": 6,
-   "A post shared by DoT_India (Department of Telecommunications) (@department_of_telecom)": 6,
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 1,
+   "Help": 1,
+   "Feedback": 1,
+   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 1,
+   "HMoC’s Address note: June 2026 Edition": 1,
+   "Two Days Training Programme on 'MoDSI' and 'Guidelines on Information Security Practices for Government Entities' by NCA-T from 16.07.2026 to 17.07.2026": 1,
+   "What’s New": 1,
+   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 1,
+   "View this post on Instagram": 7,
+   "A post shared by DoT_India (Department of Telecommunications) (@department_of_telecom)": 7,
    "इस पोस्ट को इंस्टाग्राम पर देखें": 0,
    "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)": 0,
-   "Useful Links": 0,
-   "Production Linked Incentive (PLI) scheme": 0,
-   "Website Policies": 0,
-   "Sitemap": 0,
-   "Technology Development & Investment Promotion (TDIP) Scheme": 0,
-   "Archives": 0,
-   "Subscribe for Updates": 0,
-   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 0,
-   "Public Procurement-Preference to Make in India": 0,
-   "Related Links": 0
+   "Useful Links": 1,
+   "Production Linked Incentive (PLI) scheme": 1,
+   "Website Policies": 1,
+   "Sitemap": 1,
+   "Technology Development & Investment Promotion (TDIP) Scheme": 1,
+   "Archives": 1,
+   "Subscribe for Updates": 1,
+   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 1,
+   "Public Procurement-Preference to Make in India": 1,
+   "Related Links": 1
   },
   "links": {
    "https://bhashini.gov.in": 0,

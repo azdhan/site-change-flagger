@@ -1,5 +1,29 @@
 [
  {
+  "id": "e32103f67195",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-08T03:43:11Z",
+  "summary": "4 new text blocks, 5 items no longer on page",
+  "added_lines": [
+   "Useful Links",
+   "Help",
+   "Feedback",
+   "This Website belong to Ministry of Electronics and Information Technology, Government of India"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [
+   "Delegation of Powers of Director General NIC",
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026",
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026",
+   "Recent Documents",
+   "Delegation of Financial Power of ICERT"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "4f4109adb91a",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
