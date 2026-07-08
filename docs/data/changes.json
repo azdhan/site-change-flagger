@@ -1,5 +1,75 @@
 [
  {
+  "id": "9fb4dfb6d9db",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-08T08:42:59Z",
+  "summary": "1 new text block, 2 items no longer on page",
+  "added_lines": [
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "View this post on Instagram",
+   "A post shared by DoT_India (Department of Telecommunications) (@department_of_telecom)"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "bc3fa1c1688e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-08T08:42:59Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)",
+   "Dindigul, Tamil Nadu"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-oddanchatram-tamil-nadu-citizen-consumer-civic-action",
+    "text": "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "e8ef39c97bb6",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-08T08:42:59Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "08 जुलाई 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "02cd96de5fc7",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-08T08:42:59Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "View this post on Instagram",
+   "A post shared by Ministry Of Electronic & IT (@goi_meity)"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e32103f67195",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
