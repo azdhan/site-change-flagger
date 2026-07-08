@@ -1,1 +1,51 @@
-﻿[]
+[
+ {
+  "id": "4f4109adb91a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-08T03:31:40Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Key Offerings",
+   "HON'BLE CABINET MINISTER",
+   "HON'BLE MINISTER OF STATE"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e9aba0778675",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-08T03:31:40Z",
+  "summary": "2 new links, 3 new text blocks, 5 items no longer on page",
+  "added_lines": [
+   "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
+   "Rate this translation",
+   "Submit"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "Ministry of Electronics and Information Technology",
+   "Report on Estimation and Measurement of India's Digital Economy",
+   "Announcements",
+   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions issued by the Ministry, synthetically generated information and digital media oversight",
+   "Ten Years of Digital Progress - Building an Inclusive and Future-Ready India"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [
+   {
+    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+    "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   },
+   {
+    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
+    "text": "View this post on Instagram"
+   }
+  ],
+  "new_links_total": 2
+ }
+]
