@@ -1210,7 +1210,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-08T14:38:13Z",
+ "fetched_at": "2026-07-08T17:05:12Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1528,8 +1528,8 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "7 July, 2026": 0,
    "Consultation Papers": 0,
-   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)": 2,
-   "Dindigul, Tamil Nadu": 2
+   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)": 3,
+   "Dindigul, Tamil Nadu": 3
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1672,7 +1672,7 @@
    "https://www.trai.gov.in/regulatory-framework": 0,
    "https://channelselector.trai.gov.in/": 0,
    "https://exemption.trai.gov.in/homepage": 0,
-   "https://www.trai.gov.in/sites/default/files/2024-10/PR_No.54of2019.pdf": 1,
+   "https://www.trai.gov.in/sites/default/files/2024-10/PR_No.54of2019.pdf": 2,
    "https://www.trai.gov.in/what-s-new": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gangtok-and-pakyong": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gangtok-and-pakyong": 0,
@@ -1756,7 +1756,7 @@
    "https://www.trai.gov.in/website-policy": 0,
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-oddanchatram-tamil-nadu-citizen-consumer-civic-action": 2
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-oddanchatram-tamil-nadu-citizen-consumer-civic-action": 3
   },
   "grave_lines": {},
   "grave_links": {}

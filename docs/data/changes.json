@@ -1,5 +1,51 @@
 [
  {
+  "id": "6ec257a251bd",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-08T17:05:12Z",
+  "summary": "8 new links",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/index.php/hi/archives",
+    "text": "पुरालेखागार"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/website-policy",
+    "text": "वेबसाइट नीति"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/related-link",
+    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/sitemap",
+    "text": "साइट मैप"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/help",
+    "text": "सहायता"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+    "text": "हमसे संपर्क करें"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/feedback",
+    "text": "प्रतिक्रिया"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
+    "text": "एफएक्यू"
+   }
+  ],
+  "new_links_total": 8
+ },
+ {
   "id": "26b4ed57b148",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
