@@ -1,5 +1,21 @@
 [
  {
+  "id": "26b4ed57b148",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-08T14:38:13Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "Appointment of Shri Ashish Kumar, ITS, Staff No 21141 as Joint Advisor in TRAI HQ on deputation basis",
+   "Voluntary Retirement from Govt Service – Smt Ayesha Siddiqui, ITS, Staff No 20777, presently PGM, Kolkata BA, WB Telecom Circle"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "67149d33dd72",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

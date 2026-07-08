@@ -126,10 +126,10 @@
   "दूरसंचार (प्रशासनिक प्रक्रिया द्वारा स्पेक्ट्रम असाइनमेंट) नियम, 2026 का मसौदा",
   "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026",
   "Recent Documents",
+  "Appointment of Shri Ashish Kumar, ITS, Staff No 21141 as Joint Advisor in TRAI HQ on deputation basis",
+  "Voluntary Retirement from Govt Service – Smt Ayesha Siddiqui, ITS, Staff No 20777, presently PGM, Kolkata BA, WB Telecom Circle",
   "Extension of administrative frequency assignment dated 08.07.2026",
   "Transfers / Postings in the Junior Administrative Grade and below level of Indian Posts and Telecommunications Accounts and Finance Service, Group ‘A’",
-  "Transfer & Posting of officers of ITS Gr A- Shri Sunil Bhadu, Staff no 21216",
-  "Order dated 07-07-2026 reg Transfer & Posting of officers of ITS Gr A",
   "View more",
   "Explore User Personas",
   "FOR MEDIA",
@@ -152,15 +152,17 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद करें",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 08.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -425,27 +427,27 @@
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://dot.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://dot.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://dot.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://dot.gov.in/help",
-   "text": "Help"
+   "text": "मदद करें"
   },
   {
    "url": "https://dot.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://x.com/DoT_India",
@@ -473,7 +475,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-08T11:15:12Z",
+ "fetched_at": "2026-07-08T14:38:13Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -645,43 +647,45 @@
    "Submit": 0,
    "Recent Documents": 0,
    "Revenue Management Services": 0,
-   "Order dated 07-07-2026 reg Transfer & Posting of officers of ITS Gr A": 0,
+   "Order dated 07-07-2026 reg Transfer & Posting of officers of ITS Gr A": 1,
    "PM-WANI- Telecom eServices Portal": 0,
-   "Retirement of Shri Rajendra Mathur Executive Engineer Civil P and T Building Works Civil Group A Service on attaining the age of superannuation as on 30 June 2026": 2,
+   "Retirement of Shri Rajendra Mathur Executive Engineer Civil P and T Building Works Civil Group A Service on attaining the age of superannuation as on 30 June 2026": 3,
    "Explore User Personas": 0,
    "Telecom eServices Portal": 0,
    "Call Before u Dig": 0,
    "Important Links": 0,
-   "Leveraging IndiaAI Mission and IndiaAI Impact for AI Solution Mapping Summit by DoT": 2,
-   "Transfer & Posting of officers of ITS Gr A- Shri Sunil Bhadu, Staff no 21216": 0,
+   "Leveraging IndiaAI Mission and IndiaAI Impact for AI Solution Mapping Summit by DoT": 3,
+   "Transfer & Posting of officers of ITS Gr A- Shri Sunil Bhadu, Staff no 21216": 1,
    "View more": 0,
    "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
    "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
    "Help": 0,
    "Feedback": 0,
-   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 1,
-   "HMoC’s Address note: June 2026 Edition": 1,
-   "Two Days Training Programme on 'MoDSI' and 'Guidelines on Information Security Practices for Government Entities' by NCA-T from 16.07.2026 to 17.07.2026": 1,
-   "What’s New": 1,
-   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 1,
+   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 0,
+   "HMoC’s Address note: June 2026 Edition": 0,
+   "Two Days Training Programme on 'MoDSI' and 'Guidelines on Information Security Practices for Government Entities' by NCA-T from 16.07.2026 to 17.07.2026": 0,
+   "What’s New": 0,
+   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 0,
    "इस पोस्ट को इंस्टाग्राम पर देखें": 0,
    "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)": 0,
    "Useful Links": 0,
-   "Production Linked Incentive (PLI) scheme": 1,
+   "Production Linked Incentive (PLI) scheme": 0,
    "Website Policies": 0,
    "Sitemap": 0,
-   "Technology Development & Investment Promotion (TDIP) Scheme": 1,
+   "Technology Development & Investment Promotion (TDIP) Scheme": 0,
    "Archives": 0,
    "Subscribe for Updates": 0,
-   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 1,
-   "Public Procurement-Preference to Make in India": 1,
+   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 0,
+   "Public Procurement-Preference to Make in India": 0,
    "Related Links": 0,
-   "Key Offerings": 1,
+   "Key Offerings": 2,
    "अंतिम बार अद्यतन किया गयाः 08.07.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति": 0,
    "Transfers / Postings in the Junior Administrative Grade and below level of Indian Posts and Telecommunications Accounts and Finance Service, Group ‘A’": 0,
-   "Extension of administrative frequency assignment dated 08.07.2026": 0
+   "Extension of administrative frequency assignment dated 08.07.2026": 0,
+   "Voluntary Retirement from Govt Service – Smt Ayesha Siddiqui, ITS, Staff No 20777, presently PGM, Kolkata BA, WB Telecom Circle": 0,
+   "Appointment of Shri Ashish Kumar, ITS, Staff No 21141 as Joint Advisor in TRAI HQ on deputation basis": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -731,7 +735,7 @@
    "https://www.dot.gov.in/static/uploads/2026/06/3acc4e7aeb2bdff7c3ae6a9429150734.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/06/d44ff2aec0505d538d9f3d51eba88936.pdf": 0,
    "https://dot.gov.in/whats-new": 0,
-   "https://dot.gov.in/documents/orders-and-notices/leveraging-indiaai-mission-and-indiaai-impact-for-ai-solution-mapping-summit-by-dot-UjN2YzNtQWa?pageTitle=Leveraging-IndiaAI-Mission-and-IndiaAI-Impact-for-AI-Solution-Mapping-Summit-by-DoT": 2,
+   "https://dot.gov.in/documents/orders-and-notices/leveraging-indiaai-mission-and-indiaai-impact-for-ai-solution-mapping-summit-by-dot-UjN2YzNtQWa?pageTitle=Leveraging-IndiaAI-Mission-and-IndiaAI-Impact-for-AI-Solution-Mapping-Summit-by-DoT": 3,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 0,
@@ -760,7 +764,8 @@
    "https://www.facebook.com/DoTIndia": 0,
    "https://www.instagram.com/department_of_telecom/": 0,
    "https://www.mygov.in/": 0,
-   "https://www.india.gov.in/": 0
+   "https://www.india.gov.in/": 0,
+   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-07T19:59:58Z",
