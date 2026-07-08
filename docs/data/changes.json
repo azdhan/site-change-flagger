@@ -1,5 +1,21 @@
 [
  {
+  "id": "67149d33dd72",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-08T11:15:12Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "Extension of administrative frequency assignment dated 08.07.2026",
+   "Transfers / Postings in the Junior Administrative Grade and below level of Indian Posts and Telecommunications Accounts and Finance Service, Group ‘A’"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "9fb4dfb6d9db",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

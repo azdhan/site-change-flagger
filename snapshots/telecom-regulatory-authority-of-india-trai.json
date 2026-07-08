@@ -202,14 +202,14 @@
   "On-going Consultation",
   "No Open Consultation",
   "Events",
-  "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal",
+  "Consumer Awareness Program at Sector 35 (Chandigarh) by Citizens Awarness Group Chandigarh",
   "Date :",
   "Time :",
   "11:00 AM",
   "Location :",
-  "Panchmahal, Gujarat",
-  "Consumer Awareness Program at Sector 35 (Chandigarh) by Citizens Awarness Group Chandigarh",
   "Chandigarh , Chandigarh",
+  "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal",
+  "Panchmahal, Gujarat",
   "Consumer Awareness Programm at Balrampur (CG) by USASF-Raipur(CG)",
   "Balrampur, Chhattisgarh",
   "Consumer Awareness Program at Sheohar (Bihar) by IITED",
@@ -226,8 +226,8 @@
   "Consumer Awareness Program at Nadia (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society",
   "01:00 PM",
   "Nadia, West Bengal",
-  "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)",
-  "Dindigul, Tamil Nadu",
+  "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club",
+  "Dungarpur, Rajasthan",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -977,12 +977,12 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-surendranagar-gujarat-jhalod-taluka-grahak-surksha",
-   "text": "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sector-35-chandigarh-citizens-awarness-group-chandigarh",
    "text": "Consumer Awareness Program at Sector 35 (Chandigarh) by Citizens Awarness Group Chandigarh"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-surendranagar-gujarat-jhalod-taluka-grahak-surksha",
+   "text": "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-balrampur-cg-usasf-raipurcg",
@@ -1013,8 +1013,8 @@
    "text": "Consumer Awareness Program at Nadia (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-oddanchatram-tamil-nadu-citizen-consumer-civic-action",
-   "text": "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dungarpur-rajasthan-pmry-club",
+   "text": "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1214,7 +1214,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-08T08:42:59Z",
+ "fetched_at": "2026-07-08T11:15:12Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1443,8 +1443,8 @@
    "Consumer Awareness Program at Nadia (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": 0,
    "01:00 PM": 0,
    "Nadia, West Bengal": 0,
-   "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club": 1,
-   "Dungarpur, Rajasthan": 1,
+   "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club": 0,
+   "Dungarpur, Rajasthan": 0,
    "TRAI Dashboard": 0,
    "1065.88 Million": 0,
    "Broadband Subscribers": 0,
@@ -1532,8 +1532,8 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "7 July, 2026": 0,
    "Consultation Papers": 0,
-   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)": 0,
-   "Dindigul, Tamil Nadu": 0
+   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)": 1,
+   "Dindigul, Tamil Nadu": 1
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1709,7 +1709,7 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayurbhanja-odisha-vikash": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nadia-west-bengal-islampur-ramkrishnapally-rural-welfare": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dungarpur-rajasthan-pmry-club": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dungarpur-rajasthan-pmry-club": 0,
    "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf": 0,
    "https://www.trai.gov.in/sites/default/files/2024-12/broadcasting-dashboard.pdf": 0,
    "https://trai.gov.in/voice-and-sms-only-packs": 0,
@@ -1760,7 +1760,7 @@
    "https://www.trai.gov.in/website-policy": 0,
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-oddanchatram-tamil-nadu-citizen-consumer-civic-action": 0
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-oddanchatram-tamil-nadu-citizen-consumer-civic-action": 1
   },
   "grave_lines": {},
   "grave_links": {}
