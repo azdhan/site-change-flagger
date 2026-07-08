@@ -1,5 +1,26 @@
 [
  {
+  "id": "2c692d3ba122",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-08T19:52:27Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad",
+   "Saharanpur, Uttar Pradesh"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rampur-maniharan-distt-saharanpur-pmry-club-moradabad",
+    "text": "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "6ec257a251bd",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",

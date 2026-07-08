@@ -226,8 +226,8 @@
   "Consumer Awareness Program at Nadia (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society",
   "01:00 PM",
   "Nadia, West Bengal",
-  "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club",
-  "Dungarpur, Rajasthan",
+  "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad",
+  "Saharanpur, Uttar Pradesh",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -1009,8 +1009,8 @@
    "text": "Consumer Awareness Program at Nadia (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dungarpur-rajasthan-pmry-club",
-   "text": "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rampur-maniharan-distt-saharanpur-pmry-club-moradabad",
+   "text": "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1210,7 +1210,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-08T17:05:12Z",
+ "fetched_at": "2026-07-08T19:52:27Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1439,8 +1439,8 @@
    "Consumer Awareness Program at Nadia (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": 0,
    "01:00 PM": 0,
    "Nadia, West Bengal": 0,
-   "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club": 0,
-   "Dungarpur, Rajasthan": 0,
+   "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club": 1,
+   "Dungarpur, Rajasthan": 1,
    "TRAI Dashboard": 0,
    "1065.88 Million": 0,
    "Broadband Subscribers": 0,
@@ -1528,8 +1528,10 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "7 July, 2026": 0,
    "Consultation Papers": 0,
-   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)": 3,
-   "Dindigul, Tamil Nadu": 3
+   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)": 4,
+   "Dindigul, Tamil Nadu": 4,
+   "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad": 0,
+   "Saharanpur, Uttar Pradesh": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1672,7 +1674,7 @@
    "https://www.trai.gov.in/regulatory-framework": 0,
    "https://channelselector.trai.gov.in/": 0,
    "https://exemption.trai.gov.in/homepage": 0,
-   "https://www.trai.gov.in/sites/default/files/2024-10/PR_No.54of2019.pdf": 2,
+   "https://www.trai.gov.in/sites/default/files/2024-10/PR_No.54of2019.pdf": 3,
    "https://www.trai.gov.in/what-s-new": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gangtok-and-pakyong": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gangtok-and-pakyong": 0,
@@ -1705,7 +1707,7 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayurbhanja-odisha-vikash": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nadia-west-bengal-islampur-ramkrishnapally-rural-welfare": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dungarpur-rajasthan-pmry-club": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dungarpur-rajasthan-pmry-club": 1,
    "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf": 0,
    "https://www.trai.gov.in/sites/default/files/2024-12/broadcasting-dashboard.pdf": 0,
    "https://trai.gov.in/voice-and-sms-only-packs": 0,
@@ -1756,7 +1758,8 @@
    "https://www.trai.gov.in/website-policy": 0,
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-oddanchatram-tamil-nadu-citizen-consumer-civic-action": 3
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-oddanchatram-tamil-nadu-citizen-consumer-civic-action": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rampur-maniharan-distt-saharanpur-pmry-club-moradabad": 0
   },
   "grave_lines": {},
   "grave_links": {}

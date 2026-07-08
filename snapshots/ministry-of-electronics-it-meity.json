@@ -105,7 +105,7 @@
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
-  "Key Offerings",
+  "प्रमुख प्रस्ताव",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "arrow_forward_ios",
   "Electronics Component Manufacturing Scheme",
@@ -133,17 +133,15 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "उपयोगी लिंक",
-  "अभिलेखागार",
-  "वेबसाइट नीतियाँ",
-  "संबंधित लिंक",
-  "साइटमैप",
-  "मदद",
-  "हमसे संपर्क करें",
-  "फीडबैक",
-  "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
-  "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 07.07.2026",
+  "Useful Links",
+  "Archives",
+  "Website Policies",
+  "Related Links",
+  "Sitemap",
+  "Help",
+  "Feedback",
+  "This Website belong to Ministry of Electronics and Information Technology, Government of India",
+  "Subscribe for Updates",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -352,27 +350,27 @@
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
-   "text": "अभिलेखागार"
+   "text": "Archives"
   },
   {
    "url": "https://meity.gov.in/policies",
-   "text": "वेबसाइट नीतियाँ"
+   "text": "Website Policies"
   },
   {
    "url": "https://meity.gov.in/RelatedLinks",
-   "text": "संबंधित लिंक"
+   "text": "Related Links"
   },
   {
    "url": "https://meity.gov.in/sitemap",
-   "text": "साइटमैप"
+   "text": "Sitemap"
   },
   {
    "url": "https://meity.gov.in/help",
-   "text": "मदद"
+   "text": "Help"
   },
   {
    "url": "https://meity.gov.in/feedback",
-   "text": "फीडबैक"
+   "text": "Feedback"
   },
   {
    "url": "https://twitter.com/GoI_MeitY?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -400,7 +398,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-08T17:05:12Z",
+ "fetched_at": "2026-07-08T19:52:27Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -545,7 +543,7 @@
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
    "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions": 0,
-   "Filling up the post of Chairman & Members in the Data Protection Board of India (DPBI)": 6,
+   "Filling up the post of Chairman & Members in the Data Protection Board of India (DPBI)": 7,
    "संबंधित लिंक": 0,
    "Major achievement of MeitY for the month of May 2026": 0,
    "स्पष्टीकरण, सलाह और निर्देशों के साथ मध्यस्थ अनुपालन को मजबूत करने से संबंधित सूचना प्रौद्योगिकी नियम, 2021 में संशोधन के मसौदे पर हितधारकों से परामर्श": 0,
@@ -561,30 +559,30 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "For Researcher": 3,
-   "For Media": 3,
-   "For IT Professional": 3,
-   "For Business Owner": 3,
-   "Key Offerings": 0,
-   "Archives": 1,
-   "Website Policies": 1,
-   "Related Links": 1,
-   "Sitemap": 1,
+   "For Researcher": 4,
+   "For Media": 4,
+   "For IT Professional": 4,
+   "For Business Owner": 4,
+   "Key Offerings": 1,
+   "Archives": 0,
+   "Website Policies": 0,
+   "Related Links": 0,
+   "Sitemap": 0,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
-   "Subscribe for Updates": 1,
+   "Subscribe for Updates": 0,
    "Submit": 0,
    "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)": 0,
    "Rate this translation": 0,
-   "Feedback": 1,
-   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 1,
-   "Help": 1,
-   "Useful Links": 1,
-   "Ministry of Electronics and Information Technology": 3,
-   "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.": 3,
-   "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.": 3,
-   "Government of India": 3
+   "Feedback": 0,
+   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 0,
+   "Help": 0,
+   "Useful Links": 0,
+   "Ministry of Electronics and Information Technology": 4,
+   "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.": 4,
+   "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.": 4,
+   "Government of India": 4
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -649,10 +647,10 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 3,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 3,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 3,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 3
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 4,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 4,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 4,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 4
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-07-08T03:31:40Z",
