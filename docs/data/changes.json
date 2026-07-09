@@ -1,5 +1,69 @@
 [
  {
+  "id": "d0f2950d5867",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-09T09:56:25Z",
+  "summary": "1 new link, 3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Retirement of Shri Rajendra Mathur Executive Engineer Civil P and T Building Works Civil Group A Service on attaining the age of superannuation as on 30 June 2026",
+   "Leveraging IndiaAI Mission and IndiaAI Impact for AI Solution Mapping Summit by DoT"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf",
+    "text": "WSIS Prize 2026- Live Webcast arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "587c34d18c0c",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-09T09:56:25Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "9th July 2026",
+   "TRAI Assesses Mobile Network Quality across Barmer, Balotra, Pachpadra city and adjoining areas (in Rajasthan LSA)",
+   "9 July, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-barmer-balotra-pachpadra",
+    "text": "TRAI Assesses Mobile Network Quality across Barmer, Balotra, Pachpadra city and adjoining areas (in Rajasthan LSA)"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-barmer-balotra-pachpadra",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "4118f8e638ed",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-09T09:56:25Z",
+  "summary": "1 new text block, 1 item no longer on page",
+  "added_lines": [
+   "09 जुलाई 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "07 जुलाई 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "1eef8004e775",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
