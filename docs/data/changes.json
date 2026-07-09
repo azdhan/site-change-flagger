@@ -1,5 +1,26 @@
 [
  {
+  "id": "251b0809efb7",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-09T15:32:11Z",
+  "summary": "11 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "For Researcher",
+   "For Media",
+   "For IT Professional",
+   "For Business Owner",
+   "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.",
+   "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.",
+   "Government of India"
+  ],
+  "removed_lines_total": 11,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d0f2950d5867",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
