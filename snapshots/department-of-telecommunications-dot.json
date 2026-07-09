@@ -151,15 +151,17 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद करें",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 09.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -424,27 +426,27 @@
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://dot.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://dot.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://dot.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://dot.gov.in/help",
-   "text": "Help"
+   "text": "मदद करें"
   },
   {
    "url": "https://dot.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://x.com/DoT_India",
@@ -472,7 +474,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-09T15:32:11Z",
+ "fetched_at": "2026-07-09T20:01:59Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -600,7 +602,7 @@
    "एच. एम. ओ. सी. का पता नोटः जून 2026 संस्करण": 0,
    "भारत संचार निगम लिमिटेड के अध्यक्ष और प्रबंध निदेशक (सीएमडी) के पद पर नियुक्ति": 0,
    "दूरसंचार (प्रशासनिक प्रक्रिया द्वारा स्पेक्ट्रम असाइनमेंट) नियम, 2026 का मसौदा": 0,
-   "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026": 2,
+   "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026": 3,
    "हाल के दस्तावेज़": 0,
    "आदेश और सूचनाएँ": 0,
    "आई. टी. एस. जी. आर. ए.-श्री सुनील भादु, कर्मचारी संख्या 21216 के अधिकारियों का स्थानांतरण और नियुक्ति": 0,
@@ -644,13 +646,11 @@
    "Submit": 0,
    "Recent Documents": 0,
    "Revenue Management Services": 0,
-   "Order dated 07-07-2026 reg Transfer & Posting of officers of ITS Gr A": 7,
    "PM-WANI- Telecom eServices Portal": 0,
    "Explore User Personas": 0,
    "Telecom eServices Portal": 0,
    "Call Before u Dig": 0,
    "Important Links": 0,
-   "Transfer & Posting of officers of ITS Gr A- Shri Sunil Bhadu, Staff no 21216": 7,
    "View more": 0,
    "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
@@ -677,14 +677,14 @@
    "Key Offerings": 0,
    "अंतिम बार अद्यतन किया गयाः 08.07.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति": 0,
-   "Transfers / Postings in the Junior Administrative Grade and below level of Indian Posts and Telecommunications Accounts and Finance Service, Group ‘A’": 2,
-   "Extension of administrative frequency assignment dated 08.07.2026": 2,
-   "Voluntary Retirement from Govt Service – Smt Ayesha Siddiqui, ITS, Staff No 20777, presently PGM, Kolkata BA, WB Telecom Circle": 1,
-   "Appointment of Shri Ashish Kumar, ITS, Staff No 21141 as Joint Advisor in TRAI HQ on deputation basis": 1,
+   "Transfers / Postings in the Junior Administrative Grade and below level of Indian Posts and Telecommunications Accounts and Finance Service, Group ‘A’": 3,
+   "Extension of administrative frequency assignment dated 08.07.2026": 3,
+   "Voluntary Retirement from Govt Service – Smt Ayesha Siddiqui, ITS, Staff No 20777, presently PGM, Kolkata BA, WB Telecom Circle": 2,
+   "Appointment of Shri Ashish Kumar, ITS, Staff No 21141 as Joint Advisor in TRAI HQ on deputation basis": 2,
    "दूरसंचार की राजपत्र अधिसूचना (रेडियो उपकरण अधिकार प्राधिकरण) नियम, 2026": 0,
    "Gazette Notification of Telecommunications (Radio Equipment Possession Authorisation) Rules, 2026": 0,
    "प्रेस विज्ञप्ति": 0,
-   "TEC, the technical arm of DoT, signs MoU with BECIL to Strengthen India’s Telecom and Broadcasting Ecosystem": 1,
+   "TEC, the technical arm of DoT, signs MoU with BECIL to Strengthen India’s Telecom and Broadcasting Ecosystem": 2,
    "श्री आशीष कुमार, आईटीएस, कर्मचारी संख्या 21141 की प्रतिनियुक्ति के आधार पर ट्राई मुख्यालय में संयुक्त सलाहकार के रूप में नियुक्ति": 0,
    "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट": 0,
    "सरकारी सेवा से स्वैच्छिक सेवानिवृत्ति-श्रीमती आयशा सिद्दीकी, आईटीएस, कर्मचारी संख्या 20777, वर्तमान में पीजीएम, कोलकाता बीए, डब्ल्यूबी टेलीकॉम सर्कल": 0,
@@ -745,7 +745,7 @@
    "https://www.dot.gov.in/static/uploads/2026/07/d525c474cf9de89412f90c3e182b3b41.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/06/5db86357f974a43f3a4144afb6890f6a.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/06/3acc4e7aeb2bdff7c3ae6a9429150734.pdf": 0,
-   "https://www.dot.gov.in/static/uploads/2026/06/d44ff2aec0505d538d9f3d51eba88936.pdf": 2,
+   "https://www.dot.gov.in/static/uploads/2026/06/d44ff2aec0505d538d9f3d51eba88936.pdf": 3,
    "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
@@ -776,7 +776,7 @@
    "https://www.instagram.com/department_of_telecom/": 0,
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
-   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 6,
+   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 7,
    "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf": 0
   },
   "grave_lines": {
@@ -796,7 +796,9 @@
    "View this post on Instagram": "2026-07-08T08:42:59Z",
    "A post shared by DoT_India (Department of Telecommunications) (@department_of_telecom)": "2026-07-08T08:42:59Z",
    "Retirement of Shri Rajendra Mathur Executive Engineer Civil P and T Building Works Civil Group A Service on attaining the age of superannuation as on 30 June 2026": "2026-07-09T09:56:25Z",
-   "Leveraging IndiaAI Mission and IndiaAI Impact for AI Solution Mapping Summit by DoT": "2026-07-09T09:56:25Z"
+   "Leveraging IndiaAI Mission and IndiaAI Impact for AI Solution Mapping Summit by DoT": "2026-07-09T09:56:25Z",
+   "Order dated 07-07-2026 reg Transfer & Posting of officers of ITS Gr A": "2026-07-09T20:01:59Z",
+   "Transfer & Posting of officers of ITS Gr A- Shri Sunil Bhadu, Staff no 21216": "2026-07-09T20:01:59Z"
   },
   "grave_links": {
    "https://dot.gov.in/documents/orders-and-notices/leveraging-indiaai-mission-and-indiaai-impact-for-ai-solution-mapping-summit-by-dot-UjN2YzNtQWa?pageTitle=Leveraging-IndiaAI-Mission-and-IndiaAI-Impact-for-AI-Solution-Mapping-Summit-by-DoT": "2026-07-09T09:56:25Z"

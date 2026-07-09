@@ -1,5 +1,34 @@
 [
  {
+  "id": "8c287ad08a5e",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-09T20:01:59Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Order dated 07-07-2026 reg Transfer & Posting of officers of ITS Gr A",
+   "Transfer & Posting of officers of ITS Gr A- Shri Sunil Bhadu, Staff no 21216"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "0c263884300e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-09T20:01:59Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "251b0809efb7",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
