@@ -1,5 +1,21 @@
 [
  {
+  "id": "0e712ae68050",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-10T22:14:34Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Explore What's new",
+   "Section 69A of IT Act"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "81929237be1d",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

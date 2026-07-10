@@ -122,29 +122,30 @@
   "HMoC’s Address note: June 2026 Edition",
   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited",
   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026",
-  "Recent Documents",
-  "Selection of Shri Sahil Garg, Junior Administrative Grade (JAG) officer of Indian Posts and Telecommunications Accounts and Finance Service (IP&TAFS), as Director (Finance), Delhi Development Authority (DDA) —regarding",
-  "Phones Priority (PHP) Telephone Advisory Committee (TACs)",
-  "Department of Telecommunications' Samriddh Gram Wins WSIS Prize 2026 under Action Line C6 – Enabling Environment",
-  "Appointment of Shri Vineet Malik, ITS (Staff No. 21390) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg.",
-  "Explore User Personas",
-  "FOR MEDIA",
+  "हाल के दस्तावेज़",
+  "आदेश और सूचनाएँ",
+  "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा (आई. पी. और टी. ए. एफ. एस.) के कनिष्ठ प्रशासनिक ग्रेड (जे. ए. जी.) अधिकारी श्री साहिल गर्ग का दिल्ली विकास प्राधिकरण (डी. डी. ए.) के निदेशक (वित्त) के रूप में चयन-संबंधित",
+  "फोन प्राथमिकता (पी. एच. पी) टेलीफोन सलाहकार समिति (टी. ए. सी.)",
+  "प्रेस विज्ञप्ति",
+  "दूरसंचार विभाग के समृद्ध ग्राम ने एक्शन लाइन सी6-एनेबलिंग एनवायरनमेंट के तहत डब्ल्यूएसआईएस पुरस्कार 2026 जीता",
+  "श्री विनीत मलिक, आई. टी. एस. (कर्मचारी संख्या 21290) की प्रतिनियुक्ति के आधार पर भारतीय केंद्रीय ब्यूरो (सी. बी. आई.) में पुलिस अधीक्षक के रूप में नियुक्ति।",
+  "अधिक देखें",
+  "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
+  "मीडिया के लिए",
   "For Industry Professional",
   "For Researcher",
   "For IT Professional",
-  "Important Links",
-  "MTCTE Portal",
-  "Telecom eServices Portal",
-  "Call Before u Dig",
-  "PM-WANI- Telecom eServices Portal",
-  "Revenue Management Services",
+  "महत्वपूर्ण लिंक",
+  "एम. टी. सी. टी. ई. पोर्टल",
+  "खोदने से पहले कॉल करें",
+  "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
+  "राजस्व प्रबंधन सेवाएँ",
   "Right Of Way -Telecom eServices Portal",
   "सोशल मीडिया में",
   "एक्स",
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -356,11 +357,11 @@
   },
   {
    "url": "https://dot.gov.in/documents/orders-and-notices/phones-priorityphp-telephone-advisory-committeetacs-ETN0EzNtQWa?pageTitle=Phones-Priority-(PHP)-Telephone-Advisory-Committee-(TACs)",
-   "text": "Orders and Notices Phones Priority (PHP) Telephone Advisory Committee (TACs)"
+   "text": "आदेश और सूचनाएँ फोन प्राथमिकता (पी. एच. पी) टेलीफोन सलाहकार समिति (टी. ए. सी.)"
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
-   "text": "FOR MEDIA"
+   "text": "मीडिया के लिए"
   },
   {
    "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
@@ -376,23 +377,23 @@
   },
   {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
-   "text": "MTCTE Portal arrow_forward_ios"
+   "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in",
-   "text": "Telecom eServices Portal arrow_forward_ios"
+   "text": "दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/call-before-u-dig",
-   "text": "Call Before u Dig arrow_forward_ios"
+   "text": "खोदने से पहले कॉल करें arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/app-provider",
-   "text": "PM-WANI- Telecom eServices Portal arrow_forward_ios"
+   "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/about-mtcte",
-   "text": "Revenue Management Services arrow_forward_ios"
+   "text": "राजस्व प्रबंधन सेवाएँ arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/right-of-way-permissions",
@@ -400,7 +401,7 @@
   },
   {
    "url": "https://dot.gov.in/important-links",
-   "text": "View more chevron_right"
+   "text": "अधिक देखें chevron_right"
   },
   {
    "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
@@ -476,7 +477,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-10T19:49:17Z",
+ "fetched_at": "2026-07-10T22:14:34Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -620,7 +621,7 @@
    "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल": 0,
    "राजस्व प्रबंधन सेवाएँ": 0,
    "राइट ऑफ वे-टेलीकॉम ई-सर्विसेज पोर्टल": 0,
-   "IPR Filed by DoT Officers": 4,
+   "IPR Filed by DoT Officers": 5,
    "सोशल मीडिया में": 0,
    "एक्स": 0,
    "यूट्यूब": 0,
@@ -645,19 +646,19 @@
    "Rate this translation": 0,
    "Do you like to give feedback": 0,
    "Submit": 0,
-   "Recent Documents": 0,
-   "Revenue Management Services": 0,
-   "PM-WANI- Telecom eServices Portal": 0,
-   "Explore User Personas": 0,
-   "Telecom eServices Portal": 0,
-   "Call Before u Dig": 0,
-   "Important Links": 0,
+   "Recent Documents": 1,
+   "Revenue Management Services": 1,
+   "PM-WANI- Telecom eServices Portal": 1,
+   "Explore User Personas": 1,
+   "Telecom eServices Portal": 1,
+   "Call Before u Dig": 1,
+   "Important Links": 1,
    "View more": 0,
-   "FOR MEDIA": 0,
+   "FOR MEDIA": 1,
    "Right Of Way -Telecom eServices Portal": 0,
-   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
-   "Help": 0,
-   "Feedback": 0,
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 1,
+   "Help": 1,
+   "Feedback": 1,
    "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 0,
    "HMoC’s Address note: June 2026 Edition": 0,
    "Two Days Training Programme on 'MoDSI' and 'Guidelines on Information Security Practices for Government Entities' by NCA-T from 16.07.2026 to 17.07.2026": 0,
@@ -665,21 +666,21 @@
    "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 0,
    "इस पोस्ट को इंस्टाग्राम पर देखें": 0,
    "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)": 0,
-   "Useful Links": 0,
+   "Useful Links": 1,
    "Production Linked Incentive (PLI) scheme": 0,
-   "Website Policies": 0,
-   "Sitemap": 0,
+   "Website Policies": 1,
+   "Sitemap": 1,
    "Technology Development & Investment Promotion (TDIP) Scheme": 0,
-   "Archives": 0,
-   "Subscribe for Updates": 0,
+   "Archives": 1,
+   "Subscribe for Updates": 1,
    "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 0,
    "Public Procurement-Preference to Make in India": 0,
-   "Related Links": 0,
+   "Related Links": 1,
    "Key Offerings": 0,
    "अंतिम बार अद्यतन किया गयाः 08.07.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति": 0,
    "दूरसंचार की राजपत्र अधिसूचना (रेडियो उपकरण अधिकार प्राधिकरण) नियम, 2026": 0,
-   "Gazette Notification of Telecommunications (Radio Equipment Possession Authorisation) Rules, 2026": 4,
+   "Gazette Notification of Telecommunications (Radio Equipment Possession Authorisation) Rules, 2026": 5,
    "प्रेस विज्ञप्ति": 0,
    "श्री आशीष कुमार, आईटीएस, कर्मचारी संख्या 21141 की प्रतिनियुक्ति के आधार पर ट्राई मुख्यालय में संयुक्त सलाहकार के रूप में नियुक्ति": 0,
    "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट": 0,
@@ -688,21 +689,22 @@
    "राजपत्र अधिसूचनाएँ": 0,
    "डीओटी की तकनीकी शाखा टीईसी ने भारत के दूरसंचार और प्रसारण पारिस्थितिकी तंत्र को मजबूत करने के लिए बीईसीआईएल के साथ समझौता ज्ञापन पर हस्ताक्षर किए": 0,
    "WSIS Prize 2026- Live Webcast": 0,
-   "Department of Telecommunications' Samriddh Gram Wins WSIS Prize 2026 under Action Line C6 – Enabling Environment": 0,
+   "Department of Telecommunications' Samriddh Gram Wins WSIS Prize 2026 under Action Line C6 – Enabling Environment": 1,
    "श्री आशीष चुघ, आई. टी. एस. (कर्मचारी संख्या 212160) की प्रतिनियुक्ति के आधार पर भारतीय केंद्रीय ब्यूरो (सी. बी. आई.) में पुलिस अधीक्षक के रूप में नियुक्ति।": 0,
    "श्री विनीत मलिक, आई. टी. एस. (कर्मचारी संख्या 21290) की प्रतिनियुक्ति के आधार पर भारतीय केंद्रीय ब्यूरो (सी. बी. आई.) में पुलिस अधीक्षक के रूप में नियुक्ति।": 0,
    "दूरसंचार विभाग के समृद्ध ग्राम ने एक्शन लाइन सी6-एनेबलिंग एनवायरनमेंट के तहत डब्ल्यूएसआईएस पुरस्कार 2026 जीता": 0,
-   "Appointment of Shri Ashish Chugh, ITS (Staff No. 21360) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg.": 3,
-   "Appointment of Shri Vineet Malik, ITS (Staff No. 21390) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg.": 0,
+   "Appointment of Shri Ashish Chugh, ITS (Staff No. 21360) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg.": 4,
+   "Appointment of Shri Vineet Malik, ITS (Staff No. 21390) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg.": 1,
    "अंतिम बार अद्यतन किया गयाः 10.07.2026": 0,
    "फोन प्राथमिकता (पी. एच. पी) टेलीफोन सलाहकार समिति (टी. ए. सी.)": 0,
-   "Phones Priority (PHP) Telephone Advisory Committee (TACs)": 0,
-   "MTCTE Portal": 0,
+   "Phones Priority (PHP) Telephone Advisory Committee (TACs)": 1,
+   "MTCTE Portal": 1,
    "एम. टी. सी. टी. ई. पोर्टल": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा (आई. पी. और टी. ए. एफ. एस.) के कनिष्ठ प्रशासनिक ग्रेड (जे. ए. जी.) अधिकारी श्री साहिल गर्ग का दिल्ली विकास प्राधिकरण (डी. डी. ए.) के निदेशक (वित्त) के रूप में चयन-संबंधित": 0,
-   "Selection of Shri Sahil Garg, Junior Administrative Grade (JAG) officer of Indian Posts and Telecommunications Accounts and Finance Service (IP&TAFS), as Director (Finance), Delhi Development Authority (DDA) —regarding": 0,
+   "Selection of Shri Sahil Garg, Junior Administrative Grade (JAG) officer of Indian Posts and Telecommunications Accounts and Finance Service (IP&TAFS), as Director (Finance), Delhi Development Authority (DDA) —regarding": 1,
    "एन. सी. ए.-टी. द्वारा 'एम. ओ. डी. एस. आई.' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम 16.07.2026 से 17.07.2026 तक": 0,
-   "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट": 0
+   "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट": 0,
+   "एन. सी. ए.-टी. द्वारा 'एम. ओ. डी. एस. आई.' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम 16.07.2026 से 17.07.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -760,7 +762,7 @@
    "https://eservices.dot.gov.in/app-provider": 0,
    "https://eservices.dot.gov.in/about-mtcte": 0,
    "https://eservices.dot.gov.in/right-of-way-permissions": 0,
-   "https://services.eoffice.gov.in/IPRSTATUS/DoT/IPRFiledSearch": 4,
+   "https://services.eoffice.gov.in/IPRSTATUS/DoT/IPRFiledSearch": 5,
    "https://dot.gov.in/important-links": 0,
    "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/DaPTbq-keC6/?utm_source=ig_embed&utm_campaign=loading": 0,
@@ -783,7 +785,7 @@
    "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf": 0,
    "https://dot.gov.in/documents/orders-and-notices/phones-priorityphp-telephone-advisory-committeetacs-ETN0EzNtQWa?pageTitle=Phones-Priority-(PHP)-Telephone-Advisory-Committee-(TACs)": 0,
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
-   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 0
+   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 1
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-07T19:59:58Z",
