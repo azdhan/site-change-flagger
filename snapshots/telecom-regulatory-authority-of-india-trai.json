@@ -193,13 +193,13 @@
   "TRAI Assesses Mobile Network Quality across Bharuch city and nearby areas (in Gujarat LSA)",
   "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA.",
   "2nd July 2026",
+  "TRAI Assesses Mobile Network Quality Across in Hyderabad city.",
   "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA.",
   "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc..",
   "TRAI Assesses Mobile Network Quality Across Highway & Railway Route- Hindupur to Hyderabad etc.",
-  "TRAI Assesses Mobile Network Quality Across in Hyderabad city.",
   "1st July 2026",
+  "TRAI Assesses Mobile Network Quality Across in Satara District and Highway Drive from Pune to Satara, Maharashtra LSA.",
   "TRAI Assessed Mobile Network Quality Across in North Delhi and nearby areas.",
-  "TRAI Assesses Mobile Network Quality Across in Udupi District, Karnataka LSA.",
   "On-going Consultation",
   "No Open Consultation",
   "Events",
@@ -918,6 +918,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-hyderabad-city",
+   "text": "TRAI Assesses Mobile Network Quality Across in Hyderabad city."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-hyderabad-city",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati",
    "text": "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA."
   },
@@ -942,11 +950,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-hyderabad-city",
-   "text": "TRAI Assesses Mobile Network Quality Across in Hyderabad city."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway",
+   "text": "TRAI Assesses Mobile Network Quality Across in Satara District and Highway Drive from Pune to Satara, Maharashtra LSA."
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-hyderabad-city",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway",
    "text": "Explore"
   },
   {
@@ -955,14 +963,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-north-delhi-and-nearby",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-udupi-district-karnataka",
-   "text": "TRAI Assesses Mobile Network Quality Across in Udupi District, Karnataka LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-udupi-district-karnataka",
    "text": "Explore"
   },
   {
@@ -1211,7 +1211,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-09T22:42:37Z",
+ "fetched_at": "2026-07-10T04:10:35Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1411,19 +1411,19 @@
    "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA.": 0,
    "1st July 2026": 0,
    "TRAI Assessed Mobile Network Quality Across in North Delhi and nearby areas.": 0,
-   "TRAI Assesses Mobile Network Quality Across in Udupi District, Karnataka LSA.": 0,
-   "TRAI Assesses Mobile Network Quality Across in Satara District and Highway Drive from Pune to Satara, Maharashtra LSA.": 2,
+   "TRAI Assesses Mobile Network Quality Across in Udupi District, Karnataka LSA.": 1,
+   "TRAI Assesses Mobile Network Quality Across in Satara District and Highway Drive from Pune to Satara, Maharashtra LSA.": 0,
    "On-going Consultation": 0,
    "No Open Consultation": 0,
    "Events": 0,
-   "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": 4,
+   "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": 5,
    "Date :": 0,
    "Time :": 0,
    "11:00 AM": 0,
    "Location :": 0,
-   "Panchmahal, Gujarat": 4,
-   "Consumer Awareness Program at Sector 35 (Chandigarh) by Citizens Awarness Group Chandigarh": 4,
-   "Chandigarh , Chandigarh": 4,
+   "Panchmahal, Gujarat": 5,
+   "Consumer Awareness Program at Sector 35 (Chandigarh) by Citizens Awarness Group Chandigarh": 5,
+   "Chandigarh , Chandigarh": 5,
    "Consumer Awareness Programm at Balrampur (CG) by USASF-Raipur(CG)": 0,
    "Balrampur, Chhattisgarh": 0,
    "Consumer Awareness Program at Sheohar (Bihar) by IITED": 0,
@@ -1527,7 +1527,7 @@
    "S. Ganesh - Dy. Advisor (IT)": 0,
    "Website Content Owned and Managed by Telecom Regulatory Authority of India, GOI Designed & Developed by TRAI": 0,
    "Copyright © 2024 TRAI. All rights reserved": 0,
-   "7 July, 2026": 4,
+   "7 July, 2026": 5,
    "Consultation Papers": 0,
    "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)": 0,
    "Dindigul, Tamil Nadu": 0,
@@ -1695,14 +1695,14 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-north-delhi-and-nearby": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-north-delhi-and-nearby": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-udupi-district-karnataka": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-udupi-district-karnataka": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": 2,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-udupi-district-karnataka": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-udupi-district-karnataka": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": 0,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": 0,
    "https://www.trai.gov.in/open-consultation": 0,
    "https://www.trai.gov.in/events": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-surendranagar-gujarat-jhalod-taluka-grahak-surksha": 4,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sector-35-chandigarh-citizens-awarness-group-chandigarh": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-surendranagar-gujarat-jhalod-taluka-grahak-surksha": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sector-35-chandigarh-citizens-awarness-group-chandigarh": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-balrampur-cg-usasf-raipurcg": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sheohar-bihar-iited": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": 0,

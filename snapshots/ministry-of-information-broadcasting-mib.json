@@ -608,7 +608,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-09T22:42:37Z",
+ "fetched_at": "2026-07-10T04:10:35Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -779,7 +779,7 @@
    "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है": 0,
    "अपडेट के लिए सदस्यता लें": 0,
    "अंतिम अद्यतन:": 0,
-   "08 जुलाई 2026": 4,
+   "08 जुलाई 2026": 5,
    "09 जुलाई 2026": 0
   },
   "links": {
@@ -891,19 +891,20 @@
    "https://www.facebook.com/inbministry": 0,
    "https://www.instagram.com/mib_india/": 0,
    "https://www.india.gov.in/": 0,
-   "https://www.mygov.in/": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 7,
-   "https://mib.gov.in/index.php/hi/feedback": 7,
-   "https://mib.gov.in/index.php/hi/sitemap": 7,
-   "https://mib.gov.in/index.php/hi/related-link": 7,
-   "https://mib.gov.in/index.php/hi/website-policy": 7,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 7,
-   "https://mib.gov.in/index.php/hi/archives": 7,
-   "https://mib.gov.in/index.php/hi/help": 7
+   "https://www.mygov.in/": 0
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z"
   },
-  "grave_links": {}
+  "grave_links": {
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-07-10T04:10:35Z",
+   "https://mib.gov.in/index.php/hi/feedback": "2026-07-10T04:10:35Z",
+   "https://mib.gov.in/index.php/hi/sitemap": "2026-07-10T04:10:35Z",
+   "https://mib.gov.in/index.php/hi/related-link": "2026-07-10T04:10:35Z",
+   "https://mib.gov.in/index.php/hi/website-policy": "2026-07-10T04:10:35Z",
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-07-10T04:10:35Z",
+   "https://mib.gov.in/index.php/hi/archives": "2026-07-10T04:10:35Z",
+   "https://mib.gov.in/index.php/hi/help": "2026-07-10T04:10:35Z"
+  }
  }
 }
