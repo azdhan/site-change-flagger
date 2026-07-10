@@ -133,17 +133,15 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "उपयोगी लिंक",
-  "अभिलेखागार",
-  "वेबसाइट नीतियाँ",
-  "संबंधित लिंक",
-  "साइटमैप",
-  "मदद",
-  "हमसे संपर्क करें",
-  "फीडबैक",
-  "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
-  "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 10.07.2026",
+  "Useful Links",
+  "Archives",
+  "Website Policies",
+  "Related Links",
+  "Sitemap",
+  "Help",
+  "Feedback",
+  "This Website belong to Ministry of Electronics and Information Technology, Government of India",
+  "Subscribe for Updates",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -343,36 +341,36 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://meity.gov.in/archives?page=tenders_post",
-   "text": "अभिलेखागार"
+   "text": "Archives"
   },
   {
    "url": "https://meity.gov.in/policies",
-   "text": "वेबसाइट नीतियाँ"
+   "text": "Website Policies"
   },
   {
    "url": "https://meity.gov.in/RelatedLinks",
-   "text": "संबंधित लिंक"
+   "text": "Related Links"
   },
   {
    "url": "https://meity.gov.in/sitemap",
-   "text": "साइटमैप"
+   "text": "Sitemap"
   },
   {
    "url": "https://meity.gov.in/help",
-   "text": "मदद"
+   "text": "Help"
   },
   {
    "url": "https://meity.gov.in/feedback",
-   "text": "फीडबैक"
+   "text": "Feedback"
   },
   {
    "url": "https://twitter.com/GoI_MeitY?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -400,7 +398,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-10T14:49:48Z",
+ "fetched_at": "2026-07-10T17:06:00Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -561,41 +559,41 @@
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
    "Key Offerings": 0,
-   "Archives": 1,
-   "Website Policies": 1,
-   "Related Links": 1,
-   "Sitemap": 1,
+   "Archives": 0,
+   "Website Policies": 0,
+   "Related Links": 0,
+   "Sitemap": 0,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
-   "Subscribe for Updates": 1,
+   "Subscribe for Updates": 0,
    "Submit": 0,
    "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)": 0,
    "Rate this translation": 0,
-   "Feedback": 1,
-   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 1,
-   "Help": 1,
-   "Useful Links": 1,
-   "View Event": 6,
-   "SEMICON India 2025": 6,
-   "Important Links": 6,
-   "Public Grievances": 6,
-   "Explore User Personas": 6,
-   "Explore What's new": 5,
-   "Interested in Applying for Tender?": 6,
-   "MeitY Dashboard": 6,
+   "Feedback": 0,
+   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 0,
+   "Help": 0,
+   "Useful Links": 0,
+   "View Event": 7,
+   "SEMICON India 2025": 7,
+   "Important Links": 7,
+   "Public Grievances": 7,
+   "Explore User Personas": 7,
+   "Explore What's new": 6,
+   "Interested in Applying for Tender?": 7,
+   "MeitY Dashboard": 7,
    "अंतिम बार अद्यतन किया गयाः 09.07.2026": 0,
-   "Report on Estimation and Measurement of India's Digital Economy": 5,
-   "Filling up the post of Chairman & Members in the Data Protection Board of India (DPBI)": 5,
-   "Section 69A of IT Act": 5,
-   "Announcements": 5,
-   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions issued by the Ministry, synthetically generated information and digital media oversight": 5,
-   "Ten Years of Digital Progress - Building an Inclusive and Future-Ready India": 5,
-   "Delegation of Financial Power of ICERT": 4,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 4,
-   "Recent Documents": 4,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": 4,
-   "Archive - Delegation of Powers": 4,
+   "Report on Estimation and Measurement of India's Digital Economy": 6,
+   "Filling up the post of Chairman & Members in the Data Protection Board of India (DPBI)": 6,
+   "Section 69A of IT Act": 6,
+   "Announcements": 6,
+   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions issued by the Ministry, synthetically generated information and digital media oversight": 6,
+   "Ten Years of Digital Progress - Building an Inclusive and Future-Ready India": 6,
+   "Delegation of Financial Power of ICERT": 5,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 5,
+   "Recent Documents": 5,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": 5,
+   "Archive - Delegation of Powers": 5,
    "अंतिम बार अद्यतन किया गयाः 10.07.2026": 0
   },
   "links": {
@@ -661,7 +659,7 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 4
+   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 5
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-07-09T15:32:11Z",

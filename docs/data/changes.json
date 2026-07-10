@@ -1,5 +1,56 @@
 [
  {
+  "id": "4391ca45eb46",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-10T17:06:00Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026",
+   "Transfers / Postings in the Junior Administrative Grade and below level of Indian Posts and Telecommunications Accounts and Finance Service, Group ‘A’",
+   "Extension of administrative frequency assignment dated 08.07.2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "2e0ff1b2dd21",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-10T17:06:00Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal",
+   "Panchmahal, Gujarat",
+   "Consumer Awareness Program at Sector 35 (Chandigarh) by Citizens Awarness Group Chandigarh",
+   "Chandigarh , Chandigarh",
+   "7 July, 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "2dcc11cd1a9c",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-10T17:06:00Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "08 जुलाई 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "b3fd164387e5",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
