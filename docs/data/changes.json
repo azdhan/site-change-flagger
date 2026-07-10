@@ -1,5 +1,88 @@
 [
  {
+  "id": "c41a739dd7c8",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-10T09:51:46Z",
+  "summary": "2 new links, 1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 10.07.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/phones-priorityphp-telephone-advisory-committeetacs-ETN0EzNtQWa?pageTitle=Phones-Priority-(PHP)-Telephone-Advisory-Committee-(TACs)",
+    "text": "Orders and Notices Phones Priority (PHP) Telephone Advisory Committee (TACs)"
+   },
+   {
+    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
+    "text": "MTCTE Portal arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "84c2a0e0a447",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-10T09:51:46Z",
+  "summary": "4 new links, 7 new text blocks",
+  "added_lines": [
+   "10th July 2026",
+   "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)",
+   "Consumer Outreach Programme at Leh (Ladakh) by TRAI Regional Office, Delhi",
+   "10:30 AM",
+   "Leh, Ladakh",
+   "10:00 AM",
+   "10 July, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
+    "text": "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)"
+   },
+   {
+    "url": "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-programme-leh-ladakh-trai-regional-office-delhi",
+    "text": "Consumer Outreach Programme at Leh (Ladakh) by TRAI Regional Office, Delhi"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-programme-leh-ladakh-trai-regional-office-delhi-0",
+    "text": "Consumer Outreach Programme at Leh (Ladakh) by TRAI Regional Office, Delhi"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "8f888e0ebd3e",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-10T09:51:46Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "एनएफडीसी-एनएफएआई के अभिलेखीय संरक्षण से मलयालम क्लासिक फिल्म \"किरीदम\" 4के वर्जन में बड़े पर्दे पर वापस आई",
+   "10 जुलाई 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282837&reg=3&lang=2",
+    "text": "एनएफडीसी-एनएफएआई के अभिलेखीय संरक्षण से मलयालम क्लासिक फिल्म \"किरीदम\" 4के वर्जन में बड़े पर्दे पर वापस आई"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "572a79bccef6",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
