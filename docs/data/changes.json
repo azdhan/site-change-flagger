@@ -1,5 +1,43 @@
 [
  {
+  "id": "81929237be1d",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-10T19:49:17Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Voluntary Retirement from Govt Service – Smt Ayesha Siddiqui, ITS, Staff No 20777, presently PGM, Kolkata BA, WB Telecom Circle",
+   "Appointment of Shri Ashish Kumar, ITS, Staff No 21141 as Joint Advisor in TRAI HQ on deputation basis",
+   "TEC, the technical arm of DoT, signs MoU with BECIL to Strengthen India’s Telecom and Broadcasting Ecosystem"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "284cc0972328",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-10T19:49:17Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "View Event",
+   "SEMICON India 2025",
+   "Important Links",
+   "Public Grievances",
+   "Explore User Personas",
+   "Interested in Applying for Tender?",
+   "MeitY Dashboard"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "4391ca45eb46",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
