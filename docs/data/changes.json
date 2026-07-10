@@ -1,5 +1,29 @@
 [
  {
+  "id": "b3fd164387e5",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-10T14:49:48Z",
+  "summary": "2 new links, 1 new text block",
+  "added_lines": [
+   "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600",
+    "text": "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "c41a739dd7c8",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
