@@ -1,5 +1,36 @@
 [
  {
+  "id": "71fc47d09793",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-11T13:49:35Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Appointment of Shri Ashish Chugh, ITS (Staff No. 21360) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg."
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "559788c6acf8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-11T13:49:35Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "1st July 2026",
+   "TRAI Assesses Mobile Network Quality Across in Satara District and Highway Drive from Pune to Satara, Maharashtra LSA."
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "ea8a2234cd5f",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

@@ -1211,7 +1211,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-11T10:32:37Z",
+ "fetched_at": "2026-07-11T13:49:35Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1409,8 +1409,6 @@
    "TRAI Assesses Mobile Network Quality Across Highway & Railway Route- Hindupur to Hyderabad etc.": 0,
    "TRAI Assesses Mobile Network Quality Across in Hyderabad city.": 0,
    "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA.": 0,
-   "1st July 2026": 7,
-   "TRAI Assesses Mobile Network Quality Across in Satara District and Highway Drive from Pune to Satara, Maharashtra LSA.": 7,
    "On-going Consultation": 0,
    "No Open Consultation": 0,
    "Events": 0,
@@ -1418,8 +1416,8 @@
    "Time :": 0,
    "11:00 AM": 0,
    "Location :": 0,
-   "Consumer Awareness Program at Sheohar (Bihar) by IITED": 1,
-   "Sheohar, Bihar": 1,
+   "Consumer Awareness Program at Sheohar (Bihar) by IITED": 2,
+   "Sheohar, Bihar": 2,
    "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)": 0,
    "Mayiladuthurai, Tamil Nadu": 0,
    "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT": 0,
@@ -1691,11 +1689,9 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-hyderabad-city": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": 7,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": 7,
    "https://www.trai.gov.in/open-consultation": 0,
    "https://www.trai.gov.in/events": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sheohar-bihar-iited": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sheohar-bihar-iited": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild": 0,
@@ -1773,7 +1769,9 @@
    "TRAI Assessed Mobile Network Quality Across in North Delhi and nearby areas.": "2026-07-11T10:32:37Z",
    "Consumer Awareness Programm at Balrampur (CG) by USASF-Raipur(CG)": "2026-07-11T10:32:37Z",
    "Balrampur, Chhattisgarh": "2026-07-11T10:32:37Z",
-   "9 July, 2026": "2026-07-11T10:32:37Z"
+   "9 July, 2026": "2026-07-11T10:32:37Z",
+   "1st July 2026": "2026-07-11T13:49:35Z",
+   "TRAI Assesses Mobile Network Quality Across in Satara District and Highway Drive from Pune to Satara, Maharashtra LSA.": "2026-07-11T13:49:35Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/sites/default/files/2024-10/PR_No.54of2019.pdf": "2026-07-09T20:01:59Z",
@@ -1783,7 +1781,9 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-udupi-district-karnataka": "2026-07-11T08:12:06Z",
    "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-north-delhi-and-nearby": "2026-07-11T10:32:37Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-north-delhi-and-nearby": "2026-07-11T10:32:37Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-balrampur-cg-usasf-raipurcg": "2026-07-11T10:32:37Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-balrampur-cg-usasf-raipurcg": "2026-07-11T10:32:37Z",
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": "2026-07-11T13:49:35Z",
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": "2026-07-11T13:49:35Z"
   }
  }
 }
