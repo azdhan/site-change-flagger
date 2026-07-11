@@ -1,5 +1,55 @@
 [
  {
+  "id": "ea8a2234cd5f",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-11T10:32:37Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "IPR Filed by DoT Officers",
+   "Gazette Notification of Telecommunications (Radio Equipment Possession Authorisation) Rules, 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f83944ae5128",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-11T10:32:37Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI Assessed Mobile Network Quality Across in North Delhi and nearby areas.",
+   "Consumer Awareness Programm at Balrampur (CG) by USASF-Raipur(CG)",
+   "Balrampur, Chhattisgarh",
+   "9 July, 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "0a3e27a94a57",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-11T10:32:37Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "19वां मुंबई अंतर्राष्ट्रीय फिल्म महोत्सव (एमआईएफएफ 2026) डॉक्‍यूमेंट्री, शॉर्ट फिक्‍शन और एनिमेशन फिल्मों में उत्कृष्टता के साथ संपन्‍न",
+   "09 जुलाई 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "3c119c489616",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
