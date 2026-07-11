@@ -144,20 +144,21 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद करें",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 10.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -402,7 +403,7 @@
   },
   {
    "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
@@ -426,27 +427,27 @@
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://dot.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://dot.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://dot.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://dot.gov.in/help",
-   "text": "Help"
+   "text": "मदद करें"
   },
   {
    "url": "https://dot.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://x.com/DoT_India",
@@ -474,7 +475,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-11T03:37:43Z",
+ "fetched_at": "2026-07-11T08:12:06Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -618,7 +619,7 @@
    "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल": 0,
    "राजस्व प्रबंधन सेवाएँ": 0,
    "राइट ऑफ वे-टेलीकॉम ई-सर्विसेज पोर्टल": 0,
-   "IPR Filed by DoT Officers": 6,
+   "IPR Filed by DoT Officers": 7,
    "सोशल मीडिया में": 0,
    "एक्स": 0,
    "यूट्यूब": 0,
@@ -653,9 +654,9 @@
    "View more": 0,
    "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
-   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
-   "Help": 0,
-   "Feedback": 0,
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 1,
+   "Help": 1,
+   "Feedback": 1,
    "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 0,
    "HMoC’s Address note: June 2026 Edition": 0,
    "Two Days Training Programme on 'MoDSI' and 'Guidelines on Information Security Practices for Government Entities' by NCA-T from 16.07.2026 to 17.07.2026": 0,
@@ -663,21 +664,21 @@
    "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 0,
    "इस पोस्ट को इंस्टाग्राम पर देखें": 0,
    "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)": 0,
-   "Useful Links": 0,
+   "Useful Links": 1,
    "Production Linked Incentive (PLI) scheme": 0,
-   "Website Policies": 0,
-   "Sitemap": 0,
+   "Website Policies": 1,
+   "Sitemap": 1,
    "Technology Development & Investment Promotion (TDIP) Scheme": 0,
-   "Archives": 0,
-   "Subscribe for Updates": 0,
+   "Archives": 1,
+   "Subscribe for Updates": 1,
    "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 0,
    "Public Procurement-Preference to Make in India": 0,
-   "Related Links": 0,
+   "Related Links": 1,
    "Key Offerings": 0,
    "अंतिम बार अद्यतन किया गयाः 08.07.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति": 0,
    "दूरसंचार की राजपत्र अधिसूचना (रेडियो उपकरण अधिकार प्राधिकरण) नियम, 2026": 0,
-   "Gazette Notification of Telecommunications (Radio Equipment Possession Authorisation) Rules, 2026": 6,
+   "Gazette Notification of Telecommunications (Radio Equipment Possession Authorisation) Rules, 2026": 7,
    "प्रेस विज्ञप्ति": 0,
    "श्री आशीष कुमार, आईटीएस, कर्मचारी संख्या 21141 की प्रतिनियुक्ति के आधार पर ट्राई मुख्यालय में संयुक्त सलाहकार के रूप में नियुक्ति": 0,
    "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट": 0,
@@ -690,7 +691,7 @@
    "श्री आशीष चुघ, आई. टी. एस. (कर्मचारी संख्या 212160) की प्रतिनियुक्ति के आधार पर भारतीय केंद्रीय ब्यूरो (सी. बी. आई.) में पुलिस अधीक्षक के रूप में नियुक्ति।": 0,
    "श्री विनीत मलिक, आई. टी. एस. (कर्मचारी संख्या 21290) की प्रतिनियुक्ति के आधार पर भारतीय केंद्रीय ब्यूरो (सी. बी. आई.) में पुलिस अधीक्षक के रूप में नियुक्ति।": 0,
    "दूरसंचार विभाग के समृद्ध ग्राम ने एक्शन लाइन सी6-एनेबलिंग एनवायरनमेंट के तहत डब्ल्यूएसआईएस पुरस्कार 2026 जीता": 0,
-   "Appointment of Shri Ashish Chugh, ITS (Staff No. 21360) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg.": 5,
+   "Appointment of Shri Ashish Chugh, ITS (Staff No. 21360) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg.": 6,
    "Appointment of Shri Vineet Malik, ITS (Staff No. 21390) as Superintendent of Police in Central Bureau of India (CBI) on deputation basis - reg.": 0,
    "अंतिम बार अद्यतन किया गयाः 10.07.2026": 0,
    "फोन प्राथमिकता (पी. एच. पी) टेलीफोन सलाहकार समिति (टी. ए. सी.)": 0,
@@ -759,7 +760,7 @@
    "https://eservices.dot.gov.in/app-provider": 0,
    "https://eservices.dot.gov.in/about-mtcte": 0,
    "https://eservices.dot.gov.in/right-of-way-permissions": 0,
-   "https://services.eoffice.gov.in/IPRSTATUS/DoT/IPRFiledSearch": 6,
+   "https://services.eoffice.gov.in/IPRSTATUS/DoT/IPRFiledSearch": 7,
    "https://dot.gov.in/important-links": 0,
    "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/DaPTbq-keC6/?utm_source=ig_embed&utm_campaign=loading": 0,
@@ -782,7 +783,7 @@
    "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf": 0,
    "https://dot.gov.in/documents/orders-and-notices/phones-priorityphp-telephone-advisory-committeetacs-ETN0EzNtQWa?pageTitle=Phones-Priority-(PHP)-Telephone-Advisory-Committee-(TACs)": 0,
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
-   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 2
+   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 3
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-07T19:59:58Z",
