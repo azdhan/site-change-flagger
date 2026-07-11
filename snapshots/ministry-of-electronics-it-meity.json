@@ -134,15 +134,17 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belong to Ministry of Electronics and Information Technology, Government of India",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 11.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -351,27 +353,27 @@
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://meity.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://meity.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://meity.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://meity.gov.in/help",
-   "text": "Help"
+   "text": "मदद"
   },
   {
    "url": "https://meity.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://twitter.com/GoI_MeitY?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -399,7 +401,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-11T16:07:37Z",
+ "fetched_at": "2026-07-11T19:23:20Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -560,21 +562,21 @@
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
    "Key Offerings": 0,
-   "Archives": 0,
-   "Website Policies": 0,
-   "Related Links": 0,
-   "Sitemap": 0,
+   "Archives": 1,
+   "Website Policies": 1,
+   "Related Links": 1,
+   "Sitemap": 1,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
-   "Subscribe for Updates": 0,
+   "Subscribe for Updates": 1,
    "Submit": 0,
    "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)": 0,
    "Rate this translation": 0,
-   "Feedback": 0,
-   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 0,
-   "Help": 0,
-   "Useful Links": 0,
+   "Feedback": 1,
+   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 1,
+   "Help": 1,
+   "Useful Links": 1,
    "अंतिम बार अद्यतन किया गयाः 09.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 10.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 11.07.2026": 0
