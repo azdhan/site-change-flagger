@@ -1,5 +1,20 @@
 [
  {
+  "id": "459e53f05793",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-11T03:37:43Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Archive - Delegation of Powers"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "0e712ae68050",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
