@@ -186,9 +186,9 @@
   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.",
   "What’s New",
   "10th July 2026",
-  "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)",
-  "Explore",
   "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series",
+  "Explore",
+  "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)",
   "9th July 2026",
   "TRAI Assesses Mobile Network Quality across Barmer, Balotra, Pachpadra city and adjoining areas (in Rajasthan LSA)",
   "3rd July 2026",
@@ -886,19 +886,19 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
-   "text": "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)"
-  },
-  {
-   "url": "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600",
    "text": "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
+   "text": "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)"
+  },
+  {
+   "url": "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
    "text": "Explore"
   },
   {
@@ -1211,7 +1211,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-12T03:52:09Z",
+ "fetched_at": "2026-07-12T08:30:25Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1416,8 +1416,8 @@
    "Time :": 0,
    "11:00 AM": 0,
    "Location :": 0,
-   "Consumer Awareness Program at Sheohar (Bihar) by IITED": 6,
-   "Sheohar, Bihar": 6,
+   "Consumer Awareness Program at Sheohar (Bihar) by IITED": 7,
+   "Sheohar, Bihar": 7,
    "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)": 0,
    "Mayiladuthurai, Tamil Nadu": 0,
    "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT": 0,
@@ -1691,7 +1691,7 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati": 0,
    "https://www.trai.gov.in/open-consultation": 0,
    "https://www.trai.gov.in/events": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sheohar-bihar-iited": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sheohar-bihar-iited": 7,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild": 0,
