@@ -112,10 +112,11 @@
   "TECHNICAL INTERNSHIP PROGRAMME 2025",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "Digital India Internship Scheme 2026",
-  "View more",
+  "अधिक देखें",
   "What’s New",
   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions",
   "Major achievement of MeitY for the month of May 2026",
+  "View more",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "महत्वपूर्ण लिंक",
   "एमईआईटीवाई डैशबोर्ड",
@@ -128,7 +129,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -341,12 +341,12 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
   },
   {
-   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -398,7 +398,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-13T19:45:29Z",
+ "fetched_at": "2026-07-13T22:06:37Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -577,11 +577,11 @@
    "अंतिम बार अद्यतन किया गयाः 09.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 10.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 11.07.2026": 0,
-   "Archive - Delegation of Powers": 2,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 2,
-   "Delegation of Financial Power of ICERT": 2,
-   "Recent Documents": 2,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": 2,
+   "Archive - Delegation of Powers": 3,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 3,
+   "Delegation of Financial Power of ICERT": 3,
+   "Recent Documents": 3,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": 3,
    "इलेक्ट्रानिक्स कम्पोनेन्ट मेनुफेक्चरिंग स्कीम": 0,
    "तकनीकी निवेश कार्यक्रम 2025": 0,
    "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम": 0,
@@ -591,10 +591,10 @@
    "हमारा प्रदर्शन": 0,
    "हमारे संगठन": 0,
    "हमारी टीम": 0,
-   "For Researcher": 0,
-   "For Business Owner": 0,
-   "Ministry of Electronics and Information Technology": 0,
-   "For Media": 0,
+   "For Researcher": 1,
+   "For Business Owner": 1,
+   "Ministry of Electronics and Information Technology": 1,
+   "For Media": 1,
    "आईटी पेशेवरों के लिए": 0
   },
   "links": {
@@ -660,11 +660,11 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 2,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 0,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 0,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 0,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 0
+   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 3,
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 1,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 1,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 1,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 1
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-07-09T15:32:11Z",
