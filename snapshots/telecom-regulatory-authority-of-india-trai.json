@@ -186,20 +186,20 @@
   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.",
   "What’s New",
   "10th July 2026",
-  "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)",
-  "Explore",
   "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series",
+  "Explore",
+  "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)",
   "9th July 2026",
   "TRAI Assesses Mobile Network Quality across Barmer, Balotra, Pachpadra city and adjoining areas (in Rajasthan LSA)",
   "3rd July 2026",
-  "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA.",
   "TRAI Assesses Mobile Network Quality Across Gangtok and Pakyong Districts and from Deorali Bazar, Gangtok to Nathu La Pass along NH 310 in the State of Sikkim under West Bengal LSA.",
   "TRAI Assesses Mobile Network Quality across Bharuch city and nearby areas (in Gujarat LSA)",
+  "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA.",
   "2nd July 2026",
-  "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc..",
-  "TRAI Assesses Mobile Network Quality Across Highway & Railway Route- Hindupur to Hyderabad etc.",
   "TRAI Assesses Mobile Network Quality Across in Hyderabad city.",
   "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA.",
+  "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc..",
+  "TRAI Assesses Mobile Network Quality Across Highway & Railway Route- Hindupur to Hyderabad etc.",
   "On-going Consultation",
   "No Open Consultation",
   "Events",
@@ -886,14 +886,6 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
-   "text": "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)"
-  },
-  {
-   "url": "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600",
    "text": "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series"
   },
@@ -902,19 +894,19 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
+   "text": "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)"
+  },
+  {
+   "url": "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-barmer-balotra-pachpadra",
    "text": "TRAI Assesses Mobile Network Quality across Barmer, Balotra, Pachpadra city and adjoining areas (in Rajasthan LSA)"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-barmer-balotra-pachpadra",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
-   "text": "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
    "text": "Explore"
   },
   {
@@ -934,19 +926,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-karimnagar-and",
-   "text": "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc.."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
+   "text": "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA."
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-karimnagar-and",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-highway-railway-route",
-   "text": "TRAI Assesses Mobile Network Quality Across Highway & Railway Route- Hindupur to Hyderabad etc."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-highway-railway-route",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
    "text": "Explore"
   },
   {
@@ -963,6 +947,22 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-karimnagar-and",
+   "text": "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc.."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-karimnagar-and",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-highway-railway-route",
+   "text": "TRAI Assesses Mobile Network Quality Across Highway & Railway Route- Hindupur to Hyderabad etc."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-highway-railway-route",
    "text": "Explore"
   },
   {
@@ -1211,7 +1211,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-13T15:08:53Z",
+ "fetched_at": "2026-07-13T17:21:35Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1416,11 +1416,11 @@
    "Time :": 0,
    "11:00 AM": 0,
    "Location :": 0,
-   "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)": 2,
-   "Mayiladuthurai, Tamil Nadu": 2,
-   "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT": 2,
+   "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)": 3,
+   "Mayiladuthurai, Tamil Nadu": 3,
+   "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT": 3,
    "11:30 AM": 0,
-   "Bastar, Chhattisgarh": 2,
+   "Bastar, Chhattisgarh": 3,
    "Consumer Awareness Program at Distt-Sonbhadra(UP) by Consumer Guild": 0,
    "Sonbhadra, Uttar Pradesh": 0,
    "Consumer Awareness Programm at Mayurbhanja ( Odisha) by VIKASH": 0,
@@ -1528,7 +1528,7 @@
    "10th July 2026": 0,
    "10:30 AM": 0,
    "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)": 0,
-   "10 July, 2026": 1,
+   "10 July, 2026": 2,
    "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series": 0,
    "Consumer Awareness Programm at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION": 0,
    "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026": 0,
@@ -1694,8 +1694,8 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati": 0,
    "https://www.trai.gov.in/open-consultation": 0,
    "https://www.trai.gov.in/events": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayurbhanja-odisha-vikash": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nadia-west-bengal-islampur-ramkrishnapally-rural-welfare": 0,
