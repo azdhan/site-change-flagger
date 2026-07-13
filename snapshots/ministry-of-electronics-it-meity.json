@@ -105,7 +105,7 @@
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
-  "प्रमुख प्रस्ताव",
+  "Key Offerings",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "arrow_forward_ios",
   "Electronics Component Manufacturing Scheme",
@@ -123,10 +123,16 @@
   "सार्वजनिक शिकायतें",
   "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए",
   "पता लगाएँ कि नया क्या है",
+  "सोशल मीडिया में",
+  "एक्स",
+  "यूट्यूब",
+  "फेसबुक",
+  "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
+  "Instagram",
   "Youtube",
   "Facebook",
-  "Instagram",
   "Useful Links",
   "Archives",
   "Website Policies",
@@ -134,9 +140,8 @@
   "Sitemap",
   "Help",
   "Feedback",
-  "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
+  "This Website belong to Ministry of Electronics and Information Technology, Government of India",
   "Subscribe for Updates",
-  "अंतिम बार अद्यतन किया गयाः 13.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -337,11 +342,11 @@
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -393,7 +398,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-13T17:21:35Z",
+ "fetched_at": "2026-07-13T19:45:29Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -553,7 +558,7 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 1,
+   "Key Offerings": 0,
    "Archives": 0,
    "Website Policies": 0,
    "Related Links": 0,
@@ -566,17 +571,17 @@
    "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)": 0,
    "Rate this translation": 0,
    "Feedback": 0,
-   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 2,
+   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 0,
    "Help": 0,
    "Useful Links": 0,
    "अंतिम बार अद्यतन किया गयाः 09.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 10.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 11.07.2026": 0,
-   "Archive - Delegation of Powers": 1,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 1,
-   "Delegation of Financial Power of ICERT": 1,
-   "Recent Documents": 1,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": 1,
+   "Archive - Delegation of Powers": 2,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 2,
+   "Delegation of Financial Power of ICERT": 2,
+   "Recent Documents": 2,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": 2,
    "इलेक्ट्रानिक्स कम्पोनेन्ट मेनुफेक्चरिंग स्कीम": 0,
    "तकनीकी निवेश कार्यक्रम 2025": 0,
    "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम": 0,
@@ -585,7 +590,12 @@
    "अंतिम बार अद्यतन किया गयाः 13.07.2026": 0,
    "हमारा प्रदर्शन": 0,
    "हमारे संगठन": 0,
-   "हमारी टीम": 0
+   "हमारी टीम": 0,
+   "For Researcher": 0,
+   "For Business Owner": 0,
+   "Ministry of Electronics and Information Technology": 0,
+   "For Media": 0,
+   "आईटी पेशेवरों के लिए": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -650,7 +660,11 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 1
+   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 2,
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 0,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 0,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 0,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 0
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-07-09T15:32:11Z",
