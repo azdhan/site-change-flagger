@@ -139,10 +139,15 @@
   "PM-WANI- Telecom eServices Portal",
   "Revenue Management Services",
   "Right Of Way -Telecom eServices Portal",
+  "सोशल मीडिया में",
+  "एक्स",
+  "यूट्यूब",
+  "फेसबुक",
+  "इंस्टाग्राम",
   "In Social Media",
+  "Instagram",
   "Youtube",
   "Facebook",
-  "Instagram",
   "Useful Links",
   "Archives",
   "Website Policies",
@@ -468,7 +473,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-12T22:04:48Z",
+ "fetched_at": "2026-07-13T03:54:56Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -771,8 +776,7 @@
    "https://www.india.gov.in/": 0,
    "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf": 0,
    "https://dot.gov.in/documents/orders-and-notices/phones-priorityphp-telephone-advisory-committeetacs-ETN0EzNtQWa?pageTitle=Phones-Priority-(PHP)-Telephone-Advisory-Committee-(TACs)": 0,
-   "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
-   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 7
+   "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-07T19:59:58Z",
@@ -806,7 +810,7 @@
   },
   "grave_links": {
    "https://dot.gov.in/documents/orders-and-notices/leveraging-indiaai-mission-and-indiaai-impact-for-ai-solution-mapping-summit-by-dot-UjN2YzNtQWa?pageTitle=Leveraging-IndiaAI-Mission-and-IndiaAI-Impact-for-AI-Solution-Mapping-Summit-by-DoT": "2026-07-09T09:56:25Z",
-   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": "2026-07-09T22:42:37Z",
+   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": "2026-07-13T03:54:56Z",
    "https://www.dot.gov.in/static/uploads/2026/06/d44ff2aec0505d538d9f3d51eba88936.pdf": "2026-07-10T17:06:00Z",
    "https://services.eoffice.gov.in/IPRSTATUS/DoT/IPRFiledSearch": "2026-07-11T10:32:37Z"
   }
