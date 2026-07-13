@@ -1,5 +1,48 @@
 [
  {
+  "id": "72a39f1fd766",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-13T09:46:23Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "Department of Telecommunications signs MoU with Telecommunications Standards Development Society India (TSDSI)",
+   "Addendum to the Signed Agreement between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Gujarat, GFGNL and BSNL to strengthen broadband infrastructure across the state"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "62e1c9f8caa3",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-13T09:46:23Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Programm at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION",
+   "Karur, Tamil Nadu",
+   "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026",
+   "New Delhi, Delhi"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-karur-tamil-nadu-tamilnadu-consumer-federation",
+    "text": "Consumer Awareness Programm at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION"
+   },
+   {
+    "url": "https://www.trai.gov.in/events/ohd-draft-telecom-consumers-complaint-redressal-fourth-amendment-regulation-2026",
+    "text": "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "4704d726dfb2",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

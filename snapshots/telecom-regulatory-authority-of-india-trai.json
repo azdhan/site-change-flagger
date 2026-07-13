@@ -192,27 +192,22 @@
   "9th July 2026",
   "TRAI Assesses Mobile Network Quality across Barmer, Balotra, Pachpadra city and adjoining areas (in Rajasthan LSA)",
   "3rd July 2026",
+  "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA.",
   "TRAI Assesses Mobile Network Quality Across Gangtok and Pakyong Districts and from Deorali Bazar, Gangtok to Nathu La Pass along NH 310 in the State of Sikkim under West Bengal LSA.",
   "TRAI Assesses Mobile Network Quality across Bharuch city and nearby areas (in Gujarat LSA)",
-  "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA.",
   "2nd July 2026",
-  "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA.",
-  "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc..",
   "TRAI Assesses Mobile Network Quality Across Highway & Railway Route- Hindupur to Hyderabad etc.",
   "TRAI Assesses Mobile Network Quality Across in Hyderabad city.",
+  "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA.",
+  "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc..",
   "On-going Consultation",
   "No Open Consultation",
   "Events",
-  "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)",
+  "Consumer Awareness Program at Distt-Sonbhadra(UP) by Consumer Guild",
   "Date :",
   "Time :",
   "11:00 AM",
   "Location :",
-  "Mayiladuthurai, Tamil Nadu",
-  "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT",
-  "11:30 AM",
-  "Bastar, Chhattisgarh",
-  "Consumer Awareness Program at Distt-Sonbhadra(UP) by Consumer Guild",
   "Sonbhadra, Uttar Pradesh",
   "Consumer Outreach Programme at Leh (Ladakh) by TRAI Regional Office, Delhi",
   "10:30 AM",
@@ -223,12 +218,17 @@
   "01:00 PM",
   "Nadia, West Bengal",
   "10:00 AM",
+  "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad",
+  "Saharanpur, Uttar Pradesh",
   "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club",
   "Dungarpur, Rajasthan",
   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)",
   "Dindigul, Tamil Nadu",
-  "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad",
-  "Saharanpur, Uttar Pradesh",
+  "Consumer Awareness Programm at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION",
+  "11:30 AM",
+  "Karur, Tamil Nadu",
+  "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026",
+  "New Delhi, Delhi",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -910,6 +910,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
+   "text": "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gangtok-and-pakyong",
    "text": "TRAI Assesses Mobile Network Quality Across Gangtok and Pakyong Districts and from Deorali Bazar, Gangtok to Nathu La Pass along NH 310 in the State of Sikkim under West Bengal LSA."
   },
@@ -923,30 +931,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bharuch-city-and-nearby",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
-   "text": "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati",
-   "text": "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-karimnagar-and",
-   "text": "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc.."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-karimnagar-and",
    "text": "Explore"
   },
   {
@@ -966,20 +950,28 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati",
+   "text": "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-karimnagar-and",
+   "text": "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc.."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-karimnagar-and",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/open-consultation",
    "text": "View All"
   },
   {
    "url": "https://www.trai.gov.in/events",
    "text": "View All"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer",
-   "text": "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit",
-   "text": "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild",
@@ -1002,6 +994,10 @@
    "text": "Consumer Outreach Programme at Leh (Ladakh) by TRAI Regional Office, Delhi"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rampur-maniharan-distt-saharanpur-pmry-club-moradabad",
+   "text": "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad"
+  },
+  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dungarpur-rajasthan-pmry-club",
    "text": "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club"
   },
@@ -1010,8 +1006,12 @@
    "text": "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rampur-maniharan-distt-saharanpur-pmry-club-moradabad",
-   "text": "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-karur-tamil-nadu-tamilnadu-consumer-federation",
+   "text": "Consumer Awareness Programm at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION"
+  },
+  {
+   "url": "https://www.trai.gov.in/events/ohd-draft-telecom-consumers-complaint-redressal-fourth-amendment-regulation-2026",
+   "text": "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1211,7 +1211,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-13T03:54:56Z",
+ "fetched_at": "2026-07-13T09:46:23Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1416,11 +1416,11 @@
    "Time :": 0,
    "11:00 AM": 0,
    "Location :": 0,
-   "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)": 0,
-   "Mayiladuthurai, Tamil Nadu": 0,
-   "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT": 0,
+   "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)": 1,
+   "Mayiladuthurai, Tamil Nadu": 1,
+   "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT": 1,
    "11:30 AM": 0,
-   "Bastar, Chhattisgarh": 0,
+   "Bastar, Chhattisgarh": 1,
    "Consumer Awareness Program at Distt-Sonbhadra(UP) by Consumer Guild": 0,
    "Sonbhadra, Uttar Pradesh": 0,
    "Consumer Awareness Programm at Mayurbhanja ( Odisha) by VIKASH": 0,
@@ -1529,7 +1529,11 @@
    "10:30 AM": 0,
    "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)": 0,
    "10 July, 2026": 0,
-   "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series": 0
+   "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series": 0,
+   "Consumer Awareness Programm at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION": 0,
+   "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026": 0,
+   "New Delhi, Delhi": 0,
+   "Karur, Tamil Nadu": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1689,8 +1693,8 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-ganjam-gajapati": 0,
    "https://www.trai.gov.in/open-consultation": 0,
    "https://www.trai.gov.in/events": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit": 1,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayurbhanja-odisha-vikash": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nadia-west-bengal-islampur-ramkrishnapally-rural-welfare": 0,
@@ -1754,7 +1758,9 @@
    "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 0,
    "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600": 0
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600": 0,
+   "https://www.trai.gov.in/events/ohd-draft-telecom-consumers-complaint-redressal-fourth-amendment-regulation-2026": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-karur-tamil-nadu-tamilnadu-consumer-federation": 0
   },
   "grave_lines": {
    "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": "2026-07-10T17:06:00Z",
