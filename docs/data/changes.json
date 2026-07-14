@@ -1,5 +1,93 @@
 [
  {
+  "id": "36a786a1c83a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-14T08:26:34Z",
+  "summary": "2 new links, 1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 14.07.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-year-2024-gDO3czNtQWa?pageTitle=Allotment-of-Shortcodes-year-2024",
+    "text": "Orders and Notices Allotment of Shortcodes year 2024"
+   },
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-year-2025-MTN3czNtQWa?pageTitle=Allotment-of-Shortcodes-year-2025",
+    "text": "Orders and Notices Allotment of Shortcodes year 2025"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "001c5c951f99",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-14T08:26:34Z",
+  "summary": "1 new link, 4 new text blocks",
+  "added_lines": [
+   "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026 - dated 17/07/2026",
+   "Consumer Awareness Program at Distt-Lalitpur (UP) by IITED-Bijnor",
+   "Lalitpur, Uttar Pradesh",
+   "14 July, 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-lalitpur-iited-bijnor",
+    "text": "Consumer Awareness Program at Distt-Lalitpur (UP) by IITED-Bijnor"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "889e036796d2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-14T08:26:34Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "सूचना एवं प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीजन-2 के अंतर्गत उद्योग-संचालित चैलेंज के लिए आमंत्रित किए प्रस्ताव",
+   "14 जुलाई 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284251&reg=3&lang=2",
+    "text": "सूचना एवं प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीजन-2 के अंतर्गत उद्योग-संचालित चैलेंज के लिए आमंत्रित किए प्रस्ताव"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "2b0fa792e50e",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-14T08:26:34Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "Major achievement of MeitY for the month of June 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf",
+    "text": "Major achievement of MeitY for the month of June 2026 arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "749670ca9023",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
