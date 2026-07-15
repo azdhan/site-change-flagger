@@ -1,5 +1,96 @@
 [
  {
+  "id": "0c215ef7ad5d",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-15T08:33:31Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Phones Priority (PHP) Telephone Advisory Committee (TACs)",
+   "Selection of Shri Sahil Garg, Junior Administrative Grade (JAG) officer of Indian Posts and Telecommunications Accounts and Finance Service (IP&TAFS), as Director (Finance), Delhi Development Authority (DDA) —regarding"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "4cc8e1401415",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-15T08:33:31Z",
+  "summary": "4 new links, 9 new text blocks, 4 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Programm at Madikeri, Karnataka by Coordinated Action of Consumer & Voluntary Organisations of Karnataka",
+   "Madikeri, Karnataka",
+   "Consumer Awareness Program at Distt-Pithoragah (Uttarakhand) by IITED-Dehradun",
+   "Pithoragarh, Uttarakhand",
+   "Consumer Awareness Program at Distt-Almora (Uttarakhand) by PMRY Club-Pauri Garhwal",
+   "Almora, Uttarakhand",
+   "Consumer Awareness Program at Bageshwar(Uttarakhand) by RSVS, Haridwar",
+   "Bageshwar, Uttarakhand",
+   "15 July, 2026"
+  ],
+  "added_lines_total": 9,
+  "removed_lines": [
+   "Consumer Awareness Program at Distt-Sonbhadra(UP) by Consumer Guild",
+   "Sonbhadra, Uttar Pradesh",
+   "13 July, 2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-madikeri-karnataka-coordinated-action-consumer",
+    "text": "Consumer Awareness Programm at Madikeri, Karnataka by Coordinated Action of Consumer & Voluntary Organisations of Karnataka"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-pithoragah-uttarakhand-iited-dehradun",
+    "text": "Consumer Awareness Program at Distt-Pithoragah (Uttarakhand) by IITED-Dehradun"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-almora-uttarakhand-pmry-club-pauri-garhwal",
+    "text": "Consumer Awareness Program at Distt-Almora (Uttarakhand) by PMRY Club-Pauri Garhwal"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bageshwaruttarakhand-rsvs-haridwar",
+    "text": "Consumer Awareness Program at Bageshwar(Uttarakhand) by RSVS, Haridwar"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "97c84b5e14ac",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-15T08:33:31Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "सूचना और प्रसारण मंत्रालय ने भारतीय फिल्म उद्योग को बढ़ावा देने के लिए दो बड़े फैसलों की घोषणा की",
+   "11 जुलाई 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "294af82da293",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-15T08:33:31Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Major achievement of MeitY for the month of May 2026"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e294cb8e3233",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
