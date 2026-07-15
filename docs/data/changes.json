@@ -1,5 +1,36 @@
 [
  {
+  "id": "cb1d2833e4f0",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-15T11:01:28Z",
+  "summary": "3 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Etah (UP) by RSVS",
+   "Etah, Uttar Pradesh",
+   "Consumer Awareness Program at Fazilka (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)",
+   "Fazilka, Punjab"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-etah-rsvs",
+    "text": "Consumer Awareness Program at Etah (UP) by RSVS"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-fazilka-punjab-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Fazilka (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)"
+   },
+   {
+    "url": "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit",
+    "text": ""
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "0c215ef7ad5d",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

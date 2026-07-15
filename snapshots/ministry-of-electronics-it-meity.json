@@ -48,7 +48,7 @@
   "(اردو)",
   "Powered by",
   "भारत सरकार",
-  "Ministry of Electronics and Information Technology",
+  "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय",
   "search",
   "menu",
   "Home",
@@ -100,11 +100,6 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
-  "Shri Ashwini Vaishnaw",
-  "HON’BLE MINISTER",
-  "Shri Jitin Prasada",
-  "HON’BLE MINISTER OF STATE",
   "Key Offerings",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "arrow_forward_ios",
@@ -118,10 +113,6 @@
   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions",
   "View more",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "For IT Professional",
-  "For Researcher",
-  "For Media",
-  "For Business Owner",
   "महत्वपूर्ण लिंक",
   "एमईआईटीवाई डैशबोर्ड",
   "निविदा के लिए आवेदन करने में रुचि रखते हैं?",
@@ -133,21 +124,20 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
   "Facebook",
-  "उपयोगी लिंक",
-  "अभिलेखागार",
-  "वेबसाइट नीतियाँ",
-  "संबंधित लिंक",
-  "साइटमैप",
-  "मदद",
-  "हमसे संपर्क करें",
-  "फीडबैक",
-  "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
-  "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 14.07.2026",
+  "Useful Links",
+  "Archives",
+  "Website Policies",
+  "Related Links",
+  "Sitemap",
+  "Help",
+  "Feedback",
+  "This Website belong to Ministry of Electronics and Information Technology, Government of India",
+  "Subscribe for Updates",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -160,7 +150,7 @@
   },
   {
    "url": "https://meity.gov.in/",
-   "text": "भारत सरकार Ministry of Electronics and Information Technology"
+   "text": "भारत सरकार इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय"
   },
   {
    "url": "https://digitalindia.gov.in/",
@@ -295,14 +285,6 @@
    "text": "open_in_new कार्यक्रम देखें"
   },
   {
-   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
-   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
-  },
-  {
-   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
-   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
-  },
-  {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
    "text": "NeGD’s Non-Technical (Summer) Internship Programme"
   },
@@ -335,22 +317,6 @@
    "text": "View more chevron_right"
   },
   {
-   "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
-   "text": "For IT Professional"
-  },
-  {
-   "url": "https://meity.gov.in/persona/researcher-wNwIDOtQWa",
-   "text": "For Researcher"
-  },
-  {
-   "url": "https://meity.gov.in/persona/media-QOwIDOtQWa",
-   "text": "For Media"
-  },
-  {
-   "url": "https://meity.gov.in/persona/business-owner-AOwIDOtQWa",
-   "text": "For Business Owner"
-  },
-  {
    "url": "https://meity.dashboard.nic.in/",
    "text": "एमईआईटीवाई डैशबोर्ड arrow_forward_ios"
   },
@@ -364,35 +330,35 @@
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
-   "text": "अभिलेखागार"
+   "text": "Archives"
   },
   {
    "url": "https://meity.gov.in/policies",
-   "text": "वेबसाइट नीतियाँ"
+   "text": "Website Policies"
   },
   {
    "url": "https://meity.gov.in/RelatedLinks",
-   "text": "संबंधित लिंक"
+   "text": "Related Links"
   },
   {
    "url": "https://meity.gov.in/sitemap",
-   "text": "साइटमैप"
+   "text": "Sitemap"
   },
   {
    "url": "https://meity.gov.in/help",
-   "text": "मदद"
+   "text": "Help"
   },
   {
    "url": "https://meity.gov.in/feedback",
-   "text": "फीडबैक"
+   "text": "Feedback"
   },
   {
    "url": "https://twitter.com/GoI_MeitY?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -420,7 +386,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-15T08:33:31Z",
+ "fetched_at": "2026-07-15T11:01:28Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -554,10 +520,10 @@
    "इस अनुवाद का मूल्यांकन करें": 0,
    "Do you like to give feedback": 0,
    "जमा करें": 0,
-   "Shri Ashwini Vaishnaw": 0,
-   "HON’BLE MINISTER OF STATE": 0,
-   "Shri Jitin Prasada": 0,
-   "HON’BLE MINISTER": 0,
+   "Shri Ashwini Vaishnaw": 1,
+   "HON’BLE MINISTER OF STATE": 1,
+   "Shri Jitin Prasada": 1,
+   "HON’BLE MINISTER": 1,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
    "What’s New": 0,
@@ -572,7 +538,7 @@
    "नया क्या है": 0,
    "Electronics Component Manufacturing Scheme": 0,
    "TECHNICAL INTERNSHIP PROGRAMME 2025": 0,
-   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 0,
+   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 1,
    "NeGD’s Non-Technical (Summer) Internship Programme": 0,
    "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 0,
    "माननीय राज्य मंत्री": 0,
@@ -598,11 +564,6 @@
    "अंतिम बार अद्यतन किया गयाः 09.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 10.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 11.07.2026": 0,
-   "Archive - Delegation of Powers": 7,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 7,
-   "Delegation of Financial Power of ICERT": 7,
-   "Recent Documents": 7,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": 7,
    "इलेक्ट्रानिक्स कम्पोनेन्ट मेनुफेक्चरिंग स्कीम": 0,
    "तकनीकी निवेश कार्यक्रम 2025": 0,
    "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम": 0,
@@ -612,14 +573,15 @@
    "हमारा प्रदर्शन": 0,
    "हमारे संगठन": 0,
    "हमारी टीम": 0,
-   "For Researcher": 0,
-   "For Business Owner": 0,
-   "Ministry of Electronics and Information Technology": 0,
-   "For Media": 0,
+   "For Researcher": 1,
+   "For Business Owner": 1,
+   "Ministry of Electronics and Information Technology": 1,
+   "For Media": 1,
    "आईटी पेशेवरों के लिए": 0,
    "अंतिम बार अद्यतन किया गयाः 14.07.2026": 0,
-   "For IT Professional": 0,
-   "Major achievement of MeitY for the month of June 2026": 0
+   "For IT Professional": 1,
+   "Major achievement of MeitY for the month of June 2026": 0,
+   "Explore What's new": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -673,9 +635,9 @@
    "https://www.instagram.com/goi_meity/": 0,
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 0,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 1,
    "https://intern.meity.gov.in": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 0,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 1,
    "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/electronics-component-manufacturing-scheme-UTM1IjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 0,
@@ -683,11 +645,10 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 7,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 0,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 0,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 0,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 0,
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 1,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 1,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 1,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 1,
    "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": 0
   },
   "grave_lines": {
@@ -697,10 +658,10 @@
    "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions issued by the Ministry, synthetically generated information and digital media oversight": "2026-07-10T22:14:34Z",
    "Ten Years of Digital Progress - Building an Inclusive and Future-Ready India": "2026-07-10T22:14:34Z",
    "Delegation of Powers of Director General NIC": "2026-07-08T03:43:11Z",
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": "2026-07-11T03:37:43Z",
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": "2026-07-11T03:37:43Z",
-   "Recent Documents": "2026-07-11T03:37:43Z",
-   "Delegation of Financial Power of ICERT": "2026-07-11T03:37:43Z",
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": "2026-07-15T11:01:28Z",
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": "2026-07-15T11:01:28Z",
+   "Recent Documents": "2026-07-15T11:01:28Z",
+   "Delegation of Financial Power of ICERT": "2026-07-15T11:01:28Z",
    "View this post on Instagram": "2026-07-08T08:42:59Z",
    "A post shared by Ministry Of Electronic & IT (@goi_meity)": "2026-07-08T08:42:59Z",
    "Filling up the post of Chairman & Members in the Data Protection Board of India (DPBI)": "2026-07-10T22:14:34Z",
@@ -720,7 +681,7 @@
    "MeitY Dashboard": "2026-07-10T19:49:17Z",
    "Explore What's new": "2026-07-10T22:14:34Z",
    "Section 69A of IT Act": "2026-07-10T22:14:34Z",
-   "Archive - Delegation of Powers": "2026-07-11T03:37:43Z",
+   "Archive - Delegation of Powers": "2026-07-15T11:01:28Z",
    "Major achievement of MeitY for the month of May 2026": "2026-07-15T08:33:31Z"
   },
   "grave_links": {
@@ -728,7 +689,7 @@
    "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": "2026-07-09T15:32:11Z",
    "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": "2026-07-09T15:32:11Z",
    "https://meity.gov.in/persona/researcher-wNwIDOtQWa": "2026-07-09T15:32:11Z",
-   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": "2026-07-11T03:37:43Z",
+   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": "2026-07-15T11:01:28Z",
    "https://www.meity.gov.in/static/uploads/2026/06/93feeb02a7a57c3519ad1010e199f24e.pdf": "2026-07-15T08:33:31Z"
   }
  }
