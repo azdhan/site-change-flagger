@@ -1,5 +1,20 @@
 [
  {
+  "id": "e52575fed265",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-15T16:43:19Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "15 जुलाई 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "cb1d2833e4f0",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

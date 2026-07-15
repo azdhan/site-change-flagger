@@ -167,7 +167,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "14 जुलाई 2026"
+  "15 जुलाई 2026"
  ],
  "links": [
   {
@@ -608,7 +608,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-15T14:06:54Z",
+ "fetched_at": "2026-07-15T16:43:19Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -779,7 +779,8 @@
    "अंतिम अद्यतन:": 0,
    "एनएफडीसी-एनएफएआई के अभिलेखीय संरक्षण से मलयालम क्लासिक फिल्म \"किरीदम\" 4के वर्जन में बड़े पर्दे पर वापस आई": 0,
    "सूचना एवं प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीजन-2 के अंतर्गत उद्योग-संचालित चैलेंज के लिए आमंत्रित किए प्रस्ताव": 0,
-   "14 जुलाई 2026": 0
+   "14 जुलाई 2026": 1,
+   "15 जुलाई 2026": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -891,14 +892,14 @@
    "https://www.mygov.in/": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282837&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284251&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 3,
-   "https://mib.gov.in/index.php/hi/feedback": 3,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 3,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 3,
-   "https://mib.gov.in/index.php/hi/archives": 3,
-   "https://mib.gov.in/index.php/hi/sitemap": 3,
-   "https://mib.gov.in/index.php/hi/website-policy": 3,
-   "https://mib.gov.in/index.php/hi/help": 3
+   "https://mib.gov.in/index.php/hi/related-link": 4,
+   "https://mib.gov.in/index.php/hi/feedback": 4,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 4,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 4,
+   "https://mib.gov.in/index.php/hi/archives": 4,
+   "https://mib.gov.in/index.php/hi/sitemap": 4,
+   "https://mib.gov.in/index.php/hi/website-policy": 4,
+   "https://mib.gov.in/index.php/hi/help": 4
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z",
