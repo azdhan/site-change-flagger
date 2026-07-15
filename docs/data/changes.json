@@ -1,5 +1,23 @@
 [
  {
+  "id": "79a620504a95",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-15T19:34:23Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Ministry of Communications, Department of Telecommunications",
+   "Government of India",
+   "Across the entire ecosystem of mobile, telecommunications, electronics, and technology, wherever there are global challenges, India has the opportunity to provide solutions to the world.",
+   "Announcements"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e52575fed265",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
