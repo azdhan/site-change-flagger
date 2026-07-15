@@ -559,27 +559,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -608,7 +616,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-14T22:10:25Z",
+ "fetched_at": "2026-07-15T03:28:43Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -736,7 +744,7 @@
    "मन की बात मई 2026": 0,
    "प्रेस प्रकाशनी": 0,
    "आकाशवाणी ने अपने 90 वर्ष पूरे होने के उत्सव के रूप में 'स्वर प्रेरणा वीथिका' का अनावरण किया": 0,
-   "सूचना और प्रसारण मंत्रालय ने भारतीय फिल्म उद्योग को बढ़ावा देने के लिए दो बड़े फैसलों की घोषणा की": 6,
+   "सूचना और प्रसारण मंत्रालय ने भारतीय फिल्म उद्योग को बढ़ावा देने के लिए दो बड़े फैसलों की घोषणा की": 7,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "Image and name of मीडिया. Select to view more information.": 0,
    "शोधकर्ता": 0,
@@ -779,7 +787,7 @@
    "अपडेट के लिए सदस्यता लें": 0,
    "अंतिम अद्यतन:": 0,
    "एनएफडीसी-एनएफएआई के अभिलेखीय संरक्षण से मलयालम क्लासिक फिल्म \"किरीदम\" 4के वर्जन में बड़े पर्दे पर वापस आई": 0,
-   "11 जुलाई 2026": 6,
+   "11 जुलाई 2026": 7,
    "सूचना एवं प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीजन-2 के अंतर्गत उद्योग-संचालित चैलेंज के लिए आमंत्रित किए प्रस्ताव": 0,
    "14 जुलाई 2026": 0
   },
@@ -855,7 +863,7 @@
    "https://mib.gov.in/whats-new": 0,
    "https://mib.gov.in/sites/default/files/2026-07/mann-ki-baat-hindi-may-2026-single-sepreater_compressed_0.pdf": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280119&reg=3&lang=2": 0,
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2279255&reg=3&lang=2": 6,
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2279255&reg=3&lang=2": 7,
    "http://mib.gov.in/hi/documents/reports": 0,
    "https://mib.gov.in/hi/persona/media": 0,
    "https://mib.gov.in/hi/persona/researcher": 0,
@@ -880,12 +888,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -893,7 +901,15 @@
    "https://www.india.gov.in/": 0,
    "https://www.mygov.in/": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282837&reg=3&lang=2": 0,
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284251&reg=3&lang=2": 0
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284251&reg=3&lang=2": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/help": 0
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z",
