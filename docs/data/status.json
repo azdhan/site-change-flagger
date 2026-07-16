@@ -2,7 +2,7 @@
  "ministry-of-electronics-it-meity": {
   "name": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
-  "last_checked": "2026-07-15T22:11:07Z",
+  "last_checked": "2026-07-16T03:32:45Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-07-15T08:33:31Z"
@@ -10,7 +10,7 @@
  "ministry-of-information-broadcasting-mib": {
   "name": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
-  "last_checked": "2026-07-15T22:11:07Z",
+  "last_checked": "2026-07-16T03:32:45Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-07-15T16:43:19Z"
@@ -18,7 +18,7 @@
  "telecom-regulatory-authority-of-india-trai": {
   "name": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
-  "last_checked": "2026-07-15T22:11:07Z",
+  "last_checked": "2026-07-16T03:32:45Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-07-15T11:01:28Z"
@@ -26,7 +26,7 @@
  "department-of-telecommunications-dot": {
   "name": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
-  "last_checked": "2026-07-15T22:11:07Z",
+  "last_checked": "2026-07-16T03:32:45Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-07-15T19:34:23Z"
