@@ -1,5 +1,45 @@
 [
  {
+  "id": "7fd1ecd812ba",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-16T11:09:59Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Addendum to the Signed Agreement between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Gujarat, GFGNL and BSNL to strengthen broadband infrastructure across the state"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "bde311a05e95",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-16T11:09:59Z",
+  "summary": "2 new links, 2 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "16th July 2026",
+   "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA."
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and",
+    "text": "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "6902c9730b75",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
