@@ -47,7 +47,7 @@
   "Urdu",
   "(اردو)",
   "Powered by",
-  "Government of India",
+  "भारत सरकार",
   "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय",
   "search",
   "menu",
@@ -81,6 +81,12 @@
   "Grievance Redressal",
   "Citizen Engagement",
   "Parliament Questions",
+  "मुख्य प्रष्ठ",
+  "मंत्रालय",
+  "पेशकशें",
+  "दस्तावेज़",
+  "मीडिया",
+  "जुड़ें",
   "pause",
   "chevron_left",
   "chevron_right",
@@ -89,8 +95,8 @@
   "मंत्रालय द्वारा जारी स्पष्टीकरण, सलाह और निर्देशों, कृत्रिम रूप से उत्पन्न जानकारी और डिजिटल मीडिया निरीक्षण के साथ मध्यस्थ अनुपालन को मजबूत करने से संबंधित आईटी नियम, 2021 में मसौदा संशोधनों पर हितधारकों से परामर्श",
   "भारत की डिजिटल अर्थव्यवस्था के अनुमान और मापन पर रिपोर्ट",
   "डिजिटल प्रगति के दस साल-एक समावेशी और भविष्य के लिए तैयार भारत का निर्माण",
-  "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.",
-  "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.",
+  "दुनिया भारत पर भरोसा करती है, दुनिया भारत में विश्वास करती है और दुनिया भारत के साथ सेमीकंडक्टर भविष्य के निर्माण के लिए तैयार है।",
+  "हम एक संपूर्ण पारिस्थितिकी तंत्र बना रहे हैं, एक ऐसा पारिस्थितिकी तंत्र जहां डिजाइनिंग, निर्माण, पैकेजिंग और उच्च तकनीक वाले उपकरण, सब कुछ भारत में उपलब्ध है।",
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
@@ -127,15 +133,17 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belong to Ministry of Electronics and Information Technology, Government of India",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 16.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -148,7 +156,7 @@
   },
   {
    "url": "https://meity.gov.in/",
-   "text": "Government of India इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय"
+   "text": "भारत सरकार इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय"
   },
   {
    "url": "https://digitalindia.gov.in/",
@@ -335,36 +343,36 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://meity.gov.in/archives?page=tenders_post",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://meity.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://meity.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://meity.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://meity.gov.in/help",
-   "text": "Help"
+   "text": "मदद"
   },
   {
    "url": "https://meity.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://twitter.com/GoI_MeitY?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -392,7 +400,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-16T11:09:59Z",
+ "fetched_at": "2026-07-16T14:18:14Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -582,10 +590,9 @@
    "आईटी पेशेवरों के लिए": 0,
    "अंतिम बार अद्यतन किया गयाः 14.07.2026": 0,
    "Major achievement of MeitY for the month of June 2026": 0,
-   "Explore What's new": 7,
-   "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.": 0,
-   "Government of India": 0,
-   "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.": 0,
+   "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.": 1,
+   "Government of India": 1,
+   "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.": 1,
    "अंतिम बार अद्यतन किया गयाः 16.07.2026": 0
   },
   "links": {
@@ -680,7 +687,7 @@
    "Explore User Personas": "2026-07-10T19:49:17Z",
    "Interested in Applying for Tender?": "2026-07-10T19:49:17Z",
    "MeitY Dashboard": "2026-07-10T19:49:17Z",
-   "Explore What's new": "2026-07-10T22:14:34Z",
+   "Explore What's new": "2026-07-16T14:18:14Z",
    "Section 69A of IT Act": "2026-07-10T22:14:34Z",
    "Archive - Delegation of Powers": "2026-07-15T11:01:28Z",
    "Major achievement of MeitY for the month of May 2026": "2026-07-15T08:33:31Z"

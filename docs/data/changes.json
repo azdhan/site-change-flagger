@@ -1,5 +1,53 @@
 [
  {
+  "id": "d4478ddaaacf",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-16T14:18:14Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Department of Telecommunications signs MoU with Telecommunications Standards Development Society India (TSDSI)"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "4d187bcc319a",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-16T14:18:14Z",
+  "summary": "4 new links, 2 new text blocks",
+  "added_lines": [
+   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.",
+   "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA."
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala",
+    "text": "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district",
+    "text": "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
   "id": "7fd1ecd812ba",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
