@@ -1,5 +1,78 @@
 [
  {
+  "id": "6902c9730b75",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-16T08:31:04Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "OM regarding \"Nomination of ITS officers for MCTP Phase-II (Technical Component) Batch-25\""
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "98ad0b181259",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-16T08:31:04Z",
+  "summary": "2 new links, 4 new text blocks, 13 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Panchmahal (Gujarat) by Jhalod Taluka Grahak Surksha Mandal",
+   "Consumer Awareness Program at Malvan (Maharashtra) by Patil Foundation",
+   "Malvan, Maharashtra",
+   "16 July, 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [
+   "Consumer Awareness Programm at Mayurbhanja ( Odisha) by VIKASH",
+   "Mayurbhanja, Odisha",
+   "Consumer Awareness Program at Nadia (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society",
+   "01:00 PM",
+   "Nadia, West Bengal",
+   "10:30 AM",
+   "Consumer Awareness Programm at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION",
+   "Karur, Tamil Nadu",
+   "14 July, 2026"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-panchmahal-gujarat-jhalod-taluka-grahak-surksha-mandal",
+    "text": "Consumer Awareness Program at Panchmahal (Gujarat) by Jhalod Taluka Grahak Surksha Mandal"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-malvan-maharashtra-patil-foundation",
+    "text": "Consumer Awareness Program at Malvan (Maharashtra) by Patil Foundation"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "dd6c3bc29b0d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-16T08:31:04Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "पत्र सूचना कार्यालय ने \"भारत की रचनात्मक अर्थव्यवस्था के लिए भविष्योन्मुखी कार्यबल का निर्माण\" विषय पर एक दिवसीय मीडिया कार्यशाला 'वार्ता' का आयोजन किया",
+   "16 जुलाई 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284748&reg=3&lang=2",
+    "text": "पत्र सूचना कार्यालय ने \"भारत की रचनात्मक अर्थव्यवस्था के लिए भविष्योन्मुखी कार्यबल का निर्माण\" विषय पर एक दिवसीय मीडिया कार्यशाला 'वार्ता' का आयोजन किया"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "79a620504a95",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
