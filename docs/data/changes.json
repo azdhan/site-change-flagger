@@ -1,5 +1,45 @@
 [
  {
+  "id": "2feb31f2cac6",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-17T14:00:01Z",
+  "summary": "1 new link, 2 new text blocks, 7 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Porbandar (Gujarat) by Consumer Protection Association",
+   "Porbandar, Gujarat"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "2nd July 2026",
+   "TRAI Assesses Mobile Network Quality Across, City Karimnagar and surrounding towns and Highway, Passing through Siddipet bypass, Samudrala and Kesavapatnam etc..",
+   "TRAI Assesses Mobile Network Quality Across, city drive in Ganjam, Gajapati and Rayagada districts on Odisha LSA."
+  ],
+  "removed_lines_total": 7,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-porbandar-gujarat-consumer-protection-association",
+    "text": "Consumer Awareness Program at Porbandar (Gujarat) by Consumer Protection Association"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "5f3c8793bc98",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-17T14:00:01Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अगली पीढ़ी के इलेक्ट्रॉनिक्स, संचार और संवेदी प्रौद्योगिकी पर अनुदान चुनौतियों के लिए प्रस्तावों का आह्वान करें। आवेदन करने की अंतिम तिथिः 31.07.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "956fb535c1f1",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
