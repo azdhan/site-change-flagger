@@ -1,5 +1,56 @@
 [
  {
+  "id": "956fb535c1f1",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-17T10:57:16Z",
+  "summary": "6 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality Across Highway & Railway Route- Hindupur to Hyderabad etc.",
+   "TRAI Assesses Mobile Network Quality Across in Hyderabad city."
+  ],
+  "removed_lines_total": 6,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8ab6714cc264",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-17T10:57:16Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "17 जुलाई 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "d81112475946",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-17T10:57:16Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "अगली पीढ़ी के इलेक्ट्रॉनिक्स, संचार और संवेदी प्रौद्योगिकी पर अनुदान चुनौतियों के लिए प्रस्तावों का आह्वान करें"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies",
+    "text": "अगली पीढ़ी के इलेक्ट्रॉनिक्स, संचार और संवेदी प्रौद्योगिकी पर अनुदान चुनौतियों के लिए प्रस्तावों का आह्वान करें"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "45df40399287",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
