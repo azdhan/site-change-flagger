@@ -1,5 +1,96 @@
 [
  {
+  "id": "45df40399287",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-17T08:25:54Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Allotment of Shortcodes year 2025"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "2869538964ea",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-17T08:25:54Z",
+  "summary": "3 new links, 8 new text blocks, 13 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Banswara (Rajasthan) by Upbhokta Sanrakshan Samiti, Sangaria",
+   "10:15 AM",
+   "Banswara, Rajasthan",
+   "Consumer Outreach Programme at Sirifort Institutional Area (Delhi) by TRAI Regional Office, Delhi",
+   "South Delhi, Delhi",
+   "Consumer Awareness Programm at Rayagada ( Odisha) by FEDERATION OF CONSUMER ORGANIZATIONS",
+   "Rayagada, Odisha",
+   "17 July, 2026"
+  ],
+  "added_lines_total": 8,
+  "removed_lines": [
+   "Consumer Awareness Program at Dungarpur (Rajasthan) by P.M.R.Y. Club",
+   "Dungarpur, Rajasthan",
+   "Consumer Awareness Programm at Oddanchatram ( Tamil Nadu) by CITIZEN CONSUMER CIVIC ACTION GROUP (CCCAG)",
+   "Dindigul, Tamil Nadu",
+   "Consumer Awareness Program at Rampur Maniharan, Distt- Saharanpur (U.P.) by PMRY Club, Moradabad",
+   "Saharanpur, Uttar Pradesh",
+   "Leh, Ladakh",
+   "Consumer Outreach Programme at Leh (Ladakh) by TRAI Regional Office, Delhi",
+   "15 July, 2026"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banswara-rajasthan-upbhokta-sanrakshan-samiti-sangaria",
+    "text": "Consumer Awareness Program at Banswara (Rajasthan) by Upbhokta Sanrakshan Samiti, Sangaria"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-programme-sirifort-institutional-area-delhi-trai-regional-office",
+    "text": "Consumer Outreach Programme at Sirifort Institutional Area (Delhi) by TRAI Regional Office, Delhi"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-rayagada-odisha-federation-consumer-organizations",
+    "text": "Consumer Awareness Programm at Rayagada ( Odisha) by FEDERATION OF CONSUMER ORGANIZATIONS"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "f3226395833f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-17T08:25:54Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "आकाशवाणी ने अपने 90 वर्ष पूरे होने के उत्सव के रूप में 'स्वर प्रेरणा वीथिका' का अनावरण किया",
+   "15 जुलाई 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "13a84a702388",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-17T08:25:54Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 17.07.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "ca140fb9ac00",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
