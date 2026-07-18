@@ -1,5 +1,31 @@
 [
  {
+  "id": "ff98912cc3df",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-18T03:26:39Z",
+  "summary": "3 new links",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/organizations",
+    "text": "हमारा संगठन"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/about-us/team",
+    "text": "हमारी टीम"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/our-wings",
+    "text": "हमारी विंग"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "2feb31f2cac6",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
