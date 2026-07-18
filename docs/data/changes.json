@@ -1,5 +1,20 @@
 [
  {
+  "id": "8c4a909899f2",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-18T19:21:10Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Two Days Training Programme on 'MoDSI' and 'Guidelines on Information Security Practices for Government Entities' by NCA-T from 16.07.2026 to 17.07.2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "9047c737d656",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
