@@ -2,15 +2,15 @@
  "ministry-of-electronics-it-meity": {
   "name": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
-  "last_checked": "2026-07-18T10:37:52Z",
+  "last_checked": "2026-07-18T13:44:46Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-07-17T14:00:01Z"
+  "last_change": "2026-07-18T13:44:46Z"
  },
  "ministry-of-information-broadcasting-mib": {
   "name": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
-  "last_checked": "2026-07-18T10:37:52Z",
+  "last_checked": "2026-07-18T13:44:46Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-07-18T10:37:52Z"
@@ -18,16 +18,16 @@
  "telecom-regulatory-authority-of-india-trai": {
   "name": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
-  "last_checked": "2026-07-18T10:37:52Z",
+  "last_checked": "2026-07-18T13:44:46Z",
   "ok": false,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-07-17T14:00:01Z",
-  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7eff58902a50>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
+  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7f2c80696f00>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
  },
  "department-of-telecommunications-dot": {
   "name": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
-  "last_checked": "2026-07-18T10:37:52Z",
+  "last_checked": "2026-07-18T13:44:46Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-07-17T08:25:54Z"

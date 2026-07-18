@@ -608,7 +608,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-18T10:37:52Z",
+ "fetched_at": "2026-07-18T13:44:46Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -891,9 +891,9 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282837&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284251&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284748&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/ministry/organizations": 2,
-   "https://mib.gov.in/index.php/hi/ministry/our-wings": 2,
-   "https://mib.gov.in/index.php/hi/ministry/about-us/team": 2
+   "https://mib.gov.in/index.php/hi/ministry/organizations": 3,
+   "https://mib.gov.in/index.php/hi/ministry/our-wings": 3,
+   "https://mib.gov.in/index.php/hi/ministry/about-us/team": 3
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z",
