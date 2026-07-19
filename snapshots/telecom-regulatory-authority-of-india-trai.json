@@ -186,10 +186,10 @@
   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.",
   "What’s New",
   "16th July 2026",
-  "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.",
-  "Explore",
-  "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.",
   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.",
+  "Explore",
+  "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.",
+  "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.",
   "14th July 2026",
   "TRAI Assesses Mobile Network Quality on Munabao to Tanot National Highway (NH-70) in Rajasthan LSA.",
   "10th July 2026",
@@ -198,38 +198,40 @@
   "9th July 2026",
   "TRAI Assesses Mobile Network Quality across Barmer, Balotra, Pachpadra city and adjoining areas (in Rajasthan LSA)",
   "3rd July 2026",
-  "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA.",
   "TRAI Assesses Mobile Network Quality Across Gangtok and Pakyong Districts and from Deorali Bazar, Gangtok to Nathu La Pass along NH 310 in the State of Sikkim under West Bengal LSA.",
   "TRAI Assesses Mobile Network Quality across Bharuch city and nearby areas (in Gujarat LSA)",
+  "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA.",
   "On-going Consultation",
   "No Open Consultation",
   "Events",
-  "Consumer Awareness Program at Porbandar (Gujarat) by Consumer Protection Association",
+  "Consumer Awareness Program at Malvan (Maharashtra) by Patil Foundation",
   "Date :",
   "Time :",
   "10:00 AM",
   "Location :",
-  "Porbandar, Gujarat",
-  "Consumer Awareness Program at Bageshwar(Uttarakhand) by RSVS, Haridwar",
-  "11:00 AM",
-  "Bageshwar, Uttarakhand",
-  "Consumer Awareness Program at Etah (UP) by RSVS",
-  "Etah, Uttar Pradesh",
-  "Consumer Awareness Program at Fazilka (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)",
-  "Fazilka, Punjab",
-  "Consumer Awareness Program at Distt-Pithoragah (Uttarakhand) by IITED-Dehradun",
-  "Pithoragarh, Uttarakhand",
-  "Consumer Awareness Program at Distt-Almora (Uttarakhand) by PMRY Club-Pauri Garhwal",
-  "Almora, Uttarakhand",
-  "Consumer Awareness Program at Panchmahal (Gujarat) by Jhalod Taluka Grahak Surksha Mandal",
-  "Panchmahal, Gujarat",
-  "Consumer Awareness Program at Malvan (Maharashtra) by Patil Foundation",
   "Malvan, Maharashtra",
   "Consumer Awareness Program at Banswara (Rajasthan) by Upbhokta Sanrakshan Samiti, Sangaria",
   "10:15 AM",
   "Banswara, Rajasthan",
+  "Consumer Awareness Programm at Rayagada ( Odisha) by FEDERATION OF CONSUMER ORGANIZATIONS",
+  "Rayagada, Odisha",
   "Consumer Outreach Programme at Sirifort Institutional Area (Delhi) by TRAI Regional Office, Delhi",
   "South Delhi, Delhi",
+  "Consumer Awareness Program at Sahebganj (Jharkhand) by Mahila Kalyan Samiti",
+  "10:30 AM",
+  "Sahebganj, Jharkhand",
+  "Consumer Awareness Programm at Mangalagiri ( Andhra Pradesh) by Spandana Social Service association",
+  "11:00 AM",
+  "NTR District, Andhra Pradesh",
+  "Consumer Awareness Program at Madhubani (Bihar) by Mithila Sewa Samiti",
+  "09:00 AM",
+  "Madhubani , Bihar",
+  "Consumer Awareness Program at Distt-Varanasi (UP) by Citizen Development Institute-Lucknow",
+  "Varanasi, Uttar Pradesh",
+  "Consumer Awareness Programm at Gajapati ( Odisha) by Gangotree Social Organisation (GSO)",
+  "Gajapati, Odisha",
+  "Consumer Awareness Programm at Anugul ( Odisha) by PARIBARTAN",
+  "Angul, Odisha",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -887,6 +889,14 @@
    "text": "View All"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala",
+   "text": "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district",
    "text": "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA."
   },
@@ -900,14 +910,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala",
-   "text": "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala",
    "text": "Explore"
   },
   {
@@ -943,14 +945,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
-   "text": "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gangtok-and-pakyong",
    "text": "TRAI Assesses Mobile Network Quality Across Gangtok and Pakyong Districts and from Deorali Bazar, Gangtok to Nathu La Pass along NH 310 in the State of Sikkim under West Bengal LSA."
   },
@@ -967,40 +961,20 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
+   "text": "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-dibrugarh-and-tinsukia",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/open-consultation",
    "text": "View All"
   },
   {
    "url": "https://www.trai.gov.in/events",
    "text": "View All"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-porbandar-gujarat-consumer-protection-association",
-   "text": "Consumer Awareness Program at Porbandar (Gujarat) by Consumer Protection Association"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bageshwaruttarakhand-rsvs-haridwar",
-   "text": "Consumer Awareness Program at Bageshwar(Uttarakhand) by RSVS, Haridwar"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-etah-rsvs",
-   "text": "Consumer Awareness Program at Etah (UP) by RSVS"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-fazilka-punjab-indian-institute-technology-entrepreneur",
-   "text": "Consumer Awareness Program at Fazilka (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-pithoragah-uttarakhand-iited-dehradun",
-   "text": "Consumer Awareness Program at Distt-Pithoragah (Uttarakhand) by IITED-Dehradun"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-almora-uttarakhand-pmry-club-pauri-garhwal",
-   "text": "Consumer Awareness Program at Distt-Almora (Uttarakhand) by PMRY Club-Pauri Garhwal"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-panchmahal-gujarat-jhalod-taluka-grahak-surksha-mandal",
-   "text": "Consumer Awareness Program at Panchmahal (Gujarat) by Jhalod Taluka Grahak Surksha Mandal"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-malvan-maharashtra-patil-foundation",
@@ -1011,8 +985,36 @@
    "text": "Consumer Awareness Program at Banswara (Rajasthan) by Upbhokta Sanrakshan Samiti, Sangaria"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-rayagada-odisha-federation-consumer-organizations",
+   "text": "Consumer Awareness Programm at Rayagada ( Odisha) by FEDERATION OF CONSUMER ORGANIZATIONS"
+  },
+  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-programme-sirifort-institutional-area-delhi-trai-regional-office",
    "text": "Consumer Outreach Programme at Sirifort Institutional Area (Delhi) by TRAI Regional Office, Delhi"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sahebganj-jharkhand-mahila-kalyan-samiti",
+   "text": "Consumer Awareness Program at Sahebganj (Jharkhand) by Mahila Kalyan Samiti"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mangalagiri-andhra-pradesh-spandana-social-service",
+   "text": "Consumer Awareness Programm at Mangalagiri ( Andhra Pradesh) by Spandana Social Service association"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-madhubani-bihar-mithila-sewa-samiti",
+   "text": "Consumer Awareness Program at Madhubani (Bihar) by Mithila Sewa Samiti"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-varanasi-citizen-development-institute-lucknow",
+   "text": "Consumer Awareness Program at Distt-Varanasi (UP) by Citizen Development Institute-Lucknow"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-gajapati-odisha-gangotree-social-organisation-gso",
+   "text": "Consumer Awareness Programm at Gajapati ( Odisha) by Gangotree Social Organisation (GSO)"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-anugul-odisha-paribartan",
+   "text": "Consumer Awareness Programm at Anugul ( Odisha) by PARIBARTAN"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1212,7 +1214,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-19T16:07:57Z",
+ "fetched_at": "2026-07-19T19:22:49Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1412,7 +1414,7 @@
    "Time :": 0,
    "11:00 AM": 0,
    "Location :": 0,
-   "11:30 AM": 6,
+   "11:30 AM": 7,
    "TRAI Dashboard": 0,
    "1065.88 Million": 0,
    "Broadband Subscribers": 0,
@@ -1505,44 +1507,58 @@
    "10th July 2026": 0,
    "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)": 0,
    "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series": 0,
-   "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026": 6,
-   "New Delhi, Delhi": 6,
-   "Consumer Awareness Program at Distt-Lalitpur (UP) by IITED-Bijnor": 6,
-   "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026 - dated 17/07/2026": 4,
-   "Lalitpur, Uttar Pradesh": 6,
+   "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026": 7,
+   "New Delhi, Delhi": 7,
+   "Consumer Awareness Program at Distt-Lalitpur (UP) by IITED-Bijnor": 7,
+   "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026 - dated 17/07/2026": 5,
+   "Lalitpur, Uttar Pradesh": 7,
    "TRAI Assesses Mobile Network Quality on Munabao to Tanot National Highway (NH-70) in Rajasthan LSA.": 0,
    "14th July 2026": 0,
-   "Consumer Awareness Programm at Madikeri, Karnataka by Coordinated Action of Consumer & Voluntary Organisations of Karnataka": 6,
-   "Bageshwar, Uttarakhand": 0,
-   "Consumer Awareness Program at Distt-Almora (Uttarakhand) by PMRY Club-Pauri Garhwal": 0,
-   "Consumer Awareness Program at Distt-Pithoragah (Uttarakhand) by IITED-Dehradun": 0,
-   "Consumer Awareness Program at Bageshwar(Uttarakhand) by RSVS, Haridwar": 0,
-   "Pithoragarh, Uttarakhand": 0,
-   "Almora, Uttarakhand": 0,
-   "Madikeri, Karnataka": 6,
-   "Etah, Uttar Pradesh": 0,
-   "Fazilka, Punjab": 0,
-   "Consumer Awareness Program at Fazilka (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)": 0,
-   "Consumer Awareness Program at Etah (UP) by RSVS": 0,
-   "16 July, 2026": 6,
-   "Consumer Awareness Program at Panchmahal (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": 0,
+   "Consumer Awareness Programm at Madikeri, Karnataka by Coordinated Action of Consumer & Voluntary Organisations of Karnataka": 7,
+   "Bageshwar, Uttarakhand": 1,
+   "Consumer Awareness Program at Distt-Almora (Uttarakhand) by PMRY Club-Pauri Garhwal": 1,
+   "Consumer Awareness Program at Distt-Pithoragah (Uttarakhand) by IITED-Dehradun": 1,
+   "Consumer Awareness Program at Bageshwar(Uttarakhand) by RSVS, Haridwar": 1,
+   "Pithoragarh, Uttarakhand": 1,
+   "Almora, Uttarakhand": 1,
+   "Madikeri, Karnataka": 7,
+   "Etah, Uttar Pradesh": 1,
+   "Fazilka, Punjab": 1,
+   "Consumer Awareness Program at Fazilka (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)": 1,
+   "Consumer Awareness Program at Etah (UP) by RSVS": 1,
+   "16 July, 2026": 7,
+   "Consumer Awareness Program at Panchmahal (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": 1,
    "Malvan, Maharashtra": 0,
-   "Panchmahal, Gujarat": 0,
+   "Panchmahal, Gujarat": 1,
    "Consumer Awareness Program at Malvan (Maharashtra) by Patil Foundation": 0,
    "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": 0,
    "16th July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": 0,
    "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 0,
-   "Rayagada, Odisha": 4,
+   "Rayagada, Odisha": 0,
    "Consumer Outreach Programme at Sirifort Institutional Area (Delhi) by TRAI Regional Office, Delhi": 0,
-   "Consumer Awareness Programm at Rayagada ( Odisha) by FEDERATION OF CONSUMER ORGANIZATIONS": 4,
+   "Consumer Awareness Programm at Rayagada ( Odisha) by FEDERATION OF CONSUMER ORGANIZATIONS": 0,
    "10:15 AM": 0,
    "17 July, 2026": 0,
    "Consumer Awareness Program at Banswara (Rajasthan) by Upbhokta Sanrakshan Samiti, Sangaria": 0,
    "South Delhi, Delhi": 0,
    "Banswara, Rajasthan": 0,
-   "Consumer Awareness Program at Porbandar (Gujarat) by Consumer Protection Association": 0,
-   "Porbandar, Gujarat": 0
+   "Consumer Awareness Program at Porbandar (Gujarat) by Consumer Protection Association": 1,
+   "Porbandar, Gujarat": 1,
+   "Gajapati, Odisha": 0,
+   "Madhubani , Bihar": 0,
+   "09:00 AM": 0,
+   "Consumer Awareness Program at Madhubani (Bihar) by Mithila Sewa Samiti": 0,
+   "Varanasi, Uttar Pradesh": 0,
+   "Consumer Awareness Program at Distt-Varanasi (UP) by Citizen Development Institute-Lucknow": 0,
+   "Consumer Awareness Program at Sahebganj (Jharkhand) by Mahila Kalyan Samiti": 0,
+   "Sahebganj, Jharkhand": 0,
+   "Consumer Awareness Programm at Anugul ( Odisha) by PARIBARTAN": 0,
+   "Angul, Odisha": 0,
+   "Consumer Awareness Programm at Gajapati ( Odisha) by Gangotree Social Organisation (GSO)": 0,
+   "NTR District, Andhra Pradesh": 0,
+   "Consumer Awareness Programm at Mangalagiri ( Andhra Pradesh) by Spandana Social Service association": 0,
+   "10:30 AM": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1749,29 +1765,35 @@
    "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-clarifications-regarding-functioning-designated-1600": 0,
-   "https://www.trai.gov.in/events/ohd-draft-telecom-consumers-complaint-redressal-fourth-amendment-regulation-2026": 4,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-lalitpur-iited-bijnor": 6,
+   "https://www.trai.gov.in/events/ohd-draft-telecom-consumers-complaint-redressal-fourth-amendment-regulation-2026": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-lalitpur-iited-bijnor": 7,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-almora-uttarakhand-pmry-club-pauri-garhwal": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bageshwaruttarakhand-rsvs-haridwar": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-madikeri-karnataka-coordinated-action-consumer": 6,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-pithoragah-uttarakhand-iited-dehradun": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-etah-rsvs": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-almora-uttarakhand-pmry-club-pauri-garhwal": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bageshwaruttarakhand-rsvs-haridwar": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-madikeri-karnataka-coordinated-action-consumer": 7,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-pithoragah-uttarakhand-iited-dehradun": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-etah-rsvs": 1,
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-fazilka-punjab-indian-institute-technology-entrepreneur": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-fazilka-punjab-indian-institute-technology-entrepreneur": 1,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-malvan-maharashtra-patil-foundation": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-panchmahal-gujarat-jhalod-taluka-grahak-surksha-mandal": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-panchmahal-gujarat-jhalod-taluka-grahak-surksha-mandal": 1,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-rayagada-odisha-federation-consumer-organizations": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-rayagada-odisha-federation-consumer-organizations": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banswara-rajasthan-upbhokta-sanrakshan-samiti-sangaria": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-programme-sirifort-institutional-area-delhi-trai-regional-office": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-porbandar-gujarat-consumer-protection-association": 0
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-porbandar-gujarat-consumer-protection-association": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-gajapati-odisha-gangotree-social-organisation-gso": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mangalagiri-andhra-pradesh-spandana-social-service": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-anugul-odisha-paribartan": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-varanasi-citizen-development-institute-lucknow": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sahebganj-jharkhand-mahila-kalyan-samiti": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-madhubani-bihar-mithila-sewa-samiti": 0
   },
   "grave_lines": {
    "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": "2026-07-10T17:06:00Z",

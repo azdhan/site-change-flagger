@@ -1,5 +1,57 @@
 [
  {
+  "id": "7cf620c48376",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-19T19:22:49Z",
+  "summary": "6 new links, 13 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Sahebganj (Jharkhand) by Mahila Kalyan Samiti",
+   "Sahebganj, Jharkhand",
+   "Consumer Awareness Programm at Mangalagiri ( Andhra Pradesh) by Spandana Social Service association",
+   "NTR District, Andhra Pradesh",
+   "Consumer Awareness Program at Madhubani (Bihar) by Mithila Sewa Samiti",
+   "09:00 AM",
+   "Madhubani , Bihar",
+   "Consumer Awareness Program at Distt-Varanasi (UP) by Citizen Development Institute-Lucknow",
+   "Varanasi, Uttar Pradesh",
+   "Consumer Awareness Programm at Gajapati ( Odisha) by Gangotree Social Organisation (GSO)",
+   "Gajapati, Odisha",
+   "Consumer Awareness Programm at Anugul ( Odisha) by PARIBARTAN",
+   "Angul, Odisha"
+  ],
+  "added_lines_total": 13,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sahebganj-jharkhand-mahila-kalyan-samiti",
+    "text": "Consumer Awareness Program at Sahebganj (Jharkhand) by Mahila Kalyan Samiti"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mangalagiri-andhra-pradesh-spandana-social-service",
+    "text": "Consumer Awareness Programm at Mangalagiri ( Andhra Pradesh) by Spandana Social Service association"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-madhubani-bihar-mithila-sewa-samiti",
+    "text": "Consumer Awareness Program at Madhubani (Bihar) by Mithila Sewa Samiti"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-varanasi-citizen-development-institute-lucknow",
+    "text": "Consumer Awareness Program at Distt-Varanasi (UP) by Citizen Development Institute-Lucknow"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-gajapati-odisha-gangotree-social-organisation-gso",
+    "text": "Consumer Awareness Programm at Gajapati ( Odisha) by Gangotree Social Organisation (GSO)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-anugul-odisha-paribartan",
+    "text": "Consumer Awareness Programm at Anugul ( Odisha) by PARIBARTAN"
+   }
+  ],
+  "new_links_total": 6
+ },
+ {
   "id": "23dd51c13dc4",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
