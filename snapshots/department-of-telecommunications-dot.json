@@ -120,33 +120,35 @@
   "100 5G Labs",
   "अधिक देखें",
   "नया क्या है",
-  "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट",
+  "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट",
   "एच. एम. ओ. सी. का पता नोटः जून 2026 संस्करण",
   "भारत संचार निगम लिमिटेड के अध्यक्ष और प्रबंध निदेशक (सीएमडी) के पद पर नियुक्ति",
   "दूरसंचार (प्रशासनिक प्रक्रिया द्वारा स्पेक्ट्रम असाइनमेंट) नियम, 2026 का मसौदा",
   "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026",
-  "हाल के दस्तावेज़",
-  "आदेश और सूचनाएँ",
-  "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह \"ए\" के वरिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति",
-  "इंजीनियरिंग सेवा परीक्षा, 2024 के परिणामों के आधार पर दूरसंचार विभाग में जे. टी. ओ. समूह 'बी' को आवंटित उम्मीदवारी यानी आर. ओ. उम्मीदवार को रद्द करना",
-  "आदेश दिनांक 17.07.2026-आई. टी. एस. जी. आर. के अधिकारियों के संबंध में शक्ति पर लिया गया। ए",
-  "\"एम. सी. टी. पी. चरण-2 (तकनीकी घटक) बैच-25 के लिए आई. टी. एस. अधिकारियों के नामांकन\" के संबंध में ओ. एम",
-  "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "मीडिया के लिए",
+  "Recent Documents",
+  "Transfer/Posting in the Senior Administrative Grade of Indian Posts and Telecommunications Accounts and Finance Service, Group\" A\"",
+  "Order dated 17.07.2026 - Taken on Strength in respect of officers of ITS Gr. A",
+  "Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)",
+  "Cancellation of candidature i.r.o. candidate allocated to JTO Group ‘B’ in Department of Telecommunications on the basis of the results of Engineering Services Examination, 2024 –reg",
+  "View more",
+  "Explore User Personas",
+  "FOR MEDIA",
   "For Industry Professional",
   "For Researcher",
   "For IT Professional",
-  "महत्वपूर्ण लिंक",
-  "एम. टी. सी. टी. ई. पोर्टल",
-  "खोदने से पहले कॉल करें",
-  "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
-  "राजस्व प्रबंधन सेवाएँ",
+  "Important Links",
+  "MTCTE Portal",
+  "Telecom eServices Portal",
+  "Call Before u Dig",
+  "PM-WANI- Telecom eServices Portal",
+  "Revenue Management Services",
   "Right Of Way -Telecom eServices Portal",
   "सोशल मीडिया में",
   "एक्स",
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -332,7 +334,7 @@
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf",
-   "text": "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
+   "text": "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/d525c474cf9de89412f90c3e182b3b41.pdf",
@@ -355,8 +357,12 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)",
+   "text": "Orders and Notices Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)"
+  },
+  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
-   "text": "मीडिया के लिए"
+   "text": "FOR MEDIA"
   },
   {
    "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
@@ -372,23 +378,23 @@
   },
   {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
-   "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
+   "text": "MTCTE Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in",
-   "text": "दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   "text": "Telecom eServices Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/call-before-u-dig",
-   "text": "खोदने से पहले कॉल करें arrow_forward_ios"
+   "text": "Call Before u Dig arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/app-provider",
-   "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   "text": "PM-WANI- Telecom eServices Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/about-mtcte",
-   "text": "राजस्व प्रबंधन सेवाएँ arrow_forward_ios"
+   "text": "Revenue Management Services arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/right-of-way-permissions",
@@ -396,7 +402,7 @@
   },
   {
    "url": "https://dot.gov.in/important-links",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
@@ -472,7 +478,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-20T09:32:25Z",
+ "fetched_at": "2026-07-20T14:31:26Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -688,14 +694,14 @@
    "शॉर्टकोड वर्ष 2024 का आवंटन": 0,
    "अंतिम बार अद्यतन किया गयाः 14.07.2026": 0,
    "शॉर्टकोड वर्ष 2025 का आवंटन": 0,
-   "Allotment of Shortcodes year 2024": 1,
+   "Allotment of Shortcodes year 2024": 2,
    "अंतिम बार अद्यतन किया गयाः 15.07.2026": 0,
    "दूरसंचार विभाग के पी एंड टी बी. डब्ल्यू. एस. जी. आर. 'ए' (विद्युत उप-संवर्ग) के अधिकारियों की अनंतिम वरिष्ठता सूची 01.01.2026-रेग": 0,
-   "Provisional Seniority List of officers of P&T BWS Gr ‘A’ (Electrical Sub-cadre) of Department of Telecommunications as on 01.01.2026 – reg": 1,
-   "Voluntary Retirement from Govt. Service – Shri Sushil Kumar, ITS [Staff No. 20672] presently PGM, BSNL CO. –reg.": 1,
+   "Provisional Seniority List of officers of P&T BWS Gr ‘A’ (Electrical Sub-cadre) of Department of Telecommunications as on 01.01.2026 – reg": 2,
+   "Voluntary Retirement from Govt. Service – Shri Sushil Kumar, ITS [Staff No. 20672] presently PGM, BSNL CO. –reg.": 2,
    "सरकार से स्वैच्छिक सेवानिवृत्ति। सेवा-श्री सुशील कुमार, आई. टी. एस. [कर्मचारी संख्या 20672] वर्तमान में पी. जी. एम., बी. एस. एन. एल. सी. ओ.-रेग।": 0,
    "अंतिम बार अद्यतन किया गयाः 16.07.2026": 0,
-   "OM regarding \"Nomination of ITS officers for MCTP Phase-II (Technical Component) Batch-25\"": 0,
+   "OM regarding \"Nomination of ITS officers for MCTP Phase-II (Technical Component) Batch-25\"": 1,
    "\"एम. सी. टी. पी. चरण-2 (तकनीकी घटक) बैच-25 के लिए आई. टी. एस. अधिकारियों के नामांकन\" के संबंध में ओ. एम": 0,
    "अंतिम बार अद्यतन किया गयाः 17.07.2026": 0,
    "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026": 0,
@@ -705,7 +711,8 @@
    "Order dated 17.07.2026 - Taken on Strength in respect of officers of ITS Gr. A": 0,
    "Cancellation of candidature i.r.o. candidate allocated to JTO Group ‘B’ in Department of Telecommunications on the basis of the results of Engineering Services Examination, 2024 –reg": 0,
    "इंजीनियरिंग सेवा परीक्षा, 2024 के परिणामों के आधार पर दूरसंचार विभाग में जे. टी. ओ. समूह 'बी' को आवंटित उम्मीदवारी यानी आर. ओ. उम्मीदवार को रद्द करना": 0,
-   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह \"ए\" के वरिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति": 0
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह \"ए\" के वरिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति": 0,
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -783,9 +790,10 @@
    "https://www.india.gov.in/": 0,
    "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf": 0,
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
-   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-year-2024-gDO3czNtQWa?pageTitle=Allotment-of-Shortcodes-year-2024": 1,
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-year-2024-gDO3czNtQWa?pageTitle=Allotment-of-Shortcodes-year-2024": 2,
    "https://www.dot.gov.in/static/uploads/2026/06/d44ff2aec0505d538d9f3d51eba88936.pdf": 0,
-   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 6
+   "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": 7,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-20T03:59:45Z",

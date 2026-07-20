@@ -1,5 +1,98 @@
 [
  {
+  "id": "5c8c5883dbf5",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-20T14:31:26Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)",
+    "text": "Orders and Notices Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "faf432c90589",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-20T14:31:26Z",
+  "summary": "7 new links, 4 new text blocks",
+  "added_lines": [
+   "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication - dated 23/07/2026",
+   "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.",
+   "TRAI Assesses Mobile Network Quality Across Bhopal City & Indore to Neemuch via Ratlam and Mandsaur Highway & Bilaspur to Ambikapur Highway.",
+   "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/events/ohd-consultation-paper-regulatory-framework-vehicle-everything-v2x-communication",
+    "text": "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication - dated 23/07/2026"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and",
+    "text": "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bhopal-city-indore-neemuch",
+    "text": "TRAI Assesses Mobile Network Quality Across Bhopal City & Indore to Neemuch via Ratlam and Mandsaur Highway & Bilaspur to Ambikapur Highway."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bhopal-city-indore-neemuch",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa",
+    "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 7
+ },
+ {
+  "id": "83e7c04dd7d7",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-20T14:31:26Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "वर्ष 2024 के लिए 72वें राष्ट्रीय फिल्म पुरस्कारों की घोषणा",
+   "महाराष्ट्र के मुख्यमंत्री ने सूचना और प्रसारण मंत्रालय तथा महाराष्ट्र सरकार से वेव्स के दूसरे संस्करण को और भी सफल बनाने के लिए मिलकर काम करने का आग्रह किया",
+   "20 जुलाई 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2286195&reg=48&lang=2",
+    "text": "वर्ष 2024 के लिए 72वें राष्ट्रीय फिल्म पुरस्कारों की घोषणा"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2285890&reg=48&lang=2",
+    "text": "महाराष्ट्र के मुख्यमंत्री ने सूचना और प्रसारण मंत्रालय तथा महाराष्ट्र सरकार से वेव्स के दूसरे संस्करण को और भी सफल बनाने के लिए मिलकर काम करने का आग्रह किया"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "fe6ef2c9558b",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
