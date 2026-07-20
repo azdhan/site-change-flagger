@@ -1,5 +1,45 @@
 [
  {
+  "id": "5237a18526fa",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-20T03:59:45Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026",
+   "HMoC’s Address note: June 2026 Edition",
+   "What’s New",
+   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited",
+   "WSIS Prize 2026- Live Webcast"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "db36f2c69af8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-20T03:59:45Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Malerkotla (Punjab) by Patiala Consumer & Telephone Subscribers Forum",
+   "Malerkotla, Punjab"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-malerkotla-punjab-patiala-consumer-telephone-subscribers",
+    "text": "Consumer Awareness Program at Malerkotla (Punjab) by Patiala Consumer & Telephone Subscribers Forum"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "5329ecd5f7cd",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
