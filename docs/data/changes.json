@@ -1,5 +1,40 @@
 [
  {
+  "id": "fe6ef2c9558b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-20T09:32:25Z",
+  "summary": "3 new links, 6 new text blocks, 2 items no longer on page",
+  "added_lines": [
+   "20th July 2026",
+   "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway.",
+   "Consumer Awareness Program at Chatra (Jharkhand) by SNMMSD Trust",
+   "12:00 PM",
+   "Chatra, Jharkhand",
+   "20 July, 2026"
+  ],
+  "added_lines_total": 6,
+  "removed_lines": [
+   "OHD on Draft Telecom Consumers Complaint Redressal (Fourth Amendment) Regulation, 2026 - dated 17/07/2026"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb",
+    "text": "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chatra-jharkhand-snmmsd-trust",
+    "text": "Consumer Awareness Program at Chatra (Jharkhand) by SNMMSD Trust"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "5237a18526fa",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
