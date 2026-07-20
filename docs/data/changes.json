@@ -1,5 +1,29 @@
 [
  {
+  "id": "50dec6ec02da",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-20T22:12:10Z",
+  "summary": "20 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Bageshwar, Uttarakhand",
+   "Consumer Awareness Program at Distt-Almora (Uttarakhand) by PMRY Club-Pauri Garhwal",
+   "Consumer Awareness Program at Distt-Pithoragah (Uttarakhand) by IITED-Dehradun",
+   "Consumer Awareness Program at Bageshwar(Uttarakhand) by RSVS, Haridwar",
+   "Pithoragarh, Uttarakhand",
+   "Almora, Uttarakhand",
+   "Etah, Uttar Pradesh",
+   "Fazilka, Punjab",
+   "Consumer Awareness Program at Fazilka (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)",
+   "Consumer Awareness Program at Etah (UP) by RSVS"
+  ],
+  "removed_lines_total": 20,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "dc29d69f1fc6",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
