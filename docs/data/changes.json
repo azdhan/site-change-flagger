@@ -1,5 +1,20 @@
 [
  {
+  "id": "9e50fa22e10d",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-21T19:48:26Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Delegation of Powers dtd. 16-07-2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e5addceca702",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
