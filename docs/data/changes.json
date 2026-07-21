@@ -1,5 +1,43 @@
 [
  {
+  "id": "c4f042262d34",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-21T11:17:36Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Allotment of Shortcodes year 2024",
+   "Provisional Seniority List of officers of P&T BWS Gr ‘A’ (Electrical Sub-cadre) of Department of Telecommunications as on 01.01.2026 – reg",
+   "Voluntary Retirement from Govt. Service – Shri Sushil Kumar, ITS [Staff No. 20672] presently PGM, BSNL CO. –reg."
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "6b0fdbfdf44e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-21T11:17:36Z",
+  "summary": "11 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality across Bharuch city and nearby areas (in Gujarat LSA)",
+   "Malvan, Maharashtra",
+   "Consumer Awareness Program at Malvan (Maharashtra) by Patil Foundation",
+   "10:15 AM",
+   "17 July, 2026",
+   "Consumer Awareness Program at Banswara (Rajasthan) by Upbhokta Sanrakshan Samiti, Sangaria",
+   "Banswara, Rajasthan"
+  ],
+  "removed_lines_total": 11,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "7a1b42f0050d",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
