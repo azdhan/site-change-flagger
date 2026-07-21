@@ -1,5 +1,82 @@
 [
  {
+  "id": "e5addceca702",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-21T14:18:31Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "OM regarding \"Nomination of ITS officers for MCTP Phase-II (Technical Component) Batch-25\""
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "edfc97ff83ec",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-21T14:18:31Z",
+  "summary": "11 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "3rd July 2026",
+   "TRAI Assesses Mobile Network Quality Across Gangtok and Pakyong Districts and from Deorali Bazar, Gangtok to Nathu La Pass along NH 310 in the State of Sikkim under West Bengal LSA.",
+   "TRAI Assesses Mobile Network Quality across Dibrugarh and Tinsukia Districts in the State of Assam under Assam LSA.",
+   "TRAI Assesses Mobile Network Quality across Barmer, Balotra, Pachpadra city and adjoining areas (in Rajasthan LSA)",
+   "9th July 2026"
+  ],
+  "removed_lines_total": 11,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "1fc04094bf37",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-21T14:18:31Z",
+  "summary": "1 new link, 3 new text blocks, 7 items no longer on page",
+  "added_lines": [
+   "863.63 किलोबाइट |",
+   "निजी एफएम रेडियो और कम्युनिटी रेडियो स्टेशनों से संबंधित शिकायतों/समस्याओं की…",
+   "21 जुलाई 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "ई - बुक्स",
+   "8.32 मेगा बाइट |",
+   "मन की बात मई 2026",
+   "एनएफडीसी-एनएफएआई के अभिलेखीय संरक्षण से मलयालम क्लासिक फिल्म \"किरीदम\" 4के वर्जन में बड़े पर्दे पर वापस आई",
+   "17 जुलाई 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-07/order-and-notices.pdf",
+    "text": "21-07-2026 | 863.63 किलोबाइट | निजी एफएम रेडियो और कम्युनिटी रेडियो स्टेशनों से संबंधित शिकायतों/समस्याओं की…"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "8258d9cce655",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-21T14:18:31Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Loading..."
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "c4f042262d34",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

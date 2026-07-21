@@ -96,6 +96,8 @@
   "2.54 मेगा बाइट |",
   "सूचना और प्रसारण मंत्रालय के अंतर्गत केंद्रीय फिल्म प्रमाणन बोर्ड के क्षेत्रीय कार्यालयों- यथा- कटक, दिल्ली, हैदराबाद, कोलकाता और मुंबई (प्रत्येक में एक) में क्षेत्रीय अधिकारी के पांच पदों को भरने के संबंध में।",
   "नया क्या है",
+  "863.63 किलोबाइट |",
+  "निजी एफएम रेडियो और कम्युनिटी रेडियो स्टेशनों से संबंधित शिकायतों/समस्याओं की…",
   "206.36 किलोबाइट |",
   "ब्रॉडकास्ट कंटेंट और तकनीकी पैरामीटर व मानकों की निगरानी के संबंध में एडवाइज़री",
   "143.53 किलोबाइट |",
@@ -115,8 +117,6 @@
   "196.97 किलोबाइट |",
   "गणतंत्र दिवस 2026 के प्रसारणसमारोह के लिए निजी सैटेलाइट टीवी चैनलों द्वारा…",
   "सूचना एवं प्रसारण मंत्रालय के अधीन केंद्रीय फिल्म प्रमाणन बोर्ड के क्षेत्रीय…",
-  "4.26 मेगा बाइट |",
-  "प्रकाशन विभाग में क्लर्क ग्रेड-II के पद के लिए भर्ती नियमों (आर.आर.) में संशोधन…",
   "और देखें",
   "हालिया दस्तावेज़",
   "प्रेस प्रकाशनी",
@@ -165,7 +165,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "20 जुलाई 2026"
+  "21 जुलाई 2026"
  ],
  "links": [
   {
@@ -397,6 +397,10 @@
    "text": "View More"
   },
   {
+   "url": "https://mib.gov.in/sites/default/files/2026-07/order-and-notices.pdf",
+   "text": "21-07-2026 | 863.63 किलोबाइट | निजी एफएम रेडियो और कम्युनिटी रेडियो स्टेशनों से संबंधित शिकायतों/समस्याओं की…"
+  },
+  {
    "url": "https://mib.gov.in/sites/default/files/2026-06/advisory-fm-cell-1.pdf",
    "text": "05-06-2026 | 206.36 किलोबाइट | ब्रॉडकास्ट कंटेंट और तकनीकी पैरामीटर व मानकों की निगरानी के संबंध में एडवाइज़री"
   },
@@ -431,10 +435,6 @@
   {
    "url": "https://mib.gov.in/sites/default/files/2026-01/ganatantara-daivasa-2026-kae-parasaaranasamaaraoha-kae-laie-naijai-saaitaelaaita-taivai-caainalaon-davaaraa-saankaetaika-bhaasaa-maen-vayaakhayaa-kai-sauvaidhaa-upalabadha-karaanae-haetau-dainaanka-22.01.2026-kaa-1.pdf",
    "text": "23-01-2026 | 196.97 किलोबाइट | गणतंत्र दिवस 2026 के प्रसारणसमारोह के लिए निजी सैटेलाइट टीवी चैनलों द्वारा…"
-  },
-  {
-   "url": "https://mib.gov.in/sites/default/files/2025-12/amendment-of-recruitment-rules.pdf",
-   "text": "22-12-2025 | 4.26 मेगा बाइट | प्रकाशन विभाग में क्लर्क ग्रेड-II के पद के लिए भर्ती नियमों (आर.आर.) में संशोधन…"
   },
   {
    "url": "http://mib.gov.in/hi/whats-new",
@@ -606,7 +606,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-21T11:17:36Z",
+ "fetched_at": "2026-07-21T14:18:31Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -725,13 +725,10 @@
    "196.97 किलोबाइट |": 0,
    "गणतंत्र दिवस 2026 के प्रसारणसमारोह के लिए निजी सैटेलाइट टीवी चैनलों द्वारा…": 0,
    "सूचना एवं प्रसारण मंत्रालय के अधीन केंद्रीय फिल्म प्रमाणन बोर्ड के क्षेत्रीय…": 0,
-   "4.26 मेगा बाइट |": 0,
-   "प्रकाशन विभाग में क्लर्क ग्रेड-II के पद के लिए भर्ती नियमों (आर.आर.) में संशोधन…": 0,
+   "4.26 मेगा बाइट |": 1,
+   "प्रकाशन विभाग में क्लर्क ग्रेड-II के पद के लिए भर्ती नियमों (आर.आर.) में संशोधन…": 1,
    "और देखें": 0,
    "हालिया दस्तावेज़": 0,
-   "ई - बुक्स": 7,
-   "8.32 मेगा बाइट |": 7,
-   "मन की बात मई 2026": 7,
    "प्रेस प्रकाशनी": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "Image and name of मीडिया. Select to view more information.": 0,
@@ -774,13 +771,14 @@
    "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है": 0,
    "अपडेट के लिए सदस्यता लें": 0,
    "अंतिम अद्यतन:": 0,
-   "एनएफडीसी-एनएफएआई के अभिलेखीय संरक्षण से मलयालम क्लासिक फिल्म \"किरीदम\" 4के वर्जन में बड़े पर्दे पर वापस आई": 7,
    "सूचना एवं प्रसारण मंत्रालय ने वेव्स 2027 के ‘क्रिएट इन इंडिया चैलेंज’ सीजन-2 के अंतर्गत उद्योग-संचालित चैलेंज के लिए आमंत्रित किए प्रस्ताव": 0,
    "पत्र सूचना कार्यालय ने \"भारत की रचनात्मक अर्थव्यवस्था के लिए भविष्योन्मुखी कार्यबल का निर्माण\" विषय पर एक दिवसीय मीडिया कार्यशाला 'वार्ता' का आयोजन किया": 0,
-   "17 जुलाई 2026": 7,
    "वर्ष 2024 के लिए 72वें राष्ट्रीय फिल्म पुरस्कारों की घोषणा": 0,
-   "20 जुलाई 2026": 0,
-   "महाराष्ट्र के मुख्यमंत्री ने सूचना और प्रसारण मंत्रालय तथा महाराष्ट्र सरकार से वेव्स के दूसरे संस्करण को और भी सफल बनाने के लिए मिलकर काम करने का आग्रह किया": 0
+   "20 जुलाई 2026": 1,
+   "महाराष्ट्र के मुख्यमंत्री ने सूचना और प्रसारण मंत्रालय तथा महाराष्ट्र सरकार से वेव्स के दूसरे संस्करण को और भी सफल बनाने के लिए मिलकर काम करने का आग्रह किया": 0,
+   "863.63 किलोबाइट |": 0,
+   "21 जुलाई 2026": 0,
+   "निजी एफएम रेडियो और कम्युनिटी रेडियो स्टेशनों से संबंधित शिकायतों/समस्याओं की…": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -849,10 +847,9 @@
    "https://mib.gov.in/sites/default/files/srfti-annual-report-2024-25.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-02/revised-republic-day-parade-advisory-2.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-01/ganatantara-daivasa-2026-kae-parasaaranasamaaraoha-kae-laie-naijai-saaitaelaaita-taivai-caainalaon-davaaraa-saankaetaika-bhaasaa-maen-vayaakhayaa-kai-sauvaidhaa-upalabadha-karaanae-haetau-dainaanka-22.01.2026-kaa-1.pdf": 0,
-   "https://mib.gov.in/sites/default/files/2025-12/amendment-of-recruitment-rules.pdf": 0,
+   "https://mib.gov.in/sites/default/files/2025-12/amendment-of-recruitment-rules.pdf": 1,
    "http://mib.gov.in/hi/whats-new": 0,
    "https://mib.gov.in/whats-new": 0,
-   "https://mib.gov.in/sites/default/files/2026-07/mann-ki-baat-hindi-may-2026-single-sepreater_compressed_0.pdf": 7,
    "http://mib.gov.in/hi/documents/reports": 0,
    "https://mib.gov.in/hi/persona/media": 0,
    "https://mib.gov.in/hi/persona/researcher": 0,
@@ -889,19 +886,19 @@
    "https://www.instagram.com/mib_india/": 0,
    "https://www.india.gov.in/": 0,
    "https://www.mygov.in/": 0,
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282837&reg=3&lang=2": 7,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284251&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284748&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2285890&reg=48&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2286195&reg=48&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/help": 2,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 2,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 2,
-   "https://mib.gov.in/index.php/hi/website-policy": 2,
-   "https://mib.gov.in/index.php/hi/related-link": 2,
-   "https://mib.gov.in/index.php/hi/feedback": 2,
-   "https://mib.gov.in/index.php/hi/sitemap": 2,
-   "https://mib.gov.in/index.php/hi/archives": 2
+   "https://mib.gov.in/index.php/hi/help": 3,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 3,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 3,
+   "https://mib.gov.in/index.php/hi/website-policy": 3,
+   "https://mib.gov.in/index.php/hi/related-link": 3,
+   "https://mib.gov.in/index.php/hi/feedback": 3,
+   "https://mib.gov.in/index.php/hi/sitemap": 3,
+   "https://mib.gov.in/index.php/hi/archives": 3,
+   "https://mib.gov.in/sites/default/files/2026-07/order-and-notices.pdf": 0
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z",
@@ -914,7 +911,12 @@
    "14 जुलाई 2026": "2026-07-16T16:39:16Z",
    "आकाशवाणी ने अपने 90 वर्ष पूरे होने के उत्सव के रूप में 'स्वर प्रेरणा वीथिका' का अनावरण किया": "2026-07-17T08:25:54Z",
    "15 जुलाई 2026": "2026-07-17T08:25:54Z",
-   "16 जुलाई 2026": "2026-07-18T10:37:52Z"
+   "16 जुलाई 2026": "2026-07-18T10:37:52Z",
+   "ई - बुक्स": "2026-07-21T14:18:31Z",
+   "8.32 मेगा बाइट |": "2026-07-21T14:18:31Z",
+   "मन की बात मई 2026": "2026-07-21T14:18:31Z",
+   "एनएफडीसी-एनएफएआई के अभिलेखीय संरक्षण से मलयालम क्लासिक फिल्म \"किरीदम\" 4के वर्जन में बड़े पर्दे पर वापस आई": "2026-07-21T14:18:31Z",
+   "17 जुलाई 2026": "2026-07-21T14:18:31Z"
   },
   "grave_links": {
    "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-07-16T08:31:04Z",
@@ -930,7 +932,9 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2280119&reg=3&lang=2": "2026-07-17T08:25:54Z",
    "https://mib.gov.in/index.php/hi/ministry/organizations": "2026-07-19T08:31:49Z",
    "https://mib.gov.in/index.php/hi/ministry/our-wings": "2026-07-19T08:31:49Z",
-   "https://mib.gov.in/index.php/hi/ministry/about-us/team": "2026-07-19T08:31:49Z"
+   "https://mib.gov.in/index.php/hi/ministry/about-us/team": "2026-07-19T08:31:49Z",
+   "https://mib.gov.in/sites/default/files/2026-07/mann-ki-baat-hindi-may-2026-single-sepreater_compressed_0.pdf": "2026-07-21T14:18:31Z",
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282837&reg=3&lang=2": "2026-07-21T14:18:31Z"
   }
  }
 }
