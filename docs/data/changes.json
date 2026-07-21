@@ -1,5 +1,36 @@
 [
  {
+  "id": "7a1b42f0050d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-21T08:42:37Z",
+  "summary": "2 new links, 8 new text blocks",
+  "added_lines": [
+   "01:30 PM",
+   "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication",
+   "Consumer Awareness Program at Jamnagar (Gujarat) by Rajkot Saher Jilla Grahak Suraksha Mandal",
+   "03:00 PM",
+   "Jamnagar, Gujarat",
+   "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+   "Mehsana, Gujarat",
+   "21 July, 2026"
+  ],
+  "added_lines_total": 8,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamnagar-gujarat-rajkot-saher-jilla-grahak-suraksha-0",
+    "text": "Consumer Awareness Program at Jamnagar (Gujarat) by Rajkot Saher Jilla Grahak Suraksha Mandal"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-bhavnagar-grahak-suraksha-mandal",
+    "text": "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "50dec6ec02da",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
