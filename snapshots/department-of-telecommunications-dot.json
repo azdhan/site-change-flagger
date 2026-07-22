@@ -152,15 +152,17 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद करें",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 22.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -429,27 +431,27 @@
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://dot.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://dot.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://dot.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://dot.gov.in/help",
-   "text": "Help"
+   "text": "मदद करें"
   },
   {
    "url": "https://dot.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://x.com/DoT_India",
@@ -477,7 +479,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-22T16:42:03Z",
+ "fetched_at": "2026-07-22T19:40:55Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -655,17 +657,17 @@
    "View more": 0,
    "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
-   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
-   "Help": 0,
-   "Feedback": 0,
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 1,
+   "Help": 1,
+   "Feedback": 1,
    "इस पोस्ट को इंस्टाग्राम पर देखें": 0,
    "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)": 0,
-   "Useful Links": 0,
-   "Website Policies": 0,
-   "Sitemap": 0,
-   "Archives": 0,
-   "Subscribe for Updates": 0,
-   "Related Links": 0,
+   "Useful Links": 1,
+   "Website Policies": 1,
+   "Sitemap": 1,
+   "Archives": 1,
+   "Subscribe for Updates": 1,
+   "Related Links": 1,
    "अंतिम बार अद्यतन किया गयाः 08.07.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति": 0,
    "दूरसंचार की राजपत्र अधिसूचना (रेडियो उपकरण अधिकार प्राधिकरण) नियम, 2026": 0,
@@ -704,23 +706,23 @@
    "Transfer/Posting in the Senior Administrative Grade of Indian Posts and Telecommunications Accounts and Finance Service, Group\" A\"": 0,
    "आदेश दिनांक 17.07.2026-आई. टी. एस. जी. आर. के अधिकारियों के संबंध में शक्ति पर लिया गया। ए": 0,
    "Order dated 17.07.2026 - Taken on Strength in respect of officers of ITS Gr. A": 0,
-   "Cancellation of candidature i.r.o. candidate allocated to JTO Group ‘B’ in Department of Telecommunications on the basis of the results of Engineering Services Examination, 2024 –reg": 3,
+   "Cancellation of candidature i.r.o. candidate allocated to JTO Group ‘B’ in Department of Telecommunications on the basis of the results of Engineering Services Examination, 2024 –reg": 4,
    "इंजीनियरिंग सेवा परीक्षा, 2024 के परिणामों के आधार पर दूरसंचार विभाग में जे. टी. ओ. समूह 'बी' को आवंटित उम्मीदवारी यानी आर. ओ. उम्मीदवार को रद्द करना": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह \"ए\" के वरिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति": 0,
    "Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)": 0,
-   "WSIS Prize 2026- Live Webcast": 2,
-   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 2,
-   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 2,
-   "What’s New": 2,
-   "Technology Development & Investment Promotion (TDIP) Scheme": 2,
-   "Production Linked Incentive (PLI) scheme": 2,
-   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 2,
-   "Public Procurement-Preference to Make in India": 2,
-   "HMoC’s Address note: June 2026 Edition": 2,
+   "WSIS Prize 2026- Live Webcast": 3,
+   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 3,
+   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 3,
+   "What’s New": 3,
+   "Technology Development & Investment Promotion (TDIP) Scheme": 3,
+   "Production Linked Incentive (PLI) scheme": 3,
+   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 3,
+   "Public Procurement-Preference to Make in India": 3,
+   "HMoC’s Address note: June 2026 Edition": 3,
    "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)": 0,
    "अंतिम बार अद्यतन किया गयाः 20.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 21.07.2026": 0,
-   "Key Offerings": 2,
+   "Key Offerings": 3,
    "राष्ट्रीय वित्तीय रिपोर्टिंग प्राधिकरण में श्री अमित कुमार जैन कर्मचारी संख्या 96574 की प्रतिनियुक्ति अवधि का विस्तार": 0,
    "Extension of deputation period of Shri Amit Kumar Jain Staff No 96574 in National Financial Reporting Authority": 0,
    "अंतिम बार अद्यतन किया गयाः 22.07.2026": 0
