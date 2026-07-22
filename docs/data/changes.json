@@ -1,5 +1,51 @@
 [
  {
+  "id": "dca31b938446",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-22T11:17:37Z",
+  "summary": "3 new links, 4 new text blocks",
+  "added_lines": [
+   "22nd July 2026",
+   "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA.",
+   "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra",
+   "Yavatmal, Maharashtra"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-lunglei-lawngtlai-and-siaha",
+    "text": "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-lunglei-lawngtlai-and-siaha",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology",
+    "text": "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "e577fdfa912c",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-22T11:17:37Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 22.07.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "945d15a7e606",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
