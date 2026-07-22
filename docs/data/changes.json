@@ -1,5 +1,71 @@
 [
  {
+  "id": "945d15a7e606",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-22T08:42:19Z",
+  "summary": "7 new links, 13 new text blocks, 13 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Programme at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION",
+   "Consumer Awareness Programme at Manalur ( Tamil Nadu ) by WOMEN CONSUMER PROTECTION ASSOCIATION",
+   "Sivagangai, Tamil Nadu",
+   "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED",
+   "South Salmara Mankachhar, Assam",
+   "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology and Entrepreneur Development (IITED)",
+   "YAVATMAL, Maharashtra",
+   "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol",
+   "02:30 PM",
+   "Satna, Madhya Pradesh",
+   "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES",
+   "Tirupathi , Andhra Pradesh",
+   "22 July, 2026"
+  ],
+  "added_lines_total": 13,
+  "removed_lines": [
+   "Rayagada, Odisha",
+   "Consumer Outreach Programme at Sirifort Institutional Area (Delhi) by TRAI Regional Office, Delhi",
+   "Consumer Awareness Programm at Rayagada ( Odisha) by FEDERATION OF CONSUMER ORGANIZATIONS",
+   "South Delhi, Delhi",
+   "Consumer Awareness Program at Sahebganj (Jharkhand) by Mahila Kalyan Samiti",
+   "Sahebganj, Jharkhand",
+   "NTR District, Andhra Pradesh",
+   "Consumer Awareness Programm at Mangalagiri ( Andhra Pradesh) by Spandana Social Service association",
+   "20 July, 2026"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-karur-tamil-nadu-tamilnadu-consumer-federation",
+    "text": "Consumer Awareness Programme at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-manalur-tamil-nadu-women-consumer-protection",
+    "text": "Consumer Awareness Programme at Manalur ( Tamil Nadu ) by WOMEN CONSUMER PROTECTION ASSOCIATION"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-south-salmara-mankachhar-assam-iited",
+    "text": "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology-and",
+    "text": "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology and Entrepreneur Development (IITED)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology-and-0",
+    "text": "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology and Entrepreneur Development (IITED)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagod-distt-satnamp-upbhokta-adhikar-sangthan-shahdol",
+    "text": "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-chandragiri-andhra-pradesh-rural-action-social",
+    "text": "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES"
+   }
+  ],
+  "new_links_total": 7
+ },
+ {
   "id": "9e50fa22e10d",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
