@@ -1,5 +1,51 @@
 [
  {
+  "id": "63c30365a1b1",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-22T14:19:35Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union",
+   "Lunglei, Mizoram"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-lunglei-mizoram-mizoram-consumers-union-0",
+    "text": "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "2091b21c75b2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-22T14:19:35Z",
+  "summary": "1 new link, 2 new text blocks, 4 items no longer on page",
+  "added_lines": [
+   "सूचना एवं प्रसारण मंत्रालय ने जमीनी स्तर के डिजिटल क्रिएटर को बढ़ावा देने के लिए 'जेम्स ऑफ इंडिया' चैलेंज के पायलट चरण का शुभारंभ किया",
+   "22 जुलाई 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "4.26 मेगा बाइट |",
+   "प्रकाशन विभाग में क्लर्क ग्रेड-II के पद के लिए भर्ती नियमों (आर.आर.) में संशोधन…",
+   "20 जुलाई 2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287005&reg=3&lang=2",
+    "text": "सूचना एवं प्रसारण मंत्रालय ने जमीनी स्तर के डिजिटल क्रिएटर को बढ़ावा देने के लिए 'जेम्स ऑफ इंडिया' चैलेंज के पायलट चरण का शुभारंभ किया"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "dca31b938446",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
