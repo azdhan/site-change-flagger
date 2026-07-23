@@ -1,5 +1,58 @@
 [
  {
+  "id": "abeaa5ce2a0a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-23T11:19:05Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Cancellation of candidature i.r.o. candidate allocated to JTO Group ‘B’ in Department of Telecommunications on the basis of the results of Engineering Services Examination, 2024 –reg"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a1efeec05db3",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-23T11:19:05Z",
+  "summary": "4 new links, 3 new text blocks, 6 items no longer on page",
+  "added_lines": [
+   "23rd July 2026",
+   "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.",
+   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA."
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "TRAI releases clarifications regarding functioning of designated 1600 series and 140 series",
+   "01:30 PM",
+   "Consumer Awareness Programme at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION"
+  ],
+  "removed_lines_total": 6,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and",
+    "text": "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata",
+    "text": "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
   "id": "c715d3e37660",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
