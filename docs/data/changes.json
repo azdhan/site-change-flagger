@@ -1,5 +1,46 @@
 [
  {
+  "id": "b7bb7d194f2d",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-23T03:39:34Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/06/e57098ec9d7015e859c1b98d6e3fadad.pdf",
+    "text": "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026 arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "5500ed666ed2",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-23T03:39:34Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY",
+   "Dhone, Andhra Pradesh"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-dhone-andhra-pradesh-pss-educational-development",
+    "text": "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "63c30365a1b1",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
