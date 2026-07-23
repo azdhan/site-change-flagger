@@ -108,29 +108,28 @@
   "माननीय कैबिनेट मंत्री",
   "डॉ. पेम्मासानी चंद्र शेखर",
   "राज्य के माननीय मंत्री",
-  "प्रमुख प्रस्ताव",
-  "योजनाएं और सेवाएँ",
-  "रिक्तियां",
-  "निविदाएं",
-  "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना",
+  "Key Offerings",
+  "Production Linked Incentive (PLI) scheme",
   "arrow_forward_ios",
-  "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल",
-  "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना",
-  "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता",
+  "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project",
+  "Technology Development & Investment Promotion (TDIP) Scheme",
+  "Public Procurement-Preference to Make in India",
   "100 5G Labs",
-  "अधिक देखें",
-  "नया क्या है",
-  "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट",
-  "एच. एम. ओ. सी. का पता नोटः जून 2026 संस्करण",
-  "दूरसंचार (प्रशासनिक प्रक्रिया द्वारा स्पेक्ट्रम असाइनमेंट) नियम, 2026 का मसौदा",
-  "जी. एस. आर. 468 (ई): 77-81 जीएचजेड बैंड में छोटी दूरी के ऑटोमोटिव रडार प्रणाली का उपयोग (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026",
+  "View more",
+  "What’s New",
+  "WSIS Prize 2026- Live Webcast",
+  "HMoC’s Address note: June 2026 Edition",
+  "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026",
+  "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026",
   "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026",
   "हाल के दस्तावेज़",
+  "प्रेस विज्ञप्ति",
+  "दूरसंचार विभाग ने भारी बारिश, बादल फटने और भूस्खलन के बीच जम्मू-कश्मीर, असम और नागालैंड में इंट्रा सर्कल रोमिंग को सक्रिय किया",
   "आदेश और सूचनाएँ",
   "आई. टी. एस. जी. आर. के अधिकारियों के कार्यकाल में विस्तार एन. सी. ए.-टी. में ए.-श्री शिवम शुक्ला, स्टाफ नं. 60074",
-  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
-  "राष्ट्रीय वित्तीय रिपोर्टिंग प्राधिकरण में श्री अमित कुमार जैन कर्मचारी संख्या 96574 की प्रतिनियुक्ति अवधि का विस्तार",
-  "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह \"ए\" के वरिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति",
+  "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री सत्यम सिंह, आई. टी. एस., स्टाफ नं. 21407",
+  "\"2022-2024 अवधि से संबंधित अनुकंपा नियुक्ति समिति की रिपोर्ट\"",
+  "अधिक देखें",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -315,19 +314,19 @@
   },
   {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa",
-   "text": "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना"
+   "text": "Production Linked Incentive (PLI) scheme"
   },
   {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa",
-   "text": "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल"
+   "text": "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project"
   },
   {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa",
-   "text": "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना"
+   "text": "Technology Development & Investment Promotion (TDIP) Scheme"
   },
   {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa",
-   "text": "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता"
+   "text": "Public Procurement-Preference to Make in India"
   },
   {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa",
@@ -335,19 +334,19 @@
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf",
-   "text": "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
+   "text": "WSIS Prize 2026- Live Webcast arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/d525c474cf9de89412f90c3e182b3b41.pdf",
-   "text": "एच. एम. ओ. सी. का पता नोटः जून 2026 संस्करण arrow_forward_ios"
+   "text": "HMoC’s Address note: June 2026 Edition arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/06/3acc4e7aeb2bdff7c3ae6a9429150734.pdf",
-   "text": "दूरसंचार (प्रशासनिक प्रक्रिया द्वारा स्पेक्ट्रम असाइनमेंट) नियम, 2026 का मसौदा arrow_forward_ios"
+   "text": "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026 arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/06/d44ff2aec0505d538d9f3d51eba88936.pdf",
-   "text": "जी. एस. आर. 468 (ई): 77-81 जीएचजेड बैंड में छोटी दूरी के ऑटोमोटिव रडार प्रणाली का उपयोग (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026 arrow_forward_ios"
+   "text": "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026 arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/06/e57098ec9d7015e859c1b98d6e3fadad.pdf",
@@ -355,11 +354,7 @@
   },
   {
    "url": "https://dot.gov.in/whats-new",
-   "text": "अधिक देखें chevron_right"
-  },
-  {
-   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)",
-   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
@@ -479,7 +474,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-23T11:19:05Z",
+ "fetched_at": "2026-07-23T14:27:59Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -701,34 +696,39 @@
    "अंतिम बार अद्यतन किया गयाः 16.07.2026": 0,
    "\"एम. सी. टी. पी. चरण-2 (तकनीकी घटक) बैच-25 के लिए आई. टी. एस. अधिकारियों के नामांकन\" के संबंध में ओ. एम": 0,
    "अंतिम बार अद्यतन किया गयाः 17.07.2026": 0,
-   "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026": 2,
+   "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026": 0,
    "जी. एस. आर. 468 (ई): 77-81 जीएचजेड बैंड में छोटी दूरी के ऑटोमोटिव रडार प्रणाली का उपयोग (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026": 0,
-   "Transfer/Posting in the Senior Administrative Grade of Indian Posts and Telecommunications Accounts and Finance Service, Group\" A\"": 0,
+   "Transfer/Posting in the Senior Administrative Grade of Indian Posts and Telecommunications Accounts and Finance Service, Group\" A\"": 1,
    "आदेश दिनांक 17.07.2026-आई. टी. एस. जी. आर. के अधिकारियों के संबंध में शक्ति पर लिया गया। ए": 0,
-   "Order dated 17.07.2026 - Taken on Strength in respect of officers of ITS Gr. A": 1,
+   "Order dated 17.07.2026 - Taken on Strength in respect of officers of ITS Gr. A": 2,
    "इंजीनियरिंग सेवा परीक्षा, 2024 के परिणामों के आधार पर दूरसंचार विभाग में जे. टी. ओ. समूह 'बी' को आवंटित उम्मीदवारी यानी आर. ओ. उम्मीदवार को रद्द करना": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह \"ए\" के वरिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति": 0,
-   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)": 0,
-   "WSIS Prize 2026- Live Webcast": 7,
-   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 7,
-   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 7,
-   "What’s New": 7,
-   "Technology Development & Investment Promotion (TDIP) Scheme": 7,
-   "Production Linked Incentive (PLI) scheme": 7,
-   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": 7,
-   "Public Procurement-Preference to Make in India": 7,
-   "HMoC’s Address note: June 2026 Edition": 7,
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)": 1,
+   "WSIS Prize 2026- Live Webcast": 0,
+   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 0,
+   "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": 0,
+   "What’s New": 0,
+   "Technology Development & Investment Promotion (TDIP) Scheme": 0,
+   "Production Linked Incentive (PLI) scheme": 0,
+   "Public Procurement-Preference to Make in India": 0,
+   "HMoC’s Address note: June 2026 Edition": 0,
    "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)": 0,
    "अंतिम बार अद्यतन किया गयाः 20.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 21.07.2026": 0,
-   "Key Offerings": 7,
+   "Key Offerings": 0,
    "राष्ट्रीय वित्तीय रिपोर्टिंग प्राधिकरण में श्री अमित कुमार जैन कर्मचारी संख्या 96574 की प्रतिनियुक्ति अवधि का विस्तार": 0,
-   "Extension of deputation period of Shri Amit Kumar Jain Staff No 96574 in National Financial Reporting Authority": 0,
+   "Extension of deputation period of Shri Amit Kumar Jain Staff No 96574 in National Financial Reporting Authority": 1,
    "अंतिम बार अद्यतन किया गयाः 22.07.2026": 0,
    "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026": 0,
    "आई. टी. एस. जी. आर. के अधिकारियों के कार्यकाल में विस्तार एन. सी. ए.-टी. में ए.-श्री शिवम शुक्ला, स्टाफ नं. 60074": 0,
    "अंतिम बार अद्यतन किया गयाः 23.07.2026": 0,
-   "Extension in tenure of officers of ITS Gr. A in NCA-T - Shri Shivam Shukla, Staff no. 60074": 0
+   "Extension in tenure of officers of ITS Gr. A in NCA-T - Shri Shivam Shukla, Staff no. 60074": 0,
+   "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री सत्यम सिंह, आई. टी. एस., स्टाफ नं. 21407": 0,
+   "दूरसंचार विभाग ने भारी बारिश, बादल फटने और भूस्खलन के बीच जम्मू-कश्मीर, असम और नागालैंड में इंट्रा सर्कल रोमिंग को सक्रिय किया": 0,
+   "Taken on Strength in respect of officer of ITS Gr. A - Shri Satyam Singh, ITS, Staff no. 21407": 0,
+   "\"2022-2024 अवधि से संबंधित अनुकंपा नियुक्ति समिति की रिपोर्ट\"": 0,
+   "Department of Telecommunications Activates Intra Circle Roaming in Jammu & Kashmir, Assam and Nagaland amid Heavy Rainfall, Cloudburst and Landslides": 0,
+   "\"Report of the Compassionate Appointment Committee pertaining to the period 2022-2024\"": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -773,7 +773,7 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 0,
    "https://www.dot.gov.in/static/uploads/2026/07/d525c474cf9de89412f90c3e182b3b41.pdf": 0,
-   "https://www.dot.gov.in/static/uploads/2026/06/5db86357f974a43f3a4144afb6890f6a.pdf": 3,
+   "https://www.dot.gov.in/static/uploads/2026/06/5db86357f974a43f3a4144afb6890f6a.pdf": 4,
    "https://www.dot.gov.in/static/uploads/2026/06/3acc4e7aeb2bdff7c3ae6a9429150734.pdf": 0,
    "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
@@ -807,7 +807,7 @@
    "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf": 0,
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/06/d44ff2aec0505d538d9f3d51eba88936.pdf": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)": 0,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)": 1,
    "https://www.dot.gov.in/static/uploads/2026/06/e57098ec9d7015e859c1b98d6e3fadad.pdf": 0
   },
   "grave_lines": {
@@ -854,7 +854,7 @@
    "Draft Telecommunications (Spectrum Assignment by Administrative Process) Rules, 2026": "2026-07-20T03:59:45Z",
    "HMoC’s Address note: June 2026 Edition": "2026-07-20T03:59:45Z",
    "What’s New": "2026-07-20T03:59:45Z",
-   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": "2026-07-20T03:59:45Z",
+   "Appointment to the post of Chairman & Managing Director (CMD),Bharat Sanchar Nigam Limited": "2026-07-23T14:27:59Z",
    "WSIS Prize 2026- Live Webcast": "2026-07-20T03:59:45Z",
    "Allotment of Shortcodes year 2024": "2026-07-21T11:17:36Z",
    "Provisional Seniority List of officers of P&T BWS Gr ‘A’ (Electrical Sub-cadre) of Department of Telecommunications as on 01.01.2026 – reg": "2026-07-21T11:17:36Z",

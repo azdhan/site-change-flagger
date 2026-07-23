@@ -187,8 +187,9 @@
   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.",
   "What’s New",
   "23rd July 2026",
-  "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.",
+  "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.",
   "Explore",
+  "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.",
   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.",
   "22nd July 2026",
   "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA.",
@@ -200,7 +201,6 @@
   "16th July 2026",
   "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.",
   "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.",
-  "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.",
   "On-going Consultation",
   "No Open Consultation",
   "Events",
@@ -212,22 +212,22 @@
   "Mehsana, Gujarat",
   "Consumer Awareness Programme at Manalur ( Tamil Nadu ) by WOMEN CONSUMER PROTECTION ASSOCIATION",
   "Sivagangai, Tamil Nadu",
-  "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED",
-  "11:00 AM",
-  "South Salmara Mankachhar, Assam",
   "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology and Entrepreneur Development (IITED)",
+  "11:00 AM",
   "YAVATMAL, Maharashtra",
   "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra",
   "Yavatmal, Maharashtra",
+  "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED",
+  "South Salmara Mankachhar, Assam",
   "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol",
   "02:30 PM",
   "Satna, Madhya Pradesh",
+  "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union",
+  "Lunglei, Mizoram",
   "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES",
   "Tirupathi , Andhra Pradesh",
   "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY",
   "Dhone, Andhra Pradesh",
-  "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union",
-  "Lunglei, Mizoram",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -889,6 +889,14 @@
    "text": "View All"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar",
+   "text": "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and",
    "text": "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA."
   },
@@ -961,14 +969,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala",
-   "text": "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/open-consultation",
    "text": "View All"
   },
@@ -985,10 +985,6 @@
    "text": "Consumer Awareness Programme at Manalur ( Tamil Nadu ) by WOMEN CONSUMER PROTECTION ASSOCIATION"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-south-salmara-mankachhar-assam-iited",
-   "text": "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology-and",
    "text": "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology and Entrepreneur Development (IITED)"
   },
@@ -1001,8 +997,16 @@
    "text": "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-south-salmara-mankachhar-assam-iited",
+   "text": "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED"
+  },
+  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagod-distt-satnamp-upbhokta-adhikar-sangthan-shahdol",
    "text": "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-lunglei-mizoram-mizoram-consumers-union-0",
+   "text": "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-chandragiri-andhra-pradesh-rural-action-social",
@@ -1011,10 +1015,6 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-dhone-andhra-pradesh-pss-educational-development",
    "text": "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-lunglei-mizoram-mizoram-consumers-union-0",
-   "text": "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1214,7 +1214,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-23T11:19:05Z",
+ "fetched_at": "2026-07-23T14:27:59Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1497,30 +1497,30 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "Consultation Papers": 0,
    "10:00 AM": 0,
-   "10th July 2026": 1,
-   "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)": 1,
-   "TRAI Assesses Mobile Network Quality on Munabao to Tanot National Highway (NH-70) in Rajasthan LSA.": 1,
-   "14th July 2026": 1,
+   "10th July 2026": 2,
+   "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)": 2,
+   "TRAI Assesses Mobile Network Quality on Munabao to Tanot National Highway (NH-70) in Rajasthan LSA.": 2,
+   "14th July 2026": 2,
    "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": 0,
    "16th July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": 0,
-   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 0,
+   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 1,
    "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway.": 0,
    "20th July 2026": 0,
    "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication - dated 23/07/2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 0,
    "TRAI Assesses Mobile Network Quality Across Bhopal City & Indore to Neemuch via Ratlam and Mandsaur Highway & Bilaspur to Ambikapur Highway.": 0,
    "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.": 0,
-   "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication": 2,
-   "Jamnagar, Gujarat": 1,
-   "New Delhi, Delhi": 2,
+   "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication": 3,
+   "Jamnagar, Gujarat": 2,
+   "New Delhi, Delhi": 3,
    "Mehsana, Gujarat": 0,
-   "03:00 PM": 1,
-   "Consumer Awareness Program at Jamnagar (Gujarat) by Rajkot Saher Jilla Grahak Suraksha Mandal": 1,
+   "03:00 PM": 2,
+   "Consumer Awareness Program at Jamnagar (Gujarat) by Rajkot Saher Jilla Grahak Suraksha Mandal": 2,
    "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal": 0,
    "Sivagangai, Tamil Nadu": 0,
    "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol": 0,
-   "22 July, 2026": 2,
+   "22 July, 2026": 3,
    "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED": 0,
    "South Salmara Mankachhar, Assam": 0,
    "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES": 0,
@@ -1541,7 +1541,8 @@
    "23 July, 2026": 0,
    "23rd July 2026": 0,
    "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": 0,
-   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": 0
+   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": 0,
+   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1736,15 +1737,15 @@
    "https://www.trai.gov.in/website-policy": 0,
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
-   "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 1,
-   "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 1,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 1,
+   "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 2,
+   "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 2,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 2,
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 0,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 1,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": 0,
@@ -1757,7 +1758,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bhopal-city-indore-neemuch": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-bhavnagar-grahak-suraksha-mandal": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamnagar-gujarat-rajkot-saher-jilla-grahak-suraksha-0": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamnagar-gujarat-rajkot-saher-jilla-grahak-suraksha-0": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagod-distt-satnamp-upbhokta-adhikar-sangthan-shahdol": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology-and": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology-and-0": 0,
@@ -1772,7 +1773,9 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 0
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 0,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 0,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 0
   },
   "grave_lines": {
    "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": "2026-07-10T17:06:00Z",
