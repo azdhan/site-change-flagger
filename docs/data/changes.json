@@ -1,5 +1,67 @@
 [
  {
+  "id": "c715d3e37660",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-23T08:43:32Z",
+  "summary": "1 new text block, 21 items no longer on page",
+  "added_lines": [
+   "23 July, 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "Gajapati, Odisha",
+   "Madhubani , Bihar",
+   "09:00 AM",
+   "Consumer Awareness Program at Madhubani (Bihar) by Mithila Sewa Samiti",
+   "Varanasi, Uttar Pradesh",
+   "Consumer Awareness Program at Distt-Varanasi (UP) by Citizen Development Institute-Lucknow",
+   "Consumer Awareness Programm at Anugul ( Odisha) by PARIBARTAN",
+   "Angul, Odisha",
+   "Consumer Awareness Programm at Gajapati ( Odisha) by Gangotree Social Organisation (GSO)",
+   "Malerkotla, Punjab"
+  ],
+  "removed_lines_total": 21,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "6cf54114c216",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-23T08:43:32Z",
+  "summary": "4 new links, 5 new text blocks",
+  "added_lines": [
+   "सरकार द्वारा वित्तीय सहायता, अंतरराष्ट्रीय साझेदारी और वैश्विक प्रचार के माध्यम से भारतीय फिल्म निर्माताओं को समर्थन",
+   "टेलीविज़न और रेडियो सेवाओं के लिए नियामकीय संरचना को सरल बनाने के लिए दूरसंचार (टेलीविज़न, रेडियो और संबंधित सेवाएं) नियमावली, 2026 का प्रारूप",
+   "अश्लील कंटेंट दिखाने और आईटी अधिनियम व अन्य लागू कानूनों का उल्लंघन करने के कारण पिछले दो वर्षों में 50 ओटीटी प्लेटफॉर्म बंद किए गए",
+   "वेव्स फ़िल्म बाज़ार स्क्रीनराइटर्स लैब 2025 के प्रोजेक्ट ‘यायावर – द माइग्रेटिंग बर्ड ने अंतर्राष्ट्रीय सहयोग के लिए ' आशय पत्र ' (एलओआई ) पर हस्ताक्षर किए",
+   "23 जुलाई 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287877&reg=3&lang=2",
+    "text": "सरकार द्वारा वित्तीय सहायता, अंतरराष्ट्रीय साझेदारी और वैश्विक प्रचार के माध्यम से भारतीय फिल्म निर्माताओं को समर्थन"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287762&reg=3&lang=2",
+    "text": "टेलीविज़न और रेडियो सेवाओं के लिए नियामकीय संरचना को सरल बनाने के लिए दूरसंचार (टेलीविज़न, रेडियो और संबंधित सेवाएं) नियमावली, 2026 का प्रारूप"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287733&reg=3&lang=2",
+    "text": "अश्लील कंटेंट दिखाने और आईटी अधिनियम व अन्य लागू कानूनों का उल्लंघन करने के कारण पिछले दो वर्षों में 50 ओटीटी प्लेटफॉर्म बंद किए गए"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287665&reg=3&lang=2",
+    "text": "वेव्स फ़िल्म बाज़ार स्क्रीनराइटर्स लैब 2025 के प्रोजेक्ट ‘यायावर – द माइग्रेटिंग बर्ड ने अंतर्राष्ट्रीय सहयोग के लिए ' आशय पत्र ' (एलओआई ) पर हस्ताक्षर किए"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
   "id": "b7bb7d194f2d",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
