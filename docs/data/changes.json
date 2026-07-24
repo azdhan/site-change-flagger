@@ -1,5 +1,64 @@
 [
  {
+  "id": "a87a498f8138",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-24T14:08:36Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Transfer/Posting in the Senior Administrative Grade of Indian Posts and Telecommunications Accounts and Finance Service, Group\" A\"",
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)",
+   "Extension of deputation period of Shri Amit Kumar Jain Staff No 96574 in National Financial Reporting Authority"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f739b84dcb5d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-24T14:08:36Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Programme at Thathiya Distt Kannauj (UttarPradesh) by Upbhokta Sanrakshan Kalyan samiti",
+   "Kannauj, Uttar Pradesh"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-thathiya-distt-kannauj-uttarpradesh-upbhokta",
+    "text": "Consumer Awareness Programme at Thathiya Distt Kannauj (UttarPradesh) by Upbhokta Sanrakshan Kalyan samiti"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "fafe9510123f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-24T14:08:36Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "राजभाषा संबंधी प्रावधान",
+   "24 जुलाई 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/hi/provisions-regarding-official-language",
+    "text": "राजभाषा संबंधी प्रावधान"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "972592432d73",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
