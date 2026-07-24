@@ -1,5 +1,48 @@
 [
  {
+  "id": "6c14696dcad6",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-24T08:39:48Z",
+  "summary": "1 new link, 2 new text blocks, 2 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club",
+   "Sirohi, Rajasthan"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication",
+   "22 July, 2026"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirohi-rajasthan-mount-abu-international-ham-radio-club",
+    "text": "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "aea134c29cf9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-24T08:39:48Z",
+  "summary": "9 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "पत्र सूचना कार्यालय ने \"भारत की रचनात्मक अर्थव्यवस्था के लिए भविष्योन्मुखी कार्यबल का निर्माण\" विषय पर एक दिवसीय मीडिया कार्यशाला 'वार्ता' का आयोजन किया",
+   "वर्ष 2024 के लिए 72वें राष्ट्रीय फिल्म पुरस्कारों की घोषणा",
+   "महाराष्ट्र के मुख्यमंत्री ने सूचना और प्रसारण मंत्रालय तथा महाराष्ट्र सरकार से वेव्स के दूसरे संस्करण को और भी सफल बनाने के लिए मिलकर काम करने का आग्रह किया",
+   "सूचना एवं प्रसारण मंत्रालय ने जमीनी स्तर के डिजिटल क्रिएटर को बढ़ावा देने के लिए 'जेम्स ऑफ इंडिया' चैलेंज के पायलट चरण का शुभारंभ किया",
+   "22 जुलाई 2026"
+  ],
+  "removed_lines_total": 9,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e84ecaa511c0",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
