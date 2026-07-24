@@ -1,5 +1,61 @@
 [
  {
+  "id": "972592432d73",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-24T11:09:17Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Order dated 17.07.2026 - Taken on Strength in respect of officers of ITS Gr. A"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a0c8fc44dc7f",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-24T11:09:17Z",
+  "summary": "12 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "10th July 2026",
+   "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)",
+   "TRAI Assesses Mobile Network Quality on Munabao to Tanot National Highway (NH-70) in Rajasthan LSA.",
+   "14th July 2026",
+   "Jamnagar, Gujarat",
+   "03:00 PM",
+   "Consumer Awareness Program at Jamnagar (Gujarat) by Rajkot Saher Jilla Grahak Suraksha Mandal"
+  ],
+  "removed_lines_total": 12,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "93c74a3bdf1d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-24T11:09:17Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "Provisions regarding Official Language"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/hi/documents/provisions-regarding-official-language",
+    "text": "Provisions regarding Official Language"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "6c14696dcad6",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

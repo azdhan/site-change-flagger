@@ -33,6 +33,7 @@
   "अधिनियम/नीतियां/दिशानिर्देश",
   "प्रेस विज्ञप्ति",
   "अन्य संचार",
+  "Provisions regarding Official Language",
   "ई-बुक/हैंडबुक",
   "सीसीए",
   "मीडिया",
@@ -243,6 +244,10 @@
   {
    "url": "https://mib.gov.in/hi/documents/notification/Other-communication",
    "text": "अन्य संचार"
+  },
+  {
+   "url": "https://mib.gov.in/hi/documents/provisions-regarding-official-language",
+   "text": "Provisions regarding Official Language"
   },
   {
    "url": "https://mib.gov.in/hi/document/e-book-handbook",
@@ -606,7 +611,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-24T08:39:48Z",
+ "fetched_at": "2026-07-24T11:09:17Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -775,7 +780,8 @@
    "टेलीविज़न और रेडियो सेवाओं के लिए नियामकीय संरचना को सरल बनाने के लिए दूरसंचार (टेलीविज़न, रेडियो और संबंधित सेवाएं) नियमावली, 2026 का प्रारूप": 0,
    "23 जुलाई 2026": 0,
    "वेव्स फ़िल्म बाज़ार स्क्रीनराइटर्स लैब 2025 के प्रोजेक्ट ‘यायावर – द माइग्रेटिंग बर्ड ने अंतर्राष्ट्रीय सहयोग के लिए ' आशय पत्र ' (एलओआई ) पर हस्ताक्षर किए": 0,
-   "सरकार द्वारा वित्तीय सहायता, अंतरराष्ट्रीय साझेदारी और वैश्विक प्रचार के माध्यम से भारतीय फिल्म निर्माताओं को समर्थन": 0
+   "सरकार द्वारा वित्तीय सहायता, अंतरराष्ट्रीय साझेदारी और वैश्विक प्रचार के माध्यम से भारतीय फिल्म निर्माताओं को समर्थन": 0,
+   "Provisions regarding Official Language": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -886,7 +892,8 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287733&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287877&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287665&reg=3&lang=2": 0,
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287762&reg=3&lang=2": 0
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287762&reg=3&lang=2": 0,
+   "https://mib.gov.in/hi/documents/provisions-regarding-official-language": 0
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z",
