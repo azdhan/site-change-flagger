@@ -212,22 +212,22 @@
   "Mehsana, Gujarat",
   "Consumer Awareness Programme at Manalur ( Tamil Nadu ) by WOMEN CONSUMER PROTECTION ASSOCIATION",
   "Sivagangai, Tamil Nadu",
-  "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED",
+  "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra",
   "11:00 AM",
+  "Yavatmal, Maharashtra",
+  "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED",
   "South Salmara Mankachhar, Assam",
   "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology and Entrepreneur Development (IITED)",
   "YAVATMAL, Maharashtra",
-  "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra",
-  "Yavatmal, Maharashtra",
   "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol",
   "02:30 PM",
   "Satna, Madhya Pradesh",
-  "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union",
-  "Lunglei, Mizoram",
   "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES",
   "Tirupathi , Andhra Pradesh",
   "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY",
   "Dhone, Andhra Pradesh",
+  "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union",
+  "Lunglei, Mizoram",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -985,6 +985,10 @@
    "text": "Consumer Awareness Programme at Manalur ( Tamil Nadu ) by WOMEN CONSUMER PROTECTION ASSOCIATION"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology",
+   "text": "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra"
+  },
+  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-south-salmara-mankachhar-assam-iited",
    "text": "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED"
   },
@@ -997,16 +1001,8 @@
    "text": "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology and Entrepreneur Development (IITED)"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology",
-   "text": "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagod-distt-satnamp-upbhokta-adhikar-sangthan-shahdol",
    "text": "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-lunglei-mizoram-mizoram-consumers-union-0",
-   "text": "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-chandragiri-andhra-pradesh-rural-action-social",
@@ -1015,6 +1011,10 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-dhone-andhra-pradesh-pss-educational-development",
    "text": "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-lunglei-mizoram-mizoram-consumers-union-0",
+   "text": "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1214,7 +1214,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-23T22:12:53Z",
+ "fetched_at": "2026-07-24T03:39:00Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1497,13 +1497,13 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "Consultation Papers": 0,
    "10:00 AM": 0,
-   "10th July 2026": 5,
-   "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)": 5,
-   "TRAI Assesses Mobile Network Quality on Munabao to Tanot National Highway (NH-70) in Rajasthan LSA.": 5,
-   "14th July 2026": 5,
+   "10th July 2026": 6,
+   "Panel of Auditors (Updated List) to carry out audit of Digital Addressable Systems (DAS)": 6,
+   "TRAI Assesses Mobile Network Quality on Munabao to Tanot National Highway (NH-70) in Rajasthan LSA.": 6,
+   "14th July 2026": 6,
    "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": 0,
    "16th July 2026": 0,
-   "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": 2,
+   "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": 3,
    "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 0,
    "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway.": 0,
    "20th July 2026": 0,
@@ -1511,16 +1511,16 @@
    "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 0,
    "TRAI Assesses Mobile Network Quality Across Bhopal City & Indore to Neemuch via Ratlam and Mandsaur Highway & Bilaspur to Ambikapur Highway.": 0,
    "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.": 0,
-   "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication": 6,
-   "Jamnagar, Gujarat": 5,
-   "New Delhi, Delhi": 6,
+   "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication": 7,
+   "Jamnagar, Gujarat": 6,
+   "New Delhi, Delhi": 7,
    "Mehsana, Gujarat": 0,
-   "03:00 PM": 5,
-   "Consumer Awareness Program at Jamnagar (Gujarat) by Rajkot Saher Jilla Grahak Suraksha Mandal": 5,
+   "03:00 PM": 6,
+   "Consumer Awareness Program at Jamnagar (Gujarat) by Rajkot Saher Jilla Grahak Suraksha Mandal": 6,
    "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal": 0,
    "Sivagangai, Tamil Nadu": 0,
    "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol": 0,
-   "22 July, 2026": 6,
+   "22 July, 2026": 7,
    "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED": 0,
    "South Salmara Mankachhar, Assam": 0,
    "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES": 0,
@@ -1737,17 +1737,17 @@
    "https://www.trai.gov.in/website-policy": 0,
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
-   "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 5,
-   "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 5,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 5,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 5,
+   "http://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 6,
+   "https://www.trai.gov.in/what-s-new/panel-auditors-updated-list-carry-out-audit-digital-addressable-systems-das-15": 6,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 6,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-munabao-tanot-national-highway-nh": 6,
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 2,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 3,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 3,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa": 0,
@@ -1758,7 +1758,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bhopal-city-indore-neemuch": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-bhavnagar-grahak-suraksha-mandal": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamnagar-gujarat-rajkot-saher-jilla-grahak-suraksha-0": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamnagar-gujarat-rajkot-saher-jilla-grahak-suraksha-0": 6,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagod-distt-satnamp-upbhokta-adhikar-sangthan-shahdol": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology-and": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-yavatmal-maharashtra-indian-institute-technology-and-0": 0,
