@@ -120,7 +120,7 @@
   "100 5G Labs",
   "अधिक देखें",
   "नया क्या है",
-  "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट",
+  "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट",
   "एच. एम. ओ. सी. का पता नोटः जून 2026 संस्करण",
   "दूरसंचार (प्रशासनिक प्रक्रिया द्वारा स्पेक्ट्रम असाइनमेंट) नियम, 2026 का मसौदा",
   "जी. एस. आर. 468 (ई): 77-81 जीएचजेड बैंड में छोटी दूरी के ऑटोमोटिव रडार प्रणाली का उपयोग (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026",
@@ -148,21 +148,20 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
   "Facebook",
-  "उपयोगी लिंक",
-  "अभिलेखागार",
-  "वेबसाइट नीतियाँ",
-  "संबंधित लिंक",
-  "साइटमैप",
-  "मदद करें",
-  "हमसे संपर्क करें",
-  "फीडबैक",
-  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
-  "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 24.07.2026",
+  "Useful Links",
+  "Archives",
+  "Website Policies",
+  "Related Links",
+  "Sitemap",
+  "Help",
+  "Feedback",
+  "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
+  "Subscribe for Updates",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -335,7 +334,7 @@
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf",
-   "text": "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
+   "text": "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/d525c474cf9de89412f90c3e182b3b41.pdf",
@@ -402,6 +401,18 @@
    "text": "View more chevron_right"
   },
   {
+   "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
@@ -414,40 +425,28 @@
    "text": "View this post on Instagram"
   },
   {
-   "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
    "url": "https://dot.gov.in/archives?page=tenders",
-   "text": "अभिलेखागार"
+   "text": "Archives"
   },
   {
    "url": "https://dot.gov.in/policies",
-   "text": "वेबसाइट नीतियाँ"
+   "text": "Website Policies"
   },
   {
    "url": "https://dot.gov.in/RelatedLinks",
-   "text": "संबंधित लिंक"
+   "text": "Related Links"
   },
   {
    "url": "https://dot.gov.in/sitemap",
-   "text": "साइटमैप"
+   "text": "Sitemap"
   },
   {
    "url": "https://dot.gov.in/help",
-   "text": "मदद करें"
+   "text": "Help"
   },
   {
    "url": "https://dot.gov.in/feedback",
-   "text": "फीडबैक"
+   "text": "Feedback"
   },
   {
    "url": "https://x.com/DoT_India",
@@ -475,7 +474,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-25T13:58:54Z",
+ "fetched_at": "2026-07-25T16:11:37Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -653,17 +652,17 @@
    "View more": 0,
    "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
-   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 1,
-   "Help": 1,
-   "Feedback": 1,
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
+   "Help": 0,
+   "Feedback": 0,
    "इस पोस्ट को इंस्टाग्राम पर देखें": 0,
    "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)": 0,
-   "Useful Links": 1,
-   "Website Policies": 1,
-   "Sitemap": 1,
-   "Archives": 1,
-   "Subscribe for Updates": 1,
-   "Related Links": 1,
+   "Useful Links": 0,
+   "Website Policies": 0,
+   "Sitemap": 0,
+   "Archives": 0,
+   "Subscribe for Updates": 0,
+   "Related Links": 0,
    "अंतिम बार अद्यतन किया गयाः 08.07.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति": 0,
    "दूरसंचार की राजपत्र अधिसूचना (रेडियो उपकरण अधिकार प्राधिकरण) नियम, 2026": 0,

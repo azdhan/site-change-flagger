@@ -619,7 +619,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-25T13:58:54Z",
+ "fetched_at": "2026-07-25T16:11:37Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -885,12 +885,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 1,
-   "https://mib.gov.in/hi/related-link": 1,
-   "https://mib.gov.in/hi/sitemap": 1,
-   "https://mib.gov.in/hi/help": 1,
-   "https://mib.gov.in/hi/feedback": 1,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/hi/website-policy": 2,
+   "https://mib.gov.in/hi/related-link": 2,
+   "https://mib.gov.in/hi/sitemap": 2,
+   "https://mib.gov.in/hi/help": 2,
+   "https://mib.gov.in/hi/feedback": 2,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 2,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
