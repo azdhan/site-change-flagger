@@ -1,5 +1,50 @@
 [
  {
+  "id": "0d39e0b76f1d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-25T10:42:25Z",
+  "summary": "5 new links, 10 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Programme at Geesugonda ( Telangana) by SRI DHARANI VOLUNTARY ORGANISATION",
+   "Warangal, Telangana",
+   "Consumer Awareness Program at Rajsamand (Rajasthan) by Maruti Seva Samiti",
+   "Rajsamand, Rajasthan",
+   "Consumer Outreach Program at Bhavnagar (Gujarat) by TRAI Regional Office, Jaipur",
+   "Bhavnagar, Gujarat",
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society",
+   "Chandigarh, Chandigarh",
+   "Consumer Awareness Programme at Kovilaachery ( Tamil Nadu) by RURAL ORGANISATION FOR SOCIAL AND EDUCATION TRUST (ROSE TRUST)",
+   "Thanjavur, Tamil Nadu"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-geesugonda-telangana-sri-dharani-voluntary",
+    "text": "Consumer Awareness Programme at Geesugonda ( Telangana) by SRI DHARANI VOLUNTARY ORGANISATION"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rajsamand-rajasthan-maruti-seva-samiti",
+    "text": "Consumer Awareness Program at Rajsamand (Rajasthan) by Maruti Seva Samiti"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhavnagar-gujarat-trai-regional-office-jaipur",
+    "text": "Consumer Outreach Program at Bhavnagar (Gujarat) by TRAI Regional Office, Jaipur"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society",
+    "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-kovilaachery-tamil-nadu-rural-organisation-social-and",
+    "text": "Consumer Awareness Programme at Kovilaachery ( Tamil Nadu) by RURAL ORGANISATION FOR SOCIAL AND EDUCATION TRUST (ROSE TRUST)"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
   "id": "39cdb3323099",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
