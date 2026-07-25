@@ -1,5 +1,22 @@
 [
  {
+  "id": "39cdb3323099",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-25T08:22:00Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "OHD on Consultation Paper on the Regulatory Framework for Vehicle-to-Everything (V2X) Communication - dated 23/07/2026",
+   "Mehsana, Gujarat",
+   "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "a87a498f8138",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
