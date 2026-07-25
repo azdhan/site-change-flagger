@@ -562,27 +562,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -611,7 +619,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-25T10:42:25Z",
+ "fetched_at": "2026-07-25T13:58:54Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -778,7 +786,6 @@
    "निजी एफएम रेडियो और कम्युनिटी रेडियो स्टेशनों से संबंधित शिकायतों/समस्याओं की…": 0,
    "अश्लील कंटेंट दिखाने और आईटी अधिनियम व अन्य लागू कानूनों का उल्लंघन करने के कारण पिछले दो वर्षों में 50 ओटीटी प्लेटफॉर्म बंद किए गए": 0,
    "टेलीविज़न और रेडियो सेवाओं के लिए नियामकीय संरचना को सरल बनाने के लिए दूरसंचार (टेलीविज़न, रेडियो और संबंधित सेवाएं) नियमावली, 2026 का प्रारूप": 0,
-   "23 जुलाई 2026": 7,
    "वेव्स फ़िल्म बाज़ार स्क्रीनराइटर्स लैब 2025 के प्रोजेक्ट ‘यायावर – द माइग्रेटिंग बर्ड ने अंतर्राष्ट्रीय सहयोग के लिए ' आशय पत्र ' (एलओआई ) पर हस्ताक्षर किए": 0,
    "सरकार द्वारा वित्तीय सहायता, अंतरराष्ट्रीय साझेदारी और वैश्विक प्रचार के माध्यम से भारतीय फिल्म निर्माताओं को समर्थन": 0,
    "Provisions regarding Official Language": 0,
@@ -878,12 +885,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -895,8 +902,15 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287877&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287665&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287762&reg=3&lang=2": 0,
-   "https://mib.gov.in/hi/documents/provisions-regarding-official-language": 7,
-   "https://mib.gov.in/hi/provisions-regarding-official-language": 0
+   "https://mib.gov.in/hi/provisions-regarding-official-language": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/help": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z",
@@ -924,7 +938,8 @@
    "वर्ष 2024 के लिए 72वें राष्ट्रीय फिल्म पुरस्कारों की घोषणा": "2026-07-24T08:39:48Z",
    "महाराष्ट्र के मुख्यमंत्री ने सूचना और प्रसारण मंत्रालय तथा महाराष्ट्र सरकार से वेव्स के दूसरे संस्करण को और भी सफल बनाने के लिए मिलकर काम करने का आग्रह किया": "2026-07-24T08:39:48Z",
    "सूचना एवं प्रसारण मंत्रालय ने जमीनी स्तर के डिजिटल क्रिएटर को बढ़ावा देने के लिए 'जेम्स ऑफ इंडिया' चैलेंज के पायलट चरण का शुभारंभ किया": "2026-07-24T08:39:48Z",
-   "22 जुलाई 2026": "2026-07-24T08:39:48Z"
+   "22 जुलाई 2026": "2026-07-24T08:39:48Z",
+   "23 जुलाई 2026": "2026-07-25T13:58:54Z"
   },
   "grave_links": {
    "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-07-23T03:39:34Z",
@@ -948,7 +963,8 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284748&reg=3&lang=2": "2026-07-24T08:39:48Z",
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2285890&reg=48&lang=2": "2026-07-24T08:39:48Z",
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2286195&reg=48&lang=2": "2026-07-24T08:39:48Z",
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287005&reg=3&lang=2": "2026-07-24T08:39:48Z"
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287005&reg=3&lang=2": "2026-07-24T08:39:48Z",
+   "https://mib.gov.in/hi/documents/provisions-regarding-official-language": "2026-07-25T13:58:54Z"
   }
  }
 }

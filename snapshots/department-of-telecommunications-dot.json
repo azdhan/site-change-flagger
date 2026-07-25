@@ -120,28 +120,28 @@
   "100 5G Labs",
   "अधिक देखें",
   "नया क्या है",
-  "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट",
+  "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट",
   "एच. एम. ओ. सी. का पता नोटः जून 2026 संस्करण",
   "दूरसंचार (प्रशासनिक प्रक्रिया द्वारा स्पेक्ट्रम असाइनमेंट) नियम, 2026 का मसौदा",
   "जी. एस. आर. 468 (ई): 77-81 जीएचजेड बैंड में छोटी दूरी के ऑटोमोटिव रडार प्रणाली का उपयोग (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026",
-  "जी. एस. आर. 466 (ई): 5.9 जीएचजेड बैंड (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026 में सेलुलर वाहन-से-सब कुछ संचार के लिए ऑन बोर्ड इकाई का उपयोग",
-  "हाल के दस्तावेज़",
-  "प्रेस विज्ञप्ति",
-  "दूरसंचार विभाग ने भारी बारिश, बादल फटने और भूस्खलन के बीच जम्मू-कश्मीर, असम और नागालैंड में इंट्रा सर्कल रोमिंग को सक्रिय किया",
-  "आदेश और सूचनाएँ",
-  "आई. टी. एस. जी. आर. के अधिकारियों के कार्यकाल में विस्तार एन. सी. ए.-टी. में ए.-श्री शिवम शुक्ला, स्टाफ नं. 60074",
-  "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री सत्यम सिंह, आई. टी. एस., स्टाफ नं. 21407",
-  "\"2022-2024 अवधि से संबंधित अनुकंपा नियुक्ति समिति की रिपोर्ट\"",
-  "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "मीडिया के लिए",
+  "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026",
+  "Recent Documents",
+  "Department of Telecommunications Activates Intra Circle Roaming in Jammu & Kashmir, Assam and Nagaland amid Heavy Rainfall, Cloudburst and Landslides",
+  "Extension in tenure of officers of ITS Gr. A in NCA-T - Shri Shivam Shukla, Staff no. 60074",
+  "Taken on Strength in respect of officer of ITS Gr. A - Shri Satyam Singh, ITS, Staff no. 21407",
+  "\"Report of the Compassionate Appointment Committee pertaining to the period 2022-2024\"",
+  "View more",
+  "Explore User Personas",
+  "FOR MEDIA",
   "For Industry Professional",
   "For Researcher",
   "For IT Professional",
-  "महत्वपूर्ण लिंक",
-  "एम. टी. सी. टी. ई. पोर्टल",
-  "खोदने से पहले कॉल करें",
-  "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
-  "राजस्व प्रबंधन सेवाएँ",
+  "Important Links",
+  "MTCTE Portal",
+  "Telecom eServices Portal",
+  "Call Before u Dig",
+  "PM-WANI- Telecom eServices Portal",
+  "Revenue Management Services",
   "Right Of Way -Telecom eServices Portal",
   "सोशल मीडिया में",
   "एक्स",
@@ -335,7 +335,7 @@
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf",
-   "text": "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
+   "text": "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/d525c474cf9de89412f90c3e182b3b41.pdf",
@@ -351,7 +351,7 @@
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/06/e57098ec9d7015e859c1b98d6e3fadad.pdf",
-   "text": "जी. एस. आर. 466 (ई): 5.9 जीएचजेड बैंड (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026 में सेलुलर वाहन-से-सब कुछ संचार के लिए ऑन बोर्ड इकाई का उपयोग arrow_forward_ios"
+   "text": "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026 arrow_forward_ios"
   },
   {
    "url": "https://dot.gov.in/whats-new",
@@ -359,7 +359,7 @@
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
-   "text": "मीडिया के लिए"
+   "text": "FOR MEDIA"
   },
   {
    "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
@@ -375,23 +375,23 @@
   },
   {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
-   "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
+   "text": "MTCTE Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in",
-   "text": "दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   "text": "Telecom eServices Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/call-before-u-dig",
-   "text": "खोदने से पहले कॉल करें arrow_forward_ios"
+   "text": "Call Before u Dig arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/app-provider",
-   "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   "text": "PM-WANI- Telecom eServices Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/about-mtcte",
-   "text": "राजस्व प्रबंधन सेवाएँ arrow_forward_ios"
+   "text": "Revenue Management Services arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/right-of-way-permissions",
@@ -399,19 +399,7 @@
   },
   {
    "url": "https://dot.gov.in/important-links",
-   "text": "अधिक देखें chevron_right"
-  },
-  {
-   "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
-  },
-  {
-   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading",
@@ -423,6 +411,18 @@
   },
   {
    "url": "https://www.instagram.com/reel/DaR0oBPOng_/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -475,7 +475,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-25T10:42:25Z",
+ "fetched_at": "2026-07-25T13:58:54Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -653,17 +653,17 @@
    "View more": 0,
    "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
-   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
-   "Help": 0,
-   "Feedback": 0,
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 1,
+   "Help": 1,
+   "Feedback": 1,
    "इस पोस्ट को इंस्टाग्राम पर देखें": 0,
    "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)": 0,
-   "Useful Links": 0,
-   "Website Policies": 0,
-   "Sitemap": 0,
-   "Archives": 0,
-   "Subscribe for Updates": 0,
-   "Related Links": 0,
+   "Useful Links": 1,
+   "Website Policies": 1,
+   "Sitemap": 1,
+   "Archives": 1,
+   "Subscribe for Updates": 1,
+   "Related Links": 1,
    "अंतिम बार अद्यतन किया गयाः 08.07.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति": 0,
    "दूरसंचार की राजपत्र अधिसूचना (रेडियो उपकरण अधिकार प्राधिकरण) नियम, 2026": 0,
