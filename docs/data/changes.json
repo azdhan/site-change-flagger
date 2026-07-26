@@ -1,5 +1,29 @@
 [
  {
+  "id": "0199d7c1521e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-26T13:51:58Z",
+  "summary": "16 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Sivagangai, Tamil Nadu",
+   "Consumer Awareness Program at Nagod, Distt-Satna(MP) by Upbhokta Adhikar Sangthan, Shahdol",
+   "Consumer Awareness Program at South Salmara Mankachhar (Assam) by IITED",
+   "South Salmara Mankachhar, Assam",
+   "Consumer Awareness Programme at Manalur ( Tamil Nadu ) by WOMEN CONSUMER PROTECTION ASSOCIATION",
+   "Satna, Madhya Pradesh",
+   "YAVATMAL, Maharashtra",
+   "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology and Entrepreneur Development (IITED)",
+   "Consumer Awareness Program at Yavatmal (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra",
+   "Yavatmal, Maharashtra"
+  ],
+  "removed_lines_total": 16,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "3324331410ec",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",

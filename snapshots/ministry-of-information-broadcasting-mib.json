@@ -611,7 +611,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-26T10:50:55Z",
+ "fetched_at": "2026-07-26T13:51:58Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -895,14 +895,14 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287665&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2287762&reg=3&lang=2": 0,
    "https://mib.gov.in/hi/provisions-regarding-official-language": 0,
-   "https://mib.gov.in/index.php/hi/archives": 4,
-   "https://mib.gov.in/index.php/hi/related-link": 4,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 4,
-   "https://mib.gov.in/index.php/hi/website-policy": 4,
-   "https://mib.gov.in/index.php/hi/help": 4,
-   "https://mib.gov.in/index.php/hi/sitemap": 4,
-   "https://mib.gov.in/index.php/hi/feedback": 4,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 4
+   "https://mib.gov.in/index.php/hi/archives": 5,
+   "https://mib.gov.in/index.php/hi/related-link": 5,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 5,
+   "https://mib.gov.in/index.php/hi/website-policy": 5,
+   "https://mib.gov.in/index.php/hi/help": 5,
+   "https://mib.gov.in/index.php/hi/sitemap": 5,
+   "https://mib.gov.in/index.php/hi/feedback": 5,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 5
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z",
