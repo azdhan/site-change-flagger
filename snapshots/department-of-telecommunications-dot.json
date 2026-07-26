@@ -148,19 +148,22 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद करें",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 24.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -401,7 +404,7 @@
   },
   {
    "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
@@ -425,27 +428,27 @@
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://dot.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://dot.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://dot.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://dot.gov.in/help",
-   "text": "Help"
+   "text": "मदद करें"
   },
   {
    "url": "https://dot.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://x.com/DoT_India",
@@ -473,7 +476,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-26T16:13:11Z",
+ "fetched_at": "2026-07-26T19:32:32Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -651,17 +654,17 @@
    "View more": 0,
    "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
-   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
-   "Help": 0,
-   "Feedback": 0,
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 1,
+   "Help": 1,
+   "Feedback": 1,
    "इस पोस्ट को इंस्टाग्राम पर देखें": 0,
    "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)": 0,
-   "Useful Links": 0,
-   "Website Policies": 0,
-   "Sitemap": 0,
-   "Archives": 0,
-   "Subscribe for Updates": 0,
-   "Related Links": 0,
+   "Useful Links": 1,
+   "Website Policies": 1,
+   "Sitemap": 1,
+   "Archives": 1,
+   "Subscribe for Updates": 1,
+   "Related Links": 1,
    "अंतिम बार अद्यतन किया गयाः 08.07.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड और उससे नीचे के स्तर में स्थानांतरण/नियुक्ति": 0,
    "दूरसंचार की राजपत्र अधिसूचना (रेडियो उपकरण अधिकार प्राधिकरण) नियम, 2026": 0,
