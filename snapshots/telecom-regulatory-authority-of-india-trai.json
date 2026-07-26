@@ -203,21 +203,21 @@
   "On-going Consultation",
   "No Open Consultation",
   "Events",
-  "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES",
+  "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY",
   "Date :",
   "Time :",
   "10:00 AM",
   "Location :",
-  "Tirupathi , Andhra Pradesh",
-  "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY",
   "Dhone, Andhra Pradesh",
   "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union",
   "Lunglei, Mizoram",
-  "Consumer Awareness Programme at Thathiya Distt Kannauj (UttarPradesh) by Upbhokta Sanrakshan Kalyan samiti",
-  "11:00 AM",
-  "Kannauj, Uttar Pradesh",
+  "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES",
+  "Tirupathi , Andhra Pradesh",
   "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club",
+  "11:00 AM",
   "Sirohi, Rajasthan",
+  "Consumer Awareness Programme at Thathiya Distt Kannauj (UttarPradesh) by Upbhokta Sanrakshan Kalyan samiti",
+  "Kannauj, Uttar Pradesh",
   "Consumer Awareness Programme at Geesugonda ( Telangana) by SRI DHARANI VOLUNTARY ORGANISATION",
   "01:30 PM",
   "Warangal, Telangana",
@@ -976,10 +976,6 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-chandragiri-andhra-pradesh-rural-action-social",
-   "text": "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-dhone-andhra-pradesh-pss-educational-development",
    "text": "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY"
   },
@@ -988,12 +984,16 @@
    "text": "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-thathiya-distt-kannauj-uttarpradesh-upbhokta",
-   "text": "Consumer Awareness Programme at Thathiya Distt Kannauj (UttarPradesh) by Upbhokta Sanrakshan Kalyan samiti"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-chandragiri-andhra-pradesh-rural-action-social",
+   "text": "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirohi-rajasthan-mount-abu-international-ham-radio-club",
    "text": "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-thathiya-distt-kannauj-uttarpradesh-upbhokta",
+   "text": "Consumer Awareness Programme at Thathiya Distt Kannauj (UttarPradesh) by Upbhokta Sanrakshan Kalyan samiti"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-geesugonda-telangana-sri-dharani-voluntary",
@@ -1213,7 +1213,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-26T13:51:58Z",
+ "fetched_at": "2026-07-26T16:13:11Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1499,7 +1499,7 @@
    "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": 0,
    "16th July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": 0,
-   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 4,
+   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 5,
    "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway.": 0,
    "20th July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 0,
@@ -1732,8 +1732,8 @@
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 4,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 4,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 5,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 5,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": 0,
