@@ -120,35 +120,34 @@
   "100 5G Labs",
   "अधिक देखें",
   "नया क्या है",
-  "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट",
+  "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट",
   "एच. एम. ओ. सी. का पता नोटः जून 2026 संस्करण",
   "दूरसंचार (प्रशासनिक प्रक्रिया द्वारा स्पेक्ट्रम असाइनमेंट) नियम, 2026 का मसौदा",
   "जी. एस. आर. 468 (ई): 77-81 जीएचजेड बैंड में छोटी दूरी के ऑटोमोटिव रडार प्रणाली का उपयोग (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026",
   "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026",
-  "हाल के दस्तावेज़",
-  "प्रेस विज्ञप्ति",
-  "दूरसंचार विभाग ने भारी बारिश, बादल फटने और भूस्खलन के बीच जम्मू-कश्मीर, असम और नागालैंड में इंट्रा सर्कल रोमिंग को सक्रिय किया",
-  "आदेश और सूचनाएँ",
-  "आई. टी. एस. जी. आर. के अधिकारियों के कार्यकाल में विस्तार एन. सी. ए.-टी. में ए.-श्री शिवम शुक्ला, स्टाफ नं. 60074",
-  "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री सत्यम सिंह, आई. टी. एस., स्टाफ नं. 21407",
-  "\"2022-2024 अवधि से संबंधित अनुकंपा नियुक्ति समिति की रिपोर्ट\"",
-  "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "मीडिया के लिए",
+  "Recent Documents",
+  "Department of Telecommunications Activates Intra Circle Roaming in Jammu & Kashmir, Assam and Nagaland amid Heavy Rainfall, Cloudburst and Landslides",
+  "Extension in tenure of officers of ITS Gr. A in NCA-T - Shri Shivam Shukla, Staff no. 60074",
+  "Taken on Strength in respect of officer of ITS Gr. A - Shri Satyam Singh, ITS, Staff no. 21407",
+  "\"Report of the Compassionate Appointment Committee pertaining to the period 2022-2024\"",
+  "View more",
+  "Explore User Personas",
+  "FOR MEDIA",
   "For Industry Professional",
   "For Researcher",
   "For IT Professional",
-  "महत्वपूर्ण लिंक",
-  "एम. टी. सी. टी. ई. पोर्टल",
-  "खोदने से पहले कॉल करें",
-  "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
-  "राजस्व प्रबंधन सेवाएँ",
+  "Important Links",
+  "MTCTE Portal",
+  "Telecom eServices Portal",
+  "Call Before u Dig",
+  "PM-WANI- Telecom eServices Portal",
+  "Revenue Management Services",
   "Right Of Way -Telecom eServices Portal",
   "सोशल मीडिया में",
   "एक्स",
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -334,7 +333,7 @@
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf",
-   "text": "डब्ल्यूएसआईएस पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
+   "text": "डब्ल्यू. एस. आई. एस. पुरस्कार 2026-लाइव वेबकास्ट arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/07/d525c474cf9de89412f90c3e182b3b41.pdf",
@@ -358,7 +357,7 @@
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
-   "text": "मीडिया के लिए"
+   "text": "FOR MEDIA"
   },
   {
    "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
@@ -374,23 +373,23 @@
   },
   {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
-   "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
+   "text": "MTCTE Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in",
-   "text": "दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   "text": "Telecom eServices Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/call-before-u-dig",
-   "text": "खोदने से पहले कॉल करें arrow_forward_ios"
+   "text": "Call Before u Dig arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/app-provider",
-   "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   "text": "PM-WANI- Telecom eServices Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/about-mtcte",
-   "text": "राजस्व प्रबंधन सेवाएँ arrow_forward_ios"
+   "text": "Revenue Management Services arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/right-of-way-permissions",
@@ -398,11 +397,11 @@
   },
   {
    "url": "https://dot.gov.in/important-links",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
@@ -474,7 +473,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-26T08:38:29Z",
+ "fetched_at": "2026-07-26T10:50:55Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -642,15 +641,15 @@
    "Rate this translation": 0,
    "Do you like to give feedback": 0,
    "Submit": 0,
-   "Recent Documents": 2,
-   "Revenue Management Services": 2,
-   "PM-WANI- Telecom eServices Portal": 2,
-   "Explore User Personas": 2,
-   "Telecom eServices Portal": 2,
-   "Call Before u Dig": 2,
-   "Important Links": 2,
-   "View more": 2,
-   "FOR MEDIA": 2,
+   "Recent Documents": 0,
+   "Revenue Management Services": 0,
+   "PM-WANI- Telecom eServices Portal": 0,
+   "Explore User Personas": 0,
+   "Telecom eServices Portal": 0,
+   "Call Before u Dig": 0,
+   "Important Links": 0,
+   "View more": 0,
+   "FOR MEDIA": 0,
    "Right Of Way -Telecom eServices Portal": 0,
    "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
    "Help": 0,
@@ -678,7 +677,7 @@
    "दूरसंचार विभाग के समृद्ध ग्राम ने एक्शन लाइन सी6-एनेबलिंग एनवायरनमेंट के तहत डब्ल्यूएसआईएस पुरस्कार 2026 जीता": 0,
    "अंतिम बार अद्यतन किया गयाः 10.07.2026": 0,
    "फोन प्राथमिकता (पी. एच. पी) टेलीफोन सलाहकार समिति (टी. ए. सी.)": 0,
-   "MTCTE Portal": 2,
+   "MTCTE Portal": 0,
    "एम. टी. सी. टी. ई. पोर्टल": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा (आई. पी. और टी. ए. एफ. एस.) के कनिष्ठ प्रशासनिक ग्रेड (जे. ए. जी.) अधिकारी श्री साहिल गर्ग का दिल्ली विकास प्राधिकरण (डी. डी. ए.) के निदेशक (वित्त) के रूप में चयन-संबंधित": 0,
    "एन. सी. ए.-टी. द्वारा 'एम. ओ. डी. एस. आई.' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम 16.07.2026 से 17.07.2026 तक": 0,
@@ -708,13 +707,13 @@
    "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026": 0,
    "आई. टी. एस. जी. आर. के अधिकारियों के कार्यकाल में विस्तार एन. सी. ए.-टी. में ए.-श्री शिवम शुक्ला, स्टाफ नं. 60074": 0,
    "अंतिम बार अद्यतन किया गयाः 23.07.2026": 0,
-   "Extension in tenure of officers of ITS Gr. A in NCA-T - Shri Shivam Shukla, Staff no. 60074": 2,
+   "Extension in tenure of officers of ITS Gr. A in NCA-T - Shri Shivam Shukla, Staff no. 60074": 0,
    "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री सत्यम सिंह, आई. टी. एस., स्टाफ नं. 21407": 0,
    "दूरसंचार विभाग ने भारी बारिश, बादल फटने और भूस्खलन के बीच जम्मू-कश्मीर, असम और नागालैंड में इंट्रा सर्कल रोमिंग को सक्रिय किया": 0,
-   "Taken on Strength in respect of officer of ITS Gr. A - Shri Satyam Singh, ITS, Staff no. 21407": 2,
+   "Taken on Strength in respect of officer of ITS Gr. A - Shri Satyam Singh, ITS, Staff no. 21407": 0,
    "\"2022-2024 अवधि से संबंधित अनुकंपा नियुक्ति समिति की रिपोर्ट\"": 0,
-   "Department of Telecommunications Activates Intra Circle Roaming in Jammu & Kashmir, Assam and Nagaland amid Heavy Rainfall, Cloudburst and Landslides": 2,
-   "\"Report of the Compassionate Appointment Committee pertaining to the period 2022-2024\"": 2,
+   "Department of Telecommunications Activates Intra Circle Roaming in Jammu & Kashmir, Assam and Nagaland amid Heavy Rainfall, Cloudburst and Landslides": 0,
+   "\"Report of the Compassionate Appointment Committee pertaining to the period 2022-2024\"": 0,
    "अंतिम बार अद्यतन किया गयाः 24.07.2026": 0,
    "जी. एस. आर. 466 (ई): 5.9 जीएचजेड बैंड (लाइसेंस की आवश्यकताओं से छूट) नियम, 2026 में सेलुलर वाहन-से-सब कुछ संचार के लिए ऑन बोर्ड इकाई का उपयोग": 0
   },
