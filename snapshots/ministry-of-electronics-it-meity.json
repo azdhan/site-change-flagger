@@ -101,11 +101,6 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
-  "Shri Ashwini Vaishnaw",
-  "HON’BLE MINISTER",
-  "Shri Jitin Prasada",
-  "HON’BLE MINISTER OF STATE",
   "Key Offerings",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "arrow_forward_ios",
@@ -135,15 +130,17 @@
   "Instagram",
   "Youtube",
   "Facebook",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Feedback",
-  "This Website belong to Ministry of Electronics and Information Technology, Government of India",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 27.07.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -295,14 +292,6 @@
    "text": "open_in_new कार्यक्रम देखें"
   },
   {
-   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
-   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
-  },
-  {
-   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
-   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
-  },
-  {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
    "text": "NeGD’s Non-Technical (Summer) Internship Programme"
   },
@@ -347,36 +336,36 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://meity.gov.in/archives?page=tenders_post",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://meity.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://meity.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://meity.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://meity.gov.in/help",
-   "text": "Help"
+   "text": "मदद"
   },
   {
    "url": "https://meity.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://twitter.com/GoI_MeitY?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -404,7 +393,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-27T17:06:17Z",
+ "fetched_at": "2026-07-27T19:50:33Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -597,15 +586,16 @@
    "अंतिम बार अद्यतन किया गयाः 22.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 23.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 24.07.2026": 0,
-   "Help": 0,
-   "Subscribe for Updates": 0,
-   "Related Links": 0,
-   "Useful Links": 0,
-   "Sitemap": 0,
-   "Website Policies": 0,
-   "Feedback": 0,
-   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 0,
-   "Archives": 0
+   "Help": 1,
+   "Subscribe for Updates": 1,
+   "Related Links": 1,
+   "Useful Links": 1,
+   "Sitemap": 1,
+   "Website Policies": 1,
+   "Feedback": 1,
+   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 1,
+   "Archives": 1,
+   "अंतिम बार अद्यतन किया गयाः 27.07.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
