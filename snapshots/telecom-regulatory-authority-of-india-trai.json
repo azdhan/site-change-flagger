@@ -186,10 +186,10 @@
   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.",
   "What’s New",
   "23rd July 2026",
-  "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.",
-  "Explore",
-  "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.",
   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.",
+  "Explore",
+  "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.",
+  "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.",
   "22nd July 2026",
   "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA.",
   "20th July 2026",
@@ -213,11 +213,11 @@
   "Dhone, Andhra Pradesh",
   "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union",
   "Lunglei, Mizoram",
-  "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club",
-  "11:00 AM",
-  "Sirohi, Rajasthan",
   "Consumer Awareness Programme at Thathiya Distt Kannauj (UttarPradesh) by Upbhokta Sanrakshan Kalyan samiti",
+  "11:00 AM",
   "Kannauj, Uttar Pradesh",
+  "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club",
+  "Sirohi, Rajasthan",
   "Consumer Awareness Programme at Geesugonda ( Telangana) by SRI DHARANI VOLUNTARY ORGANISATION",
   "01:30 PM",
   "Warangal, Telangana",
@@ -888,6 +888,14 @@
    "text": "View All"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar",
+   "text": "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and",
    "text": "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA."
   },
@@ -901,14 +909,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar",
-   "text": "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar",
    "text": "Explore"
   },
   {
@@ -988,12 +988,12 @@
    "text": "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirohi-rajasthan-mount-abu-international-ham-radio-club",
-   "text": "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-thathiya-distt-kannauj-uttarpradesh-upbhokta",
    "text": "Consumer Awareness Programme at Thathiya Distt Kannauj (UttarPradesh) by Upbhokta Sanrakshan Kalyan samiti"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirohi-rajasthan-mount-abu-international-ham-radio-club",
+   "text": "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-geesugonda-telangana-sri-dharani-voluntary",
@@ -1213,7 +1213,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-26T22:10:14Z",
+ "fetched_at": "2026-07-27T03:58:36Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1496,7 +1496,7 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "Consultation Papers": 0,
    "10:00 AM": 0,
-   "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": 1,
+   "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": 2,
    "16th July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": 0,
    "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 0,
@@ -1730,8 +1730,8 @@
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 0,
