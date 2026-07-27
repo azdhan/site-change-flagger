@@ -1,5 +1,107 @@
 [
  {
+  "id": "1069e1f5dcd4",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-27T10:07:04Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 27.07.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "422e56311d34",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-27T10:07:04Z",
+  "summary": "7 new links, 13 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Ambala (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED)",
+   "Ambala, Haryana",
+   "OHD on Consultation Paper On the Proliferation of Public Wi-Fi Networks in India",
+   "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla",
+   "Shimla , Himachal Pradesh",
+   "Consumer Awareness Program at Bokaro (Jharkhand) by Mahila Janshakti Sangathan",
+   "Bokaro, Jharkhand",
+   "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda",
+   "Bahraich , Uttar Pradesh",
+   "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society",
+   "Beawar, Rajasthan",
+   "Consumer Outreach Program at Lohardaga (Jharkhand) by TRAI Regional Office, Kolkata",
+   "Lohardaga, Jharkhand"
+  ],
+  "added_lines_total": 13,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ambala-haryana-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Ambala (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED)"
+   },
+   {
+    "url": "https://www.trai.gov.in/events/ohd-consultation-paper-proliferation-public-wi-fi-networks-india",
+    "text": "OHD on Consultation Paper On the Proliferation of Public Wi-Fi Networks in India"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-shimla-himachal-pradesh-himachal-upbhogkta-sanrakshan",
+    "text": "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-mahila-janshakti-sangathan",
+    "text": "Consumer Awareness Program at Bokaro (Jharkhand) by Mahila Janshakti Sangathan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-block-nonpara-distt-bahraich-rural-consumers",
+    "text": "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-beawar-rajasthan-consumer-unity-trust-society",
+    "text": "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-lohardaga-jharkhand-trai-regional-office-kolkata",
+    "text": "Consumer Outreach Program at Lohardaga (Jharkhand) by TRAI Regional Office, Kolkata"
+   }
+  ],
+  "new_links_total": 7
+ },
+ {
+  "id": "953d0c77e83f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-27T10:07:04Z",
+  "summary": "3 new links, 4 new text blocks",
+  "added_lines": [
+   "सरकार ने आईटी नियम, 2021 के तहत ओटीटी प्लेटफॉर्मों और सोशल मीडिया के कानूनी दायित्वों को दोहराया",
+   "386 निजी एफ एम रेडियो चैनल काम कर रहे हैं। सरकार की नीति के अनुसार क्षेत्रीय संस्कृति को बढ़ावा देने के लिए 20 प्रतिशत कंटेंट स्थानीय भाषा में होना ज़रूरी है।",
+   "भारत के टीवी दर्शक मापन प्रणाली में पारदर्शिता, स्वतंत्रता और जवाबदेही सुदृढ़ करने के लिए टेलीविज़न रेटिंग नीति, 2026",
+   "27 जुलाई 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289050&reg=48&lang=2",
+    "text": "सरकार ने आईटी नियम, 2021 के तहत ओटीटी प्लेटफॉर्मों और सोशल मीडिया के कानूनी दायित्वों को दोहराया"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288928&reg=48&lang=2",
+    "text": "386 निजी एफ एम रेडियो चैनल काम कर रहे हैं। सरकार की नीति के अनुसार क्षेत्रीय संस्कृति को बढ़ावा देने के लिए 20 प्रतिशत कंटेंट स्थानीय भाषा में होना ज़रूरी है।"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288918&reg=48&lang=2",
+    "text": "भारत के टीवी दर्शक मापन प्रणाली में पारदर्शिता, स्वतंत्रता और जवाबदेही सुदृढ़ करने के लिए टेलीविज़न रेटिंग नीति, 2026"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "87975a5680c4",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
