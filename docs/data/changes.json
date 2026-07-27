@@ -1,5 +1,30 @@
 [
  {
+  "id": "170268ae8a2d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-27T15:10:29Z",
+  "summary": "2 new links, 2 new text blocks",
+  "added_lines": [
+   "Newsletter",
+   "27 July, 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/newsletter",
+    "text": "Newsletter"
+   },
+   {
+    "url": "https://www.trai.gov.in/photo-gallery/quantum-safe-communication",
+    "text": ""
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "1069e1f5dcd4",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
