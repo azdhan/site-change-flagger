@@ -1,5 +1,25 @@
 [
  {
+  "id": "cab2560e9e72",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-28T03:31:01Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "Consumer Outreach Program at Lohardaga (Jharkhand) by RO KOLKATA"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-lohardaga-jharkhand-ro-kolkata",
+    "text": "Consumer Outreach Program at Lohardaga (Jharkhand) by RO KOLKATA"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "c379467c21c0",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
