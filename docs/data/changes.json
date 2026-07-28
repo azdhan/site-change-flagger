@@ -1,5 +1,73 @@
 [
  {
+  "id": "81055099c61b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-28T08:50:18Z",
+  "summary": "7 new links, 10 new text blocks",
+  "added_lines": [
+   "28th July 2026",
+   "TRAI releases Telecom Subscription Data as on June 2026",
+   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.",
+   "Consumer Awareness Programme at Jaleswar ( Odisha) by BHANJA INSTITUTE FOR RURAL DEVELOPMENT(BIRD)",
+   "Balasore, Odisha",
+   "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)",
+   "Shajapur, Madhya Pradesh",
+   "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream",
+   "Alipurduar, West Bengal",
+   "28 July, 2026"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
+    "text": "TRAI releases Telecom Subscription Data as on June 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
+    "text": "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-jaleswar-odisha-bhanja-institute-rural-developmentbird",
+    "text": "Consumer Awareness Programme at Jaleswar ( Odisha) by BHANJA INSTITUTE FOR RURAL DEVELOPMENT(BIRD)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-mohan-badodiya-distt-shajapur-mp",
+    "text": "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-alipurduar-west-bengal-hemnagar-sundarban-dream",
+    "text": "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream"
+   }
+  ],
+  "new_links_total": 7
+ },
+ {
+  "id": "1f7cc9915fec",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-28T08:50:18Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "28 जुलाई 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "cab2560e9e72",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
