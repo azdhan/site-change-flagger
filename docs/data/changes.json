@@ -1,5 +1,73 @@
 [
  {
+  "id": "f73f0cc9350b",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-28T11:26:30Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Extension in tenure of officers of ITS Gr. A in NCA-T - Shri Shivam Shukla, Staff no. 60074",
+   "Taken on Strength in respect of officer of ITS Gr. A - Shri Satyam Singh, ITS, Staff no. 21407",
+   "Department of Telecommunications Activates Intra Circle Roaming in Jammu & Kashmir, Assam and Nagaland amid Heavy Rainfall, Cloudburst and Landslides",
+   "\"Report of the Compassionate Appointment Committee pertaining to the period 2022-2024\""
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "35f6fc556784",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-28T11:26:30Z",
+  "summary": "1 new link, 2 new text blocks, 22 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Supaul (Bihar) by Yuva Kriti Sangam",
+   "Supaul , Bihar"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "Consumer Awareness Programme at Chandragiri ( Andhra Pradesh) RURAL ACTION FOR SOCIAL SERVICES",
+   "02:30 PM",
+   "Tirupathi , Andhra Pradesh",
+   "Consumer Awareness Program at Lunglei (Mizoram) by Mizoram Consumer's Union",
+   "Lunglei, Mizoram",
+   "Consumer Awareness Programme at Dhone ( Andhra Pradesh) by PSS EDUCATIONAL DEVELOPMENT SOCIETY",
+   "Dhone, Andhra Pradesh",
+   "Consumer Awareness Program at Sirohi (Rajasthan) by Mount Abu International Ham Radio Club",
+   "Sirohi, Rajasthan",
+   "Kannauj, Uttar Pradesh"
+  ],
+  "removed_lines_total": 22,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-supaul-bihar-yuva-kriti-sangam",
+    "text": "Consumer Awareness Program at Supaul (Bihar) by Yuva Kriti Sangam"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "d0ce144e590d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-28T11:26:30Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "अश्लील कंटेंट दिखाने और आईटी अधिनियम व अन्य लागू कानूनों का उल्लंघन करने के कारण पिछले दो वर्षों में 50 ओटीटी प्लेटफॉर्म बंद किए गए",
+   "टेलीविज़न और रेडियो सेवाओं के लिए नियामकीय संरचना को सरल बनाने के लिए दूरसंचार (टेलीविज़न, रेडियो और संबंधित सेवाएं) नियमावली, 2026 का प्रारूप",
+   "वेव्स फ़िल्म बाज़ार स्क्रीनराइटर्स लैब 2025 के प्रोजेक्ट ‘यायावर – द माइग्रेटिंग बर्ड ने अंतर्राष्ट्रीय सहयोग के लिए ' आशय पत्र ' (एलओआई ) पर हस्ताक्षर किए",
+   "24 जुलाई 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "81055099c61b",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
