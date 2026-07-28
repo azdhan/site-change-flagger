@@ -191,16 +191,16 @@
   "Explore",
   "TRAI releases Telecom Subscription Data as on June 2026",
   "23rd July 2026",
-  "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.",
   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.",
   "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.",
+  "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.",
   "22nd July 2026",
   "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA.",
   "20th July 2026",
-  "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.",
   "TRAI Assesses Mobile Network Quality Across Bhopal City & Indore to Neemuch via Ratlam and Mandsaur Highway & Bilaspur to Ambikapur Highway.",
   "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway.",
   "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
+  "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.",
   "On-going Consultation",
   "No Open Consultation",
   "Events",
@@ -210,19 +210,19 @@
   "10:00 AM",
   "Location :",
   "New Delhi, Delhi",
-  "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla",
-  "11:00 AM",
-  "Shimla , Himachal Pradesh",
   "Consumer Awareness Program at Bokaro (Jharkhand) by Mahila Janshakti Sangathan",
+  "11:00 AM",
   "Bokaro, Jharkhand",
+  "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla",
+  "Shimla , Himachal Pradesh",
   "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda",
   "12:00 PM",
   "Bahraich , Uttar Pradesh",
-  "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society",
-  "Beawar, Rajasthan",
   "Consumer Outreach Program at Lohardaga (Jharkhand) by TRAI Regional Office, Kolkata",
   "Lohardaga, Jharkhand",
   "Consumer Outreach Program at Lohardaga (Jharkhand) by RO KOLKATA",
+  "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society",
+  "Beawar, Rajasthan",
   "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)",
   "Shajapur, Madhya Pradesh",
   "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream",
@@ -906,14 +906,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata",
-   "text": "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar",
    "text": "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA."
   },
@@ -930,19 +922,19 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata",
+   "text": "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-lunglei-lawngtlai-and-siaha",
    "text": "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA."
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-lunglei-lawngtlai-and-siaha",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and",
-   "text": "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and",
    "text": "Explore"
   },
   {
@@ -970,6 +962,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and",
+   "text": "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/open-consultation",
    "text": "View All"
   },
@@ -982,20 +982,16 @@
    "text": "OHD on Consultation Paper On the Proliferation of Public Wi-Fi Networks in India"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-shimla-himachal-pradesh-himachal-upbhogkta-sanrakshan",
-   "text": "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-mahila-janshakti-sangathan",
    "text": "Consumer Awareness Program at Bokaro (Jharkhand) by Mahila Janshakti Sangathan"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-block-nonpara-distt-bahraich-rural-consumers",
-   "text": "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-shimla-himachal-pradesh-himachal-upbhogkta-sanrakshan",
+   "text": "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-beawar-rajasthan-consumer-unity-trust-society",
-   "text": "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-block-nonpara-distt-bahraich-rural-consumers",
+   "text": "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-lohardaga-jharkhand-trai-regional-office-kolkata",
@@ -1004,6 +1000,10 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-lohardaga-jharkhand-ro-kolkata",
    "text": "Consumer Outreach Program at Lohardaga (Jharkhand) by RO KOLKATA"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-beawar-rajasthan-consumer-unity-trust-society",
+   "text": "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-mohan-badodiya-distt-shajapur-mp",
@@ -1215,7 +1215,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-28T11:26:30Z",
+ "fetched_at": "2026-07-28T14:32:28Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1498,10 +1498,10 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "Consultation Papers": 0,
    "10:00 AM": 0,
-   "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": 2,
-   "16th July 2026": 2,
-   "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": 6,
-   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 2,
+   "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": 3,
+   "16th July 2026": 3,
+   "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": 7,
+   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": 3,
    "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway.": 0,
    "20th July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 0,
@@ -1509,20 +1509,19 @@
    "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.": 0,
    "22nd July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA.": 0,
-   "23 July, 2026": 7,
    "23rd July 2026": 0,
    "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": 0,
    "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": 0,
    "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": 0,
-   "Thanjavur, Tamil Nadu": 2,
-   "Chandigarh, Chandigarh": 2,
-   "10:30 AM": 2,
-   "Bhavnagar, Gujarat": 2,
-   "Consumer Awareness Programme at Kovilaachery ( Tamil Nadu) by RURAL ORGANISATION FOR SOCIAL AND EDUCATION TRUST (ROSE TRUST)": 2,
-   "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society": 2,
-   "Consumer Outreach Program at Bhavnagar (Gujarat) by TRAI Regional Office, Jaipur": 2,
+   "Thanjavur, Tamil Nadu": 3,
+   "Chandigarh, Chandigarh": 3,
+   "10:30 AM": 3,
+   "Bhavnagar, Gujarat": 3,
+   "Consumer Awareness Programme at Kovilaachery ( Tamil Nadu) by RURAL ORGANISATION FOR SOCIAL AND EDUCATION TRUST (ROSE TRUST)": 3,
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society": 3,
+   "Consumer Outreach Program at Bhavnagar (Gujarat) by TRAI Regional Office, Jaipur": 3,
    "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda": 0,
-   "Consumer Awareness Program at Ambala (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED)": 2,
+   "Consumer Awareness Program at Ambala (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED)": 3,
    "Bokaro, Jharkhand": 0,
    "12:00 PM": 0,
    "Shimla , Himachal Pradesh": 0,
@@ -1530,13 +1529,13 @@
    "Consumer Awareness Program at Bokaro (Jharkhand) by Mahila Janshakti Sangathan": 0,
    "New Delhi, Delhi": 0,
    "Beawar, Rajasthan": 0,
-   "Ambala, Haryana": 2,
+   "Ambala, Haryana": 3,
    "Lohardaga, Jharkhand": 0,
    "OHD on Consultation Paper On the Proliferation of Public Wi-Fi Networks in India": 0,
    "Bahraich , Uttar Pradesh": 0,
    "Consumer Outreach Program at Lohardaga (Jharkhand) by TRAI Regional Office, Kolkata": 0,
    "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society": 0,
-   "27 July, 2026": 2,
+   "27 July, 2026": 3,
    "Newsletter": 0,
    "Consumer Outreach Program at Lohardaga (Jharkhand) by RO KOLKATA": 0,
    "28 July, 2026": 0,
@@ -1545,8 +1544,8 @@
    "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream": 0,
    "28th July 2026": 0,
    "Alipurduar, West Bengal": 0,
-   "Consumer Awareness Programme at Jaleswar ( Odisha) by BHANJA INSTITUTE FOR RURAL DEVELOPMENT(BIRD)": 1,
-   "Balasore, Odisha": 1,
+   "Consumer Awareness Programme at Jaleswar ( Odisha) by BHANJA INSTITUTE FOR RURAL DEVELOPMENT(BIRD)": 2,
+   "Balasore, Odisha": 2,
    "Shajapur, Madhya Pradesh": 0,
    "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)": 0,
    "Supaul , Bihar": 0,
@@ -1711,7 +1710,6 @@
    "https://www.trai.gov.in/photo-gallery/cultural-programme-tarang-10": 0,
    "https://www.trai.gov.in/photo-gallery/green-room-inauguration": 0,
    "https://www.trai.gov.in/photo-gallery/itu-trai-workshop-2025-bhubaneswar": 0,
-   "https://www.trai.gov.in/photo-gallery/itugsr-riyadh-2025-saudi-arabia": 7,
    "https://www.trai.gov.in/video-gallery": 0,
    "https://twitter.com/TRAI/status/2071949093598081183?ref_src=twsrc%5Etfw": 0,
    "https://twitter.com/TRAI/status/2071947530838126907?ref_src=twsrc%5Etfw": 0,
@@ -1746,12 +1744,12 @@
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 2,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 2,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 2,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 2,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 6,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 6,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 3,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": 3,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 3,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": 3,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 7,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": 7,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa": 0,
@@ -1768,13 +1766,13 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhavnagar-gujarat-trai-regional-office-jaipur": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-kovilaachery-tamil-nadu-rural-organisation-social-and": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhavnagar-gujarat-trai-regional-office-jaipur": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-kovilaachery-tamil-nadu-rural-organisation-social-and": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-beawar-rajasthan-consumer-unity-trust-society": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-shimla-himachal-pradesh-himachal-upbhogkta-sanrakshan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-lohardaga-jharkhand-trai-regional-office-kolkata": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ambala-haryana-indian-institute-technology-entrepreneur": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ambala-haryana-indian-institute-technology-entrepreneur": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-block-nonpara-distt-bahraich-rural-consumers": 0,
    "https://www.trai.gov.in/events/ohd-consultation-paper-proliferation-public-wi-fi-networks-india": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-mahila-janshakti-sangathan": 0,
@@ -1784,7 +1782,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-jaleswar-odisha-bhanja-institute-rural-developmentbird": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-jaleswar-odisha-bhanja-institute-rural-developmentbird": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-mohan-badodiya-distt-shajapur-mp": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-alipurduar-west-bengal-hemnagar-sundarban-dream": 0,
@@ -1933,7 +1931,8 @@
    "Warangal, Telangana": "2026-07-28T11:26:30Z",
    "Consumer Awareness Program at Rajsamand (Rajasthan) by Maruti Seva Samiti": "2026-07-28T11:26:30Z",
    "Consumer Awareness Programme at Geesugonda ( Telangana) by SRI DHARANI VOLUNTARY ORGANISATION": "2026-07-28T11:26:30Z",
-   "Rajsamand, Rajasthan": "2026-07-28T11:26:30Z"
+   "Rajsamand, Rajasthan": "2026-07-28T11:26:30Z",
+   "23 July, 2026": "2026-07-28T14:32:28Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/sites/default/files/2024-10/PR_No.54of2019.pdf": "2026-07-09T20:01:59Z",
@@ -2019,7 +2018,8 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirohi-rajasthan-mount-abu-international-ham-radio-club": "2026-07-28T11:26:30Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-thathiya-distt-kannauj-uttarpradesh-upbhokta": "2026-07-28T11:26:30Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-geesugonda-telangana-sri-dharani-voluntary": "2026-07-28T11:26:30Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rajsamand-rajasthan-maruti-seva-samiti": "2026-07-28T11:26:30Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rajsamand-rajasthan-maruti-seva-samiti": "2026-07-28T11:26:30Z",
+   "https://www.trai.gov.in/photo-gallery/itugsr-riyadh-2025-saudi-arabia": "2026-07-28T14:32:28Z"
   }
  }
 }
