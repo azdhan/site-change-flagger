@@ -1,5 +1,99 @@
 [
  {
+  "id": "4c79ac0df180",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-29T08:53:39Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Relieving of Shri Dindayal Tosniwal [Staff No.20198], DDG (NT), DoT HQs",
+   "Internal postings of officers of IP&TAFS Group 'A' in the DoT Hq.",
+   "Department of Telecommunications Activates Intra-Circle Roaming (ICR) in Affected Districts of Nagaland, Gujarat, UT of Dadra & Nagar Haveli and Daman & Diu amid Heavy Rainfall and Flooding"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "edb28b205b08",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-29T08:53:39Z",
+  "summary": "2 new links, 5 new text blocks, 20 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Programme at Darya Ganj (Central Delhi) by Alabhaya Foundation",
+   "Central Delhi, Delhi",
+   "Consumer Awareness Program at Tonk (Rajasthan) by Navjeevan Society",
+   "Tonk, Rajasthan",
+   "29 July, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.",
+   "16th July 2026",
+   "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.",
+   "Thanjavur, Tamil Nadu",
+   "Chandigarh, Chandigarh",
+   "Bhavnagar, Gujarat",
+   "Consumer Awareness Programme at Kovilaachery ( Tamil Nadu) by RURAL ORGANISATION FOR SOCIAL AND EDUCATION TRUST (ROSE TRUST)",
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society",
+   "Consumer Outreach Program at Bhavnagar (Gujarat) by TRAI Regional Office, Jaipur",
+   "Consumer Awareness Program at Ambala (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED)"
+  ],
+  "removed_lines_total": 20,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-darya-ganj-central-delhi-alabhaya-foundation",
+    "text": "Consumer Awareness Programme at Darya Ganj (Central Delhi) by Alabhaya Foundation"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tonk-rajasthan-navjeevan-society",
+    "text": "Consumer Awareness Program at Tonk (Rajasthan) by Navjeevan Society"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "c330612d3585",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-29T08:53:39Z",
+  "summary": "1 new link, 2 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "राष्ट्रपति द्रौपदी मुर्मु के कार्यकाल के चार साल पूरे होने पर राष्ट्रपति भवन में पांच स्मृति पुस्तकें जारी की गईं",
+   "29 जुलाई 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "27 जुलाई 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290836&reg=3&lang=2",
+    "text": "राष्ट्रपति द्रौपदी मुर्मु के कार्यकाल के चार साल पूरे होने पर राष्ट्रपति भवन में पांच स्मृति पुस्तकें जारी की गईं"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "7deaf0dd0dc9",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-29T08:53:39Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 29.07.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "63c11cd10cc4",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
