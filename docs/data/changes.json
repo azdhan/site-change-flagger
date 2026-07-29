@@ -1,5 +1,26 @@
 [
  {
+  "id": "eab234b3565b",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-29T11:32:31Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "2.13 मेगा बाइट |",
+   "सीबीसी एवं डीपीडी के कला एवं उत्पादन स्टाफ के सामान्य कैडर में प्रतिनियुक्ति के…"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-07/hindi-translation-of-o.m-dated-18-06-2026_0.pdf",
+    "text": "2.13 मेगा बाइट | सीबीसी एवं डीपीडी के कला एवं उत्पादन स्टाफ के सामान्य कैडर में प्रतिनियुक्ति के आधार पर प्रोडक्शन मैनेजर (मुद्रित प्रचार)/प्रोडक्शन ऑफिसर (प्रोडक्शन) के 01 पद की भर्ती।"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "4c79ac0df180",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
