@@ -1,5 +1,44 @@
 [
  {
+  "id": "256e21275f3b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-29T16:38:12Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Nuh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+   "Nuh, Haryana"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuh-haryana-rashtriya-samuddeshiya-vikas-sansthan",
+    "text": "Consumer Awareness Program at Nuh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "3bcea48bcd66",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-29T16:38:12Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://pilot.tcoe.in",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "c11c9d2e9101",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
