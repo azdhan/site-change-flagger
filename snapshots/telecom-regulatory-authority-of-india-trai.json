@@ -212,24 +212,24 @@
   "Lohardaga, Jharkhand",
   "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society",
   "Beawar, Rajasthan",
-  "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream",
+  "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)",
   "11:00 AM",
+  "Shajapur, Madhya Pradesh",
+  "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream",
   "Alipurduar, West Bengal",
   "Consumer Awareness Program at Supaul (Bihar) by Yuva Kriti Sangam",
   "Supaul , Bihar",
   "Consumer Awareness Programme at Jaleswar ( Odisha) by BHANJA INSTITUTE FOR RURAL DEVELOPMENT(BIRD)",
   "Balasore, Odisha",
-  "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)",
-  "Shajapur, Madhya Pradesh",
   "Consumer Awareness Programme at Darya Ganj (Central Delhi) by Alabhaya Foundation",
   "12:00 PM",
   "Central Delhi, Delhi",
-  "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
-  "Mehsana, Gujarat",
   "Consumer Awareness Program at Tonk (Rajasthan) by Navjeevan Society",
   "Tonk, Rajasthan",
-  "Consumer Awareness Program at Nuh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
-  "Nuh, Haryana",
+  "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+  "Mehsana, Gujarat",
+  "Consumer Awareness Program at Khairthal Tijara (Rajasthan) by Jeevan Dhara NGO",
+  "Khairthal Tijara, Rajasthan",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -987,6 +987,10 @@
    "text": "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-mohan-badodiya-distt-shajapur-mp",
+   "text": "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)"
+  },
+  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-alipurduar-west-bengal-hemnagar-sundarban-dream",
    "text": "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream"
   },
@@ -999,24 +1003,20 @@
    "text": "Consumer Awareness Programme at Jaleswar ( Odisha) by BHANJA INSTITUTE FOR RURAL DEVELOPMENT(BIRD)"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-mohan-badodiya-distt-shajapur-mp",
-   "text": "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-darya-ganj-central-delhi-alabhaya-foundation",
    "text": "Consumer Awareness Programme at Darya Ganj (Central Delhi) by Alabhaya Foundation"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-bhavnagar-grahak-suraksha-mandal",
-   "text": "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tonk-rajasthan-navjeevan-society",
    "text": "Consumer Awareness Program at Tonk (Rajasthan) by Navjeevan Society"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuh-haryana-rashtriya-samuddeshiya-vikas-sansthan",
-   "text": "Consumer Awareness Program at Nuh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-bhavnagar-grahak-suraksha-mandal",
+   "text": "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-khairthal-tijara-rajasthan-jeevan-dhara-ngo",
+   "text": "Consumer Awareness Program at Khairthal Tijara (Rajasthan) by Jeevan Dhara NGO"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1216,7 +1216,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-29T16:38:12Z",
+ "fetched_at": "2026-07-29T19:40:05Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1510,22 +1510,22 @@
    "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": 0,
    "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": 0,
    "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": 0,
-   "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda": 4,
-   "Bokaro, Jharkhand": 4,
+   "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda": 5,
+   "Bokaro, Jharkhand": 5,
    "12:00 PM": 0,
-   "Shimla , Himachal Pradesh": 4,
-   "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla": 4,
-   "Consumer Awareness Program at Bokaro (Jharkhand) by Mahila Janshakti Sangathan": 4,
-   "New Delhi, Delhi": 4,
+   "Shimla , Himachal Pradesh": 5,
+   "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla": 5,
+   "Consumer Awareness Program at Bokaro (Jharkhand) by Mahila Janshakti Sangathan": 5,
+   "New Delhi, Delhi": 5,
    "Beawar, Rajasthan": 0,
    "Lohardaga, Jharkhand": 0,
-   "OHD on Consultation Paper On the Proliferation of Public Wi-Fi Networks in India": 2,
-   "Bahraich , Uttar Pradesh": 4,
+   "OHD on Consultation Paper On the Proliferation of Public Wi-Fi Networks in India": 3,
+   "Bahraich , Uttar Pradesh": 5,
    "Consumer Outreach Program at Lohardaga (Jharkhand) by TRAI Regional Office, Kolkata": 0,
    "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society": 0,
    "Newsletter": 0,
-   "Consumer Outreach Program at Lohardaga (Jharkhand) by RO KOLKATA": 2,
-   "28 July, 2026": 4,
+   "Consumer Outreach Program at Lohardaga (Jharkhand) by RO KOLKATA": 3,
+   "28 July, 2026": 5,
    "TRAI releases Telecom Subscription Data as on June 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 0,
    "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream": 0,
@@ -1544,10 +1544,12 @@
    "Central Delhi, Delhi": 0,
    "Mehsana, Gujarat": 0,
    "29 July, 2026": 0,
-   "Consumer Awareness Program at Karnal (Haryana) by Haryana Technical Association": 1,
-   "Karnal, Haryana": 1,
-   "Nuh, Haryana": 0,
-   "Consumer Awareness Program at Nuh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan": 0
+   "Consumer Awareness Program at Karnal (Haryana) by Haryana Technical Association": 2,
+   "Karnal, Haryana": 2,
+   "Nuh, Haryana": 1,
+   "Consumer Awareness Program at Nuh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan": 1,
+   "Khairthal Tijara, Rajasthan": 0,
+   "Consumer Awareness Program at Khairthal Tijara (Rajasthan) by Jeevan Dhara NGO": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1759,14 +1761,14 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-beawar-rajasthan-consumer-unity-trust-society": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-shimla-himachal-pradesh-himachal-upbhogkta-sanrakshan": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-shimla-himachal-pradesh-himachal-upbhogkta-sanrakshan": 5,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-lohardaga-jharkhand-trai-regional-office-kolkata": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-block-nonpara-distt-bahraich-rural-consumers": 4,
-   "https://www.trai.gov.in/events/ohd-consultation-paper-proliferation-public-wi-fi-networks-india": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-mahila-janshakti-sangathan": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-block-nonpara-distt-bahraich-rural-consumers": 5,
+   "https://www.trai.gov.in/events/ohd-consultation-paper-proliferation-public-wi-fi-networks-india": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-mahila-janshakti-sangathan": 5,
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-lohardaga-jharkhand-ro-kolkata": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-lohardaga-jharkhand-ro-kolkata": 3,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
@@ -1778,8 +1780,9 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-bhavnagar-grahak-suraksha-mandal": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-darya-ganj-central-delhi-alabhaya-foundation": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tonk-rajasthan-navjeevan-society": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-karnal-haryana-haryana-technical-association": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuh-haryana-rashtriya-samuddeshiya-vikas-sansthan": 0
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-karnal-haryana-haryana-technical-association": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuh-haryana-rashtriya-samuddeshiya-vikas-sansthan": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-khairthal-tijara-rajasthan-jeevan-dhara-ngo": 0
   },
   "grave_lines": {
    "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": "2026-07-10T17:06:00Z",
