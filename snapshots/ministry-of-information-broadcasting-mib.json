@@ -119,11 +119,13 @@
   "गणतंत्र दिवस 2026 के प्रसारणसमारोह के लिए निजी सैटेलाइट टीवी चैनलों द्वारा…",
   "और देखें",
   "हालिया दस्तावेज़",
+  "ई - बुक्स",
+  "16.05 मेगा बाइट |",
+  "मन की बात जून 2026",
   "प्रेस प्रकाशनी",
   "राष्ट्रपति द्रौपदी मुर्मु के कार्यकाल के चार साल पूरे होने पर राष्ट्रपति भवन में पांच स्मृति पुस्तकें जारी की गईं",
   "सरकार ने आईटी नियम, 2021 के तहत ओटीटी प्लेटफॉर्मों और सोशल मीडिया के कानूनी दायित्वों को दोहराया",
   "386 निजी एफ एम रेडियो चैनल काम कर रहे हैं। सरकार की नीति के अनुसार क्षेत्रीय संस्कृति को बढ़ावा देने के लिए 20 प्रतिशत कंटेंट स्थानीय भाषा में होना ज़रूरी है।",
-  "भारत के टीवी दर्शक मापन प्रणाली में पारदर्शिता, स्वतंत्रता और जवाबदेही सुदृढ़ करने के लिए टेलीविज़न रेटिंग नीति, 2026",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "Image and name of मीडिया. Select to view more information.",
   "शोधकर्ता",
@@ -449,6 +451,10 @@
    "text": "और देखें"
   },
   {
+   "url": "https://mib.gov.in/sites/default/files/2026-07/mann-ki-baat-hindi_0.pdf",
+   "text": "मन की बात जून 2026"
+  },
+  {
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290836&reg=3&lang=2",
    "text": "राष्ट्रपति द्रौपदी मुर्मु के कार्यकाल के चार साल पूरे होने पर राष्ट्रपति भवन में पांच स्मृति पुस्तकें जारी की गईं"
   },
@@ -459,10 +465,6 @@
   {
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288928&reg=48&lang=2",
    "text": "386 निजी एफ एम रेडियो चैनल काम कर रहे हैं। सरकार की नीति के अनुसार क्षेत्रीय संस्कृति को बढ़ावा देने के लिए 20 प्रतिशत कंटेंट स्थानीय भाषा में होना ज़रूरी है।"
-  },
-  {
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288918&reg=48&lang=2",
-   "text": "भारत के टीवी दर्शक मापन प्रणाली में पारदर्शिता, स्वतंत्रता और जवाबदेही सुदृढ़ करने के लिए टेलीविज़न रेटिंग नीति, 2026"
   },
   {
    "url": "http://mib.gov.in/hi/documents/reports",
@@ -561,27 +563,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -610,7 +620,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-07-30T11:18:55Z",
+ "fetched_at": "2026-07-30T14:28:34Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -774,14 +784,17 @@
    "निजी एफएम रेडियो और कम्युनिटी रेडियो स्टेशनों से संबंधित शिकायतों/समस्याओं की…": 0,
    "Provisions regarding Official Language": 0,
    "राजभाषा संबंधी प्रावधान": 0,
-   "भारत के टीवी दर्शक मापन प्रणाली में पारदर्शिता, स्वतंत्रता और जवाबदेही सुदृढ़ करने के लिए टेलीविज़न रेटिंग नीति, 2026": 0,
+   "भारत के टीवी दर्शक मापन प्रणाली में पारदर्शिता, स्वतंत्रता और जवाबदेही सुदृढ़ करने के लिए टेलीविज़न रेटिंग नीति, 2026": 1,
    "386 निजी एफ एम रेडियो चैनल काम कर रहे हैं। सरकार की नीति के अनुसार क्षेत्रीय संस्कृति को बढ़ावा देने के लिए 20 प्रतिशत कंटेंट स्थानीय भाषा में होना ज़रूरी है।": 0,
    "सरकार ने आईटी नियम, 2021 के तहत ओटीटी प्लेटफॉर्मों और सोशल मीडिया के कानूनी दायित्वों को दोहराया": 0,
    "राष्ट्रपति द्रौपदी मुर्मु के कार्यकाल के चार साल पूरे होने पर राष्ट्रपति भवन में पांच स्मृति पुस्तकें जारी की गईं": 0,
-   "29 जुलाई 2026": 2,
+   "29 जुलाई 2026": 3,
    "2.13 मेगा बाइट |": 0,
    "सीबीसी एवं डीपीडी के कला एवं उत्पादन स्टाफ के सामान्य कैडर में प्रतिनियुक्ति के…": 0,
-   "30 जुलाई 2026": 0
+   "30 जुलाई 2026": 0,
+   "16.05 मेगा बाइट |": 0,
+   "ई - बुक्स": 0,
+   "मन की बात जून 2026": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -875,12 +888,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -890,10 +903,19 @@
    "https://mib.gov.in/sites/default/files/2026-07/order-and-notices.pdf": 0,
    "https://mib.gov.in/hi/provisions-regarding-official-language": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288928&reg=48&lang=2": 0,
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288918&reg=48&lang=2": 0,
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288918&reg=48&lang=2": 1,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289050&reg=48&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290836&reg=3&lang=2": 0,
-   "https://mib.gov.in/sites/default/files/2026-07/hindi-translation-of-o.m-dated-18-06-2026_0.pdf": 0
+   "https://mib.gov.in/sites/default/files/2026-07/hindi-translation-of-o.m-dated-18-06-2026_0.pdf": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/help": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/sites/default/files/2026-07/mann-ki-baat-hindi_0.pdf": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0
   },
   "grave_lines": {
    "07 जुलाई 2026": "2026-07-09T09:56:25Z",
