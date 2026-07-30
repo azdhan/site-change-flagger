@@ -1,5 +1,118 @@
 [
  {
+  "id": "741750db1110",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-30T08:46:17Z",
+  "summary": "1 new link, 5 new text blocks, 2 items no longer on page",
+  "added_lines": [
+   "Appointment of Shri Ajai Kumar Srivastava as Director (Production), ITI Limited",
+   "Union Minister of Communications Shri Jyotiraditya M. Scindia confers Pandit Deendayal Upadhyaya Telecom Excellence Awards",
+   "Union Minister of Communications Shri Jyotiraditya M. Scindia Unveils Theme for 10th Edition of India Mobile Congress 2026: ‘Scale without boundaries’",
+   "Department of Telecommunications and Government of Madhya Pradesh to Sign MoU for the Establishment of India's First Telecom Manufacturing Zone (TMZ) at Gwalior",
+   "अंतिम बार अद्यतन किया गयाः 30.07.2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "Regular promotion and posting in Higher Administrative Grade of Indian Telecommunications Service Group 'A' dated 27.7.2026",
+   "Order dated 27-07-2026 reg Transfer & posting of officers in HAG of ITS Group A"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/07/e2eb9e3f6454b44745662fe2e3247f1c.pdf",
+    "text": "डी. ओ. टी. और मध्य प्रदेश सरकार के बीच समझौता ज्ञापन पर हस्ताक्षर समारोह arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "1a4be229ad0e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-30T08:46:17Z",
+  "summary": "5 new links, 10 new text blocks, 10 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Sivaganga (Tamil Nadu) by Consumer Research, Education, Action, Traning and Empowerment",
+   "Sivagangai , Tamil Nadu",
+   "Consumer Awareness Program at Ranchi (Jharkhand) by Prerna Rural Development Society",
+   "Ranchi, Jharkhand",
+   "Consumer Awareness Program at Sonipat (Haryana) by Consumer Coordination Council (CCC)",
+   "Sonipat, Haryana",
+   "Consumer Awareness Program at Jagatsinghpur (Odisha) by Bhanja Institute for Rural Development (BIRD)",
+   "Jagatsinghpur, Odisha",
+   "Consumer Awareness Program at Haveri (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)",
+   "Haveri, Karnataka"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [
+   "Consumer Awareness Programme at Block Nonpara Distt Bahraich (UP) by Rural Consumer's Federation Banda",
+   "Bokaro, Jharkhand",
+   "Shimla , Himachal Pradesh",
+   "Consumer Awareness Programme at Shimla (Himachal Pradesh) by Himachal Upbhogkta Sanrakshan Parishad Shimla",
+   "Consumer Awareness Program at Bokaro (Jharkhand) by Mahila Janshakti Sangathan",
+   "Bahraich , Uttar Pradesh",
+   "28 July, 2026"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sivaganga-tamil-nadu-consumer-research-education-action",
+    "text": "Consumer Awareness Program at Sivaganga (Tamil Nadu) by Consumer Research, Education, Action, Traning and Empowerment"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ranchi-jharkhand-prerna-rural-development-society",
+    "text": "Consumer Awareness Program at Ranchi (Jharkhand) by Prerna Rural Development Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sonipat-haryana-consumer-coordination-council-ccc",
+    "text": "Consumer Awareness Program at Sonipat (Haryana) by Consumer Coordination Council (CCC)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jagatsinghpur-odisha-bhanja-institute-rural-development",
+    "text": "Consumer Awareness Program at Jagatsinghpur (Odisha) by Bhanja Institute for Rural Development (BIRD)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-haveri-karnataka-coordinated-action-consumer-voluntary-0",
+    "text": "Consumer Awareness Program at Haveri (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "7e266599c011",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-30T08:46:17Z",
+  "summary": "1 new text block, 3 items no longer on page",
+  "added_lines": [
+   "30 जुलाई 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "सरकार द्वारा वित्तीय सहायता, अंतरराष्ट्रीय साझेदारी और वैश्विक प्रचार के माध्यम से भारतीय फिल्म निर्माताओं को समर्थन",
+   "28 जुलाई 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "ccb9be736141",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-07-30T08:46:17Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 30.07.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "43d7b440d3df",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
