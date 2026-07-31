@@ -48,7 +48,7 @@
   "(اردو)",
   "Powered by",
   "भारत सरकार",
-  "Ministry of Electronics and Information Technology",
+  "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय",
   "search",
   "menu",
   "Home",
@@ -107,23 +107,15 @@
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
   "Key Offerings",
-  "NeGD’s Non-Technical (Summer) Internship Programme",
-  "arrow_forward_ios",
-  "Electronics Component Manufacturing Scheme",
-  "TECHNICAL INTERNSHIP PROGRAMME 2025",
-  "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
-  "Digital India Internship Scheme 2026",
   "अधिक देखें",
   "What’s New",
   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies. Last date to apply : 31.07.2026",
+  "arrow_forward_ios",
   "Major achievement of MeitY for the month of June 2026",
   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions",
+  "Digital India Internship Scheme 2026",
   "View more",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "For IT Professional",
-  "For Researcher",
-  "For Media",
-  "For Business Owner",
   "महत्वपूर्ण लिंक",
   "एमईआईटीवाई डैशबोर्ड",
   "निविदा के लिए आवेदन करने में रुचि रखते हैं?",
@@ -162,7 +154,7 @@
   },
   {
    "url": "https://meity.gov.in/",
-   "text": "भारत सरकार Ministry of Electronics and Information Technology"
+   "text": "भारत सरकार इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय"
   },
   {
    "url": "https://digitalindia.gov.in/",
@@ -313,26 +305,6 @@
    "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
   },
   {
-   "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
-   "text": "NeGD’s Non-Technical (Summer) Internship Programme"
-  },
-  {
-   "url": "https://meity.gov.in/offerings/schemes-and-services/details/electronics-component-manufacturing-scheme-UTM1IjMtQWa",
-   "text": "Electronics Component Manufacturing Scheme"
-  },
-  {
-   "url": "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa",
-   "text": "TECHNICAL INTERNSHIP PROGRAMME 2025"
-  },
-  {
-   "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
-   "text": "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges"
-  },
-  {
-   "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
-   "text": "Digital India Internship Scheme 2026"
-  },
-  {
    "url": "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf",
    "text": "Major achievement of MeitY for the month of June 2026 arrow_forward_ios"
   },
@@ -343,22 +315,6 @@
   {
    "url": "https://meity.gov.in/whats-new",
    "text": "View more chevron_right"
-  },
-  {
-   "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
-   "text": "For IT Professional"
-  },
-  {
-   "url": "https://meity.gov.in/persona/researcher-wNwIDOtQWa",
-   "text": "For Researcher"
-  },
-  {
-   "url": "https://meity.gov.in/persona/media-QOwIDOtQWa",
-   "text": "For Media"
-  },
-  {
-   "url": "https://meity.gov.in/persona/business-owner-AOwIDOtQWa",
-   "text": "For Business Owner"
   },
   {
    "url": "https://meity.dashboard.nic.in/",
@@ -373,11 +329,11 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
-   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -430,7 +386,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-07-31T14:31:31Z",
+ "fetched_at": "2026-07-31T16:54:51Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -580,11 +536,11 @@
    "मई 2026 के महीने के लिए एम. ई. आई. टी. वाई. की प्रमुख उपलब्धि": 0,
    "डिजिटल इंडिया इंटर्नशिप योजना 2026": 0,
    "नया क्या है": 0,
-   "Electronics Component Manufacturing Scheme": 0,
-   "TECHNICAL INTERNSHIP PROGRAMME 2025": 0,
+   "Electronics Component Manufacturing Scheme": 1,
+   "TECHNICAL INTERNSHIP PROGRAMME 2025": 1,
    "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 0,
-   "NeGD’s Non-Technical (Summer) Internship Programme": 0,
-   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 0,
+   "NeGD’s Non-Technical (Summer) Internship Programme": 1,
+   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 1,
    "माननीय राज्य मंत्री": 0,
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
@@ -623,25 +579,25 @@
    "अंतिम बार अद्यतन किया गयाः 22.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 23.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 24.07.2026": 0,
-   "Help": 0,
-   "Subscribe for Updates": 0,
-   "Related Links": 0,
-   "Useful Links": 0,
-   "Sitemap": 0,
-   "Website Policies": 0,
-   "Feedback": 0,
-   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 0,
-   "Archives": 0,
+   "Help": 1,
+   "Subscribe for Updates": 1,
+   "Related Links": 1,
+   "Useful Links": 1,
+   "Sitemap": 1,
+   "Website Policies": 1,
+   "Feedback": 1,
+   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 1,
+   "Archives": 1,
    "अंतिम बार अद्यतन किया गयाः 27.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 28.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 29.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 30.07.2026": 0,
-   "For Business Owner": 0,
-   "For Researcher": 0,
-   "Ministry of Electronics and Information Technology": 0,
-   "For Media": 0,
-   "For IT Professional": 0,
-   "Explore What's new": 4
+   "For Business Owner": 1,
+   "For Researcher": 1,
+   "Ministry of Electronics and Information Technology": 1,
+   "For Media": 1,
+   "For IT Professional": 1,
+   "Explore What's new": 5
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -698,21 +654,21 @@
    "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 0,
    "https://intern.meity.gov.in": 0,
    "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 0,
-   "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 0,
-   "https://meity.gov.in/offerings/schemes-and-services/details/electronics-component-manufacturing-scheme-UTM1IjMtQWa": 0,
-   "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 0,
-   "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa": 0,
-   "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
+   "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 1,
+   "https://meity.gov.in/offerings/schemes-and-services/details/electronics-component-manufacturing-scheme-UTM1IjMtQWa": 1,
+   "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 1,
+   "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa": 1,
+   "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 1,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": 0,
    "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies": 0,
    "https://pilot.tcoe.in": 0,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 0,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 0,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 0,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 0,
-   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 0
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 1,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 1,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 1,
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 1,
+   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 1
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-07-23T14:27:59Z",

@@ -1,5 +1,20 @@
 [
  {
+  "id": "eb3bd3c1babc",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-31T16:54:51Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "MoU Signing Ceremony between DoT and Govt. of MP"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "837ee7f448b8",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
