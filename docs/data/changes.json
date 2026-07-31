@@ -1,5 +1,30 @@
 [
  {
+  "id": "8ba93e66e483",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-31T03:47:16Z",
+  "summary": "2 new links, 2 new text blocks",
+  "added_lines": [
+   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
+   "राष्ट्रीय आवृत्ति आवंटन योजना-2025"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf",
+    "text": "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया arrow_forward_ios"
+   },
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf",
+    "text": "राष्ट्रीय आवृत्ति आवंटन योजना-2025 arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "b0ebb21831eb",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
