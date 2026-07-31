@@ -1,5 +1,121 @@
 [
  {
+  "id": "4a9f6cd531a1",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-31T09:14:44Z",
+  "summary": "6 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "G.S.R. 466(E): Use of On Board Unit for Cellular Vehicle-to-Everything Communication in the 5.9 GHz band (Exemption from Licensing Requirements) Rules, 2026",
+   "Regular Promotion in HAG+(Advisor) of Indian Telecommunication Service Group 'A' dated 28.7.2026",
+   "Transfer & posting of officer in HAG+ of ITS Group A- Shri Anil Kumar Gupta, Staff no 20001",
+   "Selection of Ms Rashmi Ramesh Doddamane, IP&TAFS 2012 for appointment as Director in Department of Administrative Reforms and Public Grievances Delhi under the Central Staffing Scheme",
+   "Union Minister for Communications Shri Jyotiraditya M. Scindia reviews progress of Bharat 6G Alliance, presents 5G Lab Excellence Awards"
+  ],
+  "removed_lines_total": 6,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e9c0848254d2",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-31T09:14:44Z",
+  "summary": "7 new links, 15 new text blocks, 21 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Cuddalore (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)",
+   "Cuddalore, Tamil Nadu",
+   "Consumer Awareness Program at Ahmedabad (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+   "Ahmedabad, Gujarat",
+   "Consumer Outreach Program at Mandi (Himachal Pradesh) by RO DELHI",
+   "Mandi , Himachal Pradesh",
+   "Consumer Awareness Program at Kallakurichi (Tamil Nadu) by Citizen Consumer & Civic Action Group",
+   "Kallakurichi, Tamil Nadu",
+   "Consumer Awareness Program at Hooghly (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society",
+   "Hooghly, West Bengal",
+   "Consumer Awareness Program at Chhindwara (Madhya Pradesh) by National Centra for Human Settlement and Enviorment (NCHSE)",
+   "Chhindwara , Madhya Pradesh",
+   "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP",
+   "Una, Himachal Pradesh",
+   "31 July, 2026"
+  ],
+  "added_lines_total": 15,
+  "removed_lines": [
+   "Beawar, Rajasthan",
+   "Lohardaga, Jharkhand",
+   "Consumer Outreach Program at Lohardaga (Jharkhand) by TRAI Regional Office, Kolkata",
+   "Consumer Awareness Program at Beawar (Rajasthan) by Consumer Unity & Trust Society",
+   "Consumer Awareness Program at Alipurduar (West Bengal) by Hemnagar Sundarban Dream",
+   "Alipurduar, West Bengal",
+   "Consumer Awareness Programme at Jaleswar ( Odisha) by BHANJA INSTITUTE FOR RURAL DEVELOPMENT(BIRD)",
+   "Balasore, Odisha",
+   "Shajapur, Madhya Pradesh",
+   "Consumer Awareness Programme at Mohan Badodiya Distt Shajapur (M.P.)"
+  ],
+  "removed_lines_total": 21,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cuddalore-tamil-nadu-rural-organaisation-social",
+    "text": "Consumer Awareness Program at Cuddalore (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ahmedabad-gujarat-bhavnagar-grahak-suraksha-mandal",
+    "text": "Consumer Awareness Program at Ahmedabad (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-mandi-himachal-pradesh-ro-delhi",
+    "text": "Consumer Outreach Program at Mandi (Himachal Pradesh) by RO DELHI"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kallakurichi-tamil-nadu-citizen-consumer-civic-action",
+    "text": "Consumer Awareness Program at Kallakurichi (Tamil Nadu) by Citizen Consumer & Civic Action Group"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hooghly-west-bengal-islampur-ramkrishnapally-rural",
+    "text": "Consumer Awareness Program at Hooghly (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chhindwara-madhya-pradesh-national-centra-human",
+    "text": "Consumer Awareness Program at Chhindwara (Madhya Pradesh) by National Centra for Human Settlement and Enviorment (NCHSE)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp",
+    "text": "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP"
+   }
+  ],
+  "new_links_total": 7
+ },
+ {
+  "id": "88f79292352f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-31T09:14:44Z",
+  "summary": "2 new links, 3 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "वेव्स डिजिटल प्लेटफॉर्म के माध्यम से मीडिया और मनोरंजन क्षेत्र के लिए व्यापार, निवेश और नवाचार के अवसरों का विस्तार",
+   "मंच तैयार करना: भारत का लक्ष्य 2030 तक वैश्विक लाइव इवेंट्स में नेतृत्व हासिल करना है",
+   "31 जुलाई 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "29 जुलाई 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291269&reg=3&lang=2",
+    "text": "वेव्स डिजिटल प्लेटफॉर्म के माध्यम से मीडिया और मनोरंजन क्षेत्र के लिए व्यापार, निवेश और नवाचार के अवसरों का विस्तार"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291089&reg=3&lang=2",
+    "text": "मंच तैयार करना: भारत का लक्ष्य 2030 तक वैश्विक लाइव इवेंट्स में नेतृत्व हासिल करना है"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "8ba93e66e483",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
