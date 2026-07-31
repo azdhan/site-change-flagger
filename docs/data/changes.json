@@ -1,5 +1,69 @@
 [
  {
+  "id": "837ee7f448b8",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-07-31T14:31:31Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-July-2026)",
+    "text": "Orders and Notices Termination Letters (June-July 2026)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "0b56ccceb773",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-07-31T14:31:31Z",
+  "summary": "3 new links, 4 new text blocks",
+  "added_lines": [
+   "31st July 2026",
+   "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem",
+   "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand",
+   "Uttarkashi, Uttarakhand"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0",
+    "text": "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-uttarkashi-uttarakhand-indian-institute-technology",
+    "text": "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "1f59dc3c91a3",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-07-31T14:31:31Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "भारत के टीवी दर्शक मापन प्रणाली में पारदर्शिता, स्वतंत्रता और जवाबदेही सुदृढ़ करने के लिए टेलीविज़न रेटिंग नीति, 2026"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "4a9f6cd531a1",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
