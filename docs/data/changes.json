@@ -1,5 +1,36 @@
 [
  {
+  "id": "e9d516dc54cb",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-01T13:50:18Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Appointment of Shri Ajai Kumar Srivastava as Director (Production), ITI Limited"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "44604421a38a",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-01T13:50:18Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Sonipat, Haryana",
+   "Consumer Awareness Program at Sonipat (Haryana) by Consumer Coordination Council (CCC)"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d5522940360f",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
