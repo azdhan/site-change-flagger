@@ -1,5 +1,76 @@
 [
  {
+  "id": "381a15a3e18c",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-01T08:32:44Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Union Minister of Communications Shri Jyotiraditya M. Scindia Unveils Theme for 10th Edition of India Mobile Congress 2026: ‘Scale without boundaries’",
+   "Department of Telecommunications and Government of Madhya Pradesh to Sign MoU for the Establishment of India's First Telecom Manufacturing Zone (TMZ) at Gwalior"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "03f1cd5f0934",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-01T08:32:44Z",
+  "summary": "2 new links, 4 new text blocks, 19 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Sirsa (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+   "Sirsa, Haryana",
+   "Consumer Awareness Program at Mathura (Uttar Pradesh) by Citizen Development Institute",
+   "Mathura, Uttar Pradesh"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [
+   "Tonk, Rajasthan",
+   "Consumer Awareness Program at Tonk (Rajasthan) by Navjeevan Society",
+   "29 July, 2026",
+   "Consumer Awareness Program at Karnal (Haryana) by Haryana Technical Association",
+   "Karnal, Haryana",
+   "Nuh, Haryana",
+   "Consumer Awareness Program at Nuh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+   "Khairthal Tijara, Rajasthan",
+   "Consumer Awareness Program at Khairthal Tijara (Rajasthan) by Jeevan Dhara NGO",
+   "Ranchi, Jharkhand"
+  ],
+  "removed_lines_total": 19,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirsa-haryana-rashtriya-samuddeshiya-vikas-sansthan",
+    "text": "Consumer Awareness Program at Sirsa (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mathura-uttar-pradesh-citizen-development-institute",
+    "text": "Consumer Awareness Program at Mathura (Uttar Pradesh) by Citizen Development Institute"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "ffe0823db90f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-01T08:32:44Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "386 निजी एफ एम रेडियो चैनल काम कर रहे हैं। सरकार की नीति के अनुसार क्षेत्रीय संस्कृति को बढ़ावा देने के लिए 20 प्रतिशत कंटेंट स्थानीय भाषा में होना ज़रूरी है।",
+   "सरकार ने आईटी नियम, 2021 के तहत ओटीटी प्लेटफॉर्मों और सोशल मीडिया के कानूनी दायित्वों को दोहराया",
+   "30 जुलाई 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d837d5dc2b0f",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
