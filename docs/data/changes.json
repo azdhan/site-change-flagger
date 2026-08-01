@@ -1,5 +1,38 @@
 [
  {
+  "id": "d5522940360f",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-01T10:46:42Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
+   "Help",
+   "Feedback",
+   "Union Minister of Communications Shri Jyotiraditya M. Scindia confers Pandit Deendayal Upadhyaya Telecom Excellence Awards"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "36c4951dd835",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-01T10:46:42Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 01.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "381a15a3e18c",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
