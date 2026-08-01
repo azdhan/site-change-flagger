@@ -1,5 +1,29 @@
 [
  {
+  "id": "07c0682dd59f",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-01T16:11:12Z",
+  "summary": "14 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Recent Documents",
+   "Revenue Management Services",
+   "PM-WANI- Telecom eServices Portal",
+   "Explore User Personas",
+   "Telecom eServices Portal",
+   "Call Before u Dig",
+   "Important Links",
+   "View more",
+   "FOR MEDIA",
+   "MTCTE Portal"
+  ],
+  "removed_lines_total": 14,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e9d516dc54cb",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
