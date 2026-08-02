@@ -190,8 +190,8 @@
   "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem",
   "Explore",
   "28th July 2026",
-  "TRAI releases Telecom Subscription Data as on June 2026",
   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.",
+  "TRAI releases Telecom Subscription Data as on June 2026",
   "23rd July 2026",
   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.",
   "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.",
@@ -901,19 +901,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
-   "text": "TRAI releases Telecom Subscription Data as on June 2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
    "text": "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA."
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
+   "text": "TRAI releases Telecom Subscription Data as on June 2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
    "text": "Explore"
   },
   {
@@ -1218,7 +1218,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-02T13:50:20Z",
+ "fetched_at": "2026-08-02T19:31:16Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1505,7 +1505,7 @@
    "20th July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 0,
    "TRAI Assesses Mobile Network Quality Across Bhopal City & Indore to Neemuch via Ratlam and Mandsaur Highway & Bilaspur to Ambikapur Highway.": 0,
-   "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.": 1,
+   "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.": 2,
    "22nd July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA.": 0,
    "23rd July 2026": 0,
@@ -1739,9 +1739,9 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bhopal-city-indore-neemuch": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 2,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bhopal-city-indore-neemuch": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-lunglei-lawngtlai-and-siaha": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-lunglei-lawngtlai-and-siaha": 0,
