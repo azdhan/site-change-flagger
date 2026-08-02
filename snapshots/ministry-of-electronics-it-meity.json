@@ -101,12 +101,15 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
+  "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।",
+  "हमारी टीम",
+  "हमारे संगठन",
+  "हमारा प्रदर्शन",
   "Shri Ashwini Vaishnaw",
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
-  "Key Offerings",
+  "प्रमुख प्रस्ताव",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "arrow_forward_ios",
   "Electronics Component Manufacturing Scheme",
@@ -114,11 +117,10 @@
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "Digital India Internship Scheme 2026",
   "अधिक देखें",
-  "What’s New",
-  "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies. Last date to apply : 31.07.2026",
-  "Major achievement of MeitY for the month of June 2026",
-  "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions",
-  "View more",
+  "नया क्या है",
+  "जून 2026 के महीने के लिए एम. ई. आई. टी. वाई. की प्रमुख उपलब्धि",
+  "स्पष्टीकरण, सलाह और निर्देशों के साथ मध्यस्थ अनुपालन को मजबूत करने से संबंधित सूचना प्रौद्योगिकी नियम, 2021 में संशोधन के मसौदे पर हितधारकों से परामर्श",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "महत्वपूर्ण लिंक",
   "एमईआईटीवाई डैशबोर्ड",
@@ -326,15 +328,15 @@
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf",
-   "text": "Major achievement of MeitY for the month of June 2026 arrow_forward_ios"
+   "text": "जून 2026 के महीने के लिए एम. ई. आई. टी. वाई. की प्रमुख उपलब्धि arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
+   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "View more chevron_right"
+   "text": "अधिक देखें chevron_right"
   },
   {
    "url": "https://meity.dashboard.nic.in/",
@@ -349,11 +351,11 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
   },
   {
-   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -406,7 +408,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-02T10:48:27Z",
+ "fetched_at": "2026-08-02T13:50:20Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -565,7 +567,7 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 0,
+   "Key Offerings": 1,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
@@ -603,12 +605,7 @@
    "अंतिम बार अद्यतन किया गयाः 28.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 29.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 30.07.2026": 0,
-   "Delegation of Powers dtd. 16-07-2026": 7,
-   "Archive - Delegation of Powers": 7,
-   "अंतिम बार अद्यतन किया गयाः 01.08.2026": 0,
-   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": 7,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 7,
-   "Recent Documents": 7
+   "अंतिम बार अद्यतन किया गयाः 01.08.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -673,9 +670,7 @@
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": 0,
    "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies": 0,
-   "https://pilot.tcoe.in": 0,
-   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 7,
-   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 7
+   "https://pilot.tcoe.in": 0
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-08-01T16:11:12Z",
@@ -684,9 +679,9 @@
    "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions issued by the Ministry, synthetically generated information and digital media oversight": "2026-07-10T22:14:34Z",
    "Ten Years of Digital Progress - Building an Inclusive and Future-Ready India": "2026-07-10T22:14:34Z",
    "Delegation of Powers of Director General NIC": "2026-07-08T03:43:11Z",
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": "2026-07-21T19:48:26Z",
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": "2026-08-02T13:50:20Z",
    "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 29.05.2026": "2026-07-15T11:01:28Z",
-   "Recent Documents": "2026-07-21T19:48:26Z",
+   "Recent Documents": "2026-08-02T13:50:20Z",
    "Delegation of Financial Power of ICERT": "2026-07-15T11:01:28Z",
    "View this post on Instagram": "2026-07-08T08:42:59Z",
    "A post shared by Ministry Of Electronic & IT (@goi_meity)": "2026-07-08T08:42:59Z",
@@ -707,11 +702,11 @@
    "MeitY Dashboard": "2026-07-18T10:37:52Z",
    "Explore What's new": "2026-08-01T03:46:27Z",
    "Section 69A of IT Act": "2026-07-18T10:37:52Z",
-   "Archive - Delegation of Powers": "2026-07-21T19:48:26Z",
+   "Archive - Delegation of Powers": "2026-08-02T13:50:20Z",
    "Major achievement of MeitY for the month of May 2026": "2026-07-15T08:33:31Z",
-   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": "2026-07-21T19:48:26Z",
+   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": "2026-08-02T13:50:20Z",
    "Loading...": "2026-07-21T14:18:31Z",
-   "Delegation of Powers dtd. 16-07-2026": "2026-07-21T19:48:26Z",
+   "Delegation of Powers dtd. 16-07-2026": "2026-08-02T13:50:20Z",
    "Archives": "2026-08-01T16:11:12Z",
    "Website Policies": "2026-08-01T16:11:12Z",
    "Related Links": "2026-08-01T16:11:12Z",
@@ -727,9 +722,10 @@
    "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": "2026-08-01T16:11:12Z",
    "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": "2026-08-01T16:11:12Z",
    "https://meity.gov.in/persona/researcher-wNwIDOtQWa": "2026-08-01T16:11:12Z",
-   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": "2026-07-21T19:48:26Z",
+   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": "2026-08-02T13:50:20Z",
    "https://www.meity.gov.in/static/uploads/2026/06/93feeb02a7a57c3519ad1010e199f24e.pdf": "2026-07-15T08:33:31Z",
-   "https://hackathon2026.tcoe.in/": "2026-08-02T03:48:48Z"
+   "https://hackathon2026.tcoe.in/": "2026-08-02T03:48:48Z",
+   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": "2026-08-02T13:50:20Z"
   }
  }
 }
