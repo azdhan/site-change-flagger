@@ -223,11 +223,11 @@
   "Hooghly, West Bengal",
   "Consumer Awareness Program at Chhindwara (Madhya Pradesh) by National Centra for Human Settlement and Enviorment (NCHSE)",
   "Chhindwara , Madhya Pradesh",
-  "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP",
-  "11:00 AM",
-  "Una, Himachal Pradesh",
   "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand",
+  "11:00 AM",
   "Uttarkashi, Uttarakhand",
+  "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP",
+  "Una, Himachal Pradesh",
   "Consumer Awareness Program at Sirsa (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
   "Sirsa, Haryana",
   "Consumer Awareness Program at Mathura (Uttar Pradesh) by Citizen Development Institute",
@@ -1005,12 +1005,12 @@
    "text": "Consumer Awareness Program at Chhindwara (Madhya Pradesh) by National Centra for Human Settlement and Enviorment (NCHSE)"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp",
-   "text": "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-uttarkashi-uttarakhand-indian-institute-technology",
    "text": "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp",
+   "text": "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirsa-haryana-rashtriya-samuddeshiya-vikas-sansthan",
@@ -1218,7 +1218,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-01T22:08:35Z",
+ "fetched_at": "2026-08-02T03:48:48Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1505,7 +1505,7 @@
    "20th July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 0,
    "TRAI Assesses Mobile Network Quality Across Bhopal City & Indore to Neemuch via Ratlam and Mandsaur Highway & Bilaspur to Ambikapur Highway.": 0,
-   "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.": 1,
+   "TRAI Assesses Mobile Network Quality Across, city drive in Virudnagar and Tenkasi districts on Tamil Nadu LSA.": 2,
    "22nd July 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Lunglei, Lawngtlai and Siaha Districts and adjoining areas in the State of Mizoram under North East LSA.": 0,
    "23rd July 2026": 0,
@@ -1516,12 +1516,12 @@
    "TRAI releases Telecom Subscription Data as on June 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 0,
    "28th July 2026": 0,
-   "11:30 AM": 6,
-   "Consumer Awareness Program at Haveri (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": 6,
+   "11:30 AM": 7,
+   "Consumer Awareness Program at Haveri (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": 7,
    "01:00 PM": 0,
-   "Consumer Awareness Program at Jagatsinghpur (Odisha) by Bhanja Institute for Rural Development (BIRD)": 6,
-   "Jagatsinghpur, Odisha": 6,
-   "Haveri, Karnataka": 6,
+   "Consumer Awareness Program at Jagatsinghpur (Odisha) by Bhanja Institute for Rural Development (BIRD)": 7,
+   "Jagatsinghpur, Odisha": 7,
+   "Haveri, Karnataka": 7,
    "10:30 AM": 0,
    "Consumer Awareness Program at Cuddalore (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)": 0,
    "Chhindwara , Madhya Pradesh": 0,
@@ -1744,9 +1744,9 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bhopal-city-indore-neemuch": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": 2,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bhopal-city-indore-neemuch": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-lunglei-lawngtlai-and-siaha": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-lunglei-lawngtlai-and-siaha": 0,
@@ -1762,8 +1762,8 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-haveri-karnataka-coordinated-action-consumer-voluntary-0": 6,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jagatsinghpur-odisha-bhanja-institute-rural-development": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-haveri-karnataka-coordinated-action-consumer-voluntary-0": 7,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jagatsinghpur-odisha-bhanja-institute-rural-development": 7,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-mandi-himachal-pradesh-ro-delhi": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hooghly-west-bengal-islampur-ramkrishnapally-rural": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chhindwara-madhya-pradesh-national-centra-human": 0,
