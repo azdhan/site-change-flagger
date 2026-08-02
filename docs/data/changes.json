@@ -1,5 +1,38 @@
 [
  {
+  "id": "f3079383a4aa",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-02T08:35:41Z",
+  "summary": "6 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Haveri (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)",
+   "Consumer Awareness Program at Jagatsinghpur (Odisha) by Bhanja Institute for Rural Development (BIRD)",
+   "Jagatsinghpur, Odisha",
+   "Haveri, Karnataka"
+  ],
+  "removed_lines_total": 6,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "1f76d3b575f3",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-02T08:35:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "02 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "15d1e9014336",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
