@@ -2,37 +2,33 @@
  "ministry-of-electronics-it-meity": {
   "name": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
-  "last_checked": "2026-08-03T17:18:06Z",
-  "ok": false,
+  "last_checked": "2026-08-03T19:54:37Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-03T10:03:51Z",
-  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://meity.gov.in/\", waiting until \"domcontentloaded\"\n"
+  "last_change": "2026-08-03T10:03:51Z"
  },
  "ministry-of-information-broadcasting-mib": {
   "name": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
-  "last_checked": "2026-08-03T17:18:06Z",
-  "ok": false,
+  "last_checked": "2026-08-03T19:54:37Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-03T15:12:35Z",
-  "error": "fetch failed after retries: HTTPSConnectionPool(host='mib.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mib.gov.in', port=443) at 0x7f5c24972fc0>, 'Connection to mib.gov.in timed out. (connect timeout=45)'))"
+  "last_change": "2026-08-03T15:12:35Z"
  },
  "telecom-regulatory-authority-of-india-trai": {
   "name": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
-  "last_checked": "2026-08-03T17:18:06Z",
-  "ok": false,
+  "last_checked": "2026-08-03T19:54:37Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-03T15:12:35Z",
-  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7f5c249736e0>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
+  "last_change": "2026-08-03T15:12:35Z"
  },
  "department-of-telecommunications-dot": {
   "name": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
-  "last_checked": "2026-08-03T17:18:06Z",
-  "ok": false,
+  "last_checked": "2026-08-03T19:54:37Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-03T15:12:35Z",
-  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://dot.gov.in/\", waiting until \"domcontentloaded\"\n"
+  "last_change": "2026-08-03T15:12:35Z"
  }
 }
