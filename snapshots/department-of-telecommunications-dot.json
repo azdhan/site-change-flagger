@@ -120,7 +120,6 @@
   "100 5G Labs",
   "अधिक देखें",
   "नया क्या है",
-  "डी. ओ. टी. और मध्य प्रदेश सरकार के बीच समझौता ज्ञापन पर हस्ताक्षर समारोह",
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
@@ -146,6 +145,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -332,10 +332,6 @@
    "text": "100 5G Labs"
   },
   {
-   "url": "https://www.dot.gov.in/static/uploads/2026/07/e2eb9e3f6454b44745662fe2e3247f1c.pdf",
-   "text": "डी. ओ. टी. और मध्य प्रदेश सरकार के बीच समझौता ज्ञापन पर हस्ताक्षर समारोह arrow_forward_ios"
-  },
-  {
    "url": "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf",
    "text": "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया arrow_forward_ios"
   },
@@ -469,7 +465,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-02T22:07:43Z",
+ "fetched_at": "2026-08-03T03:50:18Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -786,7 +782,7 @@
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
-   "https://www.dot.gov.in/static/uploads/2026/07/e2eb9e3f6454b44745662fe2e3247f1c.pdf": 0,
+   "https://www.dot.gov.in/static/uploads/2026/07/e2eb9e3f6454b44745662fe2e3247f1c.pdf": 1,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
    "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-July-2026)": 0
