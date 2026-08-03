@@ -1,5 +1,75 @@
 [
  {
+  "id": "dd4c3fda6e32",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-03T15:12:35Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "सरकार से स्वैच्छिक सेवानिवृत्ति के संबंध में सूचना वापस लेना। सेवा-श्री का मामला। सुशील कुमार, आई. टी. एस. [कर्मचारी संख्या 20672], पी. जी. एम. (एन. डब्ल्यू. पी.-एस. पी.), बी. एस. एन. एल. सी. ओ.-रेग"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "5e84e46c5354",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-03T15:12:35Z",
+  "summary": "5 new links, 3 new text blocks",
+  "added_lines": [
+   "3rd August 2026",
+   "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback",
+   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.trai.mycall",
+    "text": ""
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+    "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+    "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "b13f05137430",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-03T15:12:35Z",
+  "summary": "1 new text block, 1 item no longer on page",
+  "added_lines": [
+   "03 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "31 जुलाई 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "8d7ac990de4b",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
