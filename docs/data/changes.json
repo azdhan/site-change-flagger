@@ -1,5 +1,56 @@
 [
  {
+  "id": "8d7ac990de4b",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-03T10:03:51Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "शॉर्टकोड का आवंटन-2026",
+   "अंतिम बार अद्यतन किया गयाः 03.08.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026",
+    "text": "आदेश और सूचनाएँ शॉर्टकोड का आवंटन-2026"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "f975a383143d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-03T10:03:51Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "3 August, 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "0abb5595ebdd",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-03T10:03:51Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 03.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "fe49427b0742",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",

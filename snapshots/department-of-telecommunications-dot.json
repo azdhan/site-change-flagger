@@ -124,11 +124,11 @@
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
+  "शॉर्टकोड का आवंटन-2026",
   "समाप्ति पत्र (जून-जुलाई 2026)",
   "निदेशक (उपभोक्ता गतिशीलता), बीएसएनएल के पद का अतिरिक्त प्रभार",
   "प्रेस विज्ञप्ति",
   "दूरसंचार विभाग ने ग्वालियर में दूरसंचार विनिर्माण क्षेत्र (टी. एम. जेड.) की स्थापना के लिए मध्य प्रदेश सरकार के साथ समझौता ज्ञापन पर हस्ताक्षर किए",
-  "आई. टी. एस. समूह 'ए' के अधिकारियों की सेवानिवृत्ति 31.07.2026 (ए/एन) पर सेवानिवृत्ति की आयु प्राप्त करने पर-संबंधित।",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -160,7 +160,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 31.07.2026",
+  "अंतिम बार अद्यतन किया गयाः 03.08.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -344,6 +344,10 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026",
+   "text": "आदेश और सूचनाएँ शॉर्टकोड का आवंटन-2026"
+  },
+  {
    "url": "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-July-2026)",
    "text": "आदेश और सूचनाएँ समाप्ति पत्र (जून-जुलाई 2026)"
   },
@@ -465,7 +469,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-03T03:50:18Z",
+ "fetched_at": "2026-08-03T10:03:51Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -708,7 +712,9 @@
    "आई. टी. एस. समूह 'ए' के अधिकारियों की सेवानिवृत्ति 31.07.2026 (ए/एन) पर सेवानिवृत्ति की आयु प्राप्त करने पर-संबंधित।": 0,
    "दूरसंचार विभाग ने ग्वालियर में दूरसंचार विनिर्माण क्षेत्र (टी. एम. जेड.) की स्थापना के लिए मध्य प्रदेश सरकार के साथ समझौता ज्ञापन पर हस्ताक्षर किए": 0,
    "निदेशक (उपभोक्ता गतिशीलता), बीएसएनएल के पद का अतिरिक्त प्रभार": 0,
-   "समाप्ति पत्र (जून-जुलाई 2026)": 0
+   "समाप्ति पत्र (जून-जुलाई 2026)": 0,
+   "अंतिम बार अद्यतन किया गयाः 03.08.2026": 0,
+   "शॉर्टकोड का आवंटन-2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -782,10 +788,11 @@
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
-   "https://www.dot.gov.in/static/uploads/2026/07/e2eb9e3f6454b44745662fe2e3247f1c.pdf": 1,
+   "https://www.dot.gov.in/static/uploads/2026/07/e2eb9e3f6454b44745662fe2e3247f1c.pdf": 2,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-July-2026)": 0
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-July-2026)": 0,
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-31T16:54:51Z",
