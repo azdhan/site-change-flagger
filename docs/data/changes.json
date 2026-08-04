@@ -1,5 +1,60 @@
 [
  {
+  "id": "18da05963454",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-04T08:52:04Z",
+  "summary": "1 new link, 4 new text blocks",
+  "added_lines": [
+   "रिपोर्टें",
+   "5जी बीटीएस स्थिति",
+   "श्री मोहित कुमार अग्रवाल, आई. टी. एस. (कर्मचारी संख्या 21357) का केंद्रीय कर्मचारी योजना 2026 के तहत प्रतिनियुक्ति के आधार पर पेट्रोलियम और प्राकृतिक गैस मंत्रालय में उप सचिव के रूप में चयन।",
+   "अंतिम बार अद्यतन किया गयाः 04.08.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/reports/5g-bts-status-ETMwETNtQWa?pageTitle=5G-BTS-Status",
+    "text": "रिपोर्टें 5जी बीटीएस स्थिति"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "3cb51dc5e65d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-04T08:52:04Z",
+  "summary": "3 new links, 5 new text blocks",
+  "added_lines": [
+   "4th August 2026",
+   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
+   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)",
+   "Faridabad, Haryana",
+   "4 August, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+    "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc",
+    "text": "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "dd4c3fda6e32",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
