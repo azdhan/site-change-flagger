@@ -1,5 +1,103 @@
 [
  {
+  "id": "5984793c56fa",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-05T08:49:51Z",
+  "summary": "3 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति।",
+   "04-08-2026 रेग दिनांकित आदेश। आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए",
+   "अंतिम बार अद्यतन किया गयाः 05.08.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "9abd38d7ef11",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-05T08:49:51Z",
+  "summary": "4 new links, 8 new text blocks, 8 items no longer on page",
+  "added_lines": [
+   "5th August 2026",
+   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
+   "Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
+   "Comments",
+   "Counter Comments",
+   "Consumer Awareness Program at Jangaon (Telangana) by Sri Dharani Voluntary Organisation",
+   "jangam , Telangana",
+   "5 August, 2026"
+  ],
+  "added_lines_total": 8,
+  "removed_lines": [
+   "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway.",
+   "20th July 2026",
+   "Consumer Awareness Program at Cuddalore (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)",
+   "Cuddalore, Tamil Nadu",
+   "3 August, 2026"
+  ],
+  "removed_lines_total": 8,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality",
+    "text": "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consultation-paper-draft-amendments-standards-quality-service-access-wireline-and-wireless-and",
+    "text": "5th August 2026 Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jangaon-telangana-sri-dharani-voluntary-organisation",
+    "text": "Consumer Awareness Program at Jangaon (Telangana) by Sri Dharani Voluntary Organisation"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "75ff9fb04619",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-05T08:49:51Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "05 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "539b7660aa64",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-05T08:49:51Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "EOI: Development & Production Partners for Advanced Photonics Packaging",
+   "अंतिम बार अद्यतन किया गयाः 05.08.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf",
+    "text": "EOI: Development & Production Partners for Advanced Photonics Packaging arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "06dd3dff4de7",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
