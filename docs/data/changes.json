@@ -1,5 +1,26 @@
 [
  {
+  "id": "2b0a7ff2bce5",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-06T11:31:09Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)",
+   "Bathinda, Punjab"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "7116ab814123",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
