@@ -1,5 +1,114 @@
 [
  {
+  "id": "7116ab814123",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-06T08:51:02Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 06.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "456a81e72da9",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-06T08:51:02Z",
+  "summary": "2 new links, 6 new text blocks, 8 items no longer on page",
+  "added_lines": [
+   "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur",
+   "09:30 AM",
+   "Bhilwara, Rajasthan",
+   "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society",
+   "Koderma, Jharkhand",
+   "6 August, 2026"
+  ],
+  "added_lines_total": 6,
+  "removed_lines": [
+   "No Open Consultation",
+   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.",
+   "Consumer Awareness Program at Ahmedabad (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+   "Ahmedabad, Gujarat",
+   "4 August, 2026"
+  ],
+  "removed_lines_total": 8,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur",
+    "text": "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-koderma-jharkhand-prerna-rural-development-society",
+    "text": "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "a74d15c04ba9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-06T08:51:02Z",
+  "summary": "4 new links, 5 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "सरकार का उद्देश्य भारत के इंटरनेट को गैरकानूनी और अश्लील कॉन्टेंट से मुक्त रखना और एक सुरक्षित व भरोसेमंद डिजिटल वातावरण सुनिश्चित करना है",
+   "सरकार अनेक पहलों के माध्यम से पत्रकारों के लिए कल्याण, स्वास्थ्य सेवा और मान्यता संबंधी सहायता सुनिश्चित करती है",
+   "सिनेमाटोग्राफ (संशोधन) अधिनियम और आईटी ढांचा पायरेसी विरोधी प्रवर्तन को मजबूत करते हैं। 4,996 टेलीग्राम चैनलों और 1,263 वेबसाइटों सहित 7,393 यूआरएल निष्क्रिय किए गए।",
+   "पिछले एक वर्ष में सार्वजनिक प्रसारकों की सम्‍पादकीय स्वायत्तता या कार्यप्रणाली के संबंध में कोई शिकायत प्राप्त नहीं हुई है",
+   "06 अगस्त 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "03 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295079&reg=3&lang=2",
+    "text": "सरकार का उद्देश्य भारत के इंटरनेट को गैरकानूनी और अश्लील कॉन्टेंट से मुक्त रखना और एक सुरक्षित व भरोसेमंद डिजिटल वातावरण सुनिश्चित करना है"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295043&reg=3&lang=2",
+    "text": "सरकार अनेक पहलों के माध्यम से पत्रकारों के लिए कल्याण, स्वास्थ्य सेवा और मान्यता संबंधी सहायता सुनिश्चित करती है"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2294952&reg=3&lang=2",
+    "text": "सिनेमाटोग्राफ (संशोधन) अधिनियम और आईटी ढांचा पायरेसी विरोधी प्रवर्तन को मजबूत करते हैं। 4,996 टेलीग्राम चैनलों और 1,263 वेबसाइटों सहित 7,393 यूआरएल निष्क्रिय किए गए।"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2294874&reg=3&lang=2",
+    "text": "पिछले एक वर्ष में सार्वजनिक प्रसारकों की सम्‍पादकीय स्वायत्तता या कार्यप्रणाली के संबंध में कोई शिकायत प्राप्त नहीं हुई है"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "0f4e6cdaacd4",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-06T08:51:02Z",
+  "summary": "1 new link, 2 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY",
+   "अंतिम बार अद्यतन किया गयाः 06.08.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf",
+    "text": "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "76544d07a177",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
