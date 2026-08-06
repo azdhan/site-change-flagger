@@ -464,7 +464,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-06T11:31:09Z",
+ "fetched_at": "2026-08-06T14:32:15Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -721,7 +721,8 @@
    "ई. एस. ई.-2022-रेग के माध्यम से चयनित आई. टी. एस. समूह 'ए' के जूनियर टाइम स्केल (जे. टी. एस.) के परिवीक्षाधीनों की परिवीक्षा और पुष्टि।": 0,
    "05-08-2026 रेग दिनांकित आदेश। टी. ई. एस. जी. आर. के अधिकारियों का स्थानांतरण और नियुक्ति। 'बी'": 0,
    "05-08-2026 रेग दिनांकित आदेश। आई. टी. एस. जी. आर. के अधिकारियों के संबंध में शक्ति ली गई। ए": 0,
-   "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0,
+   "Revenue Management Services": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -797,8 +798,6 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 7,
-   "https://dot.gov.in/documents/reports/5g-bts-status-ETMwETNtQWa?pageTitle=5G-BTS-Status": 7,
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)": 0
   },
   "grave_lines": {
@@ -909,7 +908,9 @@
    "https://www.dot.gov.in/static/uploads/2026/06/3acc4e7aeb2bdff7c3ae6a9429150734.pdf": "2026-08-01T03:46:27Z",
    "https://www.dot.gov.in/static/uploads/2026/07/c7a85c25b305a28932032e4d9202f1d1.pdf": "2026-08-01T03:46:27Z",
    "https://www.dot.gov.in/static/uploads/2026/07/e2eb9e3f6454b44745662fe2e3247f1c.pdf": "2026-08-04T11:32:14Z",
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-July-2026)": "2026-08-05T08:49:51Z"
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-July-2026)": "2026-08-05T08:49:51Z",
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": "2026-08-06T14:32:15Z",
+   "https://dot.gov.in/documents/reports/5g-bts-status-ETMwETNtQWa?pageTitle=5G-BTS-Status": "2026-08-06T14:32:15Z"
   }
  }
 }
