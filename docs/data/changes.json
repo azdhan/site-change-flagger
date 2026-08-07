@@ -1,5 +1,26 @@
 [
  {
+  "id": "5cc986956ea7",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-07T05:01:43Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "रचनात्मक अर्थव्यवस्था के लिए प्रमुख अंतरराष्ट्रीय मार्केटप्‍लेस 'ब्रिक्स वेव्स बाज़ार' ने मुंबई में ब्रिक्स सदस्य और भागीदार देशों के 500 से अधिक प्रतिनिधियों को एकत्रित किया",
+   "07 अगस्त 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295507&reg=3&lang=2",
+    "text": "रचनात्मक अर्थव्यवस्था के लिए प्रमुख अंतरराष्ट्रीय मार्केटप्‍लेस 'ब्रिक्स वेव्स बाज़ार' ने मुंबई में ब्रिक्स सदस्य और भागीदार देशों के 500 से अधिक प्रतिनिधियों को एकत्रित किया"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "080e8590165d",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
