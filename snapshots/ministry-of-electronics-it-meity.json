@@ -131,6 +131,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -354,7 +355,7 @@
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
@@ -410,7 +411,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-07T05:01:43Z",
+ "fetched_at": "2026-08-07T07:38:52Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -554,7 +555,6 @@
    "अभिलेखागार": 0,
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
-   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions": 7,
    "संबंधित लिंक": 0,
    "स्पष्टीकरण, सलाह और निर्देशों के साथ मध्यस्थ अनुपालन को मजबूत करने से संबंधित सूचना प्रौद्योगिकी नियम, 2021 में संशोधन के मसौदे पर हितधारकों से परामर्श": 0,
    "मई 2026 के महीने के लिए एम. ई. आई. टी. वाई. की प्रमुख उपलब्धि": 0,
@@ -608,21 +608,21 @@
    "अंतिम बार अद्यतन किया गयाः 29.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 30.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 01.08.2026": 0,
-   "Ministry of Electronics and Information Technology": 5,
+   "Ministry of Electronics and Information Technology": 6,
    "अंतिम बार अद्यतन किया गयाः 03.08.2026": 0,
-   "For Business Owner": 5,
+   "For Business Owner": 6,
    "अंतिम बार अद्यतन किया गयाः 04.08.2026": 0,
-   "For Researcher": 5,
-   "For Media": 5,
-   "For IT Professional": 5,
+   "For Researcher": 6,
+   "For Media": 6,
+   "For IT Professional": 6,
    "EOI: Development & Production Partners for Advanced Photonics Packaging": 0,
    "अंतिम बार अद्यतन किया गयाः 05.08.2026": 0,
    "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार": 0,
-   "Archive - Delegation of Powers": 6,
-   "Delegation of Powers dtd. 16-07-2026": 6,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 6,
-   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": 6,
-   "Recent Documents": 6,
+   "Archive - Delegation of Powers": 7,
+   "Delegation of Powers dtd. 16-07-2026": 7,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 18.06.2026": 7,
+   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": 7,
+   "Recent Documents": 7,
    "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0,
    "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY": 0
   },
@@ -657,7 +657,6 @@
    "https://meity.gov.in/connect/parliament-questions": 0,
    "https://meity.gov.in/static/uploads/2026/04/5f8bd2d1ed4fafa1564f8768ba47e546.pdf": 0,
    "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-chairman-members-in-the-data-protection-board-of-india-QTMxcjMtQWa": 0,
-   "https://meity.gov.in/documents/act-and-policies/draft-amendments-to-the-it-rules-2021-in-relation-to-strengthening-intermediary-compliance-with-clarifications-advisories-and-directions-issued-by-the-ministry-and-digital-media-oversight-AjM2YjMtQWa?pageTitle=Draft-amendments-to-the-IT-Rules,-2021-in-relation-to-strengthening-intermediary-compliance-with-clarifications,-advisories-and-directions-issued-by-the-Ministry-and-digital-media-oversight": 7,
    "https://meity.gov.in/static/uploads/2025/01/5ff397f9e8152d5562ed4cef1a6b767b.pdf": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163000": 0,
    "https://meity.dashboard.nic.in/": 0,
@@ -689,14 +688,14 @@
    "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": 0,
    "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies": 0,
    "https://pilot.tcoe.in": 0,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 5,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 5,
-   "https://youtube.com/live/aNW0Ok2M8GQ?feature=share": 3,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 5,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 5,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 6,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 6,
+   "https://youtube.com/live/aNW0Ok2M8GQ?feature=share": 4,
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 6,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 6,
    "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 0,
    "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 0,
-   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 6,
+   "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": 7,
    "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf": 0
   },
   "grave_lines": {
@@ -741,7 +740,8 @@
    "Feedback": "2026-08-01T16:11:12Z",
    "This Website belong to Ministry of Electronics and Information Technology, Government of India": "2026-08-01T16:11:12Z",
    "Help": "2026-08-01T16:11:12Z",
-   "Useful Links": "2026-08-01T16:11:12Z"
+   "Useful Links": "2026-08-01T16:11:12Z",
+   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions": "2026-08-07T07:38:52Z"
   },
   "grave_links": {
    "https://meity.gov.in/persona/media-QOwIDOtQWa": "2026-08-01T16:11:12Z",
@@ -752,7 +752,8 @@
    "https://www.meity.gov.in/static/uploads/2026/06/93feeb02a7a57c3519ad1010e199f24e.pdf": "2026-07-15T08:33:31Z",
    "https://hackathon2026.tcoe.in/": "2026-08-02T03:48:48Z",
    "https://innovateindia.mygov.in/cyber-security-grand-challenge/": "2026-08-05T19:51:08Z",
-   "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154788&ModuleId=3": "2026-08-06T08:51:02Z"
+   "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154788&ModuleId=3": "2026-08-06T08:51:02Z",
+   "https://meity.gov.in/documents/act-and-policies/draft-amendments-to-the-it-rules-2021-in-relation-to-strengthening-intermediary-compliance-with-clarifications-advisories-and-directions-issued-by-the-ministry-and-digital-media-oversight-AjM2YjMtQWa?pageTitle=Draft-amendments-to-the-IT-Rules,-2021-in-relation-to-strengthening-intermediary-compliance-with-clarifications,-advisories-and-directions-issued-by-the-Ministry-and-digital-media-oversight": "2026-08-07T07:38:52Z"
   }
  }
 }

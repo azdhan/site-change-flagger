@@ -144,7 +144,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -159,7 +158,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 06.08.2026",
+  "अंतिम बार अद्यतन किया गयाः 07.08.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -395,14 +394,6 @@
    "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
-   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
    "url": "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
@@ -412,6 +403,14 @@
   },
   {
    "url": "https://www.instagram.com/reel/DaR0oBPOng_/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -464,7 +463,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-07T05:01:43Z",
+ "fetched_at": "2026-08-07T07:38:52Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -722,7 +721,8 @@
    "05-08-2026 रेग दिनांकित आदेश। टी. ई. एस. जी. आर. के अधिकारियों का स्थानांतरण और नियुक्ति। 'बी'": 0,
    "05-08-2026 रेग दिनांकित आदेश। आई. टी. एस. जी. आर. के अधिकारियों के संबंध में शक्ति ली गई। ए": 0,
    "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0,
-   "Revenue Management Services": 3
+   "Revenue Management Services": 4,
+   "अंतिम बार अद्यतन किया गयाः 07.08.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,

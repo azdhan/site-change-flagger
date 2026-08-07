@@ -1,5 +1,61 @@
 [
  {
+  "id": "d77c66743d54",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-07T07:38:52Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 07.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "17422d128148",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-07T07:38:52Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal",
+   "Jabalpur , Madhya Pradesh",
+   "7 August, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0",
+    "text": "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal",
+    "text": "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "47a3f245d5cb",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-07T07:38:52Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "5cc986956ea7",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
