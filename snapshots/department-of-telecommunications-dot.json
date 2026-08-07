@@ -144,6 +144,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -394,6 +395,14 @@
    "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
+   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
@@ -403,14 +412,6 @@
   },
   {
    "url": "https://www.instagram.com/reel/DaR0oBPOng_/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -463,7 +464,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-07T07:38:52Z",
+ "fetched_at": "2026-08-07T10:08:59Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -721,7 +722,7 @@
    "05-08-2026 रेग दिनांकित आदेश। टी. ई. एस. जी. आर. के अधिकारियों का स्थानांतरण और नियुक्ति। 'बी'": 0,
    "05-08-2026 रेग दिनांकित आदेश। आई. टी. एस. जी. आर. के अधिकारियों के संबंध में शक्ति ली गई। ए": 0,
    "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0,
-   "Revenue Management Services": 4,
+   "Revenue Management Services": 5,
    "अंतिम बार अद्यतन किया गयाः 07.08.2026": 0
   },
   "links": {
@@ -812,8 +813,6 @@
    "Useful Links": "2026-08-01T10:46:42Z",
    "Archives": "2026-08-01T10:46:42Z",
    "Key Offerings": "2026-07-31T16:54:51Z",
-   "View this post on Instagram": "2026-07-08T08:42:59Z",
-   "A post shared by DoT_India (Department of Telecommunications) (@department_of_telecom)": "2026-07-08T08:42:59Z",
    "Retirement of Shri Rajendra Mathur Executive Engineer Civil P and T Building Works Civil Group A Service on attaining the age of superannuation as on 30 June 2026": "2026-07-09T09:56:25Z",
    "Leveraging IndiaAI Mission and IndiaAI Impact for AI Solution Mapping Summit by DoT": "2026-07-09T09:56:25Z",
    "Order dated 07-07-2026 reg Transfer & Posting of officers of ITS Gr A": "2026-07-09T20:01:59Z",

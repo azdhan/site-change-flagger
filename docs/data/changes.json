@@ -1,5 +1,44 @@
 [
  {
+  "id": "e20d1b7fe6d8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-07T10:08:59Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Kallakurichi (Tamil Nadu) by Citizen Consumer & Civic Action Group",
+   "Kallakurichi, Tamil Nadu",
+   "Consumer Outreach Program at Mandi (Himachal Pradesh) by RO DELHI",
+   "Mandi , Himachal Pradesh",
+   "5 August, 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "9b18b50c1bb2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-07T10:08:59Z",
+  "summary": "10 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "राष्ट्रपति द्रौपदी मुर्मु के कार्यकाल के चार साल पूरे होने पर राष्ट्रपति भवन में पांच स्मृति पुस्तकें जारी की गईं",
+   "16.05 मेगा बाइट |",
+   "मन की बात जून 2026",
+   "मंच तैयार करना: भारत का लक्ष्य 2030 तक वैश्विक लाइव इवेंट्स में नेतृत्व हासिल करना है",
+   "वेव्स डिजिटल प्लेटफॉर्म के माध्यम से मीडिया और मनोरंजन क्षेत्र के लिए व्यापार, निवेश और नवाचार के अवसरों का विस्तार",
+   "05 अगस्त 2026"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d77c66743d54",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
