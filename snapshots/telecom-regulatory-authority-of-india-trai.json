@@ -190,9 +190,9 @@
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "Explore",
   "4th August 2026",
-  "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
+  "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "3rd August 2026",
   "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
@@ -217,17 +217,17 @@
   "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal",
   "10:30 AM",
   "Jabalpur , Madhya Pradesh",
-  "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand",
+  "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP",
   "11:00 AM",
+  "Una, Himachal Pradesh",
+  "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand",
   "Uttarkashi, Uttarakhand",
   "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society",
   "Koderma, Jharkhand",
-  "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP",
-  "Una, Himachal Pradesh",
-  "Consumer Awareness Program at Sirsa (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
-  "Sirsa, Haryana",
   "Consumer Awareness Program at Mathura (Uttar Pradesh) by Citizen Development Institute",
   "Mathura, Uttar Pradesh",
+  "Consumer Awareness Program at Sirsa (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+  "Sirsa, Haryana",
   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)",
   "Faridabad, Haryana",
   "Consumer Awareness Program at Jangaon (Telangana) by Sri Dharani Voluntary Organisation",
@@ -906,14 +906,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
-   "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
   },
@@ -927,6 +919,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+   "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
    "text": "Explore"
   },
   {
@@ -990,16 +990,20 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur",
+   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0",
    "text": "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0",
+   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur",
    "text": "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal",
    "text": "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp",
+   "text": "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-uttarkashi-uttarakhand-indian-institute-technology",
@@ -1010,16 +1014,12 @@
    "text": "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp",
-   "text": "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mathura-uttar-pradesh-citizen-development-institute",
+   "text": "Consumer Awareness Program at Mathura (Uttar Pradesh) by Citizen Development Institute"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirsa-haryana-rashtriya-samuddeshiya-vikas-sansthan",
    "text": "Consumer Awareness Program at Sirsa (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mathura-uttar-pradesh-citizen-development-institute",
-   "text": "Consumer Awareness Program at Mathura (Uttar Pradesh) by Citizen Development Institute"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc",
@@ -1227,7 +1227,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-08T09:51:23Z",
+ "fetched_at": "2026-08-08T13:09:49Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1547,11 +1547,11 @@
    "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society": 0,
    "Bhilwara, Rajasthan": 0,
    "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur": 0,
-   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": 1,
+   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": 2,
    "7 August, 2026": 0,
    "Jabalpur , Madhya Pradesh": 0,
    "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal": 0,
-   "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": 2
+   "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": 3
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1778,37 +1778,12 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-koderma-jharkhand-prerna-rural-development-society": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 1,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 2,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 2,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0": 0,
-   "https://www.trai.gov.in/index.php/user/login": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-participated-mobile-world-congress-mwc-barcelona-2026": 7,
-   "https://www.trai.gov.in/index.php/regulatory-framework": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-convergence-india-expo-2026": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/itu-trai-workshop-2025-bhubaneswar": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/green-room-inauguration": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-koderma-jharkhand-prerna-rural-development-society": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": 7,
-   "https://www.trai.gov.in/index.php/measures-be-taken-avoid-ucc": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/quantum-safe-communication": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/cultural-programme-tarang-10": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-sirsa-haryana-rashtriya-samuddeshiya-vikas-sansthan": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/wsis-26-ai-good-global-summit": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-jangaon-telangana-sri-dharani-voluntary-organisation": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-et-telecom-5g-congress-2026": 7,
-   "https://www.trai.gov.in/index.php/consultation-paper-draft-amendments-standards-quality-service-access-wireline-and-wireless-and": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-uttarkashi-uttarakhand-indian-institute-technology": 7,
-   "https://www.trai.gov.in/index.php/dcra-portal": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-mathura-uttar-pradesh-citizen-development-institute": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal": 7,
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-leadership-etgovtech-2026": 7,
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/coai-digicom-summit-2026": 7,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 2,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 2
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 3,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 3
   },
   "grave_lines": {
    "Consumer Awareness Program at Surendranagar (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": "2026-07-10T17:06:00Z",
@@ -2177,7 +2152,32 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": "2026-08-07T13:34:35Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hooghly-west-bengal-islampur-ramkrishnapally-rural": "2026-08-07T13:34:35Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur": "2026-08-08T04:18:45Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chhindwara-madhya-pradesh-national-centra-human": "2026-08-08T09:51:23Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chhindwara-madhya-pradesh-national-centra-human": "2026-08-08T09:51:23Z",
+   "https://www.trai.gov.in/index.php/user/login": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-participated-mobile-world-congress-mwc-barcelona-2026": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/regulatory-framework": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-convergence-india-expo-2026": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/itu-trai-workshop-2025-bhubaneswar": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/green-room-inauguration": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-koderma-jharkhand-prerna-rural-development-society": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/measures-be-taken-avoid-ucc": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/quantum-safe-communication": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/cultural-programme-tarang-10": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-sirsa-haryana-rashtriya-samuddeshiya-vikas-sansthan": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/wsis-26-ai-good-global-summit": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-jangaon-telangana-sri-dharani-voluntary-organisation": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-et-telecom-5g-congress-2026": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consultation-paper-draft-amendments-standards-quality-service-access-wireline-and-wireless-and": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-uttarkashi-uttarakhand-indian-institute-technology": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/dcra-portal": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-mathura-uttar-pradesh-citizen-development-institute": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-leadership-etgovtech-2026": "2026-08-08T13:09:49Z",
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/coai-digicom-summit-2026": "2026-08-08T13:09:49Z"
   }
  }
 }
