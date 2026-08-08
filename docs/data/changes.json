@@ -1,5 +1,21 @@
 [
  {
+  "id": "14cbbc6acff9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-08T02:18:37Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "पिछले एक वर्ष में सार्वजनिक प्रसारकों की सम्‍पादकीय स्वायत्तता या कार्यप्रणाली के संबंध में कोई शिकायत प्राप्त नहीं हुई है",
+   "06 अगस्त 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "17e05525a6af",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
