@@ -989,11 +989,11 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur",
+   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0",
    "text": "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0",
+   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur",
    "text": "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
   },
   {
@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-10T13:40:03Z",
+ "fetched_at": "2026-08-10T16:07:54Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1386,7 +1386,7 @@
    "Linkedin": 0,
    "Youtube": 0,
    "Instagram": 0,
-   "TRAI DND Reel Challenge, June 2026 - Click Here to Participate": 2,
+   "TRAI DND Reel Challenge, June 2026 - Click Here to Participate": 3,
    "Leadership": 0,
    "View All": 0,
    "Anil Kumar Lahoti": 0,
@@ -1508,8 +1508,8 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "Consultation Papers": 0,
    "10:00 AM": 0,
-   "23rd July 2026": 2,
-   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": 2,
+   "23rd July 2026": 3,
+   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": 3,
    "Newsletter": 0,
    "TRAI releases Telecom Subscription Data as on June 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 0,
@@ -1546,11 +1546,11 @@
    "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society": 0,
    "Bhilwara, Rajasthan": 0,
    "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur": 0,
-   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": 4,
-   "7 August, 2026": 2,
+   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": 5,
+   "7 August, 2026": 3,
    "Jabalpur , Madhya Pradesh": 0,
    "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal": 0,
-   "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": 3,
+   "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": 4,
    "10th August 2026": 0,
    "10 August, 2026": 0,
    "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.": 0
@@ -1688,7 +1688,7 @@
    "https://www.linkedin.com/company/trai-official/": 0,
    "https://www.youtube.com/c/TelecomRegulatoryAuthorityofIndia": 0,
    "https://www.instagram.com/trai.official_/": 0,
-   "https://www.mygov.in/task/trai-dnd-reel-challenge-june-2026": 2,
+   "https://www.mygov.in/task/trai-dnd-reel-challenge-june-2026": 3,
    "https://play.google.com/store/apps/details?id=trai.gov.in.dnd&hl=en-gb": 0,
    "https://myspeed.trai.gov.in/": 0,
    "https://www.trai.gov.in/dcra-portal": 0,
@@ -1748,8 +1748,8 @@
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 2,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 2,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 3,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 3,
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
@@ -1780,20 +1780,18 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-koderma-jharkhand-prerna-rural-development-society": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 4,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 4,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 5,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": 5,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 3,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 3,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 4,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": 4,
    "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
    "https://harghartiranga.com/": 0
   },
   "grave_lines": {
    "Panchmahal, Gujarat": "2026-07-20T22:12:10Z",
-   "1st July 2026": "2026-07-11T13:49:35Z",
-   "TRAI Assesses Mobile Network Quality Across in Satara District and Highway Drive from Pune to Satara, Maharashtra LSA.": "2026-07-11T13:49:35Z",
    "Consumer Awareness Program at Sheohar (Bihar) by IITED": "2026-07-12T10:43:10Z",
    "Sheohar, Bihar": "2026-07-12T10:43:10Z",
    "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)": "2026-07-14T10:55:41Z",
@@ -2012,8 +2010,6 @@
    "Consumer Awareness Program at Chhindwara (Madhya Pradesh) by National Centra for Human Settlement and Enviorment (NCHSE)": "2026-08-08T09:51:23Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": "2026-07-11T13:49:35Z",
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-satara-district-and-highway": "2026-07-11T13:49:35Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sheohar-bihar-iited": "2026-07-12T10:43:10Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": "2026-07-14T10:55:41Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit": "2026-07-14T10:55:41Z",
