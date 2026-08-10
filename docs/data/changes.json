@@ -1,5 +1,40 @@
 [
  {
+  "id": "a86f6538f3dc",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-10T08:01:01Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 420: आई. एस. पी. को डी. ओ. टी. के दिनांकित निर्देश"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-420-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs",
+    "text": "आदेश और सूचनाएँ दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 420: आई. एस. पी. को डी. ओ. टी. के दिनांकित निर्देश"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "4e7a5ebffd3b",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-10T08:01:01Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 10.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "239f0608bc5f",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

@@ -124,10 +124,10 @@
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
+  "दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 420: आई. एस. पी. को डी. ओ. टी. के दिनांकित निर्देश",
   "05-08-2026 रेग दिनांकित आदेश। आई. टी. एस. जी. आर. के अधिकारियों के संबंध में शक्ति ली गई। ए",
   "05-08-2026 रेग दिनांकित आदेश। टी. ई. एस. जी. आर. के अधिकारियों का स्थानांतरण और नियुक्ति। 'बी'",
   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति।",
-  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -144,6 +144,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -342,8 +343,8 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)",
-   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)"
+   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-420-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs",
+   "text": "आदेश और सूचनाएँ दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 420: आई. एस. पी. को डी. ओ. टी. के दिनांकित निर्देश"
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
@@ -463,7 +464,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-10T04:50:00Z",
+ "fetched_at": "2026-08-10T08:01:01Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -722,7 +723,8 @@
    "05-08-2026 रेग दिनांकित आदेश। आई. टी. एस. जी. आर. के अधिकारियों के संबंध में शक्ति ली गई। ए": 0,
    "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 07.08.2026": 0,
-   "अंतिम बार अद्यतन किया गयाः 10.08.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 10.08.2026": 0,
+   "दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 420: आई. एस. पी. को डी. ओ. टी. के दिनांकित निर्देश": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -798,7 +800,8 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)": 0
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)": 1,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-420-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-31T16:54:51Z",
