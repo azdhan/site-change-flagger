@@ -1,5 +1,53 @@
 [
  {
+  "id": "239f0608bc5f",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-10T04:50:00Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 10.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "1ff1d4e65318",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-10T04:50:00Z",
+  "summary": "3 new links, 4 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "ब्रिक्‍स वेब्‍स बाजार 2026 का समापन नई अंतर्राष्ट्रीय साझेदारियों और सहयोग के साथ हुआ",
+   "मुख्य सचिवों और आपदा प्रबंधन विभागों से संवेदनशील क्षेत्रों में नए सामुदायिक रेडियो स्टेशनों को बढ़ावा देने का आग्रह किया गया; बाढ़, भूकंप और बिजली गिरने से प्रभावित स्टेशनों के लिए 11.50 लाख रुपये का आपातकालीन अनुदान उपलब्ध है",
+   "सूचना प्रौद्योगिकी नियमावली, 2021 में शराब और तंबाकू सामग्री के लिए वर्गीकरण का प्रावधान, आचार संहिता की शिकायतों का निवारण करती है तीन स्तरीय प्रणाली",
+   "10 अगस्त 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [
+   "08 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296499&reg=3&lang=2",
+    "text": "ब्रिक्‍स वेब्‍स बाजार 2026 का समापन नई अंतर्राष्ट्रीय साझेदारियों और सहयोग के साथ हुआ"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296053&reg=3&lang=2",
+    "text": "मुख्य सचिवों और आपदा प्रबंधन विभागों से संवेदनशील क्षेत्रों में नए सामुदायिक रेडियो स्टेशनों को बढ़ावा देने का आग्रह किया गया; बाढ़, भूकंप और बिजली गिरने से प्रभावित स्टेशनों के लिए 11.50 लाख रुपये का"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296222&reg=3&lang=2",
+    "text": "सूचना प्रौद्योगिकी नियमावली, 2021 में शराब और तंबाकू सामग्री के लिए वर्गीकरण का प्रावधान, आचार संहिता की शिकायतों का निवारण करती है तीन स्तरीय प्रणाली"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "e30c2a335ab9",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
