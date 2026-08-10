@@ -1,5 +1,51 @@
 [
  {
+  "id": "5a94d41ef725",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-10T10:34:51Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "दिल्ली के माननीय उच्च न्यायालय में 2026 का सी. एस. सी. ओ. एम. एम. 657: आई. एस. पी. को डी. ओ. टी. के निर्देश 07.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-657-of-2026-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs",
+    "text": "आदेश और सूचनाएँ दिल्ली के माननीय उच्च न्यायालय में 2026 का सी. एस. सी. ओ. एम. एम. 657: आई. एस. पी. को डी. ओ. टी. के निर्देश 07.08.2026"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "678b35125f1e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-10T10:34:51Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "10th August 2026",
+   "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.",
+   "10 August, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and",
+    "text": "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "a86f6538f3dc",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
