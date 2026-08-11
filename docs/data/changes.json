@@ -1,5 +1,25 @@
 [
  {
+  "id": "6051ab7328a9",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-11T22:00:30Z",
+  "summary": "6 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "View Event",
+   "Order dated 05-08-2026 reg. Transfer and posting of officers of TES Gr. ‘B’",
+   "Order dated 05-08-2026 reg. Taken on Strength in respect of officers of ITS Gr. A",
+   "Economic Times",
+   "CS COMM 657 of 2026 in the Hon’ble High Court of Delhi: DoT instructions dated 07.08.2026 to ISPs",
+   "Medical Status of the candidates recommended by UPSC for Engineering Services Examination (ESE)-2025-reg."
+  ],
+  "removed_lines_total": 6,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "21d3df06ec57",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
