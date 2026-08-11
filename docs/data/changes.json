@@ -1,5 +1,23 @@
 [
  {
+  "id": "fcb2b61c5c44",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-11T04:37:01Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "सिनेमाटोग्राफ (संशोधन) अधिनियम और आईटी ढांचा पायरेसी विरोधी प्रवर्तन को मजबूत करते हैं। 4,996 टेलीग्राम चैनलों और 1,263 वेबसाइटों सहित 7,393 यूआरएल निष्क्रिय किए गए।",
+   "सरकार का उद्देश्य भारत के इंटरनेट को गैरकानूनी और अश्लील कॉन्टेंट से मुक्त रखना और एक सुरक्षित व भरोसेमंद डिजिटल वातावरण सुनिश्चित करना है",
+   "सरकार अनेक पहलों के माध्यम से पत्रकारों के लिए कल्याण, स्वास्थ्य सेवा और मान्यता संबंधी सहायता सुनिश्चित करती है",
+   "09 अगस्त 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "aa048c67e6b9",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
