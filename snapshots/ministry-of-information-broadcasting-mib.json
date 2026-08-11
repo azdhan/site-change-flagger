@@ -561,35 +561,27 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/archives",
-   "text": "पुरालेखागार"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/website-policy",
+   "url": "https://mib.gov.in/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/related-link",
+   "url": "https://mib.gov.in/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/sitemap",
+   "url": "https://mib.gov.in/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/help",
+   "url": "https://mib.gov.in/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
-   "text": "हमसे संपर्क करें"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/feedback",
+   "url": "https://mib.gov.in/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -618,7 +610,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-11T16:09:17Z",
+ "fetched_at": "2026-08-11T19:17:10Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -881,12 +873,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 1,
-   "https://mib.gov.in/hi/related-link": 1,
-   "https://mib.gov.in/hi/sitemap": 1,
-   "https://mib.gov.in/hi/help": 1,
-   "https://mib.gov.in/hi/feedback": 1,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/hi/website-policy": 0,
+   "https://mib.gov.in/hi/related-link": 0,
+   "https://mib.gov.in/hi/sitemap": 0,
+   "https://mib.gov.in/hi/help": 0,
+   "https://mib.gov.in/hi/feedback": 0,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -901,14 +893,14 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296499&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296222&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296053&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/archives": 0,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 0,
-   "https://mib.gov.in/index.php/hi/help": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
-   "https://mib.gov.in/index.php/hi/sitemap": 0
+   "https://mib.gov.in/index.php/hi/archives": 1,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 1,
+   "https://mib.gov.in/index.php/hi/website-policy": 1,
+   "https://mib.gov.in/index.php/hi/related-link": 1,
+   "https://mib.gov.in/index.php/hi/feedback": 1,
+   "https://mib.gov.in/index.php/hi/help": 1,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/index.php/hi/sitemap": 1
   },
   "grave_lines": {
    "सूचना और प्रसारण मंत्रालय ने भारतीय फिल्म उद्योग को बढ़ावा देने के लिए दो बड़े फैसलों की घोषणा की": "2026-07-15T08:33:31Z",
