@@ -1,5 +1,74 @@
 [
  {
+  "id": "65062408e169",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-11T10:08:52Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "श्री पुष्पेंद्र कुमार सिंह, आई. टी. एस. (कर्मचारी 20152) प्रधान सलाहकार (क्यू. ओ. एस. और आई. टी.) की टी. आर. ए. आई. मुख्यालय, नई दिल्ली में प्रतिनियुक्ति के आधार पर प्रतिनियुक्ति अवधि का विस्तार।",
+   "श्री आशुतोष जैन, आई. टी. एस. (कर्मचारी संख्या 20481) का केंद्रीय कर्मचारी योजना 2026 के तहत विकलांग व्यक्तियों के सशक्तिकरण विभाग के तहत राष्ट्रीय विकलांग वित्त और विकास निगम (एन. एच. एफ. डी. सी.) के सी. एम. डी. के रूप में प्रतिनियुक्ति के आधार पर चयन।",
+   "आई. टी. एस. समूह ए के अधिकारियों का स्थानांतरण और नियुक्ति-श्री विकास दैला, कर्मचारी संख्या 21,380"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "bffe89185143",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-11T10:08:52Z",
+  "summary": "4 new links, 8 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)",
+   "Gopalganj , Bihar",
+   "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
+   "Jalaun, Uttar Pradesh",
+   "Consumer Awareness Program at Kumuram Bheem (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
+   "Kumuram Bheem, Telangana",
+   "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad",
+   "Tiruvallur, Tamil Nadu"
+  ],
+  "added_lines_total": 8,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gopalganj-bihar-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalaun-uttar-pradesh-upbhokta-sanrakchhan-kalyan-samiti",
+    "text": "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kumuram-bheem-telangana-society-health-and-agriculture",
+    "text": "Consumer Awareness Program at Kumuram Bheem (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-tiruvallur-tamil-nadu-ro-hyderabad",
+    "text": "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "78e272adf2c2",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-11T10:08:52Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "7620325f3f35",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
