@@ -192,9 +192,9 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
-  "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
+  "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "31st July 2026",
@@ -207,22 +207,19 @@
   "Comments",
   "Counter Comments",
   "Events",
-  "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur",
+  "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal",
   "Date :",
   "Time :",
-  "09:30 AM",
-  "Location :",
-  "Bhilwara, Rajasthan",
-  "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal",
   "10:30 AM",
+  "Location :",
   "Jabalpur , Madhya Pradesh",
-  "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand",
+  "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP",
   "11:00 AM",
+  "Una, Himachal Pradesh",
+  "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand",
   "Uttarkashi, Uttarakhand",
   "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society",
   "Koderma, Jharkhand",
-  "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP",
-  "Una, Himachal Pradesh",
   "Consumer Awareness Program at Mathura (Uttar Pradesh) by Citizen Development Institute",
   "Mathura, Uttar Pradesh",
   "Consumer Awareness Program at Sirsa (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
@@ -232,6 +229,10 @@
   "Consumer Awareness Program at Jangaon (Telangana) by Sri Dharani Voluntary Organisation",
   "10:00 AM",
   "jangam , Telangana",
+  "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)",
+  "Bathinda, Punjab",
+  "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori",
+  "Pakur, Jharkhand",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -913,14 +914,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
-   "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
   },
@@ -934,6 +927,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+   "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
    "text": "Explore"
   },
   {
@@ -989,16 +990,12 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur",
-   "text": "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0",
-   "text": "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal",
    "text": "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp",
+   "text": "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-uttarkashi-uttarakhand-indian-institute-technology",
@@ -1007,10 +1004,6 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-koderma-jharkhand-prerna-rural-development-society",
    "text": "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp",
-   "text": "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mathura-uttar-pradesh-citizen-development-institute",
@@ -1027,6 +1020,14 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jangaon-telangana-sri-dharani-voluntary-organisation",
    "text": "Consumer Awareness Program at Jangaon (Telangana) by Sri Dharani Voluntary Organisation"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur",
+   "text": "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pakur-jharkhand-mahila-kalyan-smiti-dhori",
+   "text": "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1226,7 +1227,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-11T04:37:01Z",
+ "fetched_at": "2026-08-11T07:32:59Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1386,7 +1387,6 @@
    "Linkedin": 0,
    "Youtube": 0,
    "Instagram": 0,
-   "TRAI DND Reel Challenge, June 2026 - Click Here to Participate": 7,
    "Leadership": 0,
    "View All": 0,
    "Anil Kumar Lahoti": 0,
@@ -1508,8 +1508,6 @@
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "Consultation Papers": 0,
    "10:00 AM": 0,
-   "23rd July 2026": 7,
-   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": 7,
    "Newsletter": 0,
    "TRAI releases Telecom Subscription Data as on June 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 0,
@@ -1542,16 +1540,19 @@
    "Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
    "5th August 2026": 0,
    "Koderma, Jharkhand": 0,
-   "09:30 AM": 0,
+   "09:30 AM": 1,
    "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society": 0,
-   "Bhilwara, Rajasthan": 0,
-   "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur": 0,
-   "7 August, 2026": 7,
+   "Bhilwara, Rajasthan": 1,
+   "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur": 1,
    "Jabalpur , Madhya Pradesh": 0,
    "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal": 0,
    "10th August 2026": 0,
    "10 August, 2026": 0,
-   "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.": 0
+   "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.": 0,
+   "Bathinda, Punjab": 0,
+   "Pakur, Jharkhand": 0,
+   "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)": 0,
+   "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1686,7 +1687,6 @@
    "https://www.linkedin.com/company/trai-official/": 0,
    "https://www.youtube.com/c/TelecomRegulatoryAuthorityofIndia": 0,
    "https://www.instagram.com/trai.official_/": 0,
-   "https://www.mygov.in/task/trai-dnd-reel-challenge-june-2026": 7,
    "https://play.google.com/store/apps/details?id=trai.gov.in.dnd&hl=en-gb": 0,
    "https://myspeed.trai.gov.in/": 0,
    "https://www.trai.gov.in/dcra-portal": 0,
@@ -1746,8 +1746,6 @@
    "https://www.trai.gov.in/internal-complaint-committee": 0,
    "https://www.trai.gov.in/release-publication/consultation": 0,
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 7,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": 7,
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
@@ -1777,12 +1775,14 @@
    "http://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-koderma-jharkhand-prerna-rural-development-society": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": 1,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0": 1,
    "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
-   "https://harghartiranga.com/": 0
+   "https://harghartiranga.com/": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pakur-jharkhand-mahila-kalyan-smiti-dhori": 0
   },
   "grave_lines": {
    "Panchmahal, Gujarat": "2026-07-20T22:12:10Z",
@@ -2001,7 +2001,11 @@
    "Bathinda, Punjab": "2026-08-08T04:18:45Z",
    "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)": "2026-08-08T04:18:45Z",
    "Chhindwara , Madhya Pradesh": "2026-08-08T09:51:23Z",
-   "Consumer Awareness Program at Chhindwara (Madhya Pradesh) by National Centra for Human Settlement and Enviorment (NCHSE)": "2026-08-08T09:51:23Z"
+   "Consumer Awareness Program at Chhindwara (Madhya Pradesh) by National Centra for Human Settlement and Enviorment (NCHSE)": "2026-08-08T09:51:23Z",
+   "TRAI DND Reel Challenge, June 2026 - Click Here to Participate": "2026-08-11T07:32:59Z",
+   "23rd July 2026": "2026-08-11T07:32:59Z",
+   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": "2026-08-11T07:32:59Z",
+   "7 August, 2026": "2026-08-11T07:32:59Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sheohar-bihar-iited": "2026-07-12T10:43:10Z",
@@ -2155,7 +2159,10 @@
    "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal": "2026-08-08T13:09:49Z",
    "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": "2026-08-08T13:09:49Z",
    "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-leadership-etgovtech-2026": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/coai-digicom-summit-2026": "2026-08-08T13:09:49Z"
+   "https://www.trai.gov.in/index.php/index.php/photo-gallery/coai-digicom-summit-2026": "2026-08-08T13:09:49Z",
+   "https://www.mygov.in/task/trai-dnd-reel-challenge-june-2026": "2026-08-11T07:32:59Z",
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": "2026-08-11T07:32:59Z",
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": "2026-08-11T07:32:59Z"
   }
  }
 }
