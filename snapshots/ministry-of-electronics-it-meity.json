@@ -100,12 +100,28 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
+  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
+  "Shri Ashwini Vaishnaw",
+  "HON’BLE MINISTER",
+  "Shri Jitin Prasada",
+  "HON’BLE MINISTER OF STATE",
   "Key Offerings",
+  "NeGD’s Non-Technical (Summer) Internship Programme",
+  "arrow_forward_ios",
+  "Electronics Component Manufacturing Scheme",
+  "TECHNICAL INTERNSHIP PROGRAMME 2025",
+  "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
+  "Digital India Internship Scheme 2026",
   "अधिक देखें",
+  "What’s New",
+  "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY",
+  "EOI: Development & Production Partners for Advanced Photonics Packaging",
+  "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies. Last date to apply : 31.07.2026",
+  "Major achievement of MeitY for the month of June 2026",
+  "View more",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "महत्वपूर्ण लिंक",
   "एमईआईटीवाई डैशबोर्ड",
-  "arrow_forward_ios",
   "निविदा के लिए आवेदन करने में रुचि रखते हैं?",
   "सार्वजनिक शिकायतें",
   "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए",
@@ -274,6 +290,54 @@
    "text": "open_in_new कार्यक्रम देखें"
   },
   {
+   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
+   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
+  },
+  {
+   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
+   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
+  },
+  {
+   "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
+   "text": "NeGD’s Non-Technical (Summer) Internship Programme"
+  },
+  {
+   "url": "https://meity.gov.in/offerings/schemes-and-services/details/electronics-component-manufacturing-scheme-UTM1IjMtQWa",
+   "text": "Electronics Component Manufacturing Scheme"
+  },
+  {
+   "url": "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa",
+   "text": "TECHNICAL INTERNSHIP PROGRAMME 2025"
+  },
+  {
+   "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
+   "text": "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges"
+  },
+  {
+   "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
+   "text": "Digital India Internship Scheme 2026"
+  },
+  {
+   "url": "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf",
+   "text": "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY arrow_forward_ios"
+  },
+  {
+   "url": "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf",
+   "text": "EOI: Development & Production Partners for Advanced Photonics Packaging arrow_forward_ios"
+  },
+  {
+   "url": "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf",
+   "text": "Major achievement of MeitY for the month of June 2026 arrow_forward_ios"
+  },
+  {
+   "url": "https://intern.meity.gov.in",
+   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
+  },
+  {
+   "url": "https://meity.gov.in/whats-new",
+   "text": "View more chevron_right"
+  },
+  {
    "url": "https://meity.dashboard.nic.in/",
    "text": "एमईआईटीवाई डैशबोर्ड arrow_forward_ios"
   },
@@ -286,16 +350,12 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://meity.gov.in/whats-new",
-   "text": "पता लगाएँ कि नया क्या है arrow_forward_ios"
-  },
-  {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
    "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -347,7 +407,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-12T02:40:38Z",
+ "fetched_at": "2026-08-12T04:57:37Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -453,7 +513,7 @@
    "कार्यक्रम देखें": 0,
    "प्रमुख प्रस्ताव": 0,
    "अधिक देखें": 0,
-   "View more": 3,
+   "View more": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "महत्वपूर्ण लिंक": 0,
    "एमईआईटीवाई डैशबोर्ड": 0,
@@ -481,13 +541,13 @@
    "इस अनुवाद का मूल्यांकन करें": 0,
    "Do you like to give feedback": 0,
    "जमा करें": 0,
-   "Shri Ashwini Vaishnaw": 1,
-   "HON’BLE MINISTER OF STATE": 1,
-   "Shri Jitin Prasada": 1,
-   "HON’BLE MINISTER": 1,
-   "Digital India Internship Scheme 2026": 3,
+   "Shri Ashwini Vaishnaw": 0,
+   "HON’BLE MINISTER OF STATE": 0,
+   "Shri Jitin Prasada": 0,
+   "HON’BLE MINISTER": 0,
+   "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
-   "What’s New": 3,
+   "What’s New": 0,
    "अभिलेखागार": 0,
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
@@ -496,11 +556,11 @@
    "मई 2026 के महीने के लिए एम. ई. आई. टी. वाई. की प्रमुख उपलब्धि": 0,
    "डिजिटल इंडिया इंटर्नशिप योजना 2026": 0,
    "नया क्या है": 0,
-   "Electronics Component Manufacturing Scheme": 4,
-   "TECHNICAL INTERNSHIP PROGRAMME 2025": 4,
-   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 1,
-   "NeGD’s Non-Technical (Summer) Internship Programme": 4,
-   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 4,
+   "Electronics Component Manufacturing Scheme": 0,
+   "TECHNICAL INTERNSHIP PROGRAMME 2025": 0,
+   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 0,
+   "NeGD’s Non-Technical (Summer) Internship Programme": 0,
+   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 0,
    "माननीय राज्य मंत्री": 0,
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
@@ -526,12 +586,12 @@
    "हमारी टीम": 0,
    "आईटी पेशेवरों के लिए": 0,
    "अंतिम बार अद्यतन किया गयाः 14.07.2026": 0,
-   "Major achievement of MeitY for the month of June 2026": 3,
+   "Major achievement of MeitY for the month of June 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 16.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 17.07.2026": 0,
    "अगली पीढ़ी के इलेक्ट्रॉनिक्स, संचार और संवेदी प्रौद्योगिकी पर अनुदान चुनौतियों के लिए प्रस्तावों का आह्वान करें": 0,
    "अगली पीढ़ी के इलेक्ट्रॉनिक्स, संचार और संवेदी प्रौद्योगिकी पर अनुदान चुनौतियों के लिए प्रस्तावों का आह्वान करें। आवेदन करने की अंतिम तिथिः 31.07.2026": 0,
-   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies. Last date to apply : 31.07.2026": 3,
+   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies. Last date to apply : 31.07.2026": 0,
    "हाल के दस्तावेज़": 0,
    "अंतिम बार अद्यतन किया गयाः 20.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 21.07.2026": 0,
@@ -546,18 +606,18 @@
    "अंतिम बार अद्यतन किया गयाः 01.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 03.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 04.08.2026": 0,
-   "EOI: Development & Production Partners for Advanced Photonics Packaging": 3,
+   "EOI: Development & Production Partners for Advanced Photonics Packaging": 0,
    "अंतिम बार अद्यतन किया गयाः 05.08.2026": 0,
    "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार": 0,
    "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0,
-   "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY": 3,
+   "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY": 0,
    "सॉफ्टवेयर उद्योग संवर्धन प्रभाग (एस. आई. पी. डी.), एम. ई. आई. टी. वाई. द्वारा उद्यमिता केंद्र (सी. ओ. ई.) की स्थापना के लिए रूपरेखा और दिशानिर्देश": 0,
    "अंतिम बार अद्यतन किया गयाः 10.08.2026": 0,
-   "For Media": 4,
-   "Ministry of Electronics and Information Technology": 4,
-   "For Researcher": 4,
+   "For Media": 5,
+   "Ministry of Electronics and Information Technology": 5,
+   "For Researcher": 5,
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
-   "For Business Owner": 4
+   "For Business Owner": 5
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -607,26 +667,26 @@
    "https://www.instagram.com/goi_meity/": 0,
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 1,
-   "https://intern.meity.gov.in": 3,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 1,
-   "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 4,
-   "https://meity.gov.in/offerings/schemes-and-services/details/electronics-component-manufacturing-scheme-UTM1IjMtQWa": 4,
-   "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 4,
-   "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa": 4,
-   "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 4,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 0,
+   "https://intern.meity.gov.in": 0,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 0,
+   "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 0,
+   "https://meity.gov.in/offerings/schemes-and-services/details/electronics-component-manufacturing-scheme-UTM1IjMtQWa": 0,
+   "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 0,
+   "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa": 0,
+   "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": 3,
+   "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": 0,
    "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies": 0,
-   "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 3,
+   "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 0,
    "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 0,
-   "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf": 3,
+   "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf": 0,
    "https://meity.gov.in/ministry/directory-2": 0,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 4,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 4,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 4,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 4
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 5,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 5,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 5,
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 5
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-08-07T13:34:35Z",

@@ -1,5 +1,22 @@
 [
  {
+  "id": "6930ad39116e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-12T04:57:37Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "09:30 AM",
+   "Bhilwara, Rajasthan",
+   "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "6051ab7328a9",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
