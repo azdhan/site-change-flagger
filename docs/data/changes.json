@@ -1,5 +1,50 @@
 [
  {
+  "id": "a3e14024d695",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-12T13:41:00Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "भारतीय दूरसंचार सेवा समूह 'ए' दिनांक 12.8.2026 के वरिष्ठ प्रशासनिक ग्रेड में नियमित पदोन्नति और नियुक्ति"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8777b5b63ce1",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-12T13:41:00Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "12 August, 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "5775d9d43f37",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-12T13:41:00Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 12.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "f0b7b1ca776c",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
