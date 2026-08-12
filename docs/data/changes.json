@@ -1,5 +1,56 @@
 [
  {
+  "id": "54ca98a3636d",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-12T07:48:09Z",
+  "summary": "1 new text block, 1 item no longer on page",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 12.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "6074f2a187f0",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-12T07:48:09Z",
+  "summary": "2 new links, 4 new text blocks, 12 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation",
+   "Balesore, Odisha",
+   "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
+   "Biswanath, Assam"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [
+   "Consumer Awareness Programme at Una (Himachal Pradesh) by IITED - HP",
+   "Una, Himachal Pradesh",
+   "Uttarkashi, Uttarakhand",
+   "Consumer Awareness Program at Uttarkashi (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand",
+   "Koderma, Jharkhand",
+   "Consumer Awareness Program at Koderma (Jharkhand) by Prerna Rural Development Society",
+   "Jabalpur , Madhya Pradesh",
+   "Consumer Outreach Program at Jabalpur (Madhya Pradesh) by RO Bhopal"
+  ],
+  "removed_lines_total": 12,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balasore-odisha-gangotree-social-organisation",
+    "text": "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-biswanath-assam-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "6930ad39116e",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
