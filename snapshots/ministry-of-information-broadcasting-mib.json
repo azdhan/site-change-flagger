@@ -610,7 +610,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-12T07:48:09Z",
+ "fetched_at": "2026-08-12T10:18:10Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -893,14 +893,14 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296499&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296222&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296053&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/archives": 5,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 5,
-   "https://mib.gov.in/index.php/hi/website-policy": 5,
-   "https://mib.gov.in/index.php/hi/related-link": 5,
-   "https://mib.gov.in/index.php/hi/feedback": 5,
-   "https://mib.gov.in/index.php/hi/help": 5,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 5,
-   "https://mib.gov.in/index.php/hi/sitemap": 5
+   "https://mib.gov.in/index.php/hi/archives": 6,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 6,
+   "https://mib.gov.in/index.php/hi/website-policy": 6,
+   "https://mib.gov.in/index.php/hi/related-link": 6,
+   "https://mib.gov.in/index.php/hi/feedback": 6,
+   "https://mib.gov.in/index.php/hi/help": 6,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 6,
+   "https://mib.gov.in/index.php/hi/sitemap": 6
   },
   "grave_lines": {
    "सूचना और प्रसारण मंत्रालय ने भारतीय फिल्म उद्योग को बढ़ावा देने के लिए दो बड़े फैसलों की घोषणा की": "2026-07-15T08:33:31Z",
