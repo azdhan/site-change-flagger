@@ -192,16 +192,16 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
-  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
+  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "31st July 2026",
   "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem",
   "28th July 2026",
-  "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.",
   "TRAI releases Telecom Subscription Data as on June 2026",
+  "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.",
   "On-going Consultation",
   "Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "Comments",
@@ -219,10 +219,10 @@
   "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori",
   "10:30 AM",
   "Pakur, Jharkhand",
-  "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)",
-  "Gopalganj , Bihar",
   "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
   "Jalaun, Uttar Pradesh",
+  "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)",
+  "Gopalganj , Bihar",
   "Consumer Awareness Program at Kumuram Bheem (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
   "Kumuram Bheem, Telangana",
   "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad",
@@ -318,7 +318,7 @@
   "S. Ganesh - Dy. Advisor (IT)",
   "Website Content Owned and Managed by Telecom Regulatory Authority of India, GOI Designed & Developed by TRAI",
   "Copyright © 2024 TRAI. All rights reserved",
-  "12 August, 2026"
+  "14 August, 2026"
  ],
  "links": [
   {
@@ -914,14 +914,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
    "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
   },
@@ -938,11 +930,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
+   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "Explore"
   },
   {
@@ -954,6 +946,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0",
    "text": "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem"
   },
@@ -962,19 +962,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
-   "text": "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
    "text": "TRAI releases Telecom Subscription Data as on June 2026"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
+   "text": "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
    "text": "Explore"
   },
   {
@@ -1002,12 +1002,12 @@
    "text": "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gopalganj-bihar-indian-institute-technology-entrepreneur",
-   "text": "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalaun-uttar-pradesh-upbhokta-sanrakchhan-kalyan-samiti",
    "text": "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gopalganj-bihar-indian-institute-technology-entrepreneur",
+   "text": "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kumuram-bheem-telangana-society-health-and-agriculture",
@@ -1227,7 +1227,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-13T16:07:34Z",
+ "fetched_at": "2026-08-13T19:16:51Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1518,10 +1518,10 @@
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
    "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas": 0,
    "3rd August 2026": 0,
-   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)": 4,
+   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)": 5,
    "4th August 2026": 0,
    "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": 0,
-   "Faridabad, Haryana": 4,
+   "Faridabad, Haryana": 5,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": 0,
    "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.": 0,
    "Comments": 0,
@@ -1549,9 +1549,10 @@
    "Balesore, Odisha": 0,
    "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation": 0,
    "Biswanath, Assam": 0,
-   "12 August, 2026": 0,
+   "12 August, 2026": 1,
    "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society": 0,
-   "Kota, Rajasthan": 0
+   "Kota, Rajasthan": 0,
+   "14 August, 2026": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1758,7 +1759,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 0,
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": 5,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 0,
