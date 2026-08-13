@@ -1,5 +1,56 @@
 [
  {
+  "id": "8ab9676e944a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-13T07:49:52Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 13.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "701176b014dc",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-13T07:49:52Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society",
+   "Kota, Rajasthan"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kota-rajasthan-consumer-unity-trust-society",
+    "text": "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "e213308cd66d",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-13T07:49:52Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 13.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "182aa972fb09",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
