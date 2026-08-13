@@ -219,18 +219,18 @@
   "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori",
   "10:30 AM",
   "Pakur, Jharkhand",
-  "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
-  "Jalaun, Uttar Pradesh",
   "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)",
   "Gopalganj , Bihar",
+  "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
+  "Jalaun, Uttar Pradesh",
   "Consumer Awareness Program at Kumuram Bheem (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
   "Kumuram Bheem, Telangana",
   "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad",
   "Tiruvallur, Tamil Nadu",
-  "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation",
-  "Balesore, Odisha",
   "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
   "Biswanath, Assam",
+  "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation",
+  "Balesore, Odisha",
   "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society",
   "Kota, Rajasthan",
   "TRAI Dashboard",
@@ -1002,12 +1002,12 @@
    "text": "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalaun-uttar-pradesh-upbhokta-sanrakchhan-kalyan-samiti",
-   "text": "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gopalganj-bihar-indian-institute-technology-entrepreneur",
    "text": "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalaun-uttar-pradesh-upbhokta-sanrakchhan-kalyan-samiti",
+   "text": "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kumuram-bheem-telangana-society-health-and-agriculture",
@@ -1018,12 +1018,12 @@
    "text": "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balasore-odisha-gangotree-social-organisation",
-   "text": "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-biswanath-assam-indian-institute-technology-entrepreneur",
    "text": "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balasore-odisha-gangotree-social-organisation",
+   "text": "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kota-rajasthan-consumer-unity-trust-society",
@@ -1227,7 +1227,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-13T07:49:52Z",
+ "fetched_at": "2026-08-13T10:20:06Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1518,10 +1518,10 @@
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
    "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas": 0,
    "3rd August 2026": 0,
-   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)": 1,
+   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)": 2,
    "4th August 2026": 0,
    "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": 0,
-   "Faridabad, Haryana": 1,
+   "Faridabad, Haryana": 2,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": 0,
    "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.": 0,
    "Comments": 0,
@@ -1545,7 +1545,6 @@
    "Kumuram Bheem, Telangana": 0,
    "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti": 0,
    "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)": 0,
-   "11 August, 2026": 7,
    "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)": 0,
    "Balesore, Odisha": 0,
    "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation": 0,
@@ -1759,7 +1758,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 0,
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": 2,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 0,
@@ -2018,7 +2017,8 @@
    "Consumer Awareness Program at Sirsa (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan": "2026-08-13T05:01:33Z",
    "Sirsa, Haryana": "2026-08-13T05:01:33Z",
    "Consumer Awareness Program at Mathura (Uttar Pradesh) by Citizen Development Institute": "2026-08-13T05:01:33Z",
-   "Mathura, Uttar Pradesh": "2026-08-13T05:01:33Z"
+   "Mathura, Uttar Pradesh": "2026-08-13T05:01:33Z",
+   "11 August, 2026": "2026-08-13T10:20:06Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": "2026-07-14T10:55:41Z",
