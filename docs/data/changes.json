@@ -1,5 +1,20 @@
 [
  {
+  "id": "8b542f6cb823",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-13T21:59:19Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Special Campaign 6.0 for Institutionalizing Swachhata and Minimizing Pendency in Government Offices during 2nd October 2026 to 31st October2026 – Advancement of Preparatory action w.e.f. 15th August, 2026 in MeitY and its organizations reg"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "62c988f51300",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
