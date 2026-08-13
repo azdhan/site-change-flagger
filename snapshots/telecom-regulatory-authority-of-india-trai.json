@@ -227,10 +227,10 @@
   "Kumuram Bheem, Telangana",
   "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad",
   "Tiruvallur, Tamil Nadu",
-  "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
-  "Biswanath, Assam",
   "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation",
   "Balesore, Odisha",
+  "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
+  "Biswanath, Assam",
   "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society",
   "Kota, Rajasthan",
   "TRAI Dashboard",
@@ -938,19 +938,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
    "text": "Explore"
   },
   {
@@ -1018,12 +1018,12 @@
    "text": "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-biswanath-assam-indian-institute-technology-entrepreneur",
-   "text": "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balasore-odisha-gangotree-social-organisation",
    "text": "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-biswanath-assam-indian-institute-technology-entrepreneur",
+   "text": "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kota-rajasthan-consumer-unity-trust-society",
@@ -1227,7 +1227,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-13T10:20:06Z",
+ "fetched_at": "2026-08-13T13:41:40Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1518,10 +1518,10 @@
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
    "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas": 0,
    "3rd August 2026": 0,
-   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)": 2,
+   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)": 3,
    "4th August 2026": 0,
    "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": 0,
-   "Faridabad, Haryana": 2,
+   "Faridabad, Haryana": 3,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": 0,
    "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.": 0,
    "Comments": 0,
@@ -1758,7 +1758,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 0,
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": 3,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 0,
@@ -1784,10 +1784,6 @@
   },
   "grave_lines": {
    "Panchmahal, Gujarat": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Programm at Mayiladuthurai (Tamil Nadu) by Tamil Nadu Consumer Protection & Environmental Research Centre (TNCPERC)": "2026-07-14T10:55:41Z",
-   "Mayiladuthurai, Tamil Nadu": "2026-07-14T10:55:41Z",
-   "Consumer Awareness Program at Distt-Bastar (Chhattisgarh) by SAMARPIT": "2026-07-14T10:55:41Z",
-   "Bastar, Chhattisgarh": "2026-07-14T10:55:41Z",
    "10 July, 2026": "2026-07-14T14:09:59Z",
    "Consumer Awareness Program at Distt-Sonbhadra(UP) by Consumer Guild": "2026-07-15T08:33:31Z",
    "Sonbhadra, Uttar Pradesh": "2026-07-15T08:33:31Z",
@@ -2021,8 +2017,6 @@
    "11 August, 2026": "2026-08-13T10:20:06Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayiladuthurai-tamil-nadu-tamil-nadu-consumer": "2026-07-14T10:55:41Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-bastar-chhattisgarh-samarpit": "2026-07-14T10:55:41Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild": "2026-07-15T08:33:31Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayurbhanja-odisha-vikash": "2026-07-16T08:31:04Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nadia-west-bengal-islampur-ramkrishnapally-rural-welfare": "2026-07-16T08:31:04Z",
