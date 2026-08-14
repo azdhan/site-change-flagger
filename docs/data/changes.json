@@ -1,5 +1,36 @@
 [
  {
+  "id": "47727d37ee74",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-14T04:58:19Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "आई. टी. यू. पीढ़ी के रूप में चुने गए तीन संचार मित्र 2026-2030 अवधि के लिए युवा राजदूतों को जोड़ते हैं"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8af63c1ad41e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-14T04:58:19Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Faridabad (Haryana) by Consumer Coordination Council (CCC)",
+   "Faridabad, Haryana"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "ff1132c87017",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
