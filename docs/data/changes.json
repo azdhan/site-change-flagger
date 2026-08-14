@@ -1,5 +1,51 @@
 [
  {
+  "id": "43a9e3f59eab",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-14T13:36:41Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "सी. सी. एस. (पेंशन) नियम 2021 और निर्देशों के अनुसार जनवरी 2027 से दिसंबर 2027 की अवधि के दौरान सेवानिवृत्ति पर सेवानिवृत्ति",
+   "14.08.2026 रेग दिनांकित आदेश। आई. टी. एस. जी. आर. के सीनियर टाइम स्केल (एस. टी. एस.) ग्रेड में पदोन्नति पर नियुक्ति। ए"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "bc77af0f4454",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-14T13:36:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "14 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "58afdd6db15e",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-14T13:36:41Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Major achievement of MeitY for the month of June 2026"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "6b6aa07b40cf",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
