@@ -107,7 +107,7 @@
   "श्री ज्योतिरादित्य एम. सिंधिया",
   "माननीय कैबिनेट मंत्री",
   "डॉ. पेम्मासानी चंद्र शेखर",
-  "राज्य के माननीय मंत्री",
+  "माननीय राज्य मंत्री",
   "प्रमुख प्रस्ताव",
   "योजनाएं और सेवाएँ",
   "रिक्तियां",
@@ -308,7 +308,7 @@
   },
   {
    "url": "https://dot.gov.in/ministry/our-team/details/Dr.%20Pemmasani%20Chandra%20Sekhar",
-   "text": "डॉ. पेम्मासानी चंद्र शेखर राज्य के माननीय मंत्री"
+   "text": "डॉ. पेम्मासानी चंद्र शेखर माननीय राज्य मंत्री"
   },
   {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa",
@@ -460,7 +460,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-14T07:47:09Z",
+ "fetched_at": "2026-08-14T10:14:42Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -733,7 +733,8 @@
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
    "भारत हैवी इलेक्ट्रिकल्स लिमिटेड में सी. वी. ओ. के रूप में श्री अरुण गुप्ता, आई. टी. एस. (कर्मचारी संख्या 21199) का चयन। (बी. एच. ई. एल.) भारी उद्योग मंत्रालय के तहत केंद्रीय कर्मचारी योजना 2026 के तहत प्रतिनियुक्ति के आधार पर": 0,
    "आई. टी. यू. पीढ़ी के रूप में चुने गए तीन संचार मित्र 2026-2030 अवधि के लिए युवा राजदूतों को जोड़ते हैं": 0,
-   "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
+   "माननीय राज्य मंत्री": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -823,8 +824,6 @@
    "Archives": "2026-08-01T10:46:42Z",
    "Key Offerings": "2026-07-31T16:54:51Z",
    "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026": "2026-07-31T16:54:51Z",
-   "Phones Priority (PHP) Telephone Advisory Committee (TACs)": "2026-07-15T08:33:31Z",
-   "Selection of Shri Sahil Garg, Junior Administrative Grade (JAG) officer of Indian Posts and Telecommunications Accounts and Finance Service (IP&TAFS), as Director (Finance), Delhi Development Authority (DDA) —regarding": "2026-07-15T08:33:31Z",
    "Ministry of Communications, Department of Telecommunications": "2026-08-11T22:00:30Z",
    "Government of India": "2026-07-15T19:34:23Z",
    "Across the entire ecosystem of mobile, telecommunications, electronics, and technology, wherever there are global challenges, India has the opportunity to provide solutions to the world.": "2026-08-11T22:00:30Z",
@@ -893,7 +892,6 @@
   "grave_links": {
    "https://www.dot.gov.in/static/uploads/2026/06/fa462f51662db3e2692a09d1a6e1bfc8.pdf": "2026-07-20T16:42:31Z",
    "https://www.dot.gov.in/static/uploads/2026/06/d44ff2aec0505d538d9f3d51eba88936.pdf": "2026-08-01T03:46:27Z",
-   "https://dot.gov.in/documents/orders-and-notices/phones-priorityphp-telephone-advisory-committeetacs-ETN0EzNtQWa?pageTitle=Phones-Priority-(PHP)-Telephone-Advisory-Committee-(TACs)": "2026-07-15T08:33:31Z",
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-year-2025-MTN3czNtQWa?pageTitle=Allotment-of-Shortcodes-year-2025": "2026-07-17T08:25:54Z",
    "https://www.dot.gov.in/static/uploads/2026/07/a2483483abfa23af8a1dce23df72a439.pdf": "2026-07-19T03:48:26Z",
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-year-2024-gDO3czNtQWa?pageTitle=Allotment-of-Shortcodes-year-2024": "2026-07-21T11:17:36Z",

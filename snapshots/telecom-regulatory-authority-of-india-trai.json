@@ -1228,7 +1228,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-14T07:47:09Z",
+ "fetched_at": "2026-08-14T10:14:42Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1510,7 +1510,7 @@
    "Consultation Papers": 0,
    "10:00 AM": 0,
    "Newsletter": 0,
-   "TRAI releases Telecom Subscription Data as on June 2026": 1,
+   "TRAI releases Telecom Subscription Data as on June 2026": 2,
    "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 0,
    "28th July 2026": 0,
    "10:30 AM": 0,
@@ -1548,7 +1548,7 @@
    "Balesore, Odisha": 0,
    "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation": 0,
    "Biswanath, Assam": 0,
-   "12 August, 2026": 5,
+   "12 August, 2026": 6,
    "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society": 0,
    "Kota, Rajasthan": 0,
    "14 August, 2026": 0,
@@ -1749,10 +1749,10 @@
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 0,
@@ -1787,9 +1787,6 @@
   },
   "grave_lines": {
    "Panchmahal, Gujarat": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Program at Distt-Sonbhadra(UP) by Consumer Guild": "2026-07-15T08:33:31Z",
-   "Sonbhadra, Uttar Pradesh": "2026-07-15T08:33:31Z",
-   "13 July, 2026": "2026-07-15T08:33:31Z",
    "Consumer Awareness Programm at Mayurbhanja ( Odisha) by VIKASH": "2026-07-16T08:31:04Z",
    "Mayurbhanja, Odisha": "2026-07-16T08:31:04Z",
    "Consumer Awareness Program at Nadia (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": "2026-07-16T08:31:04Z",
@@ -2021,7 +2018,6 @@
    "Faridabad, Haryana": "2026-08-14T04:58:19Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-sonbhadraup-consumer-guild": "2026-07-15T08:33:31Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mayurbhanja-odisha-vikash": "2026-07-16T08:31:04Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nadia-west-bengal-islampur-ramkrishnapally-rural-welfare": "2026-07-16T08:31:04Z",
    "https://www.trai.gov.in/consumer/events/consumer-outreach-programme-leh-ladakh-trai-regional-office-delhi": "2026-07-16T08:31:04Z",

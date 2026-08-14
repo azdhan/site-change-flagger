@@ -1,5 +1,35 @@
 [
  {
+  "id": "6b6aa07b40cf",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-14T10:14:42Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "माननीय राज्य मंत्री"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a09062abbece",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-14T10:14:42Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "मुख्य सचिवों और आपदा प्रबंधन विभागों से संवेदनशील क्षेत्रों में नए सामुदायिक रेडियो स्टेशनों को बढ़ावा देने का आग्रह किया गया; बाढ़, भूकंप और बिजली गिरने से प्रभावित स्टेशनों के लिए 11.50 लाख रुपये का आपातकालीन अनुदान उपलब्ध है"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "3afcee788447",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

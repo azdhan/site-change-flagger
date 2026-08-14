@@ -105,7 +105,7 @@
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
-  "प्रमुख प्रस्ताव",
+  "Key Offerings",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "arrow_forward_ios",
   "Electronics Component Manufacturing Scheme",
@@ -146,7 +146,7 @@
   "फीडबैक",
   "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 13.08.2026",
+  "अंतिम बार अद्यतन किया गयाः 14.08.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -266,6 +266,10 @@
    "text": "Parliament Questions"
   },
   {
+   "url": "https://youtube.com/live/bKjTRyMRd4g?feature=share",
+   "text": ""
+  },
+  {
    "url": "https://meity.gov.in/static/uploads/2026/04/5f8bd2d1ed4fafa1564f8768ba47e546.pdf",
    "text": ""
   },
@@ -355,7 +359,7 @@
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -407,7 +411,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-14T07:47:09Z",
+ "fetched_at": "2026-08-14T10:14:42Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -565,7 +569,7 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 7,
+   "Key Offerings": 0,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
@@ -586,7 +590,7 @@
    "हमारी टीम": 0,
    "आईटी पेशेवरों के लिए": 0,
    "अंतिम बार अद्यतन किया गयाः 14.07.2026": 0,
-   "Major achievement of MeitY for the month of June 2026": 6,
+   "Major achievement of MeitY for the month of June 2026": 7,
    "अंतिम बार अद्यतन किया गयाः 16.07.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 17.07.2026": 0,
    "अगली पीढ़ी के इलेक्ट्रॉनिक्स, संचार और संवेदी प्रौद्योगिकी पर अनुदान चुनौतियों के लिए प्रस्तावों का आह्वान करें": 0,
@@ -613,15 +617,16 @@
    "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY": 0,
    "सॉफ्टवेयर उद्योग संवर्धन प्रभाग (एस. आई. पी. डी.), एम. ई. आई. टी. वाई. द्वारा उद्यमिता केंद्र (सी. ओ. ई.) की स्थापना के लिए रूपरेखा और दिशानिर्देश": 0,
    "अंतिम बार अद्यतन किया गयाः 10.08.2026": 0,
-   "For Media": 6,
-   "Ministry of Electronics and Information Technology": 6,
-   "For Researcher": 6,
+   "For Media": 7,
+   "Ministry of Electronics and Information Technology": 7,
+   "For Researcher": 7,
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
-   "For Business Owner": 6,
+   "For Business Owner": 7,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
-   "For IT Professional": 6,
+   "For IT Professional": 7,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 0
+   "Monthly Achievements for the month of July, 2026": 0,
+   "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -681,17 +686,18 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": 6,
+   "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": 7,
    "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies": 0,
    "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 0,
    "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 0,
    "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf": 0,
    "https://meity.gov.in/ministry/directory-2": 0,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 6,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 6,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 6,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 6,
-   "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 0
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 7,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 7,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 7,
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 7,
+   "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 0,
+   "https://youtube.com/live/bKjTRyMRd4g?feature=share": 0
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-08-07T13:34:35Z",
@@ -714,7 +720,6 @@
    "Explore What's new": "2026-08-01T03:46:27Z",
    "Section 69A of IT Act": "2026-07-18T10:37:52Z",
    "Archive - Delegation of Powers": "2026-08-13T21:59:19Z",
-   "Major achievement of MeitY for the month of May 2026": "2026-07-15T08:33:31Z",
    "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": "2026-08-13T21:59:19Z",
    "Loading...": "2026-07-21T14:18:31Z",
    "Delegation of Powers dtd. 16-07-2026": "2026-08-13T21:59:19Z",
@@ -736,7 +741,6 @@
    "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": "2026-08-07T13:34:35Z",
    "https://meity.gov.in/persona/researcher-wNwIDOtQWa": "2026-08-07T13:34:35Z",
    "https://meity.gov.in/documents/archive-delegation-of-powers-kjM2gjMtQWa?pageTitle=Archive---Delegation-of-Powers": "2026-08-13T21:59:19Z",
-   "https://www.meity.gov.in/static/uploads/2026/06/93feeb02a7a57c3519ad1010e199f24e.pdf": "2026-07-15T08:33:31Z",
    "https://hackathon2026.tcoe.in/": "2026-08-02T03:48:48Z",
    "https://innovateindia.mygov.in/cyber-security-grand-challenge/": "2026-08-05T19:51:08Z",
    "https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154788&ModuleId=3": "2026-08-06T08:51:02Z",
