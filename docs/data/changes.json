@@ -1,5 +1,45 @@
 [
  {
+  "id": "3afcee788447",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-14T07:47:09Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 14.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "add38752e1ad",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-14T07:47:09Z",
+  "summary": "2 new links, 2 new text blocks",
+  "added_lines": [
+   "14th August 2026",
+   "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas."
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and",
+    "text": "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "47727d37ee74",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
