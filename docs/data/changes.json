@@ -1,5 +1,22 @@
 [
  {
+  "id": "ff1132c87017",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-14T02:42:09Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "रचनात्मक अर्थव्यवस्था के लिए प्रमुख अंतरराष्ट्रीय मार्केटप्‍लेस 'ब्रिक्स वेव्स बाज़ार' ने मुंबई में ब्रिक्स सदस्य और भागीदार देशों के 500 से अधिक प्रतिनिधियों को एकत्रित किया",
+   "सूचना प्रौद्योगिकी नियमावली, 2021 में शराब और तंबाकू सामग्री के लिए वर्गीकरण का प्रावधान, आचार संहिता की शिकायतों का निवारण करती है तीन स्तरीय प्रणाली",
+   "12 अगस्त 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "8b542f6cb823",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
