@@ -145,6 +145,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -387,6 +388,30 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/p/DaPTbq-keC6/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DaR0oBPOng_/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://dot.gov.in/archives?page=tenders",
    "text": "अभिलेखागार"
   },
@@ -436,7 +461,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-15T09:36:37Z",
+ "fetched_at": "2026-08-15T12:56:21Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -767,12 +792,12 @@
    "https://eservices.dot.gov.in/about-mtcte": 0,
    "https://eservices.dot.gov.in/right-of-way-permissions": 0,
    "https://dot.gov.in/important-links": 0,
-   "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/p/DaPTbq-keC6/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/reel/DaR0oBPOng_/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/p/DaPTbq-keC6/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DaR0oBPOng_/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://dot.gov.in/archives?page=tenders": 0,
    "https://dot.gov.in/policies": 0,
    "https://dot.gov.in/RelatedLinks": 0,
@@ -804,7 +829,6 @@
    "G.S.R. 468(E): Use of Short-Range Automotive Radar System in the 77-81 GHz band (Exemption from Licensing Requirements) Rules, 2026": "2026-07-31T16:54:51Z",
    "Ministry of Communications, Department of Telecommunications": "2026-08-11T22:00:30Z",
    "Across the entire ecosystem of mobile, telecommunications, electronics, and technology, wherever there are global challenges, India has the opportunity to provide solutions to the world.": "2026-08-11T22:00:30Z",
-   "Addendum to the Signed Agreement between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Gujarat, GFGNL and BSNL to strengthen broadband infrastructure across the state": "2026-07-16T11:09:59Z",
    "Department of Telecommunications signs MoU with Telecommunications Standards Development Society India (TSDSI)": "2026-07-16T14:18:14Z",
    "Allotment of Shortcodes year 2025": "2026-07-17T08:25:54Z",
    "Two Days Training Programme on 'MoDSI' and 'Guidelines on Information Security Practices for Government Entities' by NCA-T from 16.07.2026 to 17.07.2026": "2026-07-18T19:21:10Z",
