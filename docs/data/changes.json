@@ -1,5 +1,26 @@
 [
  {
+  "id": "636ba0ea59fc",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-16T06:56:45Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at West Singhbhum (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
+   "West Singhbhum, Jharkhand"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-west-singhbhum-jharkhand-pragati-educational-academy",
+    "text": "Consumer Awareness Program at West Singhbhum (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "8912ff98ed3f",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
