@@ -1,5 +1,62 @@
 [
  {
+  "id": "78d88b69f3bf",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-17T07:13:44Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 17.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "0f6970f76545",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-17T07:13:44Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Jalpaiguri (West Bengal) by Hemnagar Sundarban Dream",
+   "Jalpaiguri, West Bengal"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalpaiguri-west-bengal-hemnagar-sundarban-dream",
+    "text": "Consumer Awareness Program at Jalpaiguri (West Bengal) by Hemnagar Sundarban Dream"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "60804e65ef5e",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-17T07:13:44Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "सरकार ने टेलीविजन चैनलों के लिए 12 मिनट की विज्ञापन समय-सीमा समाप्त की",
+   "17 अगस्त 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299641&reg=3&lang=2",
+    "text": "सरकार ने टेलीविजन चैनलों के लिए 12 मिनट की विज्ञापन समय-सीमा समाप्त की"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "a8ed0e816ddb",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
