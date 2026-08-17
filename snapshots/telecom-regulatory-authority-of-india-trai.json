@@ -214,20 +214,20 @@
   "10:30 AM",
   "Location :",
   "Pakur, Jharkhand",
-  "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)",
-  "11:00 AM",
-  "Gopalganj , Bihar",
   "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
+  "11:00 AM",
   "Jalaun, Uttar Pradesh",
+  "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)",
+  "Gopalganj , Bihar",
   "Consumer Awareness Program at Kumuram Bheem (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
   "10:00 AM",
   "Kumuram Bheem, Telangana",
   "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad",
   "Tiruvallur, Tamil Nadu",
-  "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
-  "Biswanath, Assam",
   "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation",
   "Balesore, Odisha",
+  "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
+  "Biswanath, Assam",
   "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society",
   "Kota, Rajasthan",
   "Consumer Awareness Program at West Singhbhum (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
@@ -319,7 +319,7 @@
   "S. Ganesh - Dy. Advisor (IT)",
   "Website Content Owned and Managed by Telecom Regulatory Authority of India, GOI Designed & Developed by TRAI",
   "Copyright © 2024 TRAI. All rights reserved",
-  "14 August, 2026"
+  "17 August, 2026"
  ],
  "links": [
   {
@@ -991,12 +991,12 @@
    "text": "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gopalganj-bihar-indian-institute-technology-entrepreneur",
-   "text": "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalaun-uttar-pradesh-upbhokta-sanrakchhan-kalyan-samiti",
    "text": "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gopalganj-bihar-indian-institute-technology-entrepreneur",
+   "text": "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kumuram-bheem-telangana-society-health-and-agriculture",
@@ -1007,12 +1007,12 @@
    "text": "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-biswanath-assam-indian-institute-technology-entrepreneur",
-   "text": "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balasore-odisha-gangotree-social-organisation",
    "text": "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-biswanath-assam-indian-institute-technology-entrepreneur",
+   "text": "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kota-rajasthan-consumer-unity-trust-society",
@@ -1224,7 +1224,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-17T07:13:44Z",
+ "fetched_at": "2026-08-17T09:54:17Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1507,7 +1507,7 @@
    "10:00 AM": 0,
    "Newsletter": 0,
    "TRAI releases Telecom Subscription Data as on June 2026": 0,
-   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 1,
+   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 2,
    "28th July 2026": 0,
    "10:30 AM": 0,
    "31st July 2026": 0,
@@ -1526,9 +1526,9 @@
    "5th August 2026": 0,
    "10th August 2026": 0,
    "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.": 0,
-   "Bathinda, Punjab": 1,
+   "Bathinda, Punjab": 2,
    "Pakur, Jharkhand": 0,
-   "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)": 1,
+   "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)": 2,
    "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori": 0,
    "Tiruvallur, Tamil Nadu": 0,
    "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad": 0,
@@ -1544,13 +1544,14 @@
    "Biswanath, Assam": 0,
    "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society": 0,
    "Kota, Rajasthan": 0,
-   "14 August, 2026": 0,
+   "14 August, 2026": 1,
    "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas.": 0,
    "14th August 2026": 0,
    "West Singhbhum, Jharkhand": 0,
    "Consumer Awareness Program at West Singhbhum (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY": 0,
    "Consumer Awareness Program at Jalpaiguri (West Bengal) by Hemnagar Sundarban Dream": 0,
-   "Jalpaiguri, West Bengal": 0
+   "Jalpaiguri, West Bengal": 0,
+   "17 August, 2026": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1747,8 +1748,8 @@
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
@@ -1768,8 +1769,8 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
-   "https://harghartiranga.com/": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur": 1,
+   "https://harghartiranga.com/": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pakur-jharkhand-mahila-kalyan-smiti-dhori": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalaun-uttar-pradesh-upbhokta-sanrakchhan-kalyan-samiti": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kumuram-bheem-telangana-society-health-and-agriculture": 0,
