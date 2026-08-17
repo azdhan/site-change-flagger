@@ -1,5 +1,20 @@
 [
  {
+  "id": "4349ae8d9b40",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-17T18:55:25Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies. Last date to apply : 31.07.2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "ce2909ba8bc1",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
