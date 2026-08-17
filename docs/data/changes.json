@@ -1,5 +1,21 @@
 [
  {
+  "id": "a8ed0e816ddb",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-17T03:58:53Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "jangam , Telangana",
+   "Consumer Awareness Program at Jangaon (Telangana) by Sri Dharani Voluntary Organisation"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d7d08fcd843d",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
