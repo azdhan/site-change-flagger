@@ -1,5 +1,32 @@
 [
  {
+  "id": "ee24ffd4978a",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-17T13:03:44Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh",
+   "02:00 PM",
+   "Consumer Awareness Program at Latur (Maharashtra) by Patil Foundation, Pune, Maharashtra",
+   "Latur, Maharashtra"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-citizens-awarness-group-chandigarh",
+    "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-latur-maharashtra-patil-foundation-pune-maharashtra",
+    "text": "Consumer Awareness Program at Latur (Maharashtra) by Patil Foundation, Pune, Maharashtra"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "db8bc077e475",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
