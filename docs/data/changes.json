@@ -1,5 +1,25 @@
 [
  {
+  "id": "ce2909ba8bc1",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-17T15:36:26Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 17.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://meity.gov.in/static/uploads/2026/08/76b66d4289eeb4d9e05558d98127979d.pdf",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "ee24ffd4978a",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
