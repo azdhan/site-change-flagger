@@ -1,5 +1,34 @@
 [
  {
+  "id": "880c2d968581",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-18T09:46:02Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "eae6c89b1430",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-18T09:46:02Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "ब्रिक्‍स वेब्‍स बाजार 2026 का समापन नई अंतर्राष्ट्रीय साझेदारियों और सहयोग के साथ हुआ",
+   "16 अगस्त 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "c0cc98ac7d3e",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
