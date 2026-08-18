@@ -1,5 +1,50 @@
 [
  {
+  "id": "95a601a76c91",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-18T13:05:14Z",
+  "summary": "6 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 6,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "91592c020b98",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-18T13:05:14Z",
+  "summary": "1 new text block, 1 item no longer on page",
+  "added_lines": [
+   "18 August, 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "14 August, 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "3e3a282cd2b5",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-18T13:05:14Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "18 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "880c2d968581",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
