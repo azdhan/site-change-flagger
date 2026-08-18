@@ -1,5 +1,56 @@
 [
  {
+  "id": "c0cc98ac7d3e",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-18T07:48:35Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 18.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "1494050bb7e1",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-18T07:48:35Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Women Consumer Protection Association",
+   "Thenkasi , Tamil Nadu"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-women-consumer-protection-association",
+    "text": "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Women Consumer Protection Association"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "2a19f235d5e4",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-18T07:48:35Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 18.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "4349ae8d9b40",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
