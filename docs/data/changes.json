@@ -1,5 +1,80 @@
 [
  {
+  "id": "c81720aea68f",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-19T13:03:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 19.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "92e5e571ab09",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-19T13:03:41Z",
+  "summary": "5 new links, 10 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN",
+   "Keonjhar , Odisha",
+   "Kendujhar, Odisha",
+   "Consumer Awareness Program at Coimbatore (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)",
+   "Coimbatore, Tamil Nadu",
+   "Consumer Awareness Program at Jhalawar (Rajasthan) by PMRY Club",
+   "Jhalawar, Rajasthan",
+   "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation",
+   "Ayodhya, Uttar Pradesh",
+   "19 August, 2026"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan",
+    "text": "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan-0",
+    "text": "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-coimbatore-tamil-nadu-tamilnadu-consumer-protection-and",
+    "text": "Consumer Awareness Program at Coimbatore (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhalawar-rajasthan-pmry-club",
+    "text": "Consumer Awareness Program at Jhalawar (Rajasthan) by PMRY Club"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation",
+    "text": "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "378ee35a7fc9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-19T13:03:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "19 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "88cf895075d5",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
