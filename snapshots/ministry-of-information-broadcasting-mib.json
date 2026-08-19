@@ -613,7 +613,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-19T01:50:39Z",
+ "fetched_at": "2026-08-19T03:56:01Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -786,7 +786,7 @@
    "242.77 किलोबाइट |": 0,
    "परामर्श": 0,
    "सरकार ने टेलीविजन चैनलों के लिए 12 मिनट की विज्ञापन समय-सीमा समाप्त की": 0,
-   "17 अगस्त 2026": 5,
+   "17 अगस्त 2026": 6,
    "18 अगस्त 2026": 0
   },
   "links": {
@@ -900,14 +900,14 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298189&reg=3&lang=1": 0,
    "https://mib.gov.in/sites/default/files/2026-08/savatantarataa-daivasa.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299641&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/help": 2,
-   "https://mib.gov.in/index.php/hi/related-link": 2,
-   "https://mib.gov.in/index.php/hi/feedback": 2,
-   "https://mib.gov.in/index.php/hi/website-policy": 2,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 2,
-   "https://mib.gov.in/index.php/hi/sitemap": 2,
-   "https://mib.gov.in/index.php/hi/archives": 2,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 2
+   "https://mib.gov.in/index.php/hi/help": 3,
+   "https://mib.gov.in/index.php/hi/related-link": 3,
+   "https://mib.gov.in/index.php/hi/feedback": 3,
+   "https://mib.gov.in/index.php/hi/website-policy": 3,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 3,
+   "https://mib.gov.in/index.php/hi/sitemap": 3,
+   "https://mib.gov.in/index.php/hi/archives": 3,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 3
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",

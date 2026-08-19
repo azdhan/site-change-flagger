@@ -1,5 +1,25 @@
 [
  {
+  "id": "88cf895075d5",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-19T03:56:01Z",
+  "summary": "9 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Pakur, Jharkhand",
+   "Consumer Awareness Program at Pakur (Jharkhand) by Mahila Kalyan Smiti Dhori",
+   "Gopalganj , Bihar",
+   "Jalaun, Uttar Pradesh",
+   "Consumer Awareness Program at Jalaun (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
+   "Consumer Awareness Program at Gopalganj (Bihar) by Indian Institute of Technology & Entrepreneur Development (IITED)"
+  ],
+  "removed_lines_total": 9,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "95a601a76c91",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
