@@ -122,6 +122,13 @@
   "नया क्या है",
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
+  "हाल के दस्तावेज़",
+  "प्रेस विज्ञप्ति",
+  "12वीं ब्रिकस संचार मंत्रियों की बैठक 21 अगस्त, 2026 को होगी",
+  "आदेश और सूचनाएँ",
+  "31.07.2026 पर यू. एल. लाइसेंसों की सूची",
+  "दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 861: आई. एस. पी. को डी. ओ. टी. के निर्देश 20.08.2026",
+  "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री अतुल कुमार सिंह, स्टाफ नं। 20962",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -138,6 +145,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -336,6 +344,10 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-861-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-20.08.2026-to-ISPs",
+   "text": "आदेश और सूचनाएँ दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 861: आई. एस. पी. को डी. ओ. टी. के निर्देश 20.08.2026"
+  },
+  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -441,7 +453,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-20T18:56:07Z",
+ "fetched_at": "2026-08-20T21:39:34Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -728,7 +740,7 @@
    "31.07.2026 पर यू. एल. लाइसेंसों की सूची": 0,
    "दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 861: आई. एस. पी. को डी. ओ. टी. के निर्देश 20.08.2026": 0,
    "12वीं ब्रिकस संचार मंत्रियों की बैठक 21 अगस्त, 2026 को होगी": 0,
-   "Revenue Management Services": 0
+   "Revenue Management Services": 1
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -801,8 +813,8 @@
    "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-657-of-2026-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs": 3,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-861-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-20.08.2026-to-ISPs": 1
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-657-of-2026-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs": 4,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-861-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-20.08.2026-to-ISPs": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-31T16:54:51Z",
