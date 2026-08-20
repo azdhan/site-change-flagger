@@ -194,28 +194,28 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
-  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
+  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "31st July 2026",
   "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem",
   "28th July 2026",
-  "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.",
+  "TRAI releases Telecom Subscription Data as on June 2026",
   "On-going Consultation",
   "Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "Comments",
   "Counter Comments",
   "Events",
-  "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society",
+  "Consumer Awareness Program at Latur (Maharashtra) by Patil Foundation, Pune, Maharashtra",
   "Date :",
   "Time :",
   "10:00 AM",
   "Location :",
-  "Kota, Rajasthan",
-  "Consumer Awareness Program at Latur (Maharashtra) by Patil Foundation, Pune, Maharashtra",
   "Latur, Maharashtra",
+  "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society",
+  "Kota, Rajasthan",
   "Consumer Awareness Program at West Singhbhum (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
   "11:00 AM",
   "West Singhbhum, Jharkhand",
@@ -224,12 +224,12 @@
   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Women Consumer Protection Association",
   "Thenkasi , Tamil Nadu",
   "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN",
+  "Keonjhar , Odisha",
   "Kendujhar, Odisha",
   "Consumer Awareness Program at Coimbatore (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)",
   "Coimbatore, Tamil Nadu",
   "Consumer Awareness Program at Jhalawar (Rajasthan) by PMRY Club",
   "Jhalawar, Rajasthan",
-  "Keonjhar , Odisha",
   "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation",
   "12:00 PM",
   "Ayodhya, Uttar Pradesh",
@@ -918,14 +918,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
    "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
   },
@@ -939,6 +931,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
+   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "Explore"
   },
   {
@@ -966,11 +966,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
-   "text": "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
+   "text": "TRAI releases Telecom Subscription Data as on June 2026"
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
    "text": "Explore"
   },
   {
@@ -986,12 +986,12 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kota-rajasthan-consumer-unity-trust-society",
-   "text": "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-latur-maharashtra-patil-foundation-pune-maharashtra",
    "text": "Consumer Awareness Program at Latur (Maharashtra) by Patil Foundation, Pune, Maharashtra"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kota-rajasthan-consumer-unity-trust-society",
+   "text": "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-west-singhbhum-jharkhand-pragati-educational-academy",
@@ -1006,6 +1006,10 @@
    "text": "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Women Consumer Protection Association"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan",
+   "text": "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN"
+  },
+  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan-0",
    "text": "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN"
   },
@@ -1016,10 +1020,6 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhalawar-rajasthan-pmry-club",
    "text": "Consumer Awareness Program at Jhalawar (Rajasthan) by PMRY Club"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan",
-   "text": "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation",
@@ -1223,7 +1223,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-19T21:36:51Z",
+ "fetched_at": "2026-08-20T01:49:01Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1505,10 +1505,10 @@
    "Consultation Papers": 0,
    "10:00 AM": 0,
    "Newsletter": 0,
-   "TRAI releases Telecom Subscription Data as on June 2026": 1,
-   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 0,
+   "TRAI releases Telecom Subscription Data as on June 2026": 0,
+   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 1,
    "28th July 2026": 0,
-   "10:30 AM": 4,
+   "10:30 AM": 5,
    "31st July 2026": 0,
    "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
@@ -1525,14 +1525,14 @@
    "5th August 2026": 0,
    "10th August 2026": 0,
    "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.": 0,
-   "Tiruvallur, Tamil Nadu": 4,
-   "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad": 4,
-   "Consumer Awareness Program at Kumuram Bheem (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 4,
-   "Kumuram Bheem, Telangana": 4,
-   "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)": 4,
-   "Balesore, Odisha": 4,
-   "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation": 4,
-   "Biswanath, Assam": 4,
+   "Tiruvallur, Tamil Nadu": 5,
+   "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad": 5,
+   "Consumer Awareness Program at Kumuram Bheem (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 5,
+   "Kumuram Bheem, Telangana": 5,
+   "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)": 5,
+   "Balesore, Odisha": 5,
+   "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation": 5,
+   "Biswanath, Assam": 5,
    "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society": 0,
    "Kota, Rajasthan": 0,
    "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas.": 0,
@@ -1541,14 +1541,14 @@
    "Consumer Awareness Program at West Singhbhum (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY": 0,
    "Consumer Awareness Program at Jalpaiguri (West Bengal) by Hemnagar Sundarban Dream": 0,
    "Jalpaiguri, West Bengal": 0,
-   "02:00 PM": 4,
-   "Chandigarh, Chandigarh": 4,
-   "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh": 4,
+   "02:00 PM": 5,
+   "Chandigarh, Chandigarh": 5,
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh": 5,
    "Consumer Awareness Program at Latur (Maharashtra) by Patil Foundation, Pune, Maharashtra": 0,
    "Latur, Maharashtra": 0,
    "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Women Consumer Protection Association": 0,
    "Thenkasi , Tamil Nadu": 0,
-   "18 August, 2026": 4,
+   "18 August, 2026": 5,
    "Keonjhar , Odisha": 0,
    "19 August, 2026": 0,
    "12:00 PM": 0,
@@ -1755,10 +1755,10 @@
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 1,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 0,
@@ -1777,17 +1777,17 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kumuram-bheem-telangana-society-health-and-agriculture": 4,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-tiruvallur-tamil-nadu-ro-hyderabad": 4,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-biswanath-assam-indian-institute-technology-entrepreneur": 4,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balasore-odisha-gangotree-social-organisation": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kumuram-bheem-telangana-society-health-and-agriculture": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-tiruvallur-tamil-nadu-ro-hyderabad": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-biswanath-assam-indian-institute-technology-entrepreneur": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balasore-odisha-gangotree-social-organisation": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kota-rajasthan-consumer-unity-trust-society": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-west-singhbhum-jharkhand-pragati-educational-academy": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalpaiguri-west-bengal-hemnagar-sundarban-dream": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-latur-maharashtra-patil-foundation-pune-maharashtra": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-citizens-awarness-group-chandigarh": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-citizens-awarness-group-chandigarh": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-women-consumer-protection-association": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-coimbatore-tamil-nadu-tamilnadu-consumer-protection-and": 0,
@@ -1796,26 +1796,12 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation": 0
   },
   "grave_lines": {
-   "Panchmahal, Gujarat": "2026-07-20T22:12:10Z",
    "01:00 PM": "2026-08-08T09:51:23Z",
    "10:30 AM": "2026-07-29T08:53:39Z",
    "Consumer Awareness Programm at Karur ( Tamil Nadu) by TAMILNADU CONSUMER FEDERATION": "2026-07-23T08:43:32Z",
    "Karur, Tamil Nadu": "2026-07-23T11:19:05Z",
    "11:30 AM": "2026-08-02T08:35:41Z",
    "New Delhi, Delhi": "2026-07-30T08:46:17Z",
-   "Bageshwar, Uttarakhand": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Program at Distt-Almora (Uttarakhand) by PMRY Club-Pauri Garhwal": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Program at Distt-Pithoragah (Uttarakhand) by IITED-Dehradun": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Program at Bageshwar(Uttarakhand) by RSVS, Haridwar": "2026-07-20T22:12:10Z",
-   "Pithoragarh, Uttarakhand": "2026-07-20T22:12:10Z",
-   "Almora, Uttarakhand": "2026-07-20T22:12:10Z",
-   "Etah, Uttar Pradesh": "2026-07-20T22:12:10Z",
-   "Fazilka, Punjab": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Program at Fazilka (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Program at Etah (UP) by RSVS": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Program at Panchmahal (Gujarat) by Jhalod Taluka Grahak Surksha Mandal": "2026-07-20T22:12:10Z",
-   "Consumer Awareness Program at Porbandar (Gujarat) by Consumer Protection Association": "2026-07-20T22:12:10Z",
-   "Porbandar, Gujarat": "2026-07-20T22:12:10Z",
    "TRAI Assesses Mobile Network Quality across Bharuch city and nearby areas (in Gujarat LSA)": "2026-07-21T11:17:36Z",
    "Malvan, Maharashtra": "2026-07-21T11:17:36Z",
    "Consumer Awareness Program at Malvan (Maharashtra) by Patil Foundation": "2026-07-21T11:17:36Z",
@@ -2014,13 +2000,6 @@
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-karur-tamil-nadu-tamilnadu-consumer-federation": "2026-07-23T08:43:32Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-almora-uttarakhand-pmry-club-pauri-garhwal": "2026-07-20T22:12:10Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bageshwaruttarakhand-rsvs-haridwar": "2026-07-20T22:12:10Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-pithoragah-uttarakhand-iited-dehradun": "2026-07-20T22:12:10Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-etah-rsvs": "2026-07-20T22:12:10Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-fazilka-punjab-indian-institute-technology-entrepreneur": "2026-07-20T22:12:10Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-panchmahal-gujarat-jhalod-taluka-grahak-surksha-mandal": "2026-07-20T22:12:10Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-porbandar-gujarat-consumer-protection-association": "2026-07-20T22:12:10Z",
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bharuch-city-and-nearby": "2026-07-21T11:17:36Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bharuch-city-and-nearby": "2026-07-21T11:17:36Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-malvan-maharashtra-patil-foundation": "2026-07-21T11:17:36Z",
