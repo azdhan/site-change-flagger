@@ -123,6 +123,10 @@
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
+  "मीडिया के लिए",
+  "For Industry Professional",
+  "For Researcher",
+  "For IT Professional",
   "महत्वपूर्ण लिंक",
   "एम. टी. सी. टी. ई. पोर्टल",
   "खोदने से पहले कॉल करें",
@@ -333,6 +337,22 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
+   "text": "मीडिया के लिए"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
+   "text": "For Industry Professional"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa",
+   "text": "For Researcher"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa",
+   "text": "For IT Professional"
+  },
+  {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
    "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
   },
@@ -422,7 +442,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-20T01:49:01Z",
+ "fetched_at": "2026-08-20T03:55:45Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -558,9 +578,9 @@
    "डीओटी द्वारा एआई समाधान मानचित्रण शिखर सम्मेलन के लिए इंडियाएआई मिशन और इंडियाएआई प्रभाव का लाभ उठाना": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "मीडिया के लिए": 0,
-   "For Industry Professional": 1,
-   "For Researcher": 1,
-   "For IT Professional": 1,
+   "For Industry Professional": 0,
+   "For Researcher": 0,
+   "For IT Professional": 0,
    "महत्वपूर्ण लिंक": 0,
    "खोदने से पहले कॉल करें": 0,
    "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल": 0,
@@ -746,10 +766,10 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 0,
    "https://dot.gov.in/whats-new": 0,
-   "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 1,
-   "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 1,
-   "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 1,
-   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 1,
+   "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
+   "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
+   "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 0,
+   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 0,
    "https://eservices.dot.gov.in": 0,
    "https://eservices.dot.gov.in/call-before-u-dig": 0,
    "https://eservices.dot.gov.in/app-provider": 0,
