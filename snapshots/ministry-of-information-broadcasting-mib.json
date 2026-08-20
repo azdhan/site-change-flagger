@@ -168,7 +168,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "19 अगस्त 2026"
+  "20 अगस्त 2026"
  ],
  "links": [
   {
@@ -613,7 +613,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-20T13:08:48Z",
+ "fetched_at": "2026-08-20T15:46:36Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -786,7 +786,8 @@
    "242.77 किलोबाइट |": 0,
    "परामर्श": 0,
    "सरकार ने टेलीविजन चैनलों के लिए 12 मिनट की विज्ञापन समय-सीमा समाप्त की": 0,
-   "19 अगस्त 2026": 0
+   "19 अगस्त 2026": 1,
+   "20 अगस्त 2026": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -899,21 +900,17 @@
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298189&reg=3&lang=1": 0,
    "https://mib.gov.in/sites/default/files/2026-08/savatantarataa-daivasa.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299641&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/help": 5,
-   "https://mib.gov.in/index.php/hi/related-link": 5,
-   "https://mib.gov.in/index.php/hi/feedback": 5,
-   "https://mib.gov.in/index.php/hi/website-policy": 5,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 5,
-   "https://mib.gov.in/index.php/hi/sitemap": 5,
-   "https://mib.gov.in/index.php/hi/archives": 5,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 5
+   "https://mib.gov.in/index.php/hi/help": 6,
+   "https://mib.gov.in/index.php/hi/related-link": 6,
+   "https://mib.gov.in/index.php/hi/feedback": 6,
+   "https://mib.gov.in/index.php/hi/website-policy": 6,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 6,
+   "https://mib.gov.in/index.php/hi/sitemap": 6,
+   "https://mib.gov.in/index.php/hi/archives": 6,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 6
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
-   "8.32 मेगा बाइट |": "2026-07-21T14:18:31Z",
-   "मन की बात मई 2026": "2026-07-21T14:18:31Z",
-   "एनएफडीसी-एनएफएआई के अभिलेखीय संरक्षण से मलयालम क्लासिक फिल्म \"किरीदम\" 4के वर्जन में बड़े पर्दे पर वापस आई": "2026-07-21T14:18:31Z",
-   "17 जुलाई 2026": "2026-07-21T14:18:31Z",
    "4.26 मेगा बाइट |": "2026-07-22T14:19:35Z",
    "प्रकाशन विभाग में क्लर्क ग्रेड-II के पद के लिए भर्ती नियमों (आर.आर.) में संशोधन…": "2026-07-22T14:19:35Z",
    "20 जुलाई 2026": "2026-07-22T14:19:35Z",
@@ -979,8 +976,6 @@
    "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-08-17T01:52:52Z",
    "https://mib.gov.in/index.php/hi/archives": "2026-08-17T01:52:52Z",
    "https://mib.gov.in/index.php/hi/help": "2026-08-17T01:52:52Z",
-   "https://mib.gov.in/sites/default/files/2026-07/mann-ki-baat-hindi-may-2026-single-sepreater_compressed_0.pdf": "2026-07-21T14:18:31Z",
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282837&reg=3&lang=2": "2026-07-21T14:18:31Z",
    "https://mib.gov.in/sites/default/files/2025-12/amendment-of-recruitment-rules.pdf": "2026-07-22T14:19:35Z",
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284251&reg=3&lang=2": "2026-07-23T14:27:59Z",
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2284748&reg=3&lang=2": "2026-07-24T08:39:48Z",
