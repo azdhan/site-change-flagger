@@ -1,5 +1,63 @@
 [
  {
+  "id": "936b1f6ff75f",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-20T07:02:44Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री अतुल कुमार सिंह, स्टाफ नं। 20962",
+   "डिजिटल सार्वजनिक अवसंरचना और डिजिटल गवर्नेंस पर रणनीतिक फोकस के साथ पुणे में 7वीं ब्रिकस आईसीटी कार्य समूह की बैठक जारी",
+   "छत्तीसगढ़ में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए डिजिटल भारत निधि (डी. बी. एन.)-दूरसंचार विभाग; छत्तीसगढ़ सरकार; सी. एस. बी. आई. एल.; बी. एस. एन. एल. और चिप्स के बीच समझौते पर हस्ताक्षर किए गए",
+   "अंतिम बार अद्यतन किया गयाः 20.08.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "47631b22099b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-20T07:02:44Z",
+  "summary": "4 new links, 9 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Aravalli (Gujarat) by Consumer Protection Association",
+   "Aravalli, Gujarat",
+   "Consumer Awareness Program at Rudraprayag (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan",
+   "Rudraprayag, Uttarakhand",
+   "Consumer Awareness Program at Banswara (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan",
+   "Banswara , Rajasthan",
+   "Consumer Awareness Program at Dhanbad (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
+   "Dhanbad , Jharkhand",
+   "20 August, 2026"
+  ],
+  "added_lines_total": 9,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aravalli-gujarat-consumer-protection-association",
+    "text": "Consumer Awareness Program at Aravalli (Gujarat) by Consumer Protection Association"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rudraprayag-uttarakhand-rastriya-samuddeshiya-vikas",
+    "text": "Consumer Awareness Program at Rudraprayag (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banswara-rajasthan-indian-institute-technology",
+    "text": "Consumer Awareness Program at Banswara (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dhanbad-jharkhand-indian-institute-technology",
+    "text": "Consumer Awareness Program at Dhanbad (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED)"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
   "id": "c175bbe93eed",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
