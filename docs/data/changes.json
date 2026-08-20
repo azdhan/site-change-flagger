@@ -1,5 +1,44 @@
 [
  {
+  "id": "0aeb623d11ca",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-20T09:48:00Z",
+  "summary": "16 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Tiruvallur, Tamil Nadu",
+   "Consumer Outreach Program at Tiruvallur (Tamil Nadu) by RO Hyderabad",
+   "Consumer Awareness Program at Kumuram Bheem (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
+   "Kumuram Bheem, Telangana",
+   "Consumer Awareness Program at Biswanath (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
+   "Balesore, Odisha",
+   "Consumer Awareness Program at Balasore (Odisha) by Gangotree Social Organisation",
+   "Biswanath, Assam",
+   "02:00 PM",
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh"
+  ],
+  "removed_lines_total": 16,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c34dc818ec09",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-20T09:48:00Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "18 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "936b1f6ff75f",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
