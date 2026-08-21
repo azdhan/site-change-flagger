@@ -123,12 +123,12 @@
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
+  "प्रेस विज्ञप्ति",
+  "भारत और ब्राजील ने दूरसंचार और आई. सी. टी. में द्विपक्षीय सहयोग को मजबूत करने के लिए समझौता ज्ञापन पर हस्ताक्षर किए",
   "आदेश और सूचनाएँ",
   "लोअर डिवीजन क्लर्क से डीओटी-रेग के जूनियर एकाउंटेंट के रूप में पदोन्नति के लिए सीमित विभागीय प्रतियोगी परीक्षा 2026",
-  "प्रेस विज्ञप्ति",
   "पुणे में डिजिटल ब्रिकस फोरम और एक्सपो का आयोजन; केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ने प्रतिनिधिमंडलों का स्वागत किया",
   "12वीं ब्रिकस संचार मंत्रियों की बैठक 21 अगस्त, 2026 को होगी",
-  "31.07.2026 पर यू. एल. लाइसेंसों की सूची",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -449,7 +449,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-21T13:07:40Z",
+ "fetched_at": "2026-08-21T15:45:48Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -736,10 +736,11 @@
    "31.07.2026 पर यू. एल. लाइसेंसों की सूची": 0,
    "दिल्ली के माननीय उच्च न्यायालय में 2023 का सी. एस. सी. ओ. एम. एम. 861: आई. एस. पी. को डी. ओ. टी. के निर्देश 20.08.2026": 0,
    "12वीं ब्रिकस संचार मंत्रियों की बैठक 21 अगस्त, 2026 को होगी": 0,
-   "Revenue Management Services": 6,
+   "Revenue Management Services": 7,
    "पुणे में डिजिटल ब्रिकस फोरम और एक्सपो का आयोजन; केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ने प्रतिनिधिमंडलों का स्वागत किया": 0,
    "लोअर डिवीजन क्लर्क से डीओटी-रेग के जूनियर एकाउंटेंट के रूप में पदोन्नति के लिए सीमित विभागीय प्रतियोगी परीक्षा 2026": 0,
-   "अंतिम बार अद्यतन किया गयाः 21.08.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 21.08.2026": 0,
+   "भारत और ब्राजील ने दूरसंचार और आई. सी. टी. में द्विपक्षीय सहयोग को मजबूत करने के लिए समझौता ज्ञापन पर हस्ताक्षर किए": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -812,7 +813,7 @@
    "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-861-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-20.08.2026-to-ISPs": 3
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-861-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-20.08.2026-to-ISPs": 4
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-07-31T16:54:51Z",
