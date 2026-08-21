@@ -1,5 +1,39 @@
 [
  {
+  "id": "0709275fad01",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-21T13:07:40Z",
+  "summary": "3 new links, 5 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "97.65 किलोबाइट |",
+   "निविदा सूचनाएँ",
+   "अधिनियम/नीति/दिशानिर्देश",
+   "2.09 मेगा बाइट |",
+   "राजपत्रित नियमावली – कैंटीन अटेंडेंट"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "19 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf",
+    "text": "निविदा सूचनाएँ"
+   },
+   {
+    "url": "http://mib.gov.in/hi/offerings/notification/tender-notices",
+    "text": "View More"
+   },
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-08/gazette-for-recruitment-rules-of-canteen-attendent.pdf",
+    "text": "राजपत्रित नियमावली – कैंटीन अटेंडेंट"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "bec2338d876a",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
