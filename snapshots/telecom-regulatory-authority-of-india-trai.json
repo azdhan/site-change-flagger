@@ -214,13 +214,13 @@
   "09:30 AM",
   "Location :",
   "Aravalli, Gujarat",
-  "Consumer Awareness Program at Dhanbad (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
+  "Consumer Awareness Program at Banswara (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan",
   "11:00 AM",
+  "Banswara , Rajasthan",
+  "Consumer Awareness Program at Dhanbad (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
   "Dhanbad , Jharkhand",
   "Consumer Awareness Program at Rudraprayag (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan",
   "Rudraprayag, Uttarakhand",
-  "Consumer Awareness Program at Banswara (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan",
-  "Banswara , Rajasthan",
   "Consumer Awareness Program at Hoshiarpur (Punjab) by Patiala Consumer & Telephone Subscribers Forum",
   "11:30 AM",
   "Hoshiarpur, Punjab",
@@ -945,19 +945,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
    "text": "Explore"
   },
   {
@@ -993,16 +993,16 @@
    "text": "Consumer Awareness Program at Aravalli (Gujarat) by Consumer Protection Association"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banswara-rajasthan-indian-institute-technology",
+   "text": "Consumer Awareness Program at Banswara (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan"
+  },
+  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dhanbad-jharkhand-indian-institute-technology",
    "text": "Consumer Awareness Program at Dhanbad (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED)"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rudraprayag-uttarakhand-rastriya-samuddeshiya-vikas",
    "text": "Consumer Awareness Program at Rudraprayag (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banswara-rajasthan-indian-institute-technology",
-   "text": "Consumer Awareness Program at Banswara (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hoshiarpur-punjab-patiala-consumer-telephone-subscribers",
@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-21T07:04:39Z",
+ "fetched_at": "2026-08-21T09:49:52Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1509,7 +1509,7 @@
    "10:00 AM": 0,
    "Newsletter": 0,
    "TRAI releases Telecom Subscription Data as on June 2026": 0,
-   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 1,
+   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 2,
    "28th July 2026": 0,
    "31st July 2026": 0,
    "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem": 0,
@@ -1529,24 +1529,24 @@
    "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.": 0,
    "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas.": 0,
    "14th August 2026": 0,
-   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Women Consumer Protection Association": 1,
-   "Thenkasi , Tamil Nadu": 1,
-   "Keonjhar , Odisha": 1,
+   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Women Consumer Protection Association": 2,
+   "Thenkasi , Tamil Nadu": 2,
+   "Keonjhar , Odisha": 2,
    "12:00 PM": 0,
-   "Kendujhar, Odisha": 1,
-   "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN": 1,
-   "Consumer Awareness Program at Coimbatore (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": 1,
-   "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": 1,
-   "Coimbatore, Tamil Nadu": 1,
-   "Jhalawar, Rajasthan": 1,
-   "Consumer Awareness Program at Jhalawar (Rajasthan) by PMRY Club": 1,
-   "Ayodhya, Uttar Pradesh": 1,
+   "Kendujhar, Odisha": 2,
+   "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN": 2,
+   "Consumer Awareness Program at Coimbatore (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": 2,
+   "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": 2,
+   "Coimbatore, Tamil Nadu": 2,
+   "Jhalawar, Rajasthan": 2,
+   "Consumer Awareness Program at Jhalawar (Rajasthan) by PMRY Club": 2,
+   "Ayodhya, Uttar Pradesh": 2,
    "Rudraprayag, Uttarakhand": 0,
    "Consumer Awareness Program at Aravalli (Gujarat) by Consumer Protection Association": 0,
    "Consumer Awareness Program at Banswara (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan": 0,
    "09:30 AM": 0,
    "Dhanbad , Jharkhand": 0,
-   "20 August, 2026": 1,
+   "20 August, 2026": 2,
    "Banswara , Rajasthan": 0,
    "Consumer Awareness Program at Rudraprayag (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan": 0,
    "Consumer Awareness Program at Dhanbad (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED)": 0,
@@ -1761,8 +1761,8 @@
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
@@ -1784,12 +1784,12 @@
    "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-women-consumer-protection-association": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-coimbatore-tamil-nadu-tamilnadu-consumer-protection-and": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan-0": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhalawar-rajasthan-pmry-club": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-women-consumer-protection-association": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-coimbatore-tamil-nadu-tamilnadu-consumer-protection-and": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-paribartan-0": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhalawar-rajasthan-pmry-club": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banswara-rajasthan-indian-institute-technology": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dhanbad-jharkhand-indian-institute-technology": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aravalli-gujarat-consumer-protection-association": 0,
@@ -1808,15 +1808,6 @@
    "Karur, Tamil Nadu": "2026-07-23T11:19:05Z",
    "11:30 AM": "2026-08-02T08:35:41Z",
    "New Delhi, Delhi": "2026-07-30T08:46:17Z",
-   "Rayagada, Odisha": "2026-07-22T08:42:19Z",
-   "Consumer Outreach Programme at Sirifort Institutional Area (Delhi) by TRAI Regional Office, Delhi": "2026-07-22T08:42:19Z",
-   "Consumer Awareness Programm at Rayagada ( Odisha) by FEDERATION OF CONSUMER ORGANIZATIONS": "2026-07-22T08:42:19Z",
-   "South Delhi, Delhi": "2026-07-22T08:42:19Z",
-   "Consumer Awareness Program at Sahebganj (Jharkhand) by Mahila Kalyan Samiti": "2026-07-22T08:42:19Z",
-   "Sahebganj, Jharkhand": "2026-07-22T08:42:19Z",
-   "NTR District, Andhra Pradesh": "2026-07-22T08:42:19Z",
-   "Consumer Awareness Programm at Mangalagiri ( Andhra Pradesh) by Spandana Social Service association": "2026-07-22T08:42:19Z",
-   "20 July, 2026": "2026-07-22T08:42:19Z",
    "Gajapati, Odisha": "2026-07-23T08:43:32Z",
    "Madhubani , Bihar": "2026-07-23T08:43:32Z",
    "09:00 AM": "2026-07-23T08:43:32Z",
@@ -2014,10 +2005,6 @@
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-karur-tamil-nadu-tamilnadu-consumer-federation": "2026-07-23T08:43:32Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-rayagada-odisha-federation-consumer-organizations": "2026-07-22T08:42:19Z",
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-programme-sirifort-institutional-area-delhi-trai-regional-office": "2026-07-22T08:42:19Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-mangalagiri-andhra-pradesh-spandana-social-service": "2026-07-22T08:42:19Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sahebganj-jharkhand-mahila-kalyan-samiti": "2026-07-22T08:42:19Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-gajapati-odisha-gangotree-social-organisation-gso": "2026-07-23T08:43:32Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programm-anugul-odisha-paribartan": "2026-07-23T08:43:32Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-distt-varanasi-citizen-development-institute-lucknow": "2026-07-23T08:43:32Z",
