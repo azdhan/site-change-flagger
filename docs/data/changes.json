@@ -1,5 +1,71 @@
 [
  {
+  "id": "89e0a36ad697",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-21T07:04:39Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "लोअर डिवीजन क्लर्क से डीओटी-रेग के जूनियर एकाउंटेंट के रूप में पदोन्नति के लिए सीमित विभागीय प्रतियोगी परीक्षा 2026",
+   "पुणे में डिजिटल ब्रिकस फोरम और एक्सपो का आयोजन; केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ने प्रतिनिधिमंडलों का स्वागत किया",
+   "अंतिम बार अद्यतन किया गयाः 21.08.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "4c763a0020f3",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-21T07:04:39Z",
+  "summary": "6 new links, 10 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Hoshiarpur (Punjab) by Patiala Consumer & Telephone Subscribers Forum",
+   "Hoshiarpur, Punjab",
+   "Consumer Awareness Program at Ballia (UP) by Consumer Guild, Lucknow",
+   "Ballia, Uttar Pradesh",
+   "Consumer Awareness Programme at Banshdeeh (Bansdih) by Rural Consumer's Federation",
+   "Consumer Awareness Program at Ayodhya (UP) by Rural Consumer Federation Shahjahanpur",
+   "Ayodhya (UP), Uttar Pradesh",
+   "Consumer Awareness Program at Latehar (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust",
+   "Latehar, Jharkhand",
+   "21 August, 2026"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hoshiarpur-punjab-patiala-consumer-telephone-subscribers",
+    "text": "Consumer Awareness Program at Hoshiarpur (Punjab) by Patiala Consumer & Telephone Subscribers Forum"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ballia-consumer-guild-lucknow",
+    "text": "Consumer Awareness Program at Ballia (UP) by Consumer Guild, Lucknow"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-banshdeeh-bansdih-rural-consumers-federation",
+    "text": "Consumer Awareness Programme at Banshdeeh (Bansdih) by Rural Consumer's Federation"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-rural-consumer-federation-shahjahanpur",
+    "text": "Consumer Awareness Program at Ayodhya (UP) by Rural Consumer Federation Shahjahanpur"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-latehar-jharkhand-sudhindra-nath-and-milina-mukherjee",
+    "text": "Consumer Awareness Program at Latehar (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society-2",
+    "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society"
+   }
+  ],
+  "new_links_total": 6
+ },
+ {
   "id": "2a0541634a16",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
