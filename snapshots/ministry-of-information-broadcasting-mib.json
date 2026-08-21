@@ -560,27 +560,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -609,7 +617,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-21T18:52:56Z",
+ "fetched_at": "2026-08-21T21:35:53Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -671,8 +679,8 @@
    "भारत में एमएसओ द्वारा तैनात सीएएस और एसएमएस का विवरण मांगा गया है।": 0,
    "733.86 किलोबाइट |": 0,
    "मुख्य सचिवालय, सूचना एवं प्रसारण मंत्रालय में आधिकारिक उपयोग के लिए एक बीएस-VI सीएनजी ऑटो रिक्शा की आपूर्ति के लिए कोटेशन का निमंत्रण।": 0,
-   "618.87 किलोबाइट |": 3,
-   "केबल टेलीविजन नेटवर्क नियम, 1994 में संशोधन के लिए प्रेस विज्ञप्ति": 3,
+   "618.87 किलोबाइट |": 4,
+   "केबल टेलीविजन नेटवर्क नियम, 1994 में संशोधन के लिए प्रेस विज्ञप्ति": 4,
    "लाल किले से मैंने सबका प्रयास की बात कही है। आज मेरा ये विश्वास और पक्का हो गया है कि आप सभी का प्रयास आने वाले वर्षों में WAVES को नई ऊंचाई देगा। मेरा इंडस्ट्री के साथियों से ये आग्रह बना रहेगा, कि जैसे आपने पहली समिट की हैंड होल्डिंग की है, वो आगे भी जारी रखें। अभी तो WAVES में कई तरह की खूबसूरत लहरें आनी बाकी हैं": 0,
    "वेव्स समिट 2025": 0,
    "देखने के लिए क्लिक करें": 0,
@@ -700,7 +708,7 @@
    "View More": 0,
    "2.85 मेगा बाइट |": 0,
    "सूचना एवं प्रसारण मंत्रालय के अधीन केंद्रीय फिल्म प्रमाणन बोर्ड के क्षेत्रीय कार्यालयों, दिल्ली, कटक, कोलकाता, चेन्नई और हैदराबाद में क्षेत्रीय अधिकारियों के पदों (प्रत्येक में एक) को प्रतिनियुक्ति के आधार पर भरने के संबंध में।": 0,
-   "1.21 मेगा बाइट |": 3,
+   "1.21 मेगा बाइट |": 4,
    "सीबीसी एवं डीपीडी के कला एवं उत्पादन स्टाफ के सामान्य कैडर में प्रतिनियुक्ति के आधार पर प्रोडक्शन मैनेजर (मुद्रित प्रचार)/प्रोडक्शन ऑफिसर (प्रोडक्शन) के 01 पद की भर्ती।": 0,
    "7.96 मेगा बाइट |": 0,
    "नई दिल्ली में महानिदेशक (दूरदर्शन) और महानिदेशक (आकाशवाणी) के पदों को पदोन्नति/प्रतिनियुक्ति के आधार पर (अल्पकालिक अनुबंध सहित) भरने के लिए रिक्ति परिपत्र (अंतिम तिथि का विस्तार)": 0,
@@ -723,8 +731,8 @@
    "सत्यजीत रे फिल्म और टेलीविजन संस्थान, कोलकाता की वार्षिक रिपोर्ट और लेखा-…": 0,
    "176.07 किलोबाइट |": 0,
    "निजी उपग्रह टीवी चैनलों द्वारा गणतंत्र दिवस 2026 समारोह/टीका-टिप्पणी के…": 0,
-   "196.97 किलोबाइट |": 3,
-   "गणतंत्र दिवस 2026 के प्रसारणसमारोह के लिए निजी सैटेलाइट टीवी चैनलों द्वारा…": 3,
+   "196.97 किलोबाइट |": 4,
+   "गणतंत्र दिवस 2026 के प्रसारणसमारोह के लिए निजी सैटेलाइट टीवी चैनलों द्वारा…": 4,
    "और देखें": 0,
    "हालिया दस्तावेज़": 0,
    "प्रेस प्रकाशनी": 0,
@@ -775,14 +783,14 @@
    "राजभाषा संबंधी प्रावधान": 0,
    "2.13 मेगा बाइट |": 0,
    "सीबीसी एवं डीपीडी के कला एवं उत्पादन स्टाफ के सामान्य कैडर में प्रतिनियुक्ति के…": 0,
-   "नेशनल एआई स्किलिंग पहल के प्रथम चरण में 60,253 लोगों ने पंजीकरण कराया;": 3,
-   "सरकार पीआईबी फैक्ट-चेकिंग, सार्वजनिक-सेवा प्रसारण और डिजिटल मीडिया नियमनों के जरिए विश्वसनीय सूचना के प्रसार के कार्य को मजबूत करने का प्रयास कर रही है": 3,
+   "नेशनल एआई स्किलिंग पहल के प्रथम चरण में 60,253 लोगों ने पंजीकरण कराया;": 4,
+   "सरकार पीआईबी फैक्ट-चेकिंग, सार्वजनिक-सेवा प्रसारण और डिजिटल मीडिया नियमनों के जरिए विश्वसनीय सूचना के प्रसार के कार्य को मजबूत करने का प्रयास कर रही है": 4,
    "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या…": 0,
    "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या के प्रसारण के संबंध में एडवाइजरी दिनांक 13.08.2026": 0,
    "242.77 किलोबाइट |": 0,
    "परामर्श": 0,
    "सरकार ने टेलीविजन चैनलों के लिए 12 मिनट की विज्ञापन समय-सीमा समाप्त की": 0,
-   "20 अगस्त 2026": 4,
+   "20 अगस्त 2026": 5,
    "21 अगस्त 2026": 0,
    "सूचना और प्रसारण मंत्रालय के अंतर्गत केंद्रीय फिल्म प्रमाणन बोर्ड के क्षेत्रीय कार्यालयों- यथा- कटक, दिल्ली, हैदराबाद, कोलकाता और मुंबई (प्रत्येक में एक) में क्षेत्रीय अधिकारी के पांच पदों को भरने के संबंध में।": 0,
    "2.09 मेगा बाइट |": 0,
@@ -829,7 +837,7 @@
    "https://mib.gov.in/sites/default/files/2025-08/-11yearsofjandhan-1_0.pdf": 0,
    "https://mib.gov.in/sites/default/files/2025-06/advisoy-dated-16.06.2025-1_1.pdf": 0,
    "https://mib.gov.in/sites/default/files/2025-10/invitation-of-quotations-for-supply-of-one-bs-vi-cng-auto-rickshaw-for-official-use-in_0.pdf": 0,
-   "https://mib.gov.in/sites/default/files/2025-09/press-release_0-1_0.pdf": 3,
+   "https://mib.gov.in/sites/default/files/2025-09/press-release_0-1_0.pdf": 4,
    "https://pib.gov.in/PressReleasePage.aspx?PRID=2125750": 0,
    "https://mib.gov.in/ministry/about-us": 0,
    "https://mib.gov.in/hi/ministry/about-us/sarai-asavainai-vaaisanava": 0,
@@ -844,7 +852,7 @@
    "https://mib.gov.in/sites/default/files/2024-10/schemes-data-for-website-2023-24.pdf": 0,
    "http://mib.gov.in/hi/offerings/schemes-monitoring": 0,
    "https://mib.gov.in/sites/default/files/2025-12/vacancy-circular-filling-up-the-post-of-regional-officer-cbfc-delhi-cuttack-kolkata-mumbai-and-hyderabad-om-dated-30th-december-2025-accessible-1.pdf": 0,
-   "https://mib.gov.in/sites/default/files/2025-12/filling-up-of-01-post-of-production-manager-printed_0.pdf": 3,
+   "https://mib.gov.in/sites/default/files/2025-12/filling-up-of-01-post-of-production-manager-printed_0.pdf": 4,
    "https://mib.gov.in/sites/default/files/2025-12/vacancy-circular-extension-of-last-date-for-the-post-of-dg-akashvani-dg-dd-in-new-delhi-by-promotion-deputation-basis-including-short-term-contract-1-1-1.pdf": 0,
    "https://mib.gov.in/sites/default/files/2025-11/filling-up-the-post-of-director-general-akashvani-director-general-doordarshan-in-new-delhi-by-promotion-deputation-basis-1-compressed.pdf": 0,
    "http://mib.gov.in/hi/offerings/vacancies": 0,
@@ -856,7 +864,7 @@
    "https://mib.gov.in/sites/default/files/annual-report-ftii-2024-25.pdf": 0,
    "https://mib.gov.in/sites/default/files/srfti-annual-report-2024-25.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-02/revised-republic-day-parade-advisory-2.pdf": 0,
-   "https://mib.gov.in/sites/default/files/2026-01/ganatantara-daivasa-2026-kae-parasaaranasamaaraoha-kae-laie-naijai-saaitaelaaita-taivai-caainalaon-davaaraa-saankaetaika-bhaasaa-maen-vayaakhayaa-kai-sauvaidhaa-upalabadha-karaanae-haetau-dainaanka-22.01.2026-kaa-1.pdf": 3,
+   "https://mib.gov.in/sites/default/files/2026-01/ganatantara-daivasa-2026-kae-parasaaranasamaaraoha-kae-laie-naijai-saaitaelaaita-taivai-caainalaon-davaaraa-saankaetaika-bhaasaa-maen-vayaakhayaa-kai-sauvaidhaa-upalabadha-karaanae-haetau-dainaanka-22.01.2026-kaa-1.pdf": 4,
    "http://mib.gov.in/hi/whats-new": 0,
    "https://mib.gov.in/whats-new": 0,
    "http://mib.gov.in/hi/documents/reports": 0,
@@ -883,12 +891,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -899,14 +907,22 @@
    "https://mib.gov.in/hi/provisions-regarding-official-language": 0,
    "https://mib.gov.in/sites/default/files/2026-07/hindi-translation-of-o.m-dated-18-06-2026_0.pdf": 0,
    "https://harghartiranga.com/": 0,
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298365&reg=3&lang=2": 3,
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298189&reg=3&lang=1": 3,
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298365&reg=3&lang=2": 4,
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298189&reg=3&lang=1": 4,
    "https://mib.gov.in/sites/default/files/2026-08/savatantarataa-daivasa.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299641&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2025-10/hindi-vacancy-circular-om-dated-10-10-2025-advertisement-for-ro-cbfc-cuttack-delhi-hyderabad-kolkata-and-mumbai-1.pdf": 0,
    "http://mib.gov.in/hi/offerings/notification/tender-notices": 0,
    "https://mib.gov.in/sites/default/files/2026-08/gazette-for-recruitment-rules-of-canteen-attendent.pdf": 0,
-   "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0
+   "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0,
+   "https://mib.gov.in/index.php/hi/help": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
