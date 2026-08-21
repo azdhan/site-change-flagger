@@ -1,5 +1,28 @@
 [
  {
+  "id": "2a0541634a16",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-21T03:57:51Z",
+  "summary": "13 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Kota (Rajasthan) by Consumer Unity & Trust Society",
+   "Kota, Rajasthan",
+   "West Singhbhum, Jharkhand",
+   "Consumer Awareness Program at West Singhbhum (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
+   "Consumer Awareness Program at Jalpaiguri (West Bengal) by Hemnagar Sundarban Dream",
+   "Jalpaiguri, West Bengal",
+   "Consumer Awareness Program at Latur (Maharashtra) by Patil Foundation, Pune, Maharashtra",
+   "Latur, Maharashtra",
+   "19 August, 2026"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "a9a2957190f7",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
