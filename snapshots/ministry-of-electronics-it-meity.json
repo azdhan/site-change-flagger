@@ -100,7 +100,10 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
+  "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।",
+  "हमारी टीम",
+  "हमारे संगठन",
+  "हमारा प्रदर्शन",
   "Shri Ashwini Vaishnaw",
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
@@ -113,12 +116,11 @@
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "Digital India Internship Scheme 2026",
   "अधिक देखें",
-  "What’s New",
-  "Filling up the post of Director General, ICERT",
-  "Monthly Achievements for the month of July, 2026",
-  "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY",
-  "EOI: Development & Production Partners for Advanced Photonics Packaging",
-  "View more",
+  "नया क्या है",
+  "महानिदेशक, आईसीईआरटी के पद को भरना",
+  "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
+  "सॉफ्टवेयर उद्योग संवर्धन प्रभाग (एस. आई. पी. डी.), एम. ई. आई. टी. वाई. द्वारा उद्यमिता केंद्र (सी. ओ. ई.) की स्थापना के लिए रूपरेखा और दिशानिर्देश",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "महत्वपूर्ण लिंक",
   "एमईआईटीवाई डैशबोर्ड",
@@ -131,7 +133,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -270,10 +271,6 @@
    "text": ""
   },
   {
-   "url": "https://youtube.com/live/bKjTRyMRd4g?feature=share",
-   "text": ""
-  },
-  {
    "url": "https://meity.gov.in/static/uploads/2026/04/5f8bd2d1ed4fafa1564f8768ba47e546.pdf",
    "text": ""
   },
@@ -327,27 +324,27 @@
   },
   {
    "url": "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-director-general-indian-computer-emergency-response-team-dgicert-regarding-cjMwkjMtQWa",
-   "text": "Filling up the post of Director General, ICERT arrow_forward_ios"
+   "text": "महानिदेशक, आईसीईआरटी के पद को भरना arrow_forward_ios"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
-   "text": "Monthly Achievements for the month of July, 2026 arrow_forward_ios"
+   "text": "जुलाई, 2026 के लिए मासिक उपलब्धियाँ arrow_forward_ios"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf",
-   "text": "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY arrow_forward_ios"
+   "text": "सॉफ्टवेयर उद्योग संवर्धन प्रभाग (एस. आई. पी. डी.), एम. ई. आई. टी. वाई. द्वारा उद्यमिता केंद्र (सी. ओ. ई.) की स्थापना के लिए रूपरेखा और दिशानिर्देश arrow_forward_ios"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf",
-   "text": "EOI: Development & Production Partners for Advanced Photonics Packaging arrow_forward_ios"
+   "text": "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
+   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "View more chevron_right"
+   "text": "अधिक देखें chevron_right"
   },
   {
    "url": "https://meity.dashboard.nic.in/",
@@ -363,11 +360,11 @@
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -419,7 +416,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-21T21:35:53Z",
+ "fetched_at": "2026-08-22T01:48:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -525,7 +522,7 @@
    "कार्यक्रम देखें": 0,
    "प्रमुख प्रस्ताव": 0,
    "अधिक देखें": 0,
-   "View more": 0,
+   "View more": 1,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "महत्वपूर्ण लिंक": 0,
    "एमईआईटीवाई डैशबोर्ड": 0,
@@ -559,7 +556,7 @@
    "HON’BLE MINISTER": 0,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
-   "What’s New": 0,
+   "What’s New": 1,
    "अभिलेखागार": 0,
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
@@ -577,7 +574,7 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 1,
+   "Key Offerings": 0,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
@@ -616,34 +613,30 @@
    "अंतिम बार अद्यतन किया गयाः 01.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 03.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 04.08.2026": 0,
-   "EOI: Development & Production Partners for Advanced Photonics Packaging": 0,
+   "EOI: Development & Production Partners for Advanced Photonics Packaging": 1,
    "अंतिम बार अद्यतन किया गयाः 05.08.2026": 0,
    "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार": 0,
    "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0,
-   "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY": 0,
+   "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY": 1,
    "सॉफ्टवेयर उद्योग संवर्धन प्रभाग (एस. आई. पी. डी.), एम. ई. आई. टी. वाई. द्वारा उद्यमिता केंद्र (सी. ओ. ई.) की स्थापना के लिए रूपरेखा और दिशानिर्देश": 0,
    "अंतिम बार अद्यतन किया गयाः 10.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 0,
+   "Monthly Achievements for the month of July, 2026": 1,
    "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
    "जुलाई, 2026 के लिए मासिक उपलब्धियाँ": 0,
    "अंतिम बार अद्यतन किया गयाः 17.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 18.08.2026": 0,
-   "Filling up the post of Director General, ICERT": 0,
+   "Filling up the post of Director General, ICERT": 1,
    "महानिदेशक, आईसीईआरटी के पद को भरना": 0,
    "अंतिम बार अद्यतन किया गयाः 20.08.2026": 0,
-   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": 7,
-   "Special Campaign 6.0 for Institutionalizing Swachhata and Minimizing Pendency in Government Offices during 2nd October 2026 to 31st October2026 – Advancement of Preparatory action w.e.f. 15th August, 2026 in MeitY and its organizations reg": 7,
-   "Recent Documents": 3,
-   "Delegation of Powers dtd. 16-07-2026": 7,
-   "Appointment of Chief of Media & Communications for MeitY": 7,
+   "Recent Documents": 4,
    "अंतिम बार अद्यतन किया गयाः 21.08.2026": 0,
-   "For Researcher": 1,
-   "Ministry of Electronics and Information Technology": 1,
-   "For Business Owner": 1,
-   "For Media": 1
+   "For Researcher": 2,
+   "Ministry of Electronics and Information Technology": 2,
+   "For Business Owner": 2,
+   "For Media": 2
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -709,13 +702,13 @@
    "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf": 0,
    "https://meity.gov.in/ministry/directory-2": 0,
    "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 0,
-   "https://youtube.com/live/bKjTRyMRd4g?feature=share": 0,
+   "https://youtube.com/live/bKjTRyMRd4g?feature=share": 1,
    "https://meity.gov.in/static/uploads/2026/08/76b66d4289eeb4d9e05558d98127979d.pdf": 0,
    "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-director-general-indian-computer-emergency-response-team-dgicert-regarding-cjMwkjMtQWa": 0,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 1,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 1,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 1,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 1
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 2,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 2,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 2,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 2
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-08-20T07:02:44Z",
@@ -727,8 +720,8 @@
    "For Business Owner": "2026-08-20T07:02:44Z",
    "Explore What's new": "2026-08-01T03:46:27Z",
    "Archive - Delegation of Powers": "2026-08-13T21:59:19Z",
-   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": "2026-08-19T18:51:47Z",
-   "Delegation of Powers dtd. 16-07-2026": "2026-08-19T18:51:47Z",
+   "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": "2026-08-22T01:48:04Z",
+   "Delegation of Powers dtd. 16-07-2026": "2026-08-22T01:48:04Z",
    "Archives": "2026-08-01T16:11:12Z",
    "Website Policies": "2026-08-01T16:11:12Z",
    "Related Links": "2026-08-01T16:11:12Z",
@@ -739,9 +732,9 @@
    "Help": "2026-08-01T16:11:12Z",
    "Useful Links": "2026-08-01T16:11:12Z",
    "Stakeholder Consultation on the Draft amendments to IT Rules, 2021 relating to strengthening intermediary compliance with clarifications, advisories and directions": "2026-08-07T07:38:52Z",
-   "Special Campaign 6.0 for Institutionalizing Swachhata and Minimizing Pendency in Government Offices during 2nd October 2026 to 31st October2026 – Advancement of Preparatory action w.e.f. 15th August, 2026 in MeitY and its organizations reg": "2026-08-19T18:51:47Z",
+   "Special Campaign 6.0 for Institutionalizing Swachhata and Minimizing Pendency in Government Offices during 2nd October 2026 to 31st October2026 – Advancement of Preparatory action w.e.f. 15th August, 2026 in MeitY and its organizations reg": "2026-08-22T01:48:04Z",
    "Major achievement of MeitY for the month of June 2026": "2026-08-14T13:36:41Z",
-   "Appointment of Chief of Media & Communications for MeitY": "2026-08-19T18:51:47Z",
+   "Appointment of Chief of Media & Communications for MeitY": "2026-08-22T01:48:04Z",
    "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies. Last date to apply : 31.07.2026": "2026-08-17T18:55:25Z"
   },
   "grave_links": {
