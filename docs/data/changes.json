@@ -1,5 +1,61 @@
 [
  {
+  "id": "e0d8a8e0838b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-22T06:56:51Z",
+  "summary": "4 new links, 8 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Ramgarh (Jharkhand) by Mahila Janshakti Sangathan",
+   "Ramgarh, Jharkhand",
+   "Consumer Awareness Program at Chamoli (Uttarakhand) by PMRY Club",
+   "Chamoli, Uttarakhand",
+   "Consumer Awareness Program at Harda (Madhya Pradesh) by Indian Institute of Technology & Entrepreneur Development (IITED), Madhya Pradesh",
+   "Harda , Madhya Pradesh",
+   "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti",
+   "Ambedkar Nagar, Uttar Pradesh"
+  ],
+  "added_lines_total": 8,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ramgarh-jharkhand-mahila-janshakti-sangathan",
+    "text": "Consumer Awareness Program at Ramgarh (Jharkhand) by Mahila Janshakti Sangathan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamoli-uttarakhand-pmry-club",
+    "text": "Consumer Awareness Program at Chamoli (Uttarakhand) by PMRY Club"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-harda-madhya-pradesh-indian-institute-technology",
+    "text": "Consumer Awareness Program at Harda (Madhya Pradesh) by Indian Institute of Technology & Entrepreneur Development (IITED), Madhya Pradesh"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ambedkar-nagar-uttar-pradesh-nyay-bharti",
+    "text": "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "d5fc1d30fa0e",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-22T06:56:51Z",
+  "summary": "1 new text block, 1 item no longer on page",
+  "added_lines": [
+   "22 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "20 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "430a14a51e55",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
