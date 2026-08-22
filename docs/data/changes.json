@@ -1,5 +1,42 @@
 [
  {
+  "id": "430a14a51e55",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-22T03:52:56Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c786d9cc9bf0",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-22T03:52:56Z",
+  "summary": "18 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Women Consumer Protection Association",
+   "Thenkasi , Tamil Nadu",
+   "Keonjhar , Odisha",
+   "Kendujhar, Odisha",
+   "Consumer Awareness Program at Kendujhar (Odisha) by PARIBARTAN",
+   "Consumer Awareness Program at Coimbatore (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)",
+   "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation",
+   "Coimbatore, Tamil Nadu",
+   "Jhalawar, Rajasthan",
+   "Consumer Awareness Program at Jhalawar (Rajasthan) by PMRY Club"
+  ],
+  "removed_lines_total": 18,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "b53f403183a5",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
