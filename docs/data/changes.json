@@ -1,5 +1,29 @@
 [
  {
+  "id": "6b3fdb921c51",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-23T12:59:19Z",
+  "summary": "13 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "12th BRICS Communications Ministers Meeting to be held on 21st August 2026",
+   "Digital BRICS Forum and Expo held at Pune; Union Minister of Communications, Shri Jyotiraditya Scindia welcomed the delegations",
+   "Limited Departmental Competitive Examination 2026 for promotion from Lower Division Clerk to Junior Accountant of DoT-reg",
+   "Adoption of TSDSI transposed 3GPP specifications from Release 13 to 18 as national standards, as an outcome of TSG107 - total 347 documents",
+   "Dr. Pemmasani Chandra Sekhar",
+   "The telecom services have been recognized the world-over as an important tool for socio-economic development for a nation and hence telecom infrastructure is treated as a crucial factor to realize the socio-economic objectives in India. Accordingly, the Department of Telecom has been formulating developmental policies for the accelerated growth of the telecommunication services. The Department is also responsible for grant of licenses for various telecom services like Unified Access Service, Internet and VSAT service. The Department is also responsible for frequency management in the field of radio communication in close coordination with the international bodies. It also enforces wireless regulatory measures by monitoring wireless transmission of all users in the country.",
+   "National Frequency Allocation Plan-2025",
+   "Shri Jyotiraditya M Scindia",
+   "Announcements",
+   "Government of India"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "a840fe414633",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
