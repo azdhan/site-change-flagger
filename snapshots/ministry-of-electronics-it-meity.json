@@ -415,7 +415,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-23T18:45:53Z",
+ "fetched_at": "2026-08-23T21:34:13Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -631,11 +631,11 @@
    "महानिदेशक, आईसीईआरटी के पद को भरना": 0,
    "अंतिम बार अद्यतन किया गयाः 20.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 21.08.2026": 0,
-   "For Researcher": 4,
-   "Ministry of Electronics and Information Technology": 4,
-   "For Business Owner": 4,
-   "For Media": 4,
-   "For IT Professional": 4
+   "For Researcher": 5,
+   "Ministry of Electronics and Information Technology": 5,
+   "For Business Owner": 5,
+   "For Media": 5,
+   "For IT Professional": 5
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -703,11 +703,11 @@
    "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 0,
    "https://meity.gov.in/static/uploads/2026/08/76b66d4289eeb4d9e05558d98127979d.pdf": 0,
    "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-director-general-indian-computer-emergency-response-team-dgicert-regarding-cjMwkjMtQWa": 0,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 4,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 4,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 4,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 4,
-   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 4
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 5,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 5,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 5,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 5,
+   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 5
   },
   "grave_lines": {
    "Ministry of Electronics and Information Technology": "2026-08-20T07:02:44Z",

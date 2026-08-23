@@ -194,15 +194,15 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
-  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
+  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "31st July 2026",
   "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem",
   "28th July 2026",
-  "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.",
+  "TRAI releases Telecom Subscription Data as on June 2026",
   "On-going Consultation",
   "Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "Comments",
@@ -214,27 +214,27 @@
   "10:30 AM",
   "Location :",
   "Ramgarh, Jharkhand",
-  "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti",
-  "11:00 AM",
-  "Ambedkar Nagar, Uttar Pradesh",
   "Consumer Awareness Program at Chamoli (Uttarakhand) by PMRY Club",
+  "11:00 AM",
   "Chamoli, Uttarakhand",
   "Consumer Awareness Program at Harda (Madhya Pradesh) by Indian Institute of Technology & Entrepreneur Development (IITED), Madhya Pradesh",
   "Harda , Madhya Pradesh",
+  "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti",
+  "Ambedkar Nagar, Uttar Pradesh",
   "Consumer Awareness Program at Deeg (Rajasthan) by Navjeevan Society",
   "11:30 AM",
   "Deeg, Rajasthan",
-  "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society",
-  "10:00 AM",
-  "Chandigarh, Chandigarh",
   "Consumer Awareness Program at West Delhi (Delhi) by Federation of Coummunity Radio Station",
+  "10:00 AM",
   "West Delhi, Delhi",
   "Consumer Awareness Program at Udaipur (Rajasthan) by Radio Madhuban Community Society",
   "Udaipur, Rajasthan",
-  "Consumer Awareness Program at Sri Ganganagar (Rajasthan) by Upbhokta Sanrakshan Samiti",
-  "Sri Ganganagar, Rajasthan",
+  "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society",
+  "Chandigarh, Chandigarh",
   "Consumer Awareness Program at Buldhana (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra",
   "Buldhana , Maharashtra",
+  "Consumer Awareness Program at Sri Ganganagar (Rajasthan) by Upbhokta Sanrakshan Samiti",
+  "Sri Ganganagar, Rajasthan",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -920,14 +920,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
    "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
   },
@@ -941,6 +933,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
+   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "Explore"
   },
   {
@@ -968,11 +968,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
-   "text": "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
+   "text": "TRAI releases Telecom Subscription Data as on June 2026"
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026",
    "text": "Explore"
   },
   {
@@ -992,10 +992,6 @@
    "text": "Consumer Awareness Program at Ramgarh (Jharkhand) by Mahila Janshakti Sangathan"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ambedkar-nagar-uttar-pradesh-nyay-bharti",
-   "text": "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamoli-uttarakhand-pmry-club",
    "text": "Consumer Awareness Program at Chamoli (Uttarakhand) by PMRY Club"
   },
@@ -1004,12 +1000,12 @@
    "text": "Consumer Awareness Program at Harda (Madhya Pradesh) by Indian Institute of Technology & Entrepreneur Development (IITED), Madhya Pradesh"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deeg-rajasthan-navjeevan-society",
-   "text": "Consumer Awareness Program at Deeg (Rajasthan) by Navjeevan Society"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ambedkar-nagar-uttar-pradesh-nyay-bharti",
+   "text": "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society-1",
-   "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deeg-rajasthan-navjeevan-society",
+   "text": "Consumer Awareness Program at Deeg (Rajasthan) by Navjeevan Society"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-west-delhi-delhi-federation-coummunity-radio-station",
@@ -1020,12 +1016,16 @@
    "text": "Consumer Awareness Program at Udaipur (Rajasthan) by Radio Madhuban Community Society"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sri-ganganagar-rajasthan-upbhokta-sanrakshan-samiti",
-   "text": "Consumer Awareness Program at Sri Ganganagar (Rajasthan) by Upbhokta Sanrakshan Samiti"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society-1",
+   "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-buldhana-maharashtra-indian-institute-technology",
    "text": "Consumer Awareness Program at Buldhana (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sri-ganganagar-rajasthan-upbhokta-sanrakshan-samiti",
+   "text": "Consumer Awareness Program at Sri Ganganagar (Rajasthan) by Upbhokta Sanrakshan Samiti"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1225,7 +1225,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-23T18:45:53Z",
+ "fetched_at": "2026-08-23T21:34:13Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1507,8 +1507,8 @@
    "Consultation Papers": 0,
    "10:00 AM": 0,
    "Newsletter": 0,
-   "TRAI releases Telecom Subscription Data as on June 2026": 3,
-   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 0,
+   "TRAI releases Telecom Subscription Data as on June 2026": 0,
+   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 1,
    "28th July 2026": 0,
    "31st July 2026": 0,
    "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem": 0,
@@ -1746,10 +1746,10 @@
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 3,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 3,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 0,
@@ -1770,7 +1770,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society-2": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society-2": 4,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ramgarh-jharkhand-mahila-janshakti-sangathan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamoli-uttarakhand-pmry-club": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-harda-madhya-pradesh-indian-institute-technology": 0,

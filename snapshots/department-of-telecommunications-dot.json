@@ -387,6 +387,18 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://dot.gov.in/archives?page=tenders",
    "text": "अभिलेखागार"
   },
@@ -436,7 +448,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-23T18:45:53Z",
+ "fetched_at": "2026-08-23T21:34:13Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -796,9 +808,9 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 1
+   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-08-23T12:59:19Z",
