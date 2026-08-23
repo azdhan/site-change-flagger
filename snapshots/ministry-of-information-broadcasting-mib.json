@@ -560,35 +560,27 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/archives",
-   "text": "पुरालेखागार"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/website-policy",
+   "url": "https://mib.gov.in/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/related-link",
+   "url": "https://mib.gov.in/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/sitemap",
+   "url": "https://mib.gov.in/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/help",
+   "url": "https://mib.gov.in/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
-   "text": "हमसे संपर्क करें"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/feedback",
+   "url": "https://mib.gov.in/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -617,7 +609,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-23T01:57:34Z",
+ "fetched_at": "2026-08-23T03:57:55Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -783,7 +775,6 @@
    "242.77 किलोबाइट |": 0,
    "परामर्श": 0,
    "सरकार ने टेलीविजन चैनलों के लिए 12 मिनट की विज्ञापन समय-सीमा समाप्त की": 0,
-   "21 अगस्त 2026": 7,
    "सूचना और प्रसारण मंत्रालय के अंतर्गत केंद्रीय फिल्म प्रमाणन बोर्ड के क्षेत्रीय कार्यालयों- यथा- कटक, दिल्ली, हैदराबाद, कोलकाता और मुंबई (प्रत्येक में एक) में क्षेत्रीय अधिकारी के पांच पदों को भरने के संबंध में।": 0,
    "2.09 मेगा बाइट |": 0,
    "2.54 मेगा बाइट |": 0,
@@ -881,12 +872,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 1,
-   "https://mib.gov.in/hi/related-link": 1,
-   "https://mib.gov.in/hi/sitemap": 1,
-   "https://mib.gov.in/hi/help": 1,
-   "https://mib.gov.in/hi/feedback": 1,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/hi/website-policy": 0,
+   "https://mib.gov.in/hi/related-link": 0,
+   "https://mib.gov.in/hi/sitemap": 0,
+   "https://mib.gov.in/hi/help": 0,
+   "https://mib.gov.in/hi/feedback": 0,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -903,14 +894,14 @@
    "http://mib.gov.in/hi/offerings/notification/tender-notices": 0,
    "https://mib.gov.in/sites/default/files/2026-08/gazette-for-recruitment-rules-of-canteen-attendent.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 0,
-   "https://mib.gov.in/index.php/hi/archives": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 0,
-   "https://mib.gov.in/index.php/hi/sitemap": 0,
-   "https://mib.gov.in/index.php/hi/help": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 0,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/index.php/hi/related-link": 1,
+   "https://mib.gov.in/index.php/hi/archives": 1,
+   "https://mib.gov.in/index.php/hi/feedback": 1,
+   "https://mib.gov.in/index.php/hi/sitemap": 1,
+   "https://mib.gov.in/index.php/hi/help": 1,
+   "https://mib.gov.in/index.php/hi/website-policy": 1,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 1
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
@@ -972,7 +963,8 @@
    "196.97 किलोबाइट |": "2026-08-22T09:38:13Z",
    "गणतंत्र दिवस 2026 के प्रसारणसमारोह के लिए निजी सैटेलाइट टीवी चैनलों द्वारा…": "2026-08-22T09:38:13Z",
    "नेशनल एआई स्किलिंग पहल के प्रथम चरण में 60,253 लोगों ने पंजीकरण कराया;": "2026-08-22T09:38:13Z",
-   "सरकार पीआईबी फैक्ट-चेकिंग, सार्वजनिक-सेवा प्रसारण और डिजिटल मीडिया नियमनों के जरिए विश्वसनीय सूचना के प्रसार के कार्य को मजबूत करने का प्रयास कर रही है": "2026-08-22T09:38:13Z"
+   "सरकार पीआईबी फैक्ट-चेकिंग, सार्वजनिक-सेवा प्रसारण और डिजिटल मीडिया नियमनों के जरिए विश्वसनीय सूचना के प्रसार के कार्य को मजबूत करने का प्रयास कर रही है": "2026-08-22T09:38:13Z",
+   "21 अगस्त 2026": "2026-08-23T03:57:55Z"
   },
   "grave_links": {
    "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-08-22T21:33:13Z",

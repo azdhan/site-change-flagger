@@ -1,5 +1,55 @@
 [
  {
+  "id": "82744a2cfac8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-23T03:57:55Z",
+  "summary": "12 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Rudraprayag, Uttarakhand",
+   "Consumer Awareness Program at Aravalli (Gujarat) by Consumer Protection Association",
+   "Consumer Awareness Program at Banswara (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan",
+   "Dhanbad , Jharkhand",
+   "Banswara , Rajasthan",
+   "Consumer Awareness Program at Rudraprayag (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan",
+   "Consumer Awareness Program at Dhanbad (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED)",
+   "Aravalli, Gujarat"
+  ],
+  "removed_lines_total": 12,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "91b966ab625a",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-23T03:57:55Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "21 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "340d82c59cfe",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-23T03:57:55Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "dc8402ed21b7",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
