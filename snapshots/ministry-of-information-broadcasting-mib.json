@@ -609,7 +609,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-23T12:59:19Z",
+ "fetched_at": "2026-08-23T15:34:16Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -894,14 +894,14 @@
    "http://mib.gov.in/hi/offerings/notification/tender-notices": 0,
    "https://mib.gov.in/sites/default/files/2026-08/gazette-for-recruitment-rules-of-canteen-attendent.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 4,
-   "https://mib.gov.in/index.php/hi/related-link": 4,
-   "https://mib.gov.in/index.php/hi/archives": 4,
-   "https://mib.gov.in/index.php/hi/feedback": 4,
-   "https://mib.gov.in/index.php/hi/sitemap": 4,
-   "https://mib.gov.in/index.php/hi/help": 4,
-   "https://mib.gov.in/index.php/hi/website-policy": 4,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 4
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 5,
+   "https://mib.gov.in/index.php/hi/related-link": 5,
+   "https://mib.gov.in/index.php/hi/archives": 5,
+   "https://mib.gov.in/index.php/hi/feedback": 5,
+   "https://mib.gov.in/index.php/hi/sitemap": 5,
+   "https://mib.gov.in/index.php/hi/help": 5,
+   "https://mib.gov.in/index.php/hi/website-policy": 5,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 5
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
