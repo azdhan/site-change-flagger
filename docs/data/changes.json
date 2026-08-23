@@ -1,5 +1,28 @@
 [
  {
+  "id": "a840fe414633",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-23T06:58:17Z",
+  "summary": "14 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Ballia (UP) by Consumer Guild, Lucknow",
+   "Ballia, Uttar Pradesh",
+   "Latehar, Jharkhand",
+   "Ayodhya (UP), Uttar Pradesh",
+   "Consumer Awareness Program at Ayodhya (UP) by Rural Consumer Federation Shahjahanpur",
+   "Consumer Awareness Program at Latehar (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust",
+   "Consumer Awareness Programme at Banshdeeh (Bansdih) by Rural Consumer's Federation",
+   "Consumer Awareness Program at Hoshiarpur (Punjab) by Patiala Consumer & Telephone Subscribers Forum",
+   "Hoshiarpur, Punjab"
+  ],
+  "removed_lines_total": 14,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "82744a2cfac8",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
