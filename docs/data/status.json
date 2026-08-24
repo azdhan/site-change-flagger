@@ -2,33 +2,32 @@
  "ministry-of-electronics-it-meity": {
   "name": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
-  "last_checked": "2026-08-24T13:10:31Z",
-  "ok": false,
+  "last_checked": "2026-08-24T15:52:11Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-23T03:57:55Z",
-  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://meity.gov.in/\", waiting until \"domcontentloaded\"\n"
+  "last_change": "2026-08-24T15:52:11Z"
  },
  "ministry-of-information-broadcasting-mib": {
   "name": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
-  "last_checked": "2026-08-24T13:10:31Z",
-  "ok": false,
+  "last_checked": "2026-08-24T15:52:11Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-24T07:17:10Z",
-  "error": "fetch failed after retries: HTTPSConnectionPool(host='mib.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mib.gov.in', port=443) at 0x7f07b2ff0980>, 'Connection to mib.gov.in timed out. (connect timeout=45)'))"
+  "last_change": "2026-08-24T07:17:10Z"
  },
  "telecom-regulatory-authority-of-india-trai": {
   "name": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
-  "last_checked": "2026-08-24T13:10:31Z",
-  "ok": true,
+  "last_checked": "2026-08-24T15:52:11Z",
+  "ok": false,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-24T10:00:06Z"
+  "last_change": "2026-08-24T10:00:06Z",
+  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7f529c00eb40>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
  },
  "department-of-telecommunications-dot": {
   "name": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
-  "last_checked": "2026-08-24T13:10:31Z",
+  "last_checked": "2026-08-24T15:52:11Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-08-24T13:10:31Z"

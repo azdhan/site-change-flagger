@@ -1,5 +1,20 @@
 [
  {
+  "id": "544fcaabf3a6",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-24T15:52:11Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 24.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "9c8786240c26",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
