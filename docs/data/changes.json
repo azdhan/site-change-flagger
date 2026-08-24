@@ -1,5 +1,20 @@
 [
  {
+  "id": "9c8786240c26",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-24T13:10:31Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "दूरसंचार विभाग के मुख्यालय में तैनात अधिकारियों के बीच कार्य का आवंटन"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "da3eb6bf8ceb",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

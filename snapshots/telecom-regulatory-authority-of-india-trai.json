@@ -194,9 +194,9 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
+  "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
-  "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "31st July 2026",
@@ -208,16 +208,16 @@
   "Comments",
   "Counter Comments",
   "Events",
-  "Consumer Awareness Program at West Delhi (Delhi) by Federation of Coummunity Radio Station",
+  "Consumer Awareness Program at Udaipur (Rajasthan) by Radio Madhuban Community Society",
   "Date :",
   "Time :",
   "10:00 AM",
   "Location :",
-  "West Delhi, Delhi",
-  "Consumer Awareness Program at Udaipur (Rajasthan) by Radio Madhuban Community Society",
   "Udaipur, Rajasthan",
   "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society",
   "Chandigarh, Chandigarh",
+  "Consumer Awareness Program at West Delhi (Delhi) by Federation of Coummunity Radio Station",
+  "West Delhi, Delhi",
   "Consumer Awareness Program at Sri Ganganagar (Rajasthan) by Upbhokta Sanrakshan Samiti",
   "11:00 AM",
   "Sri Ganganagar, Rajasthan",
@@ -228,10 +228,10 @@
   "Bharatpur, Rajasthan",
   "Consumer Awareness Program at Simdega (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
   "Simdega, Jharkhand",
-  "Consumer Awareness Program at Baksa (Assam) by Gram Vikas Parishad",
-  "Baksa, Assam",
   "Consumer Awareness Program at Banda (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh",
   "Banda , Uttar Pradesh",
+  "Consumer Awareness Program at Baksa (Assam) by Gram Vikas Parishad",
+  "Baksa, Assam",
   "Consumer Outreach Program at Nagaon (Assam) by RO KOLKATA",
   "Nagaon, Assam",
   "TRAI Dashboard",
@@ -919,6 +919,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
    "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
   },
@@ -935,11 +943,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
-   "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "Explore"
   },
   {
@@ -948,14 +956,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "Explore"
   },
   {
@@ -987,16 +987,16 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-west-delhi-delhi-federation-coummunity-radio-station",
-   "text": "Consumer Awareness Program at West Delhi (Delhi) by Federation of Coummunity Radio Station"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-udaipur-rajasthan-radio-madhuban-community-society",
    "text": "Consumer Awareness Program at Udaipur (Rajasthan) by Radio Madhuban Community Society"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society-1",
    "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-west-delhi-delhi-federation-coummunity-radio-station",
+   "text": "Consumer Awareness Program at West Delhi (Delhi) by Federation of Coummunity Radio Station"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sri-ganganagar-rajasthan-upbhokta-sanrakshan-samiti",
@@ -1015,12 +1015,12 @@
    "text": "Consumer Awareness Program at Simdega (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-baksa-assam-gram-vikas-parishad",
-   "text": "Consumer Awareness Program at Baksa (Assam) by Gram Vikas Parishad"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banda-uttar-pradesh-indian-institute-technology",
    "text": "Consumer Awareness Program at Banda (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-baksa-assam-gram-vikas-parishad",
+   "text": "Consumer Awareness Program at Baksa (Assam) by Gram Vikas Parishad"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-nagaon-assam-ro-kolkata",
@@ -1224,7 +1224,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-24T10:00:06Z",
+ "fetched_at": "2026-08-24T13:10:31Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1507,7 +1507,7 @@
    "10:00 AM": 0,
    "Newsletter": 0,
    "TRAI releases Telecom Subscription Data as on June 2026": 0,
-   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 1,
+   "TRAI Assesses Mobile Network Quality Across Godda Lok Sabha Constituency comprising parts of Deoghar, Godda and Dumka Districts and adjoining areas in the State of Jharkhand under Bihar LSA.": 2,
    "28th July 2026": 0,
    "31st July 2026": 0,
    "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem": 0,
@@ -1529,20 +1529,20 @@
    "14th August 2026": 0,
    "11:30 AM": 0,
    "Chandigarh, Chandigarh": 0,
-   "21 August, 2026": 1,
+   "21 August, 2026": 2,
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society": 0,
-   "Chamoli, Uttarakhand": 2,
-   "Consumer Awareness Program at Chamoli (Uttarakhand) by PMRY Club": 2,
-   "Ambedkar Nagar, Uttar Pradesh": 2,
-   "Consumer Awareness Program at Harda (Madhya Pradesh) by Indian Institute of Technology & Entrepreneur Development (IITED), Madhya Pradesh": 2,
-   "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti": 2,
-   "Ramgarh, Jharkhand": 2,
-   "Harda , Madhya Pradesh": 2,
-   "10:30 AM": 2,
-   "Consumer Awareness Program at Ramgarh (Jharkhand) by Mahila Janshakti Sangathan": 2,
-   "Deeg, Rajasthan": 2,
+   "Chamoli, Uttarakhand": 3,
+   "Consumer Awareness Program at Chamoli (Uttarakhand) by PMRY Club": 3,
+   "Ambedkar Nagar, Uttar Pradesh": 3,
+   "Consumer Awareness Program at Harda (Madhya Pradesh) by Indian Institute of Technology & Entrepreneur Development (IITED), Madhya Pradesh": 3,
+   "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti": 3,
+   "Ramgarh, Jharkhand": 3,
+   "Harda , Madhya Pradesh": 3,
+   "10:30 AM": 3,
+   "Consumer Awareness Program at Ramgarh (Jharkhand) by Mahila Janshakti Sangathan": 3,
+   "Deeg, Rajasthan": 3,
    "Consumer Awareness Program at West Delhi (Delhi) by Federation of Coummunity Radio Station": 0,
-   "Consumer Awareness Program at Deeg (Rajasthan) by Navjeevan Society": 2,
+   "Consumer Awareness Program at Deeg (Rajasthan) by Navjeevan Society": 3,
    "Consumer Awareness Program at Udaipur (Rajasthan) by Radio Madhuban Community Society": 0,
    "Sri Ganganagar, Rajasthan": 0,
    "Consumer Awareness Program at Sri Ganganagar (Rajasthan) by Upbhokta Sanrakshan Samiti": 0,
@@ -1550,7 +1550,7 @@
    "Udaipur, Rajasthan": 0,
    "Buldhana , Maharashtra": 0,
    "Consumer Awareness Program at Buldhana (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra": 0,
-   "Bapatla, Andhra Pradesh": 1,
+   "Bapatla, Andhra Pradesh": 2,
    "Bharatpur, Rajasthan": 0,
    "Consumer Awareness Program at Banda (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh": 0,
    "Consumer Awareness Program at Simdega (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY": 0,
@@ -1559,7 +1559,7 @@
    "Consumer Outreach Program at Nagaon (Assam) by RO KOLKATA": 0,
    "Nagaon, Assam": 0,
    "Consumer Awareness Program at Bharatpur (Rajasthan) by Navjeevan Society": 0,
-   "Consumer Awareness Program at Bapatla (Andhra Pradesh) by Rural Action for Social Services": 1,
+   "Consumer Awareness Program at Bapatla (Andhra Pradesh) by Rural Action for Social Services": 2,
    "Consumer Awareness Program at Baksa (Assam) by Gram Vikas Parishad": 0,
    "24 August, 2026": 0,
    "Baksa, Assam": 0
@@ -1759,8 +1759,8 @@
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-godda-lok-sabha": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-june-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-hosts-workshop-improve-quality-audit-das-ecosystem-0": 0,
@@ -1782,17 +1782,17 @@
    "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ramgarh-jharkhand-mahila-janshakti-sangathan": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamoli-uttarakhand-pmry-club": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-harda-madhya-pradesh-indian-institute-technology": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ambedkar-nagar-uttar-pradesh-nyay-bharti": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ramgarh-jharkhand-mahila-janshakti-sangathan": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamoli-uttarakhand-pmry-club": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-harda-madhya-pradesh-indian-institute-technology": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ambedkar-nagar-uttar-pradesh-nyay-bharti": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-udaipur-rajasthan-radio-madhuban-community-society": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deeg-rajasthan-navjeevan-society": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deeg-rajasthan-navjeevan-society": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-west-delhi-delhi-federation-coummunity-radio-station": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sri-ganganagar-rajasthan-upbhokta-sanrakshan-samiti": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-radio-madhuban-community-society-1": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-buldhana-maharashtra-indian-institute-technology": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bapatla-andhra-pradesh-rural-action-social-services": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bapatla-andhra-pradesh-rural-action-social-services": 2,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-nagaon-assam-ro-kolkata": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharatpur-rajasthan-navjeevan-society": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banda-uttar-pradesh-indian-institute-technology": 0,
