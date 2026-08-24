@@ -609,7 +609,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-24T01:55:25Z",
+ "fetched_at": "2026-08-24T04:02:12Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -893,7 +893,9 @@
    "https://mib.gov.in/sites/default/files/2025-10/hindi-vacancy-circular-om-dated-10-10-2025-advertisement-for-ro-cbfc-cuttack-delhi-hyderabad-kolkata-and-mumbai-1.pdf": 0,
    "http://mib.gov.in/hi/offerings/notification/tender-notices": 0,
    "https://mib.gov.in/sites/default/files/2026-08/gazette-for-recruitment-rules-of-canteen-attendent.pdf": 0,
-   "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0
+   "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0,
+   "https://tourism.gov.in/": 0,
+   "https://www.cpwd.gov.in/default.aspx": 0
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
