@@ -2,15 +2,16 @@
  "ministry-of-electronics-it-meity": {
   "name": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
-  "last_checked": "2026-08-24T07:17:10Z",
-  "ok": true,
+  "last_checked": "2026-08-24T10:00:06Z",
+  "ok": false,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-23T03:57:55Z"
+  "last_change": "2026-08-23T03:57:55Z",
+  "error": "Page.evaluate: Execution context was destroyed, most likely because of a navigation"
  },
  "ministry-of-information-broadcasting-mib": {
   "name": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
-  "last_checked": "2026-08-24T07:17:10Z",
+  "last_checked": "2026-08-24T10:00:06Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-08-24T07:17:10Z"
@@ -18,15 +19,15 @@
  "telecom-regulatory-authority-of-india-trai": {
   "name": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
-  "last_checked": "2026-08-24T07:17:10Z",
+  "last_checked": "2026-08-24T10:00:06Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-24T07:17:10Z"
+  "last_change": "2026-08-24T10:00:06Z"
  },
  "department-of-telecommunications-dot": {
   "name": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
-  "last_checked": "2026-08-24T07:17:10Z",
+  "last_checked": "2026-08-24T10:00:06Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-08-24T07:17:10Z"
