@@ -1,5 +1,87 @@
 [
  {
+  "id": "441af329cc09",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-24T07:17:10Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "केन्द्रीय संचार मंत्री श्री. ज्योतिरादित्य एम. सिंधिया ने पुणे में 12वीं ब्रिकस संचार मंत्रियों की बैठक का नेतृत्व किया, सतत आई. सी. टी. अवसंरचना और डिजिटल समावेशिता पर जोर दिया",
+   "अंतिम बार अद्यतन किया गयाः 24.08.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "703e290a232b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-24T07:17:10Z",
+  "summary": "5 new links, 10 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Bharatpur (Rajasthan) by Navjeevan Society",
+   "Bharatpur, Rajasthan",
+   "Consumer Awareness Program at Simdega (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
+   "Simdega, Jharkhand",
+   "Consumer Awareness Program at Banda (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh",
+   "Banda , Uttar Pradesh",
+   "Consumer Outreach Program at Nagaon (Assam) by RO KOLKATA",
+   "Nagaon, Assam",
+   "Consumer Awareness Program at Bapatla (Andhra Pradesh) by Rural Action for Social Services",
+   "Bapatla, Andhra Pradesh"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharatpur-rajasthan-navjeevan-society",
+    "text": "Consumer Awareness Program at Bharatpur (Rajasthan) by Navjeevan Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-simdega-jharkhand-pragati-educational-academy",
+    "text": "Consumer Awareness Program at Simdega (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banda-uttar-pradesh-indian-institute-technology",
+    "text": "Consumer Awareness Program at Banda (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-nagaon-assam-ro-kolkata",
+    "text": "Consumer Outreach Program at Nagaon (Assam) by RO KOLKATA"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bapatla-andhra-pradesh-rural-action-social-services",
+    "text": "Consumer Awareness Program at Bapatla (Andhra Pradesh) by Rural Action for Social Services"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "55dc79d16d96",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-24T07:17:10Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "डॉ. एल. मुरुगन की अध्यक्षता में 57वें आईएफएफआई की प्रथम संचालन समिति की बैठक आयोजित की गई, जिसमें महोत्सव की तैयारियों की समीक्षा की गई",
+   "24 अगस्त 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302344&reg=3&lang=2",
+    "text": "डॉ. एल. मुरुगन की अध्यक्षता में 57वें आईएफएफआई की प्रथम संचालन समिति की बैठक आयोजित की गई, जिसमें महोत्सव की तैयारियों की समीक्षा की गई"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "6b3fdb921c51",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
