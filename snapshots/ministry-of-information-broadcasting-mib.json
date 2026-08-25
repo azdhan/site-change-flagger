@@ -167,7 +167,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "25 अगस्त 2026"
+  "24 अगस्त 2026"
  ],
  "links": [
   {
@@ -451,7 +451,7 @@
    "text": "View More"
   },
   {
-   "url": "https://mib.gov.in/hi/whats-new",
+   "url": "https://mib.gov.in/whats-new",
    "text": "और देखें"
   },
   {
@@ -563,27 +563,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -612,7 +620,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-25T13:08:27Z",
+ "fetched_at": "2026-08-25T15:56:10Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -774,9 +782,7 @@
    "2.13 मेगा बाइट |": 0,
    "सीबीसी एवं डीपीडी के कला एवं उत्पादन स्टाफ के सामान्य कैडर में प्रतिनियुक्ति के…": 0,
    "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या…": 0,
-   "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या के प्रसारण के संबंध में एडवाइजरी दिनांक 13.08.2026": 7,
    "242.77 किलोबाइट |": 0,
-   "परामर्श": 7,
    "सरकार ने टेलीविजन चैनलों के लिए 12 मिनट की विज्ञापन समय-सीमा समाप्त की": 0,
    "सूचना और प्रसारण मंत्रालय के अंतर्गत केंद्रीय फिल्म प्रमाणन बोर्ड के क्षेत्रीय कार्यालयों- यथा- कटक, दिल्ली, हैदराबाद, कोलकाता और मुंबई (प्रत्येक में एक) में क्षेत्रीय अधिकारी के पांच पदों को भरने के संबंध में।": 0,
    "2.09 मेगा बाइट |": 0,
@@ -785,10 +791,9 @@
    "अधिनियम/नीति/दिशानिर्देश": 0,
    "निविदा सूचनाएँ": 0,
    "राजपत्रित नियमावली – कैंटीन अटेंडेंट": 0,
-   "22 अगस्त 2026": 7,
    "डॉ. एल. मुरुगन की अध्यक्षता में 57वें आईएफएफआई की प्रथम संचालन समिति की बैठक आयोजित की गई, जिसमें महोत्सव की तैयारियों की समीक्षा की गई": 0,
-   "24 अगस्त 2026": 1,
-   "25 अगस्त 2026": 0
+   "24 अगस्त 2026": 0,
+   "25 अगस्त 2026": 1
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -853,7 +858,7 @@
    "https://mib.gov.in/sites/default/files/srfti-annual-report-2024-25.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-02/revised-republic-day-parade-advisory-2.pdf": 0,
    "http://mib.gov.in/hi/whats-new": 0,
-   "https://mib.gov.in/whats-new": 2,
+   "https://mib.gov.in/whats-new": 0,
    "http://mib.gov.in/hi/documents/reports": 0,
    "https://mib.gov.in/hi/persona/media": 0,
    "https://mib.gov.in/hi/persona/researcher": 0,
@@ -878,12 +883,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -900,10 +905,16 @@
    "http://mib.gov.in/hi/offerings/notification/tender-notices": 0,
    "https://mib.gov.in/sites/default/files/2026-08/gazette-for-recruitment-rules-of-canteen-attendent.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0,
-   "https://tourism.gov.in/": 7,
-   "https://www.cpwd.gov.in/default.aspx": 7,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302344&reg=3&lang=2": 0,
-   "https://mib.gov.in/hi/whats-new": 0
+   "https://mib.gov.in/hi/whats-new": 1,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/help": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
@@ -960,7 +971,10 @@
    "गणतंत्र दिवस 2026 के प्रसारणसमारोह के लिए निजी सैटेलाइट टीवी चैनलों द्वारा…": "2026-08-22T09:38:13Z",
    "नेशनल एआई स्किलिंग पहल के प्रथम चरण में 60,253 लोगों ने पंजीकरण कराया;": "2026-08-22T09:38:13Z",
    "सरकार पीआईबी फैक्ट-चेकिंग, सार्वजनिक-सेवा प्रसारण और डिजिटल मीडिया नियमनों के जरिए विश्वसनीय सूचना के प्रसार के कार्य को मजबूत करने का प्रयास कर रही है": "2026-08-22T09:38:13Z",
-   "21 अगस्त 2026": "2026-08-23T03:57:55Z"
+   "21 अगस्त 2026": "2026-08-23T03:57:55Z",
+   "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या के प्रसारण के संबंध में एडवाइजरी दिनांक 13.08.2026": "2026-08-25T15:56:10Z",
+   "परामर्श": "2026-08-25T15:56:10Z",
+   "22 अगस्त 2026": "2026-08-25T15:56:10Z"
   },
   "grave_links": {
    "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-08-24T01:55:25Z",
@@ -996,7 +1010,9 @@
    "https://mib.gov.in/sites/default/files/2025-12/filling-up-of-01-post-of-production-manager-printed_0.pdf": "2026-08-22T09:38:13Z",
    "https://mib.gov.in/sites/default/files/2026-01/ganatantara-daivasa-2026-kae-parasaaranasamaaraoha-kae-laie-naijai-saaitaelaaita-taivai-caainalaon-davaaraa-saankaetaika-bhaasaa-maen-vayaakhayaa-kai-sauvaidhaa-upalabadha-karaanae-haetau-dainaanka-22.01.2026-kaa-1.pdf": "2026-08-22T09:38:13Z",
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298365&reg=3&lang=2": "2026-08-22T09:38:13Z",
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298189&reg=3&lang=1": "2026-08-22T09:38:13Z"
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2298189&reg=3&lang=1": "2026-08-22T09:38:13Z",
+   "https://tourism.gov.in/": "2026-08-25T15:56:10Z",
+   "https://www.cpwd.gov.in/default.aspx": "2026-08-25T15:56:10Z"
   }
  }
 }

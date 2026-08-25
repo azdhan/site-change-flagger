@@ -1,5 +1,80 @@
 [
  {
+  "id": "4d9618c8e682",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-25T15:56:10Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार और ग्रामीण विकास राज्य मंत्री डॉ. चंद्रशेखर पेम्मासानी के साथ सी-डॉट के 43वें स्थापना दिवस समारोह में भाग लिया"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "fa1d42fb61b1",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-25T15:56:10Z",
+  "summary": "3 new links, 5 new text blocks, 15 items no longer on page",
+  "added_lines": [
+   "25th August 2026",
+   "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
+   "Consumer Awareness Program at East Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi",
+   "East Delhi, Delhi",
+   "25 August, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "Chamoli, Uttarakhand",
+   "Consumer Awareness Program at Chamoli (Uttarakhand) by PMRY Club",
+   "Ambedkar Nagar, Uttar Pradesh",
+   "Consumer Awareness Program at Harda (Madhya Pradesh) by Indian Institute of Technology & Entrepreneur Development (IITED), Madhya Pradesh",
+   "Consumer Awareness Program at Ambedkar Nagar (Uttar Pradesh) by Nyay Bharti",
+   "Ramgarh, Jharkhand",
+   "Harda , Madhya Pradesh",
+   "Consumer Awareness Program at Ramgarh (Jharkhand) by Mahila Janshakti Sangathan",
+   "Deeg, Rajasthan",
+   "Consumer Awareness Program at Deeg (Rajasthan) by Navjeevan Society"
+  ],
+  "removed_lines_total": 15,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0",
+    "text": "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broad"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-east-delhi-delhi-indian-institute-technology",
+    "text": "Consumer Awareness Program at East Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "1f8ec8863139",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-25T15:56:10Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या के प्रसारण के संबंध में एडवाइजरी दिनांक 13.08.2026",
+   "परामर्श",
+   "22 अगस्त 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "ff0e935d52b4",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
