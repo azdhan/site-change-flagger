@@ -451,7 +451,7 @@
    "text": "View More"
   },
   {
-   "url": "https://mib.gov.in/whats-new",
+   "url": "https://mib.gov.in/hi/whats-new",
    "text": "और देखें"
   },
   {
@@ -612,7 +612,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-24T21:41:27Z",
+ "fetched_at": "2026-08-25T09:49:02Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -774,9 +774,9 @@
    "2.13 मेगा बाइट |": 0,
    "सीबीसी एवं डीपीडी के कला एवं उत्पादन स्टाफ के सामान्य कैडर में प्रतिनियुक्ति के…": 0,
    "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या…": 0,
-   "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या के प्रसारण के संबंध में एडवाइजरी दिनांक 13.08.2026": 5,
+   "टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या के प्रसारण के संबंध में एडवाइजरी दिनांक 13.08.2026": 6,
    "242.77 किलोबाइट |": 0,
-   "परामर्श": 5,
+   "परामर्श": 6,
    "सरकार ने टेलीविजन चैनलों के लिए 12 मिनट की विज्ञापन समय-सीमा समाप्त की": 0,
    "सूचना और प्रसारण मंत्रालय के अंतर्गत केंद्रीय फिल्म प्रमाणन बोर्ड के क्षेत्रीय कार्यालयों- यथा- कटक, दिल्ली, हैदराबाद, कोलकाता और मुंबई (प्रत्येक में एक) में क्षेत्रीय अधिकारी के पांच पदों को भरने के संबंध में।": 0,
    "2.09 मेगा बाइट |": 0,
@@ -785,7 +785,7 @@
    "अधिनियम/नीति/दिशानिर्देश": 0,
    "निविदा सूचनाएँ": 0,
    "राजपत्रित नियमावली – कैंटीन अटेंडेंट": 0,
-   "22 अगस्त 2026": 5,
+   "22 अगस्त 2026": 6,
    "डॉ. एल. मुरुगन की अध्यक्षता में 57वें आईएफएफआई की प्रथम संचालन समिति की बैठक आयोजित की गई, जिसमें महोत्सव की तैयारियों की समीक्षा की गई": 0,
    "24 अगस्त 2026": 0
   },
@@ -852,7 +852,7 @@
    "https://mib.gov.in/sites/default/files/srfti-annual-report-2024-25.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-02/revised-republic-day-parade-advisory-2.pdf": 0,
    "http://mib.gov.in/hi/whats-new": 0,
-   "https://mib.gov.in/whats-new": 0,
+   "https://mib.gov.in/whats-new": 1,
    "http://mib.gov.in/hi/documents/reports": 0,
    "https://mib.gov.in/hi/persona/media": 0,
    "https://mib.gov.in/hi/persona/researcher": 0,
@@ -899,9 +899,10 @@
    "http://mib.gov.in/hi/offerings/notification/tender-notices": 0,
    "https://mib.gov.in/sites/default/files/2026-08/gazette-for-recruitment-rules-of-canteen-attendent.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0,
-   "https://tourism.gov.in/": 5,
-   "https://www.cpwd.gov.in/default.aspx": 5,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302344&reg=3&lang=2": 0
+   "https://tourism.gov.in/": 6,
+   "https://www.cpwd.gov.in/default.aspx": 6,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2302344&reg=3&lang=2": 0,
+   "https://mib.gov.in/hi/whats-new": 0
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",

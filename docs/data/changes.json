@@ -1,5 +1,23 @@
 [
  {
+  "id": "c87b167130f2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-25T09:49:02Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/hi/whats-new",
+    "text": "और देखें"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "c19e51730bbc",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
