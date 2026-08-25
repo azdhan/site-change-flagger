@@ -1,5 +1,73 @@
 [
  {
+  "id": "c19e51730bbc",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-25T07:05:47Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 25.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "9823c32234f8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-25T07:05:47Z",
+  "summary": "4 new links, 7 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Kendujhar (Odisha) by VIKASH",
+   "Keonjhar, Odisha",
+   "Consumer Awareness Program at Saitual (Mizoram) by Mizoram Consumers' Union Hqrs",
+   "Saitual , Mizoram",
+   "Saitual, Mizoram",
+   "Consumer Awareness Program at Prakasam (Andhra Pradesh) by P.S.S. Educational Development Society",
+   "Prakasam, Andhra Pradesh"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-vikash",
+    "text": "Consumer Awareness Program at Kendujhar (Odisha) by VIKASH"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-saitual-mizoram-mizoram-consumers-union-hqrs-0",
+    "text": "Consumer Awareness Program at Saitual (Mizoram) by Mizoram Consumers' Union Hqrs"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-saitual-mizoram-mizoram-consumers-union-hqrs",
+    "text": "Consumer Awareness Program at Saitual (Mizoram) by Mizoram Consumers' Union Hqrs"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-prakasam-andhra-pradesh-pss-educational-development",
+    "text": "Consumer Awareness Program at Prakasam (Andhra Pradesh) by P.S.S. Educational Development Society"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "c14b32be4567",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-25T07:05:47Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 25.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "544fcaabf3a6",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",

@@ -100,12 +100,7 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
-  "Shri Ashwini Vaishnaw",
-  "HON’BLE MINISTER",
-  "Shri Jitin Prasada",
-  "HON’BLE MINISTER OF STATE",
-  "Key Offerings",
+  "प्रमुख प्रस्ताव",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "arrow_forward_ios",
   "Electronics Component Manufacturing Scheme",
@@ -146,7 +141,7 @@
   "फीडबैक",
   "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 24.08.2026",
+  "अंतिम बार अद्यतन किया गयाः 25.08.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -294,14 +289,6 @@
    "text": "open_in_new कार्यक्रम देखें"
   },
   {
-   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
-   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
-  },
-  {
-   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
-   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
-  },
-  {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
    "text": "NeGD’s Non-Technical (Summer) Internship Programme"
   },
@@ -415,7 +402,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-24T18:56:25Z",
+ "fetched_at": "2026-08-25T07:05:47Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -573,7 +560,7 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 0,
+   "Key Offerings": 1,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
@@ -631,7 +618,8 @@
    "महानिदेशक, आईसीईआरटी के पद को भरना": 0,
    "अंतिम बार अद्यतन किया गयाः 20.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 21.08.2026": 0,
-   "अंतिम बार अद्यतन किया गयाः 24.08.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 24.08.2026": 0,
+   "अंतिम बार अद्यतन किया गयाः 25.08.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
