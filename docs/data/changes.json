@@ -1,5 +1,36 @@
 [
  {
+  "id": "ff0e935d52b4",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-25T13:08:27Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री जितेंद्र खरे, स्टाफ नं। 20602",
+   "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री हर्षित मोदी, स्टाफ नं. 21394"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8de6fc3d053f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-25T13:08:27Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "25 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "c87b167130f2",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",

@@ -2,7 +2,7 @@
  "ministry-of-electronics-it-meity": {
   "name": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
-  "last_checked": "2026-08-25T09:49:02Z",
+  "last_checked": "2026-08-25T13:08:27Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-08-25T07:05:47Z"
@@ -10,27 +10,26 @@
  "ministry-of-information-broadcasting-mib": {
   "name": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
-  "last_checked": "2026-08-25T09:49:02Z",
+  "last_checked": "2026-08-25T13:08:27Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-25T09:49:02Z"
+  "last_change": "2026-08-25T13:08:27Z"
  },
  "telecom-regulatory-authority-of-india-trai": {
   "name": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
-  "last_checked": "2026-08-25T09:49:02Z",
+  "last_checked": "2026-08-25T13:08:27Z",
   "ok": false,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-08-25T07:05:47Z",
-  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7f2ee0b555b0>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
+  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7fab6dc83f20>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
  },
  "department-of-telecommunications-dot": {
   "name": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
-  "last_checked": "2026-08-25T09:49:02Z",
-  "ok": false,
+  "last_checked": "2026-08-25T13:08:27Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-25T07:05:47Z",
-  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://dot.gov.in/\", waiting until \"domcontentloaded\"\n"
+  "last_change": "2026-08-25T13:08:27Z"
  }
 }
