@@ -1,5 +1,154 @@
 [
  {
+  "id": "347d6dd8ccb4",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-25T18:54:28Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "21 August, 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "827ca623539b",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-25T18:54:28Z",
+  "summary": "33 new links",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/index.php/hi",
+    "text": "मुख्य पृष्ठ"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/about-us",
+    "text": "हमारे बारे में"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/organizations",
+    "text": "हमारा संगठन"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/about-us/team",
+    "text": "हमारी टीम"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/our-wings",
+    "text": "हमारे विंग"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/directory",
+    "text": "निर्देशिका"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/our-performance",
+    "text": "हमारा प्रदर्शन"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/offerings/notification/tender-notices",
+    "text": "निविदा सूचना"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/offerings/schemes-monitoring",
+    "text": "योजनाएं एवं निगरानी"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/offerings/vacancies",
+    "text": "रिक्तियां"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/offerings/FM-radio-auctions",
+    "text": "एफएम रेडियो नीलामी"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/documents/reports",
+    "text": "रिपोर्ट"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/documents/notification/notices",
+    "text": "आदेश एवं नोटिस"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/documents/notification/acts-policy-guidelines",
+    "text": "अधिनियम/नीतियां/दिशानिर्देश"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/documents/notification/press-releases",
+    "text": "प्रेस विज्ञप्ति"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/documents/notification/Other-communication",
+    "text": "अन्य संचार"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/provisions-regarding-official-language",
+    "text": "राजभाषा संबंधी प्रावधान"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/document/e-book-handbook",
+    "text": "ई-बुक/हैंडबुक"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/chief-controller-of-accounts",
+    "text": "सीसीए"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/media/photo-gallery",
+    "text": "फोटोज"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/media/video-gallery",
+    "text": "वीडियोस"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/persona/media/mann_ki_baat",
+    "text": "मन की बात"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/connect/grievance-redressal",
+    "text": "शिकायत निवारण"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/connect/rti",
+    "text": "सूचना का अधिकार"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/connect/indian-information-service-page",
+    "text": "भारतीय सूचना सेवा"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/documents/citizen_charter",
+    "text": "नागरिक चार्टर"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/connect/vigilance",
+    "text": "सतर्कता"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/connect/e-sewa",
+    "text": "ई-सेवा"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/connect/parliament-question",
+    "text": "संसद के मामले"
+   },
+   {
+    "url": "https://mib.gov.in/index.php/hi/ministry/about-us/sarai-asavainai-vaaisanava",
+    "text": "श्री अश्विनी वैष्णव"
+   }
+  ],
+  "new_links_total": 33
+ },
+ {
   "id": "4d9618c8e682",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
