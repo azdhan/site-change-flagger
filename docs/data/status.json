@@ -2,34 +2,32 @@
  "ministry-of-electronics-it-meity": {
   "name": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
-  "last_checked": "2026-08-26T16:33:56Z",
-  "ok": false,
+  "last_checked": "2026-08-26T19:58:58Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-25T07:05:47Z",
-  "error": "Page.evaluate: Execution context was destroyed, most likely because of a navigation"
+  "last_change": "2026-08-25T07:05:47Z"
  },
  "ministry-of-information-broadcasting-mib": {
   "name": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
-  "last_checked": "2026-08-26T16:33:56Z",
-  "ok": false,
+  "last_checked": "2026-08-26T19:58:58Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-25T18:54:28Z",
-  "error": "fetch failed after retries: HTTPSConnectionPool(host='mib.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mib.gov.in', port=443) at 0x7fdc6c2eb680>, 'Connection to mib.gov.in timed out. (connect timeout=45)'))"
+  "last_change": "2026-08-25T18:54:28Z"
  },
  "telecom-regulatory-authority-of-india-trai": {
   "name": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
-  "last_checked": "2026-08-26T16:33:56Z",
+  "last_checked": "2026-08-26T19:58:58Z",
   "ok": false,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-08-26T09:54:33Z",
-  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7fdc6ca5e660>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
+  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7f7dc154ed80>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
  },
  "department-of-telecommunications-dot": {
   "name": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
-  "last_checked": "2026-08-26T16:33:56Z",
+  "last_checked": "2026-08-26T19:58:58Z",
   "ok": false,
   "baseline_at": "2026-07-07T19:13:41Z",
   "last_change": "2026-08-25T15:56:10Z",
