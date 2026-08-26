@@ -1,5 +1,26 @@
 [
  {
+  "id": "5b95b3dc64b0",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-26T01:55:48Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Indian Institute Of Technology & Enterpreneur Development (IITED), Chandigarh",
+   "Chandigarh , Chandigarh"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-indian-institute-technology",
+    "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Indian Institute Of Technology & Enterpreneur Development (IITED), Chandigarh"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "347d6dd8ccb4",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
