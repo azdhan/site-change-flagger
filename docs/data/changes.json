@@ -1,5 +1,27 @@
 [
  {
+  "id": "a0e25b5b4110",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-26T09:54:33Z",
+  "summary": "13 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at West Delhi (Delhi) by Federation of Coummunity Radio Station",
+   "Consumer Awareness Program at Udaipur (Rajasthan) by Radio Madhuban Community Society",
+   "Sri Ganganagar, Rajasthan",
+   "Consumer Awareness Program at Sri Ganganagar (Rajasthan) by Upbhokta Sanrakshan Samiti",
+   "West Delhi, Delhi",
+   "Udaipur, Rajasthan",
+   "Buldhana , Maharashtra",
+   "Consumer Awareness Program at Buldhana (Maharashtra) by Indian Institute of Technology & Entrepreneur Development (IITED), Maharashtra"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "3e6ac6abf601",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
