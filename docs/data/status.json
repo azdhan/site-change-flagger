@@ -2,35 +2,34 @@
  "ministry-of-electronics-it-meity": {
   "name": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
-  "last_checked": "2026-08-26T19:58:58Z",
-  "ok": true,
+  "last_checked": "2026-08-27T00:45:58Z",
+  "ok": false,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-25T07:05:47Z"
+  "last_change": "2026-08-25T07:05:47Z",
+  "error": "Page.evaluate: Execution context was destroyed, most likely because of a navigation"
  },
  "ministry-of-information-broadcasting-mib": {
   "name": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
-  "last_checked": "2026-08-26T19:58:58Z",
+  "last_checked": "2026-08-27T00:45:58Z",
   "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-25T18:54:28Z"
+  "last_change": "2026-08-27T00:45:58Z"
  },
  "telecom-regulatory-authority-of-india-trai": {
   "name": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
-  "last_checked": "2026-08-26T19:58:58Z",
-  "ok": false,
+  "last_checked": "2026-08-27T00:45:58Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-26T09:54:33Z",
-  "error": "fetch failed after retries: HTTPSConnectionPool(host='www.trai.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.trai.gov.in', port=443) at 0x7f7dc154ed80>, 'Connection to www.trai.gov.in timed out. (connect timeout=45)'))"
+  "last_change": "2026-08-27T00:45:58Z"
  },
  "department-of-telecommunications-dot": {
   "name": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
-  "last_checked": "2026-08-26T19:58:58Z",
-  "ok": false,
+  "last_checked": "2026-08-27T00:45:58Z",
+  "ok": true,
   "baseline_at": "2026-07-07T19:13:41Z",
-  "last_change": "2026-08-25T15:56:10Z",
-  "error": "Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://dot.gov.in/\", waiting until \"domcontentloaded\"\n"
+  "last_change": "2026-08-25T15:56:10Z"
  }
 }
