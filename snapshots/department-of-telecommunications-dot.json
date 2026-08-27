@@ -1,8 +1,462 @@
 {
- "lines": [],
- "links": [],
+ "lines": [
+  "Home | Ministry of Communications, Department of Telecommunications",
+  "English",
+  "Hindi",
+  "(हिन्दी)",
+  "Assamese",
+  "(অসমীয়া)",
+  "Bengali",
+  "(বাংলা)",
+  "Bodo",
+  "(बड़ो)",
+  "Dogri",
+  "(डोगरी)",
+  "Goan Konkani",
+  "(गोवा कोंकणी)",
+  "Gujarati",
+  "(ગુજરાતી)",
+  "Kannada",
+  "(ಕನ್ನಡ)",
+  "Kashmiri",
+  "(कश्मीरी)",
+  "Maithili",
+  "(मैथिली)",
+  "Malayalam",
+  "(മലയാളം)",
+  "Manipuri",
+  "(মণিপুরী)",
+  "Marathi",
+  "(मराठी)",
+  "Nepali",
+  "(नेपाली)",
+  "Odia",
+  "(ଓଡ଼ିଆ)",
+  "Punjabi",
+  "(ਪੰਜਾਬੀ)",
+  "Sanskrit",
+  "(संस्कृत)",
+  "Santali",
+  "(संताली)",
+  "Sindhi",
+  "(سنڌي)",
+  "Tamil",
+  "(தமிழ்)",
+  "Telugu",
+  "(తెలుగు)",
+  "Urdu",
+  "(اردو)",
+  "Powered by",
+  "भारत सरकार",
+  "संचार मंत्रालय, दूरसंचार विभाग",
+  "search",
+  "menu",
+  "Home",
+  "Ministry",
+  "expand_more",
+  "About Us",
+  "Our Team",
+  "Our Division",
+  "Our Organisation",
+  "Our Performance",
+  "Directory",
+  "Offerings",
+  "Schemes and Services",
+  "Vacancies",
+  "Tenders",
+  "Competition and Awards",
+  "International Collaboration",
+  "Initiative",
+  "Documents",
+  "Reports",
+  "Orders and Notices",
+  "Acts and Policies",
+  "Publications",
+  "Press Release",
+  "Gazettes Notifications",
+  "Guidelines",
+  "Media",
+  "Photos",
+  "Videos",
+  "Brochures",
+  "Connect",
+  "Contact Us",
+  "RTI",
+  "Grievance Redressal",
+  "Citizen Engagement",
+  "Parliament Questions",
+  "मंत्रालय",
+  "पेशकशें",
+  "दस्तावेज़",
+  "मीडिया",
+  "जुड़ें",
+  "pause",
+  "chevron_left",
+  "chevron_right",
+  "घोषणाएं",
+  "दूरसंचार ई-सेवा पोर्टल",
+  "मोबाइल, दूरसंचार, इलेक्ट्रॉनिक्स और प्रौद्योगिकी के पूरे पारिस्थितिकी तंत्र में, जहां भी वैश्विक चुनौती है, भारत के पास दुनिया को समाधान प्रदान करने का अवसर है।",
+  "इकोनॉमिक टाइम्स",
+  "open_in_new",
+  "कार्यक्रम देखें",
+  "हमारे बारे में",
+  "दूरसंचार सेवाओं को दुनिया भर में एक राष्ट्र के लिए सामाजिक-आर्थिक विकास के लिए एक महत्वपूर्ण उपकरण के रूप में मान्यता दी गई है और इसलिए दूरसंचार बुनियादी ढांचे को भारत में सामाजिक-आर्थिक उद्देश्यों को प्राप्त करने के लिए एक महत्वपूर्ण कारक के रूप में माना जाता है। तदनुसार, दूरसंचार विभाग दूरसंचार सेवाओं के त्वरित विकास के लिए विकासात्मक नीतियां बना रहा है। विभाग एकीकृत अभिगम सेवा, इंटरनेट और वी. एस. ए. टी. सेवा जैसी विभिन्न दूरसंचार सेवाओं के लिए लाइसेंस देने के लिए भी जिम्मेदार है। विभाग अंतर्राष्ट्रीय निकायों के साथ घनिष्ठ समन्वय में रेडियो संचार के क्षेत्र में आवृत्ति प्रबंधन के लिए भी जिम्मेदार है। यह देश में सभी उपयोगकर्ताओं के वायरलेस संचरण की निगरानी करके वायरलेस नियामक उपायों को भी लागू करता है।",
+  "हमारी टीम",
+  "हमारा प्रभाग",
+  "हमारा संगठन",
+  "श्री ज्योतिरादित्य एम. सिंधिया",
+  "माननीय कैबिनेट मंत्री",
+  "डॉ. पेम्मासानी चंद्र शेखर",
+  "माननीय राज्य मंत्री",
+  "प्रमुख प्रस्ताव",
+  "योजनाएं और सेवाएँ",
+  "रिक्तियां",
+  "निविदाएं",
+  "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना",
+  "arrow_forward_ios",
+  "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल",
+  "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना",
+  "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता",
+  "100 5G Labs",
+  "अधिक देखें",
+  "नया क्या है",
+  "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
+  "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
+  "हाल के दस्तावेज़",
+  "आदेश और सूचनाएँ",
+  "शॉर्टकोड का आवंटन-2026",
+  "प्रेस विज्ञप्ति",
+  "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार और ग्रामीण विकास राज्य मंत्री डॉ. चंद्रशेखर पेम्मासानी के साथ सी-डॉट के 43वें स्थापना दिवस समारोह में भाग लिया",
+  "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री जितेंद्र खरे, स्टाफ नं। 20602",
+  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
+  "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
+  "मीडिया के लिए",
+  "For Industry Professional",
+  "For Researcher",
+  "For IT Professional",
+  "महत्वपूर्ण लिंक",
+  "एम. टी. सी. टी. ई. पोर्टल",
+  "खोदने से पहले कॉल करें",
+  "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
+  "राजस्व प्रबंधन सेवाएँ",
+  "Right Of Way -Telecom eServices Portal",
+  "सोशल मीडिया में",
+  "एक्स",
+  "यूट्यूब",
+  "फेसबुक",
+  "इंस्टाग्राम",
+  "In Social Media",
+  "Instagram",
+  "Youtube",
+  "Facebook",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद करें",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 27.08.2026",
+  "arrow_upward",
+  "Rate this translation",
+  "Do you like to give feedback",
+  "Submit"
+ ],
+ "links": [
+  {
+   "url": "https://bhashini.gov.in",
+   "text": ""
+  },
+  {
+   "url": "https://dot.gov.in/",
+   "text": "भारत सरकार संचार मंत्रालय, दूरसंचार विभाग"
+  },
+  {
+   "url": "https://www.digitalindia.gov.in/",
+   "text": ""
+  },
+  {
+   "url": "https://dot.gov.in/ministry",
+   "text": "About Us"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-team",
+   "text": "Our Team"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-division",
+   "text": "Our Division"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-organisation",
+   "text": "Our Organisation"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-performance",
+   "text": "Our Performance"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/directory",
+   "text": "Directory"
+  },
+  {
+   "url": "https://dot.gov.in/offerings",
+   "text": "Schemes and Services"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/vacancies",
+   "text": "Vacancies"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/tenders",
+   "text": "Tenders"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/competition-and-awards",
+   "text": "Competition and Awards"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/international-collaboration",
+   "text": "International Collaboration"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/initiative",
+   "text": "Initiative"
+  },
+  {
+   "url": "https://dot.gov.in/documents",
+   "text": "Reports"
+  },
+  {
+   "url": "https://dot.gov.in/documents/orders-and-notices",
+   "text": "Orders and Notices"
+  },
+  {
+   "url": "https://dot.gov.in/documents/acts-and-policies",
+   "text": "Acts and Policies"
+  },
+  {
+   "url": "https://dot.gov.in/documents/publications",
+   "text": "Publications"
+  },
+  {
+   "url": "https://dot.gov.in/documents/press-release",
+   "text": "Press Release"
+  },
+  {
+   "url": "https://dot.gov.in/documents/gazettes-notifications",
+   "text": "Gazettes Notifications"
+  },
+  {
+   "url": "https://dot.gov.in/documents/guidelines",
+   "text": "Guidelines"
+  },
+  {
+   "url": "https://dot.gov.in/media",
+   "text": "Photos"
+  },
+  {
+   "url": "https://dot.gov.in/media/videos",
+   "text": "Videos"
+  },
+  {
+   "url": "https://dot.gov.in/media/brochures",
+   "text": "Brochures"
+  },
+  {
+   "url": "https://dot.gov.in/connect",
+   "text": "Contact Us"
+  },
+  {
+   "url": "https://dot.gov.in/connect/directory",
+   "text": "Directory"
+  },
+  {
+   "url": "https://dot.gov.in/connect/rti",
+   "text": "RTI"
+  },
+  {
+   "url": "https://dot.gov.in/connect/grievance-redressal",
+   "text": "Grievance Redressal"
+  },
+  {
+   "url": "https://dot.gov.in/connect/citizen-engagement",
+   "text": "Citizen Engagement"
+  },
+  {
+   "url": "https://dot.gov.in/connect/parliament-questions",
+   "text": "Parliament Questions"
+  },
+  {
+   "url": "https://dot.gov.in/connect/visitors-pass",
+   "text": "Visitor's Pass"
+  },
+  {
+   "url": "https://eservices.dot.gov.in/",
+   "text": "दूरसंचार ई-सेवा पोर्टल"
+  },
+  {
+   "url": "https://m.economictimes.com/news/india/modi-inaugurates-india-mobile-congress-2025-at-delhis-yashobhoomi/amp_articleshow/124378439.cms",
+   "text": "open_in_new कार्यक्रम देखें"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-team/details/Shri%20Jyotiraditya%20M%20Scindia",
+   "text": "श्री ज्योतिरादित्य एम. सिंधिया माननीय कैबिनेट मंत्री"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-team/details/Dr.%20Pemmasani%20Chandra%20Sekhar",
+   "text": "डॉ. पेम्मासानी चंद्र शेखर माननीय राज्य मंत्री"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa",
+   "text": "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa",
+   "text": "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa",
+   "text": "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa",
+   "text": "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa",
+   "text": "100 5G Labs"
+  },
+  {
+   "url": "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf",
+   "text": "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया arrow_forward_ios"
+  },
+  {
+   "url": "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf",
+   "text": "राष्ट्रीय आवृत्ति आवंटन योजना-2025 arrow_forward_ios"
+  },
+  {
+   "url": "https://dot.gov.in/whats-new",
+   "text": "अधिक देखें chevron_right"
+  },
+  {
+   "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026",
+   "text": "आदेश और सूचनाएँ शॉर्टकोड का आवंटन-2026"
+  },
+  {
+   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)",
+   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)"
+  },
+  {
+   "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
+   "text": "मीडिया के लिए"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
+   "text": "For Industry Professional"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa",
+   "text": "For Researcher"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa",
+   "text": "For IT Professional"
+  },
+  {
+   "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
+   "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
+  },
+  {
+   "url": "https://eservices.dot.gov.in",
+   "text": "दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+  },
+  {
+   "url": "https://eservices.dot.gov.in/call-before-u-dig",
+   "text": "खोदने से पहले कॉल करें arrow_forward_ios"
+  },
+  {
+   "url": "https://eservices.dot.gov.in/app-provider",
+   "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+  },
+  {
+   "url": "https://eservices.dot.gov.in/about-mtcte",
+   "text": "राजस्व प्रबंधन सेवाएँ arrow_forward_ios"
+  },
+  {
+   "url": "https://eservices.dot.gov.in/right-of-way-permissions",
+   "text": "Right Of Way -Telecom eServices Portal arrow_forward_ios"
+  },
+  {
+   "url": "https://dot.gov.in/important-links",
+   "text": "अधिक देखें chevron_right"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://dot.gov.in/archives?page=tenders",
+   "text": "अभिलेखागार"
+  },
+  {
+   "url": "https://dot.gov.in/policies",
+   "text": "वेबसाइट नीतियाँ"
+  },
+  {
+   "url": "https://dot.gov.in/RelatedLinks",
+   "text": "संबंधित लिंक"
+  },
+  {
+   "url": "https://dot.gov.in/sitemap",
+   "text": "साइटमैप"
+  },
+  {
+   "url": "https://dot.gov.in/help",
+   "text": "मदद करें"
+  },
+  {
+   "url": "https://dot.gov.in/feedback",
+   "text": "फीडबैक"
+  },
+  {
+   "url": "https://x.com/DoT_India",
+   "text": ""
+  },
+  {
+   "url": "https://www.youtube.com/@DepartmentofTelecom",
+   "text": ""
+  },
+  {
+   "url": "https://www.facebook.com/DoTIndia",
+   "text": ""
+  },
+  {
+   "url": "https://www.instagram.com/department_of_telecom/",
+   "text": ""
+  },
+  {
+   "url": "https://www.mygov.in/",
+   "text": ""
+  },
+  {
+   "url": "https://www.india.gov.in/",
+   "text": ""
+  }
+ ],
  "renderer": "browser",
- "fetched_at": "2026-08-27T00:45:58Z",
+ "fetched_at": "2026-08-27T14:06:15Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -299,7 +753,8 @@
    "अंतिम बार अद्यतन किया गयाः 25.08.2026": 0,
    "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री जितेंद्र खरे, स्टाफ नं। 20602": 0,
    "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री हर्षित मोदी, स्टाफ नं. 21394": 0,
-   "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार और ग्रामीण विकास राज्य मंत्री डॉ. चंद्रशेखर पेम्मासानी के साथ सी-डॉट के 43वें स्थापना दिवस समारोह में भाग लिया": 0
+   "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार और ग्रामीण विकास राज्य मंत्री डॉ. चंद्रशेखर पेम्मासानी के साथ सी-डॉट के 43वें स्थापना दिवस समारोह में भाग लिया": 0,
+   "अंतिम बार अद्यतन किया गयाः 27.08.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -371,7 +826,9 @@
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
    "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 0,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-08-23T12:59:19Z",
@@ -393,10 +850,6 @@
    "What’s New": "2026-08-23T12:59:19Z",
    "WSIS Prize 2026- Live Webcast": "2026-07-31T16:54:51Z",
    "Blocking Notifications/instructions to Internet Service Licensees under court orders (Jul - Sept 2026)": "2026-07-29T08:53:39Z",
-   "Extension in tenure of officers of ITS Gr. A in NCA-T - Shri Shivam Shukla, Staff no. 60074": "2026-07-28T11:26:30Z",
-   "Taken on Strength in respect of officer of ITS Gr. A - Shri Satyam Singh, ITS, Staff no. 21407": "2026-07-28T11:26:30Z",
-   "Department of Telecommunications Activates Intra Circle Roaming in Jammu & Kashmir, Assam and Nagaland amid Heavy Rainfall, Cloudburst and Landslides": "2026-07-28T11:26:30Z",
-   "\"Report of the Compassionate Appointment Committee pertaining to the period 2022-2024\"": "2026-07-28T11:26:30Z",
    "Relieving of Shri Dindayal Tosniwal [Staff No.20198], DDG (NT), DoT HQs": "2026-07-29T08:53:39Z",
    "Internal postings of officers of IP&TAFS Group 'A' in the DoT Hq.": "2026-07-29T08:53:39Z",
    "Department of Telecommunications Activates Intra-Circle Roaming (ICR) in Affected Districts of Nagaland, Gujarat, UT of Dadra & Nagar Haveli and Daman & Diu amid Heavy Rainfall and Flooding": "2026-07-29T08:53:39Z",
