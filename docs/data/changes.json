@@ -1,5 +1,101 @@
 [
  {
+  "id": "d2bef0d72a64",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-28T15:17:05Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार साथी द्वारा पूरे भारत में एक महीने में खोए हुए और चोरी हुए मोबाइल हैंडसेटों की रिकॉर्ड रिकवरी की सराहना की",
+   "डीओटी और सी-डॉट ने स्वदेशी ऑप्टिकल संचार प्रौद्योगिकियों के लिए एंड-टू-एंड ऑप्टिकल नेटवर्क टेस्टबेड स्थापित करने के लिए समझौते पर हस्ताक्षर किए",
+   "अंतिम बार अद्यतन किया गयाः 28.08.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f33872f4d47f",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-28T15:17:05Z",
+  "summary": "6 new links, 10 new text blocks",
+  "added_lines": [
+   "28th August 2026",
+   "TRAI releases Telecom Subscription Data as on July 2026",
+   "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti",
+   "Darbhanga, Bihar",
+   "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana",
+   "Bhiwani , Haryana",
+   "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal",
+   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan",
+   "Badwani , Madhya Pradesh",
+   "28 August, 2026"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026",
+    "text": "TRAI releases Telecom Subscription Data as on July 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-darbhanga-bihar-mithila-sewa-samiti",
+    "text": "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhiwani-haryana-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhavnagar-gujarat-shree-jagruti-grahak-suraksha-mahila",
+    "text": "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-barwani-madhya-pradesh-upbhokta-adhikar-sangthan",
+    "text": "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan"
+   }
+  ],
+  "new_links_total": 6
+ },
+ {
+  "id": "59bfff2af7c1",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-28T15:17:05Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "28 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "be050fb4cfb3",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-28T15:17:05Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 28.08.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "1497aafddbd1",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
