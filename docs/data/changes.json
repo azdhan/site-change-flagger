@@ -1,5 +1,18 @@
 [
  {
+  "id": "1497aafddbd1",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-28T00:23:28Z",
+  "summary": "33 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 33,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "b4d76e8c28cc",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

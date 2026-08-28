@@ -196,9 +196,9 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
-  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
+  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "31st July 2026",
@@ -929,14 +929,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
    "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
   },
@@ -953,11 +945,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
+   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "Explore"
   },
   {
@@ -966,6 +958,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "Explore"
   },
   {
@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-27T14:06:15Z",
+ "fetched_at": "2026-08-28T00:23:28Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1527,19 +1527,19 @@
    "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas.": 0,
    "14th August 2026": 0,
    "Bapatla, Andhra Pradesh": 0,
-   "Consumer Awareness Program at Banda (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh": 1,
-   "Consumer Awareness Program at Simdega (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY": 1,
-   "Banda , Uttar Pradesh": 1,
-   "Simdega, Jharkhand": 1,
+   "Consumer Awareness Program at Banda (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh": 2,
+   "Consumer Awareness Program at Simdega (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY": 2,
+   "Banda , Uttar Pradesh": 2,
+   "Simdega, Jharkhand": 2,
    "Consumer Outreach Program at Nagaon (Assam) by RO KOLKATA": 0,
    "Nagaon, Assam": 0,
    "Consumer Awareness Program at Bapatla (Andhra Pradesh) by Rural Action for Social Services": 0,
-   "Consumer Awareness Program at Baksa (Assam) by Gram Vikas Parishad": 1,
-   "Baksa, Assam": 1,
+   "Consumer Awareness Program at Baksa (Assam) by Gram Vikas Parishad": 2,
+   "Baksa, Assam": 2,
    "Saitual, Mizoram": 0,
    "Keonjhar, Odisha": 0,
    "Consumer Awareness Program at Saitual (Mizoram) by Mizoram Consumers' Union Hqrs": 0,
-   "Saitual , Mizoram": 1,
+   "Saitual , Mizoram": 2,
    "01:30 PM": 0,
    "Consumer Awareness Program at Kendujhar (Odisha) by VIKASH": 0,
    "Prakasam, Andhra Pradesh": 0,
@@ -1547,7 +1547,7 @@
    "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
    "Consumer Awareness Program at East Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi": 0,
    "East Delhi, Delhi": 0,
-   "25 August, 2026": 1,
+   "25 August, 2026": 2,
    "25th August 2026": 0,
    "Chandigarh , Chandigarh": 0,
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Indian Institute Of Technology & Enterpreneur Development (IITED), Chandigarh": 0,
@@ -1777,11 +1777,11 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bapatla-andhra-pradesh-rural-action-social-services": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-nagaon-assam-ro-kolkata": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banda-uttar-pradesh-indian-institute-technology": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-simdega-jharkhand-pragati-educational-academy": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-baksa-assam-gram-vikas-parishad": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banda-uttar-pradesh-indian-institute-technology": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-simdega-jharkhand-pragati-educational-academy": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-baksa-assam-gram-vikas-parishad": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-saitual-mizoram-mizoram-consumers-union-hqrs": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-saitual-mizoram-mizoram-consumers-union-hqrs-0": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-saitual-mizoram-mizoram-consumers-union-hqrs-0": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kendujhar-odisha-vikash": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-prakasam-andhra-pradesh-pss-educational-development": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
@@ -1800,8 +1800,6 @@
    "12:00 PM": "2026-08-23T06:58:17Z",
    "Mehsana, Gujarat": "2026-08-01T08:32:44Z",
    "Consumer Awareness Program at Mehsana (Gujarat) by Bhavnagar Grahak Suraksha Mandal": "2026-08-01T08:32:44Z",
-   "23 July, 2026": "2026-07-28T14:32:28Z",
-   "TRAI Assesses Mobile Network Quality Across in Uttara Kannada District, Karnataka LSA.": "2026-07-28T16:48:43Z",
    "TRAI Assesses Mobile Network Quality Across Sindhudurg District and Highway Drive from Pune to Sindhudurg, in Maharashtra LSA.": "2026-07-29T08:53:39Z",
    "16th July 2026": "2026-07-29T08:53:39Z",
    "TRAI Assesses Mobile Network Quality Across in Kasaragod District, Kerala LSA.": "2026-07-29T08:53:39Z",
@@ -1996,9 +1994,6 @@
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-bhavnagar-grahak-suraksha-mandal": "2026-08-01T08:32:44Z",
-   "https://www.trai.gov.in/photo-gallery/itugsr-riyadh-2025-saudi-arabia": "2026-07-28T14:32:28Z",
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": "2026-07-28T16:48:43Z",
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-uttara-kannada-district": "2026-07-28T16:48:43Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": "2026-07-29T08:53:39Z",
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-sindhudurg-district-and": "2026-07-29T08:53:39Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kasaragod-district-kerala": "2026-07-29T08:53:39Z",
