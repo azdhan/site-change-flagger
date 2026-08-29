@@ -130,6 +130,10 @@
   "शॉर्टकोड का आवंटन-2026",
   "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार और ग्रामीण विकास राज्य मंत्री डॉ. चंद्रशेखर पेम्मासानी के साथ सी-डॉट के 43वें स्थापना दिवस समारोह में भाग लिया",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
+  "मीडिया के लिए",
+  "For Industry Professional",
+  "For Researcher",
+  "For IT Professional",
   "महत्वपूर्ण लिंक",
   "एम. टी. सी. टी. ई. पोर्टल",
   "खोदने से पहले कॉल करें",
@@ -344,6 +348,22 @@
    "text": "आदेश और सूचनाएँ शॉर्टकोड का आवंटन-2026"
   },
   {
+   "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
+   "text": "मीडिया के लिए"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
+   "text": "For Industry Professional"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa",
+   "text": "For Researcher"
+  },
+  {
+   "url": "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa",
+   "text": "For IT Professional"
+  },
+  {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
    "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
   },
@@ -433,7 +453,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-29T16:40:51Z",
+ "fetched_at": "2026-08-29T20:52:46Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -569,9 +589,9 @@
    "डीओटी द्वारा एआई समाधान मानचित्रण शिखर सम्मेलन के लिए इंडियाएआई मिशन और इंडियाएआई प्रभाव का लाभ उठाना": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "मीडिया के लिए": 0,
-   "For Industry Professional": 1,
-   "For Researcher": 1,
-   "For IT Professional": 1,
+   "For Industry Professional": 0,
+   "For Researcher": 0,
+   "For IT Professional": 0,
    "महत्वपूर्ण लिंक": 0,
    "खोदने से पहले कॉल करें": 0,
    "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल": 0,
@@ -779,10 +799,10 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 0,
    "https://dot.gov.in/whats-new": 0,
-   "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 1,
-   "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 1,
-   "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 1,
-   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 1,
+   "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
+   "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
+   "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 0,
+   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 0,
    "https://eservices.dot.gov.in": 0,
    "https://eservices.dot.gov.in/call-before-u-dig": 0,
    "https://eservices.dot.gov.in/app-provider": 0,
@@ -808,7 +828,7 @@
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 4
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 5
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-08-23T12:59:19Z",
