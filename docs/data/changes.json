@@ -1,5 +1,65 @@
 [
  {
+  "id": "ecbbeb40229c",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-29T09:59:30Z",
+  "summary": "5 new links, 10 new text blocks",
+  "added_lines": [
+   "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR",
+   "Amritsar, Punjab",
+   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group",
+   "Tenkasi, Tamil Nadu",
+   "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
+   "Kangra , Himachal Pradesh",
+   "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam",
+   "Golaghat , Assam",
+   "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI",
+   "Kathua, Jammu and Kashmir"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-amritsar-punjab-ro-jaipur",
+    "text": "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group",
+    "text": "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kangra-himachal-pradesh-indian-institute-technology",
+    "text": "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-golaghat-assam-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kathua-jammu-and-kashmir-ro-delhi",
+    "text": "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "16491b265673",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-08-29T09:59:30Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Electronics Component Manufacturing Scheme"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d2bef0d72a64",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
