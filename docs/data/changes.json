@@ -1,5 +1,28 @@
 [
  {
+  "id": "ca4f9cdbb36d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-30T21:00:29Z",
+  "summary": "14 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Prakasam, Andhra Pradesh",
+   "Consumer Awareness Program at Prakasam (Andhra Pradesh) by P.S.S. Educational Development Society",
+   "Consumer Awareness Program at East Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi",
+   "Chandigarh , Chandigarh",
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Indian Institute Of Technology & Enterpreneur Development (IITED), Chandigarh",
+   "Consumer Awareness Program at Jhargram (West Bengal) by Deepalaya",
+   "Jhargram, West Bengal",
+   "Consumer Awareness Program at Sitamarhi (Bihar) by Yuva kriti Sangam",
+   "Sitamarhi, Bihar"
+  ],
+  "removed_lines_total": 14,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "16ac25cd1006",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
