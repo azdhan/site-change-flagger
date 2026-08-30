@@ -90,10 +90,17 @@
   "दस्तावेज़",
   "मीडिया",
   "जुड़ें",
+  "pause",
+  "chevron_left",
+  "chevron_right",
   "घोषणाएं",
   "दूरसंचार ई-सेवा पोर्टल",
-  "pause",
+  "मोबाइल, दूरसंचार, इलेक्ट्रॉनिक्स और प्रौद्योगिकी के पूरे पारिस्थितिकी तंत्र में, जहां भी वैश्विक चुनौती है, भारत के पास दुनिया को समाधान प्रदान करने का अवसर है।",
+  "इकोनॉमिक टाइम्स",
+  "open_in_new",
+  "कार्यक्रम देखें",
   "हमारे बारे में",
+  "दूरसंचार सेवाओं को दुनिया भर में एक राष्ट्र के लिए सामाजिक-आर्थिक विकास के लिए एक महत्वपूर्ण उपकरण के रूप में मान्यता दी गई है और इसलिए दूरसंचार बुनियादी ढांचे को भारत में सामाजिक-आर्थिक उद्देश्यों को प्राप्त करने के लिए एक महत्वपूर्ण कारक के रूप में माना जाता है। तदनुसार, दूरसंचार विभाग दूरसंचार सेवाओं के त्वरित विकास के लिए विकासात्मक नीतियां बना रहा है। विभाग एकीकृत अभिगम सेवा, इंटरनेट और वी. एस. ए. टी. सेवा जैसी विभिन्न दूरसंचार सेवाओं के लिए लाइसेंस देने के लिए भी जिम्मेदार है। विभाग अंतर्राष्ट्रीय निकायों के साथ घनिष्ठ समन्वय में रेडियो संचार के क्षेत्र में आवृत्ति प्रबंधन के लिए भी जिम्मेदार है। यह देश में सभी उपयोगकर्ताओं के वायरलेस संचरण की निगरानी करके वायरलेस नियामक उपायों को भी लागू करता है।",
   "हमारी टीम",
   "हमारा प्रभाग",
   "हमारा संगठन",
@@ -102,17 +109,33 @@
   "डॉ. पेम्मासानी चंद्र शेखर",
   "माननीय राज्य मंत्री",
   "प्रमुख प्रस्ताव",
+  "योजनाएं और सेवाएँ",
+  "रिक्तियां",
+  "निविदाएं",
+  "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना",
+  "arrow_forward_ios",
+  "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल",
+  "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना",
+  "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता",
+  "100 5G Labs",
   "अधिक देखें",
-  "chevron_right",
+  "नया क्या है",
+  "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
+  "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
+  "हाल के दस्तावेज़",
+  "प्रेस विज्ञप्ति",
+  "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार साथी द्वारा पूरे भारत में एक महीने में खोए हुए और चोरी हुए मोबाइल हैंडसेटों की रिकॉर्ड रिकवरी की सराहना की",
+  "डीओटी और सी-डॉट ने स्वदेशी ऑप्टिकल संचार प्रौद्योगिकियों के लिए एंड-टू-एंड ऑप्टिकल नेटवर्क टेस्टबेड स्थापित करने के लिए समझौते पर हस्ताक्षर किए",
+  "आदेश और सूचनाएँ",
+  "शॉर्टकोड का आवंटन-2026",
+  "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार और ग्रामीण विकास राज्य मंत्री डॉ. चंद्रशेखर पेम्मासानी के साथ सी-डॉट के 43वें स्थापना दिवस समारोह में भाग लिया",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "chevron_left",
   "मीडिया के लिए",
   "For Industry Professional",
   "For Researcher",
   "For IT Professional",
   "महत्वपूर्ण लिंक",
   "एम. टी. सी. टी. ई. पोर्टल",
-  "arrow_forward_ios",
   "खोदने से पहले कॉल करें",
   "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
   "राजस्व प्रबंधन सेवाएँ",
@@ -135,6 +158,8 @@
   "मदद करें",
   "हमसे संपर्क करें",
   "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
   "अंतिम बार अद्यतन किया गयाः 28.08.2026",
   "arrow_upward",
   "Rate this translation",
@@ -275,12 +300,52 @@
    "text": "दूरसंचार ई-सेवा पोर्टल"
   },
   {
+   "url": "https://m.economictimes.com/news/india/modi-inaugurates-india-mobile-congress-2025-at-delhis-yashobhoomi/amp_articleshow/124378439.cms",
+   "text": "open_in_new कार्यक्रम देखें"
+  },
+  {
    "url": "https://dot.gov.in/ministry/our-team/details/Shri%20Jyotiraditya%20M%20Scindia",
    "text": "श्री ज्योतिरादित्य एम. सिंधिया माननीय कैबिनेट मंत्री"
   },
   {
    "url": "https://dot.gov.in/ministry/our-team/details/Dr.%20Pemmasani%20Chandra%20Sekhar",
    "text": "डॉ. पेम्मासानी चंद्र शेखर माननीय राज्य मंत्री"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa",
+   "text": "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa",
+   "text": "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa",
+   "text": "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa",
+   "text": "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa",
+   "text": "100 5G Labs"
+  },
+  {
+   "url": "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf",
+   "text": "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया arrow_forward_ios"
+  },
+  {
+   "url": "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf",
+   "text": "राष्ट्रीय आवृत्ति आवंटन योजना-2025 arrow_forward_ios"
+  },
+  {
+   "url": "https://dot.gov.in/whats-new",
+   "text": "अधिक देखें chevron_right"
+  },
+  {
+   "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026",
+   "text": "आदेश और सूचनाएँ शॉर्टकोड का आवंटन-2026"
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
@@ -363,6 +428,22 @@
    "text": "फीडबैक"
   },
   {
+   "url": "https://x.com/DoT_India",
+   "text": ""
+  },
+  {
+   "url": "https://www.youtube.com/@DepartmentofTelecom",
+   "text": ""
+  },
+  {
+   "url": "https://www.facebook.com/DoTIndia",
+   "text": ""
+  },
+  {
+   "url": "https://www.instagram.com/department_of_telecom/",
+   "text": ""
+  },
+  {
    "url": "https://www.mygov.in/",
    "text": ""
   },
@@ -372,7 +453,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-29T23:15:37Z",
+ "fetched_at": "2026-08-30T05:19:08Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -473,7 +554,7 @@
    "दूरसंचार ई-सेवा पोर्टल": 0,
    "मोबाइल, दूरसंचार, इलेक्ट्रॉनिक्स और प्रौद्योगिकी के पूरे पारिस्थितिकी तंत्र में, जहां भी वैश्विक चुनौती है, भारत के पास दुनिया को समाधान प्रदान करने का अवसर है।": 0,
    "इकोनॉमिक टाइम्स": 0,
-   "open_in_new": 1,
+   "open_in_new": 0,
    "कार्यक्रम देखें": 0,
    "हमारे बारे में": 0,
    "दूरसंचार सेवाओं को दुनिया भर में एक राष्ट्र के लिए सामाजिक-आर्थिक विकास के लिए एक महत्वपूर्ण उपकरण के रूप में मान्यता दी गई है और इसलिए दूरसंचार बुनियादी ढांचे को भारत में सामाजिक-आर्थिक उद्देश्यों को प्राप्त करने के लिए एक महत्वपूर्ण कारक के रूप में माना जाता है। तदनुसार, दूरसंचार विभाग दूरसंचार सेवाओं के त्वरित विकास के लिए विकासात्मक नीतियां बना रहा है। विभाग एकीकृत अभिगम सेवा, इंटरनेट और वी. एस. ए. टी. सेवा जैसी विभिन्न दूरसंचार सेवाओं के लिए लाइसेंस देने के लिए भी जिम्मेदार है। विभाग अंतर्राष्ट्रीय निकायों के साथ घनिष्ठ समन्वय में रेडियो संचार के क्षेत्र में आवृत्ति प्रबंधन के लिए भी जिम्मेदार है। यह देश में सभी उपयोगकर्ताओं के वायरलेस संचरण की निगरानी करके वायरलेस नियामक उपायों को भी लागू करता है।": 0,
@@ -493,7 +574,7 @@
    "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल": 0,
    "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना": 0,
    "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता": 0,
-   "100 5G Labs": 1,
+   "100 5G Labs": 0,
    "अधिक देखें": 0,
    "नया क्या है": 0,
    "एन. सी. ए.-टी. द्वारा 16.07.2026 से 17.07.2026 तक 'एम. ओ. डी. एस. आई.' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम": 0,
@@ -709,15 +790,15 @@
    "https://dot.gov.in/connect/parliament-questions": 0,
    "https://dot.gov.in/connect/visitors-pass": 0,
    "https://eservices.dot.gov.in/": 0,
-   "https://m.economictimes.com/news/india/modi-inaugurates-india-mobile-congress-2025-at-delhis-yashobhoomi/amp_articleshow/124378439.cms": 1,
+   "https://m.economictimes.com/news/india/modi-inaugurates-india-mobile-congress-2025-at-delhis-yashobhoomi/amp_articleshow/124378439.cms": 0,
    "https://dot.gov.in/ministry/our-team/details/Shri%20Jyotiraditya%20M%20Scindia": 0,
    "https://dot.gov.in/ministry/our-team/details/Dr.%20Pemmasani%20Chandra%20Sekhar": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 1,
-   "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 1,
-   "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 1,
-   "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 1,
-   "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 1,
-   "https://dot.gov.in/whats-new": 1,
+   "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 0,
+   "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 0,
@@ -734,20 +815,20 @@
    "https://dot.gov.in/sitemap": 0,
    "https://dot.gov.in/help": 0,
    "https://dot.gov.in/feedback": 0,
-   "https://x.com/DoT_India": 1,
-   "https://www.youtube.com/@DepartmentofTelecom": 1,
-   "https://www.facebook.com/DoTIndia": 1,
-   "https://www.instagram.com/department_of_telecom/": 1,
+   "https://x.com/DoT_India": 0,
+   "https://www.youtube.com/@DepartmentofTelecom": 0,
+   "https://www.facebook.com/DoTIndia": 0,
+   "https://www.instagram.com/department_of_telecom/": 0,
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
-   "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 1,
-   "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 1,
+   "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
+   "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
    "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 1,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 6
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 0,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 7
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-08-23T12:59:19Z",
