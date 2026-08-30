@@ -1,5 +1,65 @@
 [
  {
+  "id": "16ac25cd1006",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-30T11:50:44Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "864465269596",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-30T11:50:44Z",
+  "summary": "1 new link, 2 new text blocks, 18 items no longer on page",
+  "added_lines": [
+   "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU",
+   "Kasaragod, Kerala"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "31st July 2026",
+   "TRAI Hosts Workshop to Improve Quality of Audit in DAS Ecosystem",
+   "Bapatla, Andhra Pradesh",
+   "Consumer Outreach Program at Nagaon (Assam) by RO KOLKATA",
+   "Nagaon, Assam",
+   "Consumer Awareness Program at Bapatla (Andhra Pradesh) by Rural Action for Social Services",
+   "Saitual, Mizoram",
+   "Keonjhar, Odisha",
+   "Consumer Awareness Program at Saitual (Mizoram) by Mizoram Consumers' Union Hqrs",
+   "01:30 PM"
+  ],
+  "removed_lines_total": 18,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kasaragod-kerala-ro-bengaluru",
+    "text": "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "7bfc34a00ead",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-30T11:50:44Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "27 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "cec87227ada4",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
