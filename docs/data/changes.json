@@ -1,5 +1,80 @@
 [
  {
+  "id": "cc077a0133fe",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-08-31T13:38:21Z",
+  "summary": "5 new text blocks",
+  "added_lines": [
+   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यूपीएससी द्वारा अनुशंसित उम्मीदवारों को पद का आवंटन",
+   "आई. टी. एस. समूह 'ए' के अधिकारियों की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर",
+   "श्री आनंद खरे आई. टी. एस. समूह 'ए' अधिकारी की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर",
+   "श्री अनिल एन धनोरकर आई. टी. एस. समूह 'ए' अधिकारी की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर",
+   "अंतिम बार अद्यतन किया गयाः 31.08.2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "4d720ad28da8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-08-31T13:38:21Z",
+  "summary": "4 new links, 10 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society",
+   "North 24 Parganas, West Bengal",
+   "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir",
+   "Kathua , Jammu and Kashmir",
+   "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab",
+   "Sri Muktsar Sahib, Punjab",
+   "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association",
+   "09:00 AM",
+   "Mahesana, Gujarat",
+   "31 August, 2026"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-24-parganas-west-bengal-islampur-ramkrishnapally",
+    "text": "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology",
+    "text": "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association",
+    "text": "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "33706f70717e",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-08-31T13:38:21Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "31 अगस्त 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "576a3bac7a69",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",

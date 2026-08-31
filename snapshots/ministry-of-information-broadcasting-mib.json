@@ -167,7 +167,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "28 अगस्त 2026"
+  "31 अगस्त 2026"
  ],
  "links": [
   {
@@ -612,7 +612,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-31T05:26:50Z",
+ "fetched_at": "2026-08-31T13:38:21Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -784,7 +784,8 @@
    "प्राइवेट सैटेलाइट टेलीविज़न चैनलों पर मादक पदार्थों के दुरुपयोग के दुष्‍प्रभावों से संबंधित अस्‍वीकरण (डिस्‍कलेमर) प्रदर्शित करने के संबंध में एडवाइजरी दिनांक 20.08.2026.": 0,
    "आईआईसीटी और नेटफ्लिक्स 6 कार्यक्रमों के माध्यम से स्कॉलरशिप देकर भारतीय कहानीकारों की अगली पीढ़ी का समर्थन करेंगे": 0,
    "903.41 किलोबाइट |": 0,
-   "28 अगस्त 2026": 0
+   "28 अगस्त 2026": 1,
+   "31 अगस्त 2026": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -897,20 +898,17 @@
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2303479&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-08/advisory-dt-20.08.2026.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2303083&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 2,
-   "https://mib.gov.in/index.php/hi/sitemap": 2,
-   "https://mib.gov.in/index.php/hi/help": 2,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 2,
-   "https://mib.gov.in/index.php/hi/website-policy": 2,
-   "https://mib.gov.in/index.php/hi/related-link": 2,
-   "https://mib.gov.in/index.php/hi/archives": 2,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 2
+   "https://mib.gov.in/index.php/hi/feedback": 3,
+   "https://mib.gov.in/index.php/hi/sitemap": 3,
+   "https://mib.gov.in/index.php/hi/help": 3,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 3,
+   "https://mib.gov.in/index.php/hi/website-policy": 3,
+   "https://mib.gov.in/index.php/hi/related-link": 3,
+   "https://mib.gov.in/index.php/hi/archives": 3,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 3
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
-   "386 निजी एफ एम रेडियो चैनल काम कर रहे हैं। सरकार की नीति के अनुसार क्षेत्रीय संस्कृति को बढ़ावा देने के लिए 20 प्रतिशत कंटेंट स्थानीय भाषा में होना ज़रूरी है।": "2026-08-01T08:32:44Z",
-   "सरकार ने आईटी नियम, 2021 के तहत ओटीटी प्लेटफॉर्मों और सोशल मीडिया के कानूनी दायित्वों को दोहराया": "2026-08-01T08:32:44Z",
-   "30 जुलाई 2026": "2026-08-01T08:32:44Z",
    "31 जुलाई 2026": "2026-08-03T15:12:35Z",
    "02 अगस्त 2026": "2026-08-04T17:01:00Z",
    "03 अगस्त 2026": "2026-08-06T08:51:02Z",
@@ -973,8 +971,6 @@
    "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-08-30T16:38:02Z",
    "https://mib.gov.in/index.php/hi/archives": "2026-08-30T16:38:02Z",
    "https://mib.gov.in/index.php/hi/help": "2026-08-30T16:38:02Z",
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288928&reg=48&lang=2": "2026-08-01T08:32:44Z",
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2289050&reg=48&lang=2": "2026-08-01T08:32:44Z",
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-28th-june-2026/?target=inapp&type=group_issue&nid=5670": "2026-08-05T11:27:27Z",
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2290836&reg=3&lang=2": "2026-08-07T10:08:59Z",
    "https://mib.gov.in/sites/default/files/2026-07/mann-ki-baat-hindi_0.pdf": "2026-08-07T10:08:59Z",

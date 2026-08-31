@@ -48,10 +48,48 @@
   "(اردو)",
   "Powered by",
   "भारत सरकार",
-  "Ministry of Communications, Department of Telecommunications",
+  "संचार मंत्रालय, दूरसंचार विभाग",
   "search",
   "menu",
   "Home",
+  "Ministry",
+  "expand_more",
+  "About Us",
+  "Our Team",
+  "Our Division",
+  "Our Organisation",
+  "Our Performance",
+  "Directory",
+  "Offerings",
+  "Schemes and Services",
+  "Vacancies",
+  "Tenders",
+  "Competition and Awards",
+  "International Collaboration",
+  "Initiative",
+  "Documents",
+  "Reports",
+  "Orders and Notices",
+  "Acts and Policies",
+  "Publications",
+  "Press Release",
+  "Gazettes Notifications",
+  "Guidelines",
+  "Media",
+  "Photos",
+  "Videos",
+  "Brochures",
+  "Connect",
+  "Contact Us",
+  "RTI",
+  "Grievance Redressal",
+  "Citizen Engagement",
+  "Parliament Questions",
+  "मंत्रालय",
+  "पेशकशें",
+  "दस्तावेज़",
+  "मीडिया",
+  "जुड़ें",
   "pause",
   "chevron_left",
   "chevron_right",
@@ -63,57 +101,64 @@
   "कार्यक्रम देखें",
   "हमारे बारे में",
   "दूरसंचार सेवाओं को दुनिया भर में एक राष्ट्र के लिए सामाजिक-आर्थिक विकास के लिए एक महत्वपूर्ण उपकरण के रूप में मान्यता दी गई है और इसलिए दूरसंचार बुनियादी ढांचे को भारत में सामाजिक-आर्थिक उद्देश्यों को प्राप्त करने के लिए एक महत्वपूर्ण कारक के रूप में माना जाता है। तदनुसार, दूरसंचार विभाग दूरसंचार सेवाओं के त्वरित विकास के लिए विकासात्मक नीतियां बना रहा है। विभाग एकीकृत अभिगम सेवा, इंटरनेट और वी. एस. ए. टी. सेवा जैसी विभिन्न दूरसंचार सेवाओं के लिए लाइसेंस देने के लिए भी जिम्मेदार है। विभाग अंतर्राष्ट्रीय निकायों के साथ घनिष्ठ समन्वय में रेडियो संचार के क्षेत्र में आवृत्ति प्रबंधन के लिए भी जिम्मेदार है। यह देश में सभी उपयोगकर्ताओं के वायरलेस संचरण की निगरानी करके वायरलेस नियामक उपायों को भी लागू करता है।",
+  "हमारी टीम",
+  "हमारा प्रभाग",
+  "हमारा संगठन",
   "श्री ज्योतिरादित्य एम. सिंधिया",
   "माननीय कैबिनेट मंत्री",
   "डॉ. पेम्मासानी चंद्र शेखर",
   "माननीय राज्य मंत्री",
   "प्रमुख प्रस्ताव",
-  "Schemes and Services",
-  "Vacancies",
-  "Tenders",
-  "Production Linked Incentive (PLI) scheme",
+  "योजनाएं और सेवाएँ",
+  "रिक्तियां",
+  "निविदाएं",
+  "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना",
   "arrow_forward_ios",
-  "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project",
-  "Technology Development & Investment Promotion (TDIP) Scheme",
-  "Public Procurement-Preference to Make in India",
+  "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल",
+  "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना",
+  "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता",
   "100 5G Labs",
-  "View more",
+  "अधिक देखें",
   "नया क्या है",
-  "Adoption of TSDSI transposed 3GPP specifications from Release 13 to 18 as national standards, as an outcome of TSG107 - total 347 documents",
-  "National Frequency Allocation Plan-2025",
-  "Recent Documents",
-  "Press Release",
-  "Union Minister of Communications Shri Jyotiraditya M. Scindia Hails Sanchar Saathi’s Record Recovery of Over 75,000 Lost and Stolen Mobile Handsets in a Single Month Across India",
-  "DoT and C-DOT Sign Agreement to Establish End-to-End Optical Network Testbed for Indigenous Optical Communication Technologies",
-  "Orders and Notices",
-  "Allotment of shortcodes - 2026",
-  "Union Minister of Communications and Development of North Eastern Region Shri Jyotiraditya M. Scindia Graces the 43rd Foundation Day Celebrations of C-DOT along with Minister of State for Communications and Rural Development Dr. Chandra Sekhar Pemmasani",
-  "Explore User Personas",
-  "FOR MEDIA",
+  "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
+  "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
+  "हाल के दस्तावेज़",
+  "आदेश और सूचनाएँ",
+  "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यूपीएससी द्वारा अनुशंसित उम्मीदवारों को पद का आवंटन",
+  "आई. टी. एस. समूह 'ए' के अधिकारियों की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर",
+  "श्री आनंद खरे आई. टी. एस. समूह 'ए' अधिकारी की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर",
+  "श्री अनिल एन धनोरकर आई. टी. एस. समूह 'ए' अधिकारी की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर",
+  "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
+  "मीडिया के लिए",
   "For Industry Professional",
   "For Researcher",
   "For IT Professional",
-  "Important Links",
-  "MTCTE Portal",
-  "Telecom eServices Portal",
-  "Call Before u Dig",
-  "PM-WANI- Telecom eServices Portal",
-  "Revenue Management Services",
+  "महत्वपूर्ण लिंक",
+  "एम. टी. सी. टी. ई. पोर्टल",
+  "खोदने से पहले कॉल करें",
+  "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
+  "राजस्व प्रबंधन सेवाएँ",
   "Right Of Way -Telecom eServices Portal",
+  "सोशल मीडिया में",
+  "एक्स",
+  "यूट्यूब",
+  "फेसबुक",
+  "इंस्टाग्राम",
   "In Social Media",
+  "Instagram",
   "Youtube",
   "Facebook",
-  "Instagram",
-  "Useful Links",
-  "Archives",
-  "Website Policies",
-  "Related Links",
-  "Sitemap",
-  "Help",
-  "Contact Us",
-  "Feedback",
-  "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
-  "Subscribe for Updates",
+  "उपयोगी लिंक",
+  "अभिलेखागार",
+  "वेबसाइट नीतियाँ",
+  "संबंधित लिंक",
+  "साइटमैप",
+  "मदद करें",
+  "हमसे संपर्क करें",
+  "फीडबैक",
+  "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
+  "अद्यतन के लिए सदस्यता लें",
+  "अंतिम बार अद्यतन किया गयाः 31.08.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -126,11 +171,127 @@
   },
   {
    "url": "https://dot.gov.in/",
-   "text": "भारत सरकार Ministry of Communications, Department of Telecommunications"
+   "text": "भारत सरकार संचार मंत्रालय, दूरसंचार विभाग"
   },
   {
    "url": "https://www.digitalindia.gov.in/",
    "text": ""
+  },
+  {
+   "url": "https://dot.gov.in/ministry",
+   "text": "About Us"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-team",
+   "text": "Our Team"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-division",
+   "text": "Our Division"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-organisation",
+   "text": "Our Organisation"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/our-performance",
+   "text": "Our Performance"
+  },
+  {
+   "url": "https://dot.gov.in/ministry/directory",
+   "text": "Directory"
+  },
+  {
+   "url": "https://dot.gov.in/offerings",
+   "text": "Schemes and Services"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/vacancies",
+   "text": "Vacancies"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/tenders",
+   "text": "Tenders"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/competition-and-awards",
+   "text": "Competition and Awards"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/international-collaboration",
+   "text": "International Collaboration"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/initiative",
+   "text": "Initiative"
+  },
+  {
+   "url": "https://dot.gov.in/documents",
+   "text": "Reports"
+  },
+  {
+   "url": "https://dot.gov.in/documents/orders-and-notices",
+   "text": "Orders and Notices"
+  },
+  {
+   "url": "https://dot.gov.in/documents/acts-and-policies",
+   "text": "Acts and Policies"
+  },
+  {
+   "url": "https://dot.gov.in/documents/publications",
+   "text": "Publications"
+  },
+  {
+   "url": "https://dot.gov.in/documents/press-release",
+   "text": "Press Release"
+  },
+  {
+   "url": "https://dot.gov.in/documents/gazettes-notifications",
+   "text": "Gazettes Notifications"
+  },
+  {
+   "url": "https://dot.gov.in/documents/guidelines",
+   "text": "Guidelines"
+  },
+  {
+   "url": "https://dot.gov.in/media",
+   "text": "Photos"
+  },
+  {
+   "url": "https://dot.gov.in/media/videos",
+   "text": "Videos"
+  },
+  {
+   "url": "https://dot.gov.in/media/brochures",
+   "text": "Brochures"
+  },
+  {
+   "url": "https://dot.gov.in/connect",
+   "text": "Contact Us"
+  },
+  {
+   "url": "https://dot.gov.in/connect/directory",
+   "text": "Directory"
+  },
+  {
+   "url": "https://dot.gov.in/connect/rti",
+   "text": "RTI"
+  },
+  {
+   "url": "https://dot.gov.in/connect/grievance-redressal",
+   "text": "Grievance Redressal"
+  },
+  {
+   "url": "https://dot.gov.in/connect/citizen-engagement",
+   "text": "Citizen Engagement"
+  },
+  {
+   "url": "https://dot.gov.in/connect/parliament-questions",
+   "text": "Parliament Questions"
+  },
+  {
+   "url": "https://dot.gov.in/connect/visitors-pass",
+   "text": "Visitor's Pass"
   },
   {
    "url": "https://eservices.dot.gov.in/",
@@ -141,10 +302,6 @@
    "text": "open_in_new कार्यक्रम देखें"
   },
   {
-   "url": "https://dot.gov.in/ministry",
-   "text": "हमारे बारे में"
-  },
-  {
    "url": "https://dot.gov.in/ministry/our-team/details/Shri%20Jyotiraditya%20M%20Scindia",
    "text": "श्री ज्योतिरादित्य एम. सिंधिया माननीय कैबिनेट मंत्री"
   },
@@ -153,44 +310,40 @@
    "text": "डॉ. पेम्मासानी चंद्र शेखर माननीय राज्य मंत्री"
   },
   {
-   "url": "https://dot.gov.in/offerings/undefined/details/pli-scheme-MjNzETMtQWa",
-   "text": "Production Linked Incentive (PLI) scheme"
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa",
+   "text": "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना"
   },
   {
-   "url": "https://dot.gov.in/offerings/undefined/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa",
-   "text": "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project"
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa",
+   "text": "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल"
   },
   {
-   "url": "https://dot.gov.in/offerings/undefined/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa",
-   "text": "Technology Development & Investment Promotion (TDIP) Scheme"
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa",
+   "text": "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना"
   },
   {
-   "url": "https://dot.gov.in/offerings/undefined/details/pp-preference-to-make-in-india-UjNzETMtQWa",
-   "text": "Public Procurement-Preference to Make in India"
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa",
+   "text": "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता"
   },
   {
-   "url": "https://dot.gov.in/offerings/undefined/details/100-5g-labs-EzN5ATNtQWa",
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa",
    "text": "100 5G Labs"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf",
-   "text": "Adoption of TSDSI transposed 3GPP specifications from Release 13 to 18 as national standards, as an outcome of TSG107 - total 347 documents arrow_forward_ios"
+   "text": "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया arrow_forward_ios"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf",
-   "text": "National Frequency Allocation Plan-2025 arrow_forward_ios"
+   "text": "राष्ट्रीय आवृत्ति आवंटन योजना-2025 arrow_forward_ios"
   },
   {
    "url": "https://dot.gov.in/whats-new",
-   "text": "View more chevron_right"
-  },
-  {
-   "url": "https://dot.gov.in/documents/undefined/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026",
-   "text": "Orders and Notices Allotment of shortcodes - 2026"
+   "text": "अधिक देखें chevron_right"
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
-   "text": "FOR MEDIA"
+   "text": "मीडिया के लिए"
   },
   {
    "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
@@ -206,23 +359,23 @@
   },
   {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
-   "text": "MTCTE Portal arrow_forward_ios"
+   "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in",
-   "text": "Telecom eServices Portal arrow_forward_ios"
+   "text": "दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/call-before-u-dig",
-   "text": "Call Before u Dig arrow_forward_ios"
+   "text": "खोदने से पहले कॉल करें arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/app-provider",
-   "text": "PM-WANI- Telecom eServices Portal arrow_forward_ios"
+   "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/about-mtcte",
-   "text": "Revenue Management Services arrow_forward_ios"
+   "text": "राजस्व प्रबंधन सेवाएँ arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/right-of-way-permissions",
@@ -230,35 +383,43 @@
   },
   {
    "url": "https://dot.gov.in/important-links",
-   "text": "View more chevron_right"
+   "text": "अधिक देखें chevron_right"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
-   "text": "Archives"
+   "text": "अभिलेखागार"
   },
   {
    "url": "https://dot.gov.in/policies",
-   "text": "Website Policies"
+   "text": "वेबसाइट नीतियाँ"
   },
   {
    "url": "https://dot.gov.in/RelatedLinks",
-   "text": "Related Links"
+   "text": "संबंधित लिंक"
   },
   {
    "url": "https://dot.gov.in/sitemap",
-   "text": "Sitemap"
+   "text": "साइटमैप"
   },
   {
    "url": "https://dot.gov.in/help",
-   "text": "Help"
-  },
-  {
-   "url": "https://dot.gov.in/connect",
-   "text": "Contact Us"
+   "text": "मदद करें"
   },
   {
    "url": "https://dot.gov.in/feedback",
-   "text": "Feedback"
+   "text": "फीडबैक"
   },
   {
    "url": "https://x.com/DoT_India",
@@ -286,7 +447,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-08-31T05:26:50Z",
+ "fetched_at": "2026-08-31T13:38:21Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -588,36 +749,41 @@
    "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार साथी द्वारा पूरे भारत में एक महीने में खोए हुए और चोरी हुए मोबाइल हैंडसेटों की रिकॉर्ड रिकवरी की सराहना की": 0,
    "डीओटी और सी-डॉट ने स्वदेशी ऑप्टिकल संचार प्रौद्योगिकियों के लिए एंड-टू-एंड ऑप्टिकल नेटवर्क टेस्टबेड स्थापित करने के लिए समझौते पर हस्ताक्षर किए": 0,
    "अंतिम बार अद्यतन किया गयाः 28.08.2026": 0,
-   "National Frequency Allocation Plan-2025": 0,
-   "Telecom eServices Portal": 0,
-   "Important Links": 0,
-   "Revenue Management Services": 0,
-   "Useful Links": 0,
-   "View more": 0,
-   "Union Minister of Communications Shri Jyotiraditya M. Scindia Hails Sanchar Saathi’s Record Recovery of Over 75,000 Lost and Stolen Mobile Handsets in a Single Month Across India": 0,
-   "DoT and C-DOT Sign Agreement to Establish End-to-End Optical Network Testbed for Indigenous Optical Communication Technologies": 0,
-   "Website Policies": 0,
-   "Ministry of Communications, Department of Telecommunications": 0,
-   "MTCTE Portal": 0,
-   "Union Minister of Communications and Development of North Eastern Region Shri Jyotiraditya M. Scindia Graces the 43rd Foundation Day Celebrations of C-DOT along with Minister of State for Communications and Rural Development Dr. Chandra Sekhar Pemmasani": 0,
-   "Feedback": 0,
-   "Related Links": 0,
-   "FOR MEDIA": 0,
-   "Explore User Personas": 0,
-   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 0,
-   "Adoption of TSDSI transposed 3GPP specifications from Release 13 to 18 as national standards, as an outcome of TSG107 - total 347 documents": 0,
-   "Production Linked Incentive (PLI) scheme": 0,
-   "Technology Development & Investment Promotion (TDIP) Scheme": 0,
-   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 0,
-   "Call Before u Dig": 0,
-   "Subscribe for Updates": 0,
-   "Archives": 0,
-   "PM-WANI- Telecom eServices Portal": 0,
-   "Sitemap": 0,
-   "Allotment of shortcodes - 2026": 0,
-   "Help": 0,
-   "Recent Documents": 0,
-   "Public Procurement-Preference to Make in India": 0
+   "National Frequency Allocation Plan-2025": 1,
+   "Telecom eServices Portal": 1,
+   "Important Links": 1,
+   "Revenue Management Services": 1,
+   "Useful Links": 1,
+   "View more": 1,
+   "Union Minister of Communications Shri Jyotiraditya M. Scindia Hails Sanchar Saathi’s Record Recovery of Over 75,000 Lost and Stolen Mobile Handsets in a Single Month Across India": 1,
+   "DoT and C-DOT Sign Agreement to Establish End-to-End Optical Network Testbed for Indigenous Optical Communication Technologies": 1,
+   "Website Policies": 1,
+   "Ministry of Communications, Department of Telecommunications": 1,
+   "MTCTE Portal": 1,
+   "Union Minister of Communications and Development of North Eastern Region Shri Jyotiraditya M. Scindia Graces the 43rd Foundation Day Celebrations of C-DOT along with Minister of State for Communications and Rural Development Dr. Chandra Sekhar Pemmasani": 1,
+   "Feedback": 1,
+   "Related Links": 1,
+   "FOR MEDIA": 1,
+   "Explore User Personas": 1,
+   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": 1,
+   "Adoption of TSDSI transposed 3GPP specifications from Release 13 to 18 as national standards, as an outcome of TSG107 - total 347 documents": 1,
+   "Production Linked Incentive (PLI) scheme": 1,
+   "Technology Development & Investment Promotion (TDIP) Scheme": 1,
+   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 1,
+   "Call Before u Dig": 1,
+   "Subscribe for Updates": 1,
+   "Archives": 1,
+   "PM-WANI- Telecom eServices Portal": 1,
+   "Sitemap": 1,
+   "Allotment of shortcodes - 2026": 1,
+   "Help": 1,
+   "Recent Documents": 1,
+   "Public Procurement-Preference to Make in India": 1,
+   "श्री अनिल एन धनोरकर आई. टी. एस. समूह 'ए' अधिकारी की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर": 0,
+   "अंतिम बार अद्यतन किया गयाः 31.08.2026": 0,
+   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यूपीएससी द्वारा अनुशंसित उम्मीदवारों को पद का आवंटन": 0,
+   "श्री आनंद खरे आई. टी. एस. समूह 'ए' अधिकारी की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर": 0,
+   "आई. टी. एस. समूह 'ए' के अधिकारियों की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -690,13 +856,13 @@
    "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 0,
-   "https://dot.gov.in/offerings/undefined/details/100-5g-labs-EzN5ATNtQWa": 0,
-   "https://dot.gov.in/offerings/undefined/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
-   "https://dot.gov.in/offerings/undefined/details/pp-preference-to-make-in-india-UjNzETMtQWa": 0,
-   "https://dot.gov.in/documents/undefined/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 0,
-   "https://dot.gov.in/offerings/undefined/details/pli-scheme-MjNzETMtQWa": 0,
-   "https://dot.gov.in/offerings/undefined/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 0
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 1,
+   "https://dot.gov.in/offerings/undefined/details/100-5g-labs-EzN5ATNtQWa": 1,
+   "https://dot.gov.in/offerings/undefined/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 1,
+   "https://dot.gov.in/offerings/undefined/details/pp-preference-to-make-in-india-UjNzETMtQWa": 1,
+   "https://dot.gov.in/documents/undefined/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 1,
+   "https://dot.gov.in/offerings/undefined/details/pli-scheme-MjNzETMtQWa": 1,
+   "https://dot.gov.in/offerings/undefined/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 1
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-08-23T12:59:19Z",
@@ -713,12 +879,9 @@
    "Ministry of Communications, Department of Telecommunications": "2026-08-23T12:59:19Z",
    "Across the entire ecosystem of mobile, telecommunications, electronics, and technology, wherever there are global challenges, India has the opportunity to provide solutions to the world.": "2026-08-23T12:59:19Z",
    "What’s New": "2026-08-23T12:59:19Z",
-   "Union Minister of Communications Shri Jyotiraditya M. Scindia Unveils Theme for 10th Edition of India Mobile Congress 2026: ‘Scale without boundaries’": "2026-08-01T08:32:44Z",
-   "Department of Telecommunications and Government of Madhya Pradesh to Sign MoU for the Establishment of India's First Telecom Manufacturing Zone (TMZ) at Gwalior": "2026-08-01T08:32:44Z",
    "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.": "2026-08-23T12:59:19Z",
    "Help": "2026-08-23T12:59:19Z",
    "Feedback": "2026-08-23T12:59:19Z",
-   "Union Minister of Communications Shri Jyotiraditya M. Scindia confers Pandit Deendayal Upadhyaya Telecom Excellence Awards": "2026-08-01T10:46:42Z",
    "Appointment of Shri Ajai Kumar Srivastava as Director (Production), ITI Limited": "2026-08-01T13:50:18Z",
    "Recent Documents": "2026-08-23T12:59:19Z",
    "Revenue Management Services": "2026-08-23T12:59:19Z",
