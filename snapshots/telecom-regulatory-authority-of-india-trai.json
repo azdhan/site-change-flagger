@@ -222,11 +222,11 @@
   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan",
   "01:00 PM",
   "Badwani , Madhya Pradesh",
-  "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group",
-  "10:00 AM",
-  "Tenkasi, Tamil Nadu",
   "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR",
+  "10:00 AM",
   "Amritsar, Punjab",
+  "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group",
+  "Tenkasi, Tamil Nadu",
   "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
   "Kangra , Himachal Pradesh",
   "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam",
@@ -961,19 +961,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
    "text": "Explore"
   },
   {
@@ -1005,12 +1005,12 @@
    "text": "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group",
-   "text": "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-amritsar-punjab-ro-jaipur",
    "text": "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group",
+   "text": "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kangra-himachal-pradesh-indian-institute-technology",
@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-30T23:27:21Z",
+ "fetched_at": "2026-08-31T05:26:50Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1525,11 +1525,11 @@
    "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas.": 0,
    "14th August 2026": 0,
    "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
-   "East Delhi, Delhi": 4,
+   "East Delhi, Delhi": 5,
    "25th August 2026": 0,
    "12:00 PM": 0,
-   "08:00 AM": 4,
-   "Consumer Awareness Program at East Delhi (Delhi) by Alabhaya Foundation": 4,
+   "08:00 AM": 5,
+   "Consumer Awareness Program at East Delhi (Delhi) by Alabhaya Foundation": 5,
    "01:00 PM": 0,
    "28th August 2026": 0,
    "Bhiwani , Haryana": 0,
@@ -1770,7 +1770,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-east-delhi-delhi-alabhaya-foundation": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-east-delhi-delhi-alabhaya-foundation": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-barwani-madhya-pradesh-upbhokta-adhikar-sangthan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhavnagar-gujarat-shree-jagruti-grahak-suraksha-mahila": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-darbhanga-bihar-mithila-sewa-samiti": 0,

@@ -612,7 +612,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-30T23:27:21Z",
+ "fetched_at": "2026-08-31T05:26:50Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -897,14 +897,14 @@
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2303479&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-08/advisory-dt-20.08.2026.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2303083&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 1,
-   "https://mib.gov.in/index.php/hi/sitemap": 1,
-   "https://mib.gov.in/index.php/hi/help": 1,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 1,
-   "https://mib.gov.in/index.php/hi/website-policy": 1,
-   "https://mib.gov.in/index.php/hi/related-link": 1,
-   "https://mib.gov.in/index.php/hi/archives": 1,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 1
+   "https://mib.gov.in/index.php/hi/feedback": 2,
+   "https://mib.gov.in/index.php/hi/sitemap": 2,
+   "https://mib.gov.in/index.php/hi/help": 2,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 2,
+   "https://mib.gov.in/index.php/hi/website-policy": 2,
+   "https://mib.gov.in/index.php/hi/related-link": 2,
+   "https://mib.gov.in/index.php/hi/archives": 2,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 2
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
