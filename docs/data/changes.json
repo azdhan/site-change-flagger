@@ -1,5 +1,61 @@
 [
  {
+  "id": "2d5ade8aac47",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-01T08:34:43Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "दूरसंचार विभाग ने आई. एम. ई. आई. में छेड़छाड़ और दूरसंचार पहचानकर्ताओं के दुरुपयोग के खिलाफ नागरिकों को आगाह किया",
+   "अंतिम बार अद्यतन किया गयाः 01.09.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "042016ae93a5",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-01T08:34:43Z",
+  "summary": "4 new links, 9 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
+   "Mancherial , Telangana",
+   "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)",
+   "Sirmaur , Himachal Pradesh",
+   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development",
+   "Nuapada , Odisha",
+   "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH",
+   "Bhadrak, Odisha",
+   "1 September, 2026"
+  ],
+  "added_lines_total": 9,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture",
+    "text": "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan",
+    "text": "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development",
+    "text": "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash",
+    "text": "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
   "id": "5062fd61c0a0",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

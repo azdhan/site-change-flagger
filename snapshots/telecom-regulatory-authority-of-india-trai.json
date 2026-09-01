@@ -208,20 +208,11 @@
   "Comments",
   "Counter Comments",
   "Events",
-  "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group",
+  "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI",
   "Date :",
   "Time :",
   "10:00 AM",
   "Location :",
-  "Tenkasi, Tamil Nadu",
-  "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR",
-  "Amritsar, Punjab",
-  "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
-  "11:00 AM",
-  "Kangra , Himachal Pradesh",
-  "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam",
-  "Golaghat , Assam",
-  "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI",
   "Kathua, Jammu and Kashmir",
   "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU",
   "10:30 AM",
@@ -230,12 +221,21 @@
   "01:00 PM",
   "North 24 Parganas, West Bengal",
   "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir",
+  "11:00 AM",
   "Kathua , Jammu and Kashmir",
   "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab",
   "Sri Muktsar Sahib, Punjab",
   "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association",
   "09:00 AM",
   "Mahesana, Gujarat",
+  "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
+  "Mancherial , Telangana",
+  "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)",
+  "Sirmaur , Himachal Pradesh",
+  "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development",
+  "Nuapada , Odisha",
+  "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH",
+  "Bhadrak, Odisha",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -321,7 +321,7 @@
   "S. Ganesh - Dy. Advisor (IT)",
   "Website Content Owned and Managed by Telecom Regulatory Authority of India, GOI Designed & Developed by TRAI",
   "Copyright © 2024 TRAI. All rights reserved",
-  "31 August, 2026"
+  "1 September, 2026"
  ],
  "links": [
   {
@@ -989,22 +989,6 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group",
-   "text": "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-amritsar-punjab-ro-jaipur",
-   "text": "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kangra-himachal-pradesh-indian-institute-technology",
-   "text": "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-golaghat-assam-indian-institute-technology-entrepreneur",
-   "text": "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kathua-jammu-and-kashmir-ro-delhi",
    "text": "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI"
   },
@@ -1027,6 +1011,22 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association",
    "text": "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture",
+   "text": "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan",
+   "text": "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development",
+   "text": "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash",
+   "text": "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-01T00:35:27Z",
+ "fetched_at": "2026-09-01T08:34:43Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1526,33 +1526,33 @@
    "14th August 2026": 0,
    "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
    "25th August 2026": 0,
-   "12:00 PM": 3,
+   "12:00 PM": 4,
    "01:00 PM": 0,
    "28th August 2026": 0,
-   "Bhiwani , Haryana": 3,
+   "Bhiwani , Haryana": 4,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
-   "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana": 3,
-   "Darbhanga, Bihar": 3,
-   "Badwani , Madhya Pradesh": 3,
-   "28 August, 2026": 3,
-   "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti": 3,
-   "Bhavnagar, Gujarat": 3,
-   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan": 3,
-   "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 3,
+   "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana": 4,
+   "Darbhanga, Bihar": 4,
+   "Badwani , Madhya Pradesh": 4,
+   "28 August, 2026": 4,
+   "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti": 4,
+   "Bhavnagar, Gujarat": 4,
+   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan": 4,
+   "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 4,
    "Kathua, Jammu and Kashmir": 0,
-   "Golaghat , Assam": 0,
-   "Kangra , Himachal Pradesh": 0,
-   "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR": 0,
-   "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam": 0,
-   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group": 0,
-   "Amritsar, Punjab": 0,
+   "Golaghat , Assam": 1,
+   "Kangra , Himachal Pradesh": 1,
+   "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR": 1,
+   "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam": 1,
+   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group": 1,
+   "Amritsar, Punjab": 1,
    "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI": 0,
-   "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 0,
-   "Tenkasi, Tamil Nadu": 0,
+   "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 1,
+   "Tenkasi, Tamil Nadu": 1,
    "Kasaragod, Kerala": 0,
    "10:30 AM": 0,
    "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU": 0,
-   "31 August, 2026": 0,
+   "31 August, 2026": 1,
    "Mahesana, Gujarat": 0,
    "Kathua , Jammu and Kashmir": 0,
    "Sri Muktsar Sahib, Punjab": 0,
@@ -1561,7 +1561,16 @@
    "North 24 Parganas, West Bengal": 0,
    "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": 0,
    "09:00 AM": 0,
-   "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": 0
+   "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": 0,
+   "Sirmaur , Himachal Pradesh": 0,
+   "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 0,
+   "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)": 0,
+   "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH": 0,
+   "Bhadrak, Odisha": 0,
+   "Nuapada , Odisha": 0,
+   "Mancherial , Telangana": 0,
+   "1 September, 2026": 0,
+   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1777,22 +1786,26 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-barwani-madhya-pradesh-upbhokta-adhikar-sangthan": 3,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhavnagar-gujarat-shree-jagruti-grahak-suraksha-mahila": 3,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-darbhanga-bihar-mithila-sewa-samiti": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-barwani-madhya-pradesh-upbhokta-adhikar-sangthan": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhavnagar-gujarat-shree-jagruti-grahak-suraksha-mahila": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-darbhanga-bihar-mithila-sewa-samiti": 4,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhiwani-haryana-indian-institute-technology-entrepreneur": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhiwani-haryana-indian-institute-technology-entrepreneur": 4,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kangra-himachal-pradesh-indian-institute-technology": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kangra-himachal-pradesh-indian-institute-technology": 1,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kathua-jammu-and-kashmir-ro-delhi": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-golaghat-assam-indian-institute-technology-entrepreneur": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-amritsar-punjab-ro-jaipur": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-golaghat-assam-indian-institute-technology-entrepreneur": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-amritsar-punjab-ro-jaipur": 1,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kasaragod-kerala-ro-bengaluru": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-24-parganas-west-bengal-islampur-ramkrishnapally": 0
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-24-parganas-west-bengal-islampur-ramkrishnapally": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development": 0
   },
   "grave_lines": {
    "01:00 PM": "2026-08-08T09:51:23Z",
