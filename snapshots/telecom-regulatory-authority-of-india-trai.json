@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-08-31T20:48:48Z",
+ "fetched_at": "2026-09-01T00:35:27Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1525,23 +1525,20 @@
    "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas.": 0,
    "14th August 2026": 0,
    "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
-   "East Delhi, Delhi": 7,
    "25th August 2026": 0,
-   "12:00 PM": 2,
-   "08:00 AM": 7,
-   "Consumer Awareness Program at East Delhi (Delhi) by Alabhaya Foundation": 7,
+   "12:00 PM": 3,
    "01:00 PM": 0,
    "28th August 2026": 0,
-   "Bhiwani , Haryana": 2,
+   "Bhiwani , Haryana": 3,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
-   "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana": 2,
-   "Darbhanga, Bihar": 2,
-   "Badwani , Madhya Pradesh": 2,
-   "28 August, 2026": 2,
-   "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti": 2,
-   "Bhavnagar, Gujarat": 2,
-   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan": 2,
-   "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 2,
+   "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana": 3,
+   "Darbhanga, Bihar": 3,
+   "Badwani , Madhya Pradesh": 3,
+   "28 August, 2026": 3,
+   "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti": 3,
+   "Bhavnagar, Gujarat": 3,
+   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan": 3,
+   "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 3,
    "Kathua, Jammu and Kashmir": 0,
    "Golaghat , Assam": 0,
    "Kangra , Himachal Pradesh": 0,
@@ -1780,12 +1777,11 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-east-delhi-delhi-alabhaya-foundation": 7,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-barwani-madhya-pradesh-upbhokta-adhikar-sangthan": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhavnagar-gujarat-shree-jagruti-grahak-suraksha-mahila": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-darbhanga-bihar-mithila-sewa-samiti": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-barwani-madhya-pradesh-upbhokta-adhikar-sangthan": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhavnagar-gujarat-shree-jagruti-grahak-suraksha-mahila": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-darbhanga-bihar-mithila-sewa-samiti": 3,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhiwani-haryana-indian-institute-technology-entrepreneur": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhiwani-haryana-indian-institute-technology-entrepreneur": 3,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kangra-himachal-pradesh-indian-institute-technology": 0,
@@ -1974,7 +1970,10 @@
    "Consumer Awareness Program at Jhargram (West Bengal) by Deepalaya": "2026-08-30T21:00:29Z",
    "Jhargram, West Bengal": "2026-08-30T21:00:29Z",
    "Consumer Awareness Program at Sitamarhi (Bihar) by Yuva kriti Sangam": "2026-08-30T21:00:29Z",
-   "Sitamarhi, Bihar": "2026-08-30T21:00:29Z"
+   "Sitamarhi, Bihar": "2026-08-30T21:00:29Z",
+   "East Delhi, Delhi": "2026-09-01T00:35:27Z",
+   "08:00 AM": "2026-09-01T00:35:27Z",
+   "Consumer Awareness Program at East Delhi (Delhi) by Alabhaya Foundation": "2026-09-01T00:35:27Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-haveri-karnataka-coordinated-action-consumer-voluntary-0": "2026-08-02T08:35:41Z",
@@ -2096,7 +2095,8 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-east-delhi-delhi-indian-institute-technology": "2026-08-30T21:00:29Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-indian-institute-technology": "2026-08-30T21:00:29Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhargram-west-bengal-deepalaya": "2026-08-30T21:00:29Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sitamarhi-bihar-yuva-kriti-sangam": "2026-08-30T21:00:29Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sitamarhi-bihar-yuva-kriti-sangam": "2026-08-30T21:00:29Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-east-delhi-delhi-alabhaya-foundation": "2026-09-01T00:35:27Z"
   }
  }
 }
