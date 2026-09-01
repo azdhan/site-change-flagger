@@ -129,6 +129,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -143,7 +144,7 @@
   "फीडबैक",
   "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 31.08.2026",
+  "अंतिम बार अद्यतन किया गयाः 01.09.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -348,7 +349,7 @@
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -400,7 +401,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-01T08:34:43Z",
+ "fetched_at": "2026-09-01T14:07:11Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -557,7 +558,7 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 3,
+   "Key Offerings": 4,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
@@ -596,11 +597,11 @@
    "अंतिम बार अद्यतन किया गयाः 01.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 03.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 04.08.2026": 0,
-   "EOI: Development & Production Partners for Advanced Photonics Packaging": 4,
+   "EOI: Development & Production Partners for Advanced Photonics Packaging": 5,
    "अंतिम बार अद्यतन किया गयाः 05.08.2026": 0,
    "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार": 0,
    "अंतिम बार अद्यतन किया गयाः 06.08.2026": 0,
-   "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY": 6,
+   "Framework and Guidelines for the Establishment of Centre of Entrepreneurship (CoE) by Software Industry Promotion Division (SIPD), MeitY": 7,
    "सॉफ्टवेयर उद्योग संवर्धन प्रभाग (एस. आई. पी. डी.), एम. ई. आई. टी. वाई. द्वारा उद्यमिता केंद्र (सी. ओ. ई.) की स्थापना के लिए रूपरेखा और दिशानिर्देश": 0,
    "अंतिम बार अद्यतन किया गयाः 10.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
@@ -620,7 +621,9 @@
    "अंतिम बार अद्यतन किया गयाः 27.08.2026": 0,
    "Visvesvaraya PhD Scheme": 0,
    "अंतिम बार अद्यतन किया गयाः 28.08.2026": 0,
-   "अंतिम बार अद्यतन किया गयाः 31.08.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 31.08.2026": 0,
+   "अंतिम बार अद्यतन किया गयाः 01.09.2026": 0,
+   "विश्वेश्वरैया पीएचडी योजना": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -680,9 +683,9 @@
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies": 0,
-   "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 2,
+   "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 3,
    "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 0,
-   "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf": 5,
+   "https://www.meity.gov.in/static/uploads/2026/08/b01a69514bdd10727fc8012dd366b22c.pdf": 6,
    "https://meity.gov.in/ministry/directory-2": 0,
    "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 0,
    "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-director-general-indian-computer-emergency-response-team-dgicert-regarding-cjMwkjMtQWa": 0,

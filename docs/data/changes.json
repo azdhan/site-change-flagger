@@ -1,5 +1,40 @@
 [
  {
+  "id": "51419213c327",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-01T14:07:11Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "टेलीमार्केटर कोड"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/telemarketer-codes-QDO0ATNtQWa?pageTitle=Telemarketer-Codes",
+    "text": "आदेश और सूचनाएँ टेलीमार्केटर कोड"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "94f1af228796",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-01T14:07:11Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 01.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "2d5ade8aac47",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
