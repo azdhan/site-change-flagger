@@ -1,5 +1,85 @@
 [
  {
+  "id": "5f08b445a626",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-02T11:12:29Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "8 सितंबर 2026, मंगलवार को 11.00-13.00 बजे के दौरान \"स्मार्ट टेलीकॉम-नेटवर्क प्रबंधन और भविष्य के संचरण में ए. आई./एम. एल. की भूमिका\" विषय पर वेबिनार",
+   "अंतिम बार अद्यतन किया गयाः 02.09.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "9351547d3f32",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-02T11:12:29Z",
+  "summary": "3 new links, 7 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)",
+   "Nuapada, Odisha",
+   "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL",
+   "Agra , Uttar Pradesh",
+   "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation",
+   "Bolangiri, Odisha",
+   "2 September, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development-bird",
+    "text": "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-agra-uttar-pradesh-ro-bhopal",
+    "text": "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation",
+    "text": "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "ccbeee3c0337",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-02T11:12:29Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "02 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "b83aac843188",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-02T11:12:29Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 02.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "76e8138164e3",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
