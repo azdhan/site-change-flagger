@@ -1,5 +1,28 @@
 [
  {
+  "id": "bd5c810eab89",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-02T20:59:27Z",
+  "summary": "13 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Golaghat , Assam",
+   "Kangra , Himachal Pradesh",
+   "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR",
+   "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam",
+   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group",
+   "Amritsar, Punjab",
+   "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
+   "Tenkasi, Tamil Nadu",
+   "31 August, 2026"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d8091beca024",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
