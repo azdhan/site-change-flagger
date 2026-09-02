@@ -1,5 +1,76 @@
 [
  {
+  "id": "76e8138164e3",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-02T04:24:32Z",
+  "summary": "10 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Union Minister of Communications Shri Jyotiraditya M. Scindia Hails Sanchar Saathi’s Record Recovery of Over 75,000 Lost and Stolen Mobile Handsets in a Single Month Across India",
+   "DoT and C-DOT Sign Agreement to Establish End-to-End Optical Network Testbed for Indigenous Optical Communication Technologies",
+   "Union Minister of Communications and Development of North Eastern Region Shri Jyotiraditya M. Scindia Graces the 43rd Foundation Day Celebrations of C-DOT along with Minister of State for Communications and Rural Development Dr. Chandra Sekhar Pemmasani",
+   "Allotment of shortcodes - 2026"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "640d232f0b8e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-02T04:24:32Z",
+  "summary": "13 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Bhiwani , Haryana",
+   "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana",
+   "Darbhanga, Bihar",
+   "Badwani , Madhya Pradesh",
+   "28 August, 2026",
+   "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti",
+   "Bhavnagar, Gujarat",
+   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan",
+   "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f0025a8a8e48",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-02T04:24:32Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "28 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c14c72ee3362",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-02T04:24:32Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "EOI: Development & Production Partners for Advanced Photonics Packaging"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "21d9b1636847",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",

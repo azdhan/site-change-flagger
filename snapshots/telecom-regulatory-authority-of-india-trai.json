@@ -198,9 +198,9 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
+  "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
-  "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "On-going Consultation",
@@ -937,6 +937,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+   "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
   },
@@ -950,14 +958,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
-   "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
    "text": "Explore"
   },
   {
@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-01T23:17:03Z",
+ "fetched_at": "2026-09-02T04:24:32Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1526,33 +1526,23 @@
    "14th August 2026": 0,
    "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
    "25th August 2026": 0,
-   "12:00 PM": 7,
    "01:00 PM": 0,
    "28th August 2026": 0,
-   "Bhiwani , Haryana": 7,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
-   "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana": 7,
-   "Darbhanga, Bihar": 7,
-   "Badwani , Madhya Pradesh": 7,
-   "28 August, 2026": 7,
-   "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti": 7,
-   "Bhavnagar, Gujarat": 7,
-   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan": 7,
-   "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 7,
    "Kathua, Jammu and Kashmir": 0,
-   "Golaghat , Assam": 4,
-   "Kangra , Himachal Pradesh": 4,
-   "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR": 4,
-   "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam": 4,
-   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group": 4,
-   "Amritsar, Punjab": 4,
+   "Golaghat , Assam": 5,
+   "Kangra , Himachal Pradesh": 5,
+   "Consumer Outreach Program at Amritsar (Punjab) by RO JAIPUR": 5,
+   "Consumer Awareness Program at Golaghat (Assam) by Indian Institute Of Technology & Entrepreneur Development (IITED), Assam": 5,
+   "Consumer Awareness Program at Tenkasi (Tamil Nadu) by Citizen Consumer & Civic Action Group": 5,
+   "Amritsar, Punjab": 5,
    "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI": 0,
-   "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 4,
-   "Tenkasi, Tamil Nadu": 4,
+   "Consumer Awareness Program at Kangra (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 5,
+   "Tenkasi, Tamil Nadu": 5,
    "Kasaragod, Kerala": 0,
    "10:30 AM": 0,
    "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU": 0,
-   "31 August, 2026": 4,
+   "31 August, 2026": 5,
    "Mahesana, Gujarat": 0,
    "Kathua , Jammu and Kashmir": 0,
    "Sri Muktsar Sahib, Punjab": 0,
@@ -1786,17 +1776,13 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-barwani-madhya-pradesh-upbhokta-adhikar-sangthan": 7,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhavnagar-gujarat-shree-jagruti-grahak-suraksha-mahila": 7,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-darbhanga-bihar-mithila-sewa-samiti": 7,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhiwani-haryana-indian-institute-technology-entrepreneur": 7,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group": 4,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kangra-himachal-pradesh-indian-institute-technology": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tenkasi-tamil-nadu-citizen-consumer-civic-action-group": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kangra-himachal-pradesh-indian-institute-technology": 5,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kathua-jammu-and-kashmir-ro-delhi": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-golaghat-assam-indian-institute-technology-entrepreneur": 4,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-amritsar-punjab-ro-jaipur": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-golaghat-assam-indian-institute-technology-entrepreneur": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-amritsar-punjab-ro-jaipur": 5,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kasaragod-kerala-ro-bengaluru": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": 0,
@@ -1811,7 +1797,7 @@
    "01:00 PM": "2026-08-08T09:51:23Z",
    "10:30 AM": "2026-08-25T15:56:10Z",
    "11:30 AM": "2026-08-27T00:45:58Z",
-   "12:00 PM": "2026-08-23T06:58:17Z",
+   "12:00 PM": "2026-09-02T04:24:32Z",
    "Chandigarh, Chandigarh": "2026-08-26T09:54:33Z",
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society": "2026-08-26T09:54:33Z",
    "31 July, 2026": "2026-08-04T14:37:11Z",
@@ -1982,7 +1968,16 @@
    "Sitamarhi, Bihar": "2026-08-30T21:00:29Z",
    "East Delhi, Delhi": "2026-09-01T00:35:27Z",
    "08:00 AM": "2026-09-01T00:35:27Z",
-   "Consumer Awareness Program at East Delhi (Delhi) by Alabhaya Foundation": "2026-09-01T00:35:27Z"
+   "Consumer Awareness Program at East Delhi (Delhi) by Alabhaya Foundation": "2026-09-01T00:35:27Z",
+   "Bhiwani , Haryana": "2026-09-02T04:24:32Z",
+   "Consumer Awareness Program at Bhiwani (Haryana) by Indian Institute of Technology & Entrepreneur Development (IITED), Haryana": "2026-09-02T04:24:32Z",
+   "Darbhanga, Bihar": "2026-09-02T04:24:32Z",
+   "Badwani , Madhya Pradesh": "2026-09-02T04:24:32Z",
+   "28 August, 2026": "2026-09-02T04:24:32Z",
+   "Consumer Awareness Program at Darbhanga (Bihar) by Mithila Sewa Samiti": "2026-09-02T04:24:32Z",
+   "Bhavnagar, Gujarat": "2026-09-02T04:24:32Z",
+   "Consumer Awareness Program at Barwani (Madhya Pradesh) by Upbhokta Adhikar Sangthan": "2026-09-02T04:24:32Z",
+   "Consumer Awareness Program at Bhavnagar (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": "2026-09-02T04:24:32Z"
   },
   "grave_links": {
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-city-drive-virudnagar-and": "2026-08-04T17:01:00Z",
@@ -2103,7 +2098,11 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-indian-institute-technology": "2026-08-30T21:00:29Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhargram-west-bengal-deepalaya": "2026-08-30T21:00:29Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sitamarhi-bihar-yuva-kriti-sangam": "2026-08-30T21:00:29Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-east-delhi-delhi-alabhaya-foundation": "2026-09-01T00:35:27Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-east-delhi-delhi-alabhaya-foundation": "2026-09-01T00:35:27Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-barwani-madhya-pradesh-upbhokta-adhikar-sangthan": "2026-09-02T04:24:32Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhavnagar-gujarat-shree-jagruti-grahak-suraksha-mahila": "2026-09-02T04:24:32Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-darbhanga-bihar-mithila-sewa-samiti": "2026-09-02T04:24:32Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhiwani-haryana-indian-institute-technology-entrepreneur": "2026-09-02T04:24:32Z"
   }
  }
 }
