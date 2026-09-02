@@ -960,19 +960,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
    "text": "Explore"
   },
   {
@@ -1225,7 +1225,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-02T20:59:27Z",
+ "fetched_at": "2026-09-02T23:17:37Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1525,23 +1525,23 @@
    "14th August 2026": 0,
    "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
    "25th August 2026": 0,
-   "01:00 PM": 3,
+   "01:00 PM": 4,
    "28th August 2026": 0,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
-   "Kathua, Jammu and Kashmir": 3,
-   "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI": 3,
-   "Kasaragod, Kerala": 3,
+   "Kathua, Jammu and Kashmir": 4,
+   "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI": 4,
+   "Kasaragod, Kerala": 4,
    "10:30 AM": 0,
-   "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU": 3,
+   "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU": 4,
    "Mahesana, Gujarat": 0,
    "Kathua , Jammu and Kashmir": 0,
    "Sri Muktsar Sahib, Punjab": 0,
    "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab": 0,
    "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association": 0,
-   "North 24 Parganas, West Bengal": 3,
+   "North 24 Parganas, West Bengal": 4,
    "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": 0,
    "09:00 AM": 0,
-   "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": 3,
+   "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": 4,
    "Sirmaur , Himachal Pradesh": 0,
    "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 0,
    "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)": 0,
@@ -1549,7 +1549,7 @@
    "Bhadrak, Odisha": 0,
    "Nuapada , Odisha": 0,
    "Mancherial , Telangana": 0,
-   "1 September, 2026": 3,
+   "1 September, 2026": 4,
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": 0,
    "2 September, 2026": 0,
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)": 0,
@@ -1775,12 +1775,12 @@
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kathua-jammu-and-kashmir-ro-delhi": 3,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kasaragod-kerala-ro-bengaluru": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kathua-jammu-and-kashmir-ro-delhi": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kasaragod-kerala-ro-bengaluru": 4,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-24-parganas-west-bengal-islampur-ramkrishnapally": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-24-parganas-west-bengal-islampur-ramkrishnapally": 4,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": 0,
