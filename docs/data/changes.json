@@ -1,5 +1,30 @@
 [
  {
+  "id": "cc301351de64",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-03T16:22:21Z",
+  "summary": "2 new links, 2 new text blocks",
+  "added_lines": [
+   "एच. एम. ओ. सी. का संबोधन नोट-अगस्त 2026 संस्करण",
+   "एच. एम. ओ. सी. का पता-अगस्त 2026 संस्करण"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf",
+    "text": "एच. एम. ओ. सी. का संबोधन नोट-अगस्त 2026 संस्करण arrow_forward_ios"
+   },
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf",
+    "text": "एच. एम. ओ. सी. का पता-अगस्त 2026 संस्करण arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "c022ee1ebffc",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

@@ -120,14 +120,16 @@
   "100 5G Labs",
   "अधिक देखें",
   "नया क्या है",
+  "एच. एम. ओ. सी. का संबोधन नोट-अगस्त 2026 संस्करण",
+  "एच. एम. ओ. सी. का पता-अगस्त 2026 संस्करण",
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
+  "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति।",
   "8 सितंबर 2026, मंगलवार को 11.00-13.00 बजे के दौरान \"स्मार्ट टेलीकॉम-नेटवर्क प्रबंधन और भविष्य के संचरण में ए. आई./एम. एल. की भूमिका\" विषय पर वेबिनार",
   "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
   "कनिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति और भारतीय डाक और दूरसंचार लेखा और वित्त, सेवा समूह 'ए' के स्तर से नीचे",
-  "शॉर्टकोड का आवंटन-2026",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -330,6 +332,14 @@
    "text": "100 5G Labs"
   },
   {
+   "url": "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf",
+   "text": "एच. एम. ओ. सी. का संबोधन नोट-अगस्त 2026 संस्करण arrow_forward_ios"
+  },
+  {
+   "url": "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf",
+   "text": "एच. एम. ओ. सी. का पता-अगस्त 2026 संस्करण arrow_forward_ios"
+  },
+  {
    "url": "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf",
    "text": "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया arrow_forward_ios"
   },
@@ -344,10 +354,6 @@
   {
    "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)",
    "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)"
-  },
-  {
-   "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026",
-   "text": "आदेश और सूचनाएँ शॉर्टकोड का आवंटन-2026"
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
@@ -455,7 +461,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-03T11:08:41Z",
+ "fetched_at": "2026-09-03T16:22:21Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -757,7 +763,7 @@
    "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने संचार साथी द्वारा पूरे भारत में एक महीने में खोए हुए और चोरी हुए मोबाइल हैंडसेटों की रिकॉर्ड रिकवरी की सराहना की": 0,
    "डीओटी और सी-डॉट ने स्वदेशी ऑप्टिकल संचार प्रौद्योगिकियों के लिए एंड-टू-एंड ऑप्टिकल नेटवर्क टेस्टबेड स्थापित करने के लिए समझौते पर हस्ताक्षर किए": 0,
    "अंतिम बार अद्यतन किया गयाः 28.08.2026": 0,
-   "Revenue Management Services": 6,
+   "Revenue Management Services": 7,
    "श्री अनिल एन धनोरकर आई. टी. एस. समूह 'ए' अधिकारी की सेवानिवृत्ति 31-08-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर": 0,
    "अंतिम बार अद्यतन किया गयाः 31.08.2026": 0,
    "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यूपीएससी द्वारा अनुशंसित उम्मीदवारों को पद का आवंटन": 0,
@@ -769,7 +775,9 @@
    "8 सितंबर 2026, मंगलवार को 11.00-13.00 बजे के दौरान \"स्मार्ट टेलीकॉम-नेटवर्क प्रबंधन और भविष्य के संचरण में ए. आई./एम. एल. की भूमिका\" विषय पर वेबिनार": 0,
    "अंतिम बार अद्यतन किया गयाः 02.09.2026": 0,
    "कनिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति और भारतीय डाक और दूरसंचार लेखा और वित्त, सेवा समूह 'ए' के स्तर से नीचे": 0,
-   "अंतिम बार अद्यतन किया गयाः 03.09.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 03.09.2026": 0,
+   "एच. एम. ओ. सी. का संबोधन नोट-अगस्त 2026 संस्करण": 0,
+   "एच. एम. ओ. सी. का पता-अगस्त 2026 संस्करण": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -842,9 +850,11 @@
    "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 0,
-   "https://dot.gov.in/documents/orders-and-notices/telemarketer-codes-QDO0ATNtQWa?pageTitle=Telemarketer-Codes": 1,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 1,
+   "https://dot.gov.in/documents/orders-and-notices/telemarketer-codes-QDO0ATNtQWa?pageTitle=Telemarketer-Codes": 2,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0,
+   "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": 0,
+   "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-02T04:24:32Z",
@@ -900,7 +910,6 @@
   },
   "grave_links": {
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)": "2026-08-11T04:37:01Z",
-   "https://www.dot.gov.in/static/uploads/2026/07/e2eb9e3f6454b44745662fe2e3247f1c.pdf": "2026-08-04T11:32:14Z",
    "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-July-2026)": "2026-08-05T08:49:51Z",
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": "2026-08-06T14:32:15Z",
    "https://dot.gov.in/documents/reports/5g-bts-status-ETMwETNtQWa?pageTitle=5G-BTS-Status": "2026-08-06T14:32:15Z",
