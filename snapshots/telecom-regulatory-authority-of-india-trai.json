@@ -198,9 +198,9 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
+  "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
-  "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "On-going Consultation",
@@ -208,13 +208,11 @@
   "Comments",
   "Counter Comments",
   "Events",
-  "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir",
+  "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab",
   "Date :",
   "Time :",
   "11:00 AM",
   "Location :",
-  "Kathua , Jammu and Kashmir",
-  "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab",
   "Sri Muktsar Sahib, Punjab",
   "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association",
   "09:00 AM",
@@ -235,6 +233,9 @@
   "Agra , Uttar Pradesh",
   "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation",
   "Bolangiri, Odisha",
+  "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN",
+  "11:30 AM",
+  "Deogarh , Odisha",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -320,7 +321,7 @@
   "S. Ganesh - Dy. Advisor (IT)",
   "Website Content Owned and Managed by Telecom Regulatory Authority of India, GOI Designed & Developed by TRAI",
   "Copyright © 2024 TRAI. All rights reserved",
-  "2 September, 2026"
+  "3 September, 2026"
  ],
  "links": [
   {
@@ -936,6 +937,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
    "text": "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)"
   },
@@ -952,11 +961,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
-   "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "Explore"
   },
   {
@@ -965,14 +974,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "Explore"
   },
   {
@@ -986,10 +987,6 @@
   {
    "url": "https://www.trai.gov.in/events",
    "text": "View All"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology",
-   "text": "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur",
@@ -1028,6 +1025,10 @@
    "text": "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan",
+   "text": "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN"
+  },
+  {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
    "text": "Download Telecom Report (2.05 MB)"
   },
@@ -1054,6 +1055,10 @@
   {
    "url": "https://www.trai.gov.in/photo-gallery",
    "text": "View All"
+  },
+  {
+   "url": "https://www.trai.gov.in/photo-gallery/bif-critical-communications-india-conference",
+   "text": ""
   },
   {
    "url": "https://www.trai.gov.in/photo-gallery/quantum-safe-communication",
@@ -1089,10 +1094,6 @@
   },
   {
    "url": "https://www.trai.gov.in/photo-gallery/green-room-inauguration",
-   "text": ""
-  },
-  {
-   "url": "https://www.trai.gov.in/photo-gallery/itu-trai-workshop-2025-bhubaneswar",
    "text": ""
   },
   {
@@ -1225,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-03T04:19:05Z",
+ "fetched_at": "2026-09-03T11:08:41Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1525,23 +1526,23 @@
    "14th August 2026": 0,
    "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
    "25th August 2026": 0,
-   "01:00 PM": 5,
+   "01:00 PM": 6,
    "28th August 2026": 0,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
-   "Kathua, Jammu and Kashmir": 5,
-   "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI": 5,
-   "Kasaragod, Kerala": 5,
+   "Kathua, Jammu and Kashmir": 6,
+   "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI": 6,
+   "Kasaragod, Kerala": 6,
    "10:30 AM": 0,
-   "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU": 5,
+   "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU": 6,
    "Mahesana, Gujarat": 0,
-   "Kathua , Jammu and Kashmir": 0,
+   "Kathua , Jammu and Kashmir": 1,
    "Sri Muktsar Sahib, Punjab": 0,
    "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab": 0,
    "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association": 0,
-   "North 24 Parganas, West Bengal": 5,
-   "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": 0,
+   "North 24 Parganas, West Bengal": 6,
+   "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": 1,
    "09:00 AM": 0,
-   "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": 5,
+   "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": 6,
    "Sirmaur , Himachal Pradesh": 0,
    "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 0,
    "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)": 0,
@@ -1549,15 +1550,19 @@
    "Bhadrak, Odisha": 0,
    "Nuapada , Odisha": 0,
    "Mancherial , Telangana": 0,
-   "1 September, 2026": 5,
+   "1 September, 2026": 6,
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": 0,
-   "2 September, 2026": 0,
+   "2 September, 2026": 1,
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)": 0,
    "Bolangiri, Odisha": 0,
    "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL": 0,
    "Nuapada, Odisha": 0,
    "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation": 0,
-   "Agra , Uttar Pradesh": 0
+   "Agra , Uttar Pradesh": 0,
+   "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN": 0,
+   "11:30 AM": 0,
+   "3 September, 2026": 0,
+   "Deogarh , Odisha": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1716,7 +1721,7 @@
    "https://www.trai.gov.in/photo-gallery/trai-participated-mobile-world-congress-mwc-barcelona-2026": 0,
    "https://www.trai.gov.in/photo-gallery/cultural-programme-tarang-10": 0,
    "https://www.trai.gov.in/photo-gallery/green-room-inauguration": 0,
-   "https://www.trai.gov.in/photo-gallery/itu-trai-workshop-2025-bhubaneswar": 0,
+   "https://www.trai.gov.in/photo-gallery/itu-trai-workshop-2025-bhubaneswar": 1,
    "https://www.trai.gov.in/video-gallery": 0,
    "https://twitter.com/TRAI/status/2071949093598081183?ref_src=twsrc%5Etfw": 0,
    "https://twitter.com/TRAI/status/2071947530838126907?ref_src=twsrc%5Etfw": 0,
@@ -1775,19 +1780,21 @@
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kathua-jammu-and-kashmir-ro-delhi": 5,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kasaragod-kerala-ro-bengaluru": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kathua-jammu-and-kashmir-ro-delhi": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kasaragod-kerala-ro-bengaluru": 6,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": 1,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-24-parganas-west-bengal-islampur-ramkrishnapally": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-24-parganas-west-bengal-islampur-ramkrishnapally": 6,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development-bird": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-agra-uttar-pradesh-ro-bhopal": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation": 0
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation": 0,
+   "https://www.trai.gov.in/photo-gallery/bif-critical-communications-india-conference": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan": 0
   },
   "grave_lines": {
    "01:00 PM": "2026-08-08T09:51:23Z",

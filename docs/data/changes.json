@@ -1,5 +1,89 @@
 [
  {
+  "id": "c022ee1ebffc",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-03T11:08:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 03.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "3c1ac34cbfd5",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-03T11:08:41Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN",
+   "Deogarh , Odisha",
+   "3 September, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan",
+    "text": "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN"
+   },
+   {
+    "url": "https://www.trai.gov.in/photo-gallery/bif-critical-communications-india-conference",
+    "text": ""
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "2ad34b16cf1a",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-03T11:08:41Z",
+  "summary": "2 new links, 5 new text blocks",
+  "added_lines": [
+   "1.35 मेगा बाइट |",
+   "टेलीकम्युनिकेशन (टेलीविज़न, रेडियो और संबंधित सेवाएँ) नियम, 2026 का ड्राफ्ट",
+   "1.32 मेगा बाइट |",
+   "केबल टेलीविज़न नेटवर्क (संशोधन) नियम, 2026",
+   "03 सितंबर 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026.pdf",
+    "text": "03-09-2026 | 1.35 मेगा बाइट | टेलीकम्युनिकेशन (टेलीविज़न, रेडियो और संबंधित सेवाएँ) नियम, 2026 का ड्राफ्ट"
+   },
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-09/g.s.r-751-e-cable-television-networks-amendment-rules-2026.pdf",
+    "text": "03-09-2026 | 1.32 मेगा बाइट | केबल टेलीविज़न नेटवर्क (संशोधन) नियम, 2026"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "0707e3347249",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-03T11:08:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 03.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "7b0c59c6d4f4",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
