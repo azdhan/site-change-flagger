@@ -1,5 +1,41 @@
 [
  {
+  "id": "796426619e7c",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-03T20:58:37Z",
+  "summary": "10 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Kathua, Jammu and Kashmir",
+   "Consumer Outreach Program at Kathua (Jammu and Kashmir) by RO DELHI",
+   "Kasaragod, Kerala",
+   "Consumer Outreach Program at Kasaragod (Kerala) by RO BENGALURU",
+   "North 24 Parganas, West Bengal",
+   "Consumer Awareness Program at North 24 Parganas (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society",
+   "1 September, 2026"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a3fb73b73a2c",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-03T20:58:37Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "31 अगस्त 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "cc301351de64",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
