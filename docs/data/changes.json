@@ -1,5 +1,40 @@
 [
  {
+  "id": "7b0c59c6d4f4",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-03T04:19:05Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "कनिष्ठ प्रशासनिक ग्रेड में स्थानांतरण/नियुक्ति और भारतीय डाक और दूरसंचार लेखा और वित्त, सेवा समूह 'ए' के स्तर से नीचे"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f2fd15d214f9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-03T04:19:05Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "सूचना-प्रसारण सचिव ने कहा, भारतीय सूचना सेवा के अधिकारियों की भूमिका जनसंचार से कहीं अधिक : वे शासन और नागरिक आकांक्षाओं के बीच महत्वपूर्ण कड़ी जो सटीक, विश्वसनीय और संवेदनशील सूचना द्वारा भरोसा उत्पन्न करते हैं"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2305539&reg=3&lang=2",
+    "text": "सूचना-प्रसारण सचिव ने कहा, भारतीय सूचना सेवा के अधिकारियों की भूमिका जनसंचार से कहीं अधिक : वे शासन और नागरिक आकांक्षाओं के बीच महत्वपूर्ण कड़ी जो सटीक, विश्वसनीय और संवेदनशील सूचना द्वारा भरोसा उत्पन"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "bd5c810eab89",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

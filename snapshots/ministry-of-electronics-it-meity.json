@@ -110,8 +110,8 @@
   "अधिक देखें",
   "What’s New",
   "Filling up the post of Director General, ICERT",
-  "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
+  "Monthly Achievements for the month of July, 2026",
+  "View more",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "महत्वपूर्ण लिंक",
   "एमईआईटीवाई डैशबोर्ड",
@@ -307,15 +307,15 @@
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
-   "text": "जुलाई, 2026 के लिए मासिक उपलब्धियाँ arrow_forward_ios"
+   "text": "Monthly Achievements for the month of July, 2026 arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
+   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://meity.dashboard.nic.in/",
@@ -387,7 +387,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-02T23:17:37Z",
+ "fetched_at": "2026-09-03T04:19:05Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -493,7 +493,7 @@
    "कार्यक्रम देखें": 0,
    "प्रमुख प्रस्ताव": 0,
    "अधिक देखें": 0,
-   "View more": 2,
+   "View more": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "महत्वपूर्ण लिंक": 0,
    "एमईआईटीवाई डैशबोर्ड": 0,
@@ -521,10 +521,10 @@
    "इस अनुवाद का मूल्यांकन करें": 0,
    "Do you like to give feedback": 0,
    "जमा करें": 0,
-   "Shri Ashwini Vaishnaw": 2,
-   "HON’BLE MINISTER OF STATE": 2,
-   "Shri Jitin Prasada": 2,
-   "HON’BLE MINISTER": 2,
+   "Shri Ashwini Vaishnaw": 3,
+   "HON’BLE MINISTER OF STATE": 3,
+   "Shri Jitin Prasada": 3,
+   "HON’BLE MINISTER": 3,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
    "What’s New": 0,
@@ -537,7 +537,7 @@
    "डिजिटल इंडिया इंटर्नशिप योजना 2026": 0,
    "नया क्या है": 0,
    "TECHNICAL INTERNSHIP PROGRAMME 2025": 0,
-   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 1,
+   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 2,
    "NeGD’s Non-Technical (Summer) Internship Programme": 0,
    "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 0,
    "माननीय राज्य मंत्री": 0,
@@ -591,7 +591,7 @@
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 2,
+   "Monthly Achievements for the month of July, 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
    "जुलाई, 2026 के लिए मासिक उपलब्धियाँ": 0,
    "अंतिम बार अद्यतन किया गयाः 17.08.2026": 0,
@@ -658,9 +658,9 @@
    "https://www.instagram.com/goi_meity/": 0,
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 2,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 3,
    "https://intern.meity.gov.in": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 2,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 3,
    "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa": 0,
