@@ -1,5 +1,20 @@
 [
  {
+  "id": "5b8b21ee2aff",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-04T16:18:29Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "एमआईबी ने केंद्र-राज्य तालमेल को मजबूत करने के लिए राज्यों/केंद्र शासित प्रदेशों के आईएंडपीआर सचिवों के साथ राष्ट्रीय सम्मेलन आयोजित किया"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "ee707bc642b2",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
