@@ -961,19 +961,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
    "text": "Explore"
   },
   {
@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-03T23:15:11Z",
+ "fetched_at": "2026-09-04T04:24:39Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1530,11 +1530,11 @@
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
    "10:30 AM": 0,
    "Mahesana, Gujarat": 0,
-   "Kathua , Jammu and Kashmir": 4,
+   "Kathua , Jammu and Kashmir": 5,
    "Sri Muktsar Sahib, Punjab": 0,
    "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab": 0,
    "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association": 0,
-   "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": 4,
+   "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": 5,
    "09:00 AM": 0,
    "Sirmaur , Himachal Pradesh": 0,
    "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 0,
@@ -1544,7 +1544,7 @@
    "Nuapada , Odisha": 0,
    "Mancherial , Telangana": 0,
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": 0,
-   "2 September, 2026": 4,
+   "2 September, 2026": 5,
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)": 0,
    "Bolangiri, Odisha": 0,
    "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL": 0,
@@ -1713,7 +1713,7 @@
    "https://www.trai.gov.in/photo-gallery/trai-participated-mobile-world-congress-mwc-barcelona-2026": 0,
    "https://www.trai.gov.in/photo-gallery/cultural-programme-tarang-10": 0,
    "https://www.trai.gov.in/photo-gallery/green-room-inauguration": 0,
-   "https://www.trai.gov.in/photo-gallery/itu-trai-workshop-2025-bhubaneswar": 4,
+   "https://www.trai.gov.in/photo-gallery/itu-trai-workshop-2025-bhubaneswar": 5,
    "https://www.trai.gov.in/video-gallery": 0,
    "https://twitter.com/TRAI/status/2071949093598081183?ref_src=twsrc%5Etfw": 0,
    "https://twitter.com/TRAI/status/2071947530838126907?ref_src=twsrc%5Etfw": 0,
@@ -1773,7 +1773,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture": 0,
@@ -1792,7 +1792,6 @@
    "12:00 PM": "2026-09-02T04:24:32Z",
    "Chandigarh, Chandigarh": "2026-08-26T09:54:33Z",
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society": "2026-08-26T09:54:33Z",
-   "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": "2026-08-05T03:28:52Z",
    "TRAI Assesses Network Quality Across Hamirpur & Bilaspur City, Amb to Hamirpur and Hamirpur to Bilaspur Highway.": "2026-08-05T08:49:51Z",
    "20th July 2026": "2026-08-05T08:49:51Z",
    "Consumer Awareness Program at Cuddalore (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)": "2026-08-05T08:49:51Z",
@@ -1985,8 +1984,6 @@
    "1 September, 2026": "2026-09-03T20:58:37Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa": "2026-08-05T03:28:52Z",
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa": "2026-08-05T03:28:52Z",
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": "2026-08-05T08:49:51Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-network-quality-across-hamirpur-bilaspur-city-amb": "2026-08-05T08:49:51Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cuddalore-tamil-nadu-rural-organaisation-social": "2026-08-05T08:49:51Z",
