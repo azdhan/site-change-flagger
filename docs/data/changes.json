@@ -1,5 +1,56 @@
 [
  {
+  "id": "1e12d6254753",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-04T20:43:34Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a40524cf7d28",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-04T20:43:34Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Kathua , Jammu and Kashmir",
+   "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir",
+   "2 September, 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "873f25366d9d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-04T20:43:34Z",
+  "summary": "11 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "18.38 मेगा बाइट |",
+   "भारत के फिल्म एंड टेलीविजन इंस्टीट्यूट ऑफ इंडिया, पुणे की वार्षिक रिपोर्ट और…",
+   "14 मेगा बाइट |",
+   "सत्यजीत रे फिल्म और टेलीविजन संस्थान, कोलकाता की वार्षिक रिपोर्ट और लेखा-…",
+   "प्रकाशन विभाग को फेडरेशन ऑफ़ इंडियन पब्लिशर्स अवार्ड्स फॉर एक्सीलेंस इन बुक प्रोडक्शन 2026 में सात पुरस्कार मिले",
+   "आईआईसीटी और नेटफ्लिक्स 6 कार्यक्रमों के माध्यम से स्कॉलरशिप देकर भारतीय कहानीकारों की अगली पीढ़ी का समर्थन करेंगे",
+   "02 सितंबर 2026"
+  ],
+  "removed_lines_total": 11,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "5b8b21ee2aff",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
