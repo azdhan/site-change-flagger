@@ -1,5 +1,41 @@
 [
  {
+  "id": "ee707bc642b2",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-04T11:12:14Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 04.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e368711cc1ae",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-04T11:12:14Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)",
+   "Nilgiris, Tamil Nadu"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nilgiris-tamil-nadu-tamilnadu-consumer-protection-and",
+    "text": "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "796426619e7c",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
