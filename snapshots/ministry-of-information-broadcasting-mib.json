@@ -603,7 +603,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-04T20:43:34Z",
+ "fetched_at": "2026-09-04T23:01:45Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -885,14 +885,14 @@
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2305539&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-751-e-cable-television-networks-amendment-rules-2026.pdf": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 4,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 4,
-   "https://mib.gov.in/index.php/hi/website-policy": 4,
-   "https://mib.gov.in/index.php/hi/help": 4,
-   "https://mib.gov.in/index.php/hi/archives": 4,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 4,
-   "https://mib.gov.in/index.php/hi/sitemap": 4,
-   "https://mib.gov.in/index.php/hi/feedback": 4
+   "https://mib.gov.in/index.php/hi/related-link": 5,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 5,
+   "https://mib.gov.in/index.php/hi/website-policy": 5,
+   "https://mib.gov.in/index.php/hi/help": 5,
+   "https://mib.gov.in/index.php/hi/archives": 5,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 5,
+   "https://mib.gov.in/index.php/hi/sitemap": 5,
+   "https://mib.gov.in/index.php/hi/feedback": 5
   },
   "grave_lines": {
    "ई - बुक्स": "2026-08-07T10:08:59Z",
