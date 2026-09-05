@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-05T15:09:06Z",
+ "fetched_at": "2026-09-05T17:18:26Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1530,8 +1530,6 @@
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
    "10:30 AM": 0,
    "Mahesana, Gujarat": 0,
-   "Sri Muktsar Sahib, Punjab": 7,
-   "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab": 7,
    "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association": 0,
    "09:00 AM": 0,
    "Sirmaur , Himachal Pradesh": 0,
@@ -1771,7 +1769,6 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur": 7,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": 0,
@@ -1971,7 +1968,9 @@
    "1 September, 2026": "2026-09-03T20:58:37Z",
    "Kathua , Jammu and Kashmir": "2026-09-04T20:43:34Z",
    "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": "2026-09-04T20:43:34Z",
-   "2 September, 2026": "2026-09-04T20:43:34Z"
+   "2 September, 2026": "2026-09-04T20:43:34Z",
+   "Sri Muktsar Sahib, Punjab": "2026-09-05T17:18:26Z",
+   "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab": "2026-09-05T17:18:26Z"
   },
   "grave_links": {
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": "2026-08-11T02:24:15Z",
@@ -2093,7 +2092,8 @@
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-kasaragod-kerala-ro-bengaluru": "2026-09-03T20:58:37Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-24-parganas-west-bengal-islampur-ramkrishnapally": "2026-09-03T20:58:37Z",
    "https://www.trai.gov.in/photo-gallery/itu-trai-workshop-2025-bhubaneswar": "2026-09-04T20:43:34Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": "2026-09-04T20:43:34Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": "2026-09-04T20:43:34Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur": "2026-09-05T17:18:26Z"
   }
  }
 }

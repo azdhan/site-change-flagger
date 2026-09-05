@@ -1,5 +1,21 @@
 [
  {
+  "id": "b9cfdb2778b8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-05T17:18:26Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Sri Muktsar Sahib, Punjab",
+   "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "1e12d6254753",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
