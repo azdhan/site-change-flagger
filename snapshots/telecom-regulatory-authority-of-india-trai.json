@@ -198,9 +198,9 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
+  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
-  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "3rd August 2026",
   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "On-going Consultation",
@@ -937,6 +937,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
+   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
    "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
   },
@@ -950,14 +958,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "Explore"
   },
   {
@@ -1226,7 +1226,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-06T04:31:21Z",
+ "fetched_at": "2026-09-06T10:50:57Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1788,11 +1788,6 @@
    "Chandigarh, Chandigarh": "2026-08-26T09:54:33Z",
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society": "2026-08-26T09:54:33Z",
    "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": "2026-08-11T02:24:15Z",
-   "Consumer Awareness Program at Kallakurichi (Tamil Nadu) by Citizen Consumer & Civic Action Group": "2026-08-07T10:08:59Z",
-   "Kallakurichi, Tamil Nadu": "2026-08-07T10:08:59Z",
-   "Consumer Outreach Program at Mandi (Himachal Pradesh) by RO DELHI": "2026-08-07T10:08:59Z",
-   "Mandi , Himachal Pradesh": "2026-08-07T10:08:59Z",
-   "5 August, 2026": "2026-08-07T10:08:59Z",
    "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": "2026-08-11T04:37:01Z",
    "Hooghly, West Bengal": "2026-08-07T13:34:35Z",
    "Consumer Awareness Program at Hooghly (West Bengal) by Islampur Ramkrishnapally Rural Welfare Society": "2026-08-07T13:34:35Z",
@@ -1975,8 +1970,6 @@
   "grave_links": {
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": "2026-08-11T02:24:15Z",
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": "2026-08-11T02:24:15Z",
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-mandi-himachal-pradesh-ro-delhi": "2026-08-07T10:08:59Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kallakurichi-tamil-nadu-citizen-consumer-civic-action": "2026-08-07T10:08:59Z",
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": "2026-08-11T04:37:01Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": "2026-08-11T04:37:01Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hooghly-west-bengal-islampur-ramkrishnapally-rural": "2026-08-07T13:34:35Z",
