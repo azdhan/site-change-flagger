@@ -1,5 +1,42 @@
 [
  {
+  "id": "ba89a6e58682",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-07T04:30:54Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "Webinar on “Smart Telecom- Role of AI/ML in Network Management and Future Transmission” on 8th September 2026, Tuesday during 11:00 – 13:00 Hrs",
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (July - Sept 2026)",
+   "Transfer /Posting in the Junior Administrative Grade and Below level of Indian Posts and Telecommunications Accounts and Finance, Service Group 'A'"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "3fb866fa69c1",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-07T04:30:54Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविंग), डिजिटाइजेशन और रेस्टोरेशन पर एक विशेष कार्यशाला का"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306588&reg=3&lang=2",
+    "text": "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविं"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "d0750123cce4",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
