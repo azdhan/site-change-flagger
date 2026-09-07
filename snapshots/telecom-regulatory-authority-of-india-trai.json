@@ -960,19 +960,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
    "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "Explore"
   },
   {
@@ -1225,7 +1225,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-07T12:23:06Z",
+ "fetched_at": "2026-09-07T19:07:47Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1528,16 +1528,16 @@
    "28th August 2026": 0,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
    "10:30 AM": 0,
-   "Mahesana, Gujarat": 1,
-   "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association": 1,
-   "09:00 AM": 1,
-   "Sirmaur , Himachal Pradesh": 1,
-   "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 1,
-   "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)": 1,
+   "Mahesana, Gujarat": 2,
+   "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association": 2,
+   "09:00 AM": 2,
+   "Sirmaur , Himachal Pradesh": 2,
+   "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 2,
+   "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)": 2,
    "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH": 0,
    "Bhadrak, Odisha": 0,
    "Nuapada , Odisha": 0,
-   "Mancherial , Telangana": 1,
+   "Mancherial , Telangana": 2,
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": 0,
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)": 0,
    "Bolangiri, Odisha": 0,
@@ -1547,7 +1547,7 @@
    "Agra , Uttar Pradesh": 0,
    "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN": 0,
    "11:30 AM": 0,
-   "3 September, 2026": 1,
+   "3 September, 2026": 2,
    "Deogarh , Odisha": 0,
    "Nilgiris, Tamil Nadu": 0,
    "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": 0,
@@ -1774,9 +1774,9 @@
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development-bird": 0,
@@ -1977,31 +1977,6 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": "2026-08-11T04:37:01Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": "2026-08-11T04:37:01Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur": "2026-08-18T09:46:02Z",
-   "https://www.trai.gov.in/index.php/user/login": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-participated-mobile-world-congress-mwc-barcelona-2026": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/regulatory-framework": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-convergence-india-expo-2026": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/itu-trai-workshop-2025-bhubaneswar": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/green-room-inauguration": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-koderma-jharkhand-prerna-rural-development-society": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-faridabad-haryana-consumer-coordination-council-ccc": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/measures-be-taken-avoid-ucc": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/quantum-safe-communication": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/cultural-programme-tarang-10": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-sirsa-haryana-rashtriya-samuddeshiya-vikas-sansthan": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/wsis-26-ai-good-global-summit": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-jangaon-telangana-sri-dharani-voluntary-organisation": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-et-telecom-5g-congress-2026": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consultation-paper-draft-amendments-standards-quality-service-access-wireline-and-wireless-and": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-uttarkashi-uttarakhand-indian-institute-technology": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/dcra-portal": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-awareness-program-mathura-uttar-pradesh-citizen-development-institute": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-jabalpur-madhya-pradesh-ro-bhopal": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/trai-leadership-etgovtech-2026": "2026-08-08T13:09:49Z",
-   "https://www.trai.gov.in/index.php/index.php/photo-gallery/coai-digicom-summit-2026": "2026-08-08T13:09:49Z",
    "https://www.mygov.in/task/trai-dnd-reel-challenge-june-2026": "2026-08-11T07:32:59Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": "2026-08-11T07:32:59Z",
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": "2026-08-11T07:32:59Z",
