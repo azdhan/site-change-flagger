@@ -1,5 +1,96 @@
 [
  {
+  "id": "a761b266ad5e",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-08T11:12:01Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 08.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "d563742a19be",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-08T11:12:01Z",
+  "summary": "4 new links, 7 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Jamtara (Jharkhand) by Mahila Janshakti Sangathan",
+   "Jamtara, Jharkhand",
+   "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club",
+   "Dehradun, Uttarakhand",
+   "Consumer Awareness Program at Dausa (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan",
+   "Dausa , Rajasthan",
+   "8 September, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamtara-jharkhand-mahila-janshakti-sangathan",
+    "text": "Consumer Awareness Program at Jamtara (Jharkhand) by Mahila Janshakti Sangathan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-pmry-club",
+    "text": "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dausa-rajasthan-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Dausa (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan"
+   },
+   {
+    "url": "https://www.trai.gov.in/photo-gallery/smra-model-spectrum-auctions-2026",
+    "text": ""
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "2bc4fa829829",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-08T11:12:01Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "08 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "2083b6935109",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-08T11:12:01Z",
+  "summary": "6 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Draft amendments to the IT Rules, 2021 in relation to strengthening intermediary compliance with clarifications, advisories and directions issued by the Ministry and digital media oversight",
+   "Integrated Finances",
+   "Act and policies",
+   "Report"
+  ],
+  "removed_lines_total": 6,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e487da18f9d3",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",

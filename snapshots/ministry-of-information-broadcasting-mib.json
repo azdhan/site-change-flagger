@@ -165,7 +165,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "07 सितंबर 2026"
+  "08 सितंबर 2026"
  ],
  "links": [
   {
@@ -299,6 +299,10 @@
   {
    "url": "https://mib.gov.in/hi/connect/WIM-Info",
    "text": "संपर्क करें"
+  },
+  {
+   "url": "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850",
+   "text": ""
   },
   {
    "url": "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf",
@@ -602,7 +606,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-08T04:28:36Z",
+ "fetched_at": "2026-09-08T11:12:01Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -764,19 +768,20 @@
    "97.65 किलोबाइट |": 0,
    "निविदा सूचनाएँ": 0,
    "प्राइवेट सैटेलाइट टेलीविज़न चैनलों पर मादक पदार्थों के दुरुपयोग के दुष्‍प्रभावों…": 0,
-   "परामर्श": 5,
-   "प्राइवेट सैटेलाइट टेलीविज़न चैनलों पर मादक पदार्थों के दुरुपयोग के दुष्‍प्रभावों से संबंधित अस्‍वीकरण (डिस्‍कलेमर) प्रदर्शित करने के संबंध में एडवाइजरी दिनांक 20.08.2026.": 5,
+   "परामर्श": 6,
+   "प्राइवेट सैटेलाइट टेलीविज़न चैनलों पर मादक पदार्थों के दुरुपयोग के दुष्‍प्रभावों से संबंधित अस्‍वीकरण (डिस्‍कलेमर) प्रदर्शित करने के संबंध में एडवाइजरी दिनांक 20.08.2026.": 6,
    "903.41 किलोबाइट |": 0,
    "सूचना-प्रसारण सचिव ने कहा, भारतीय सूचना सेवा के अधिकारियों की भूमिका जनसंचार से कहीं अधिक : वे शासन और नागरिक आकांक्षाओं के बीच महत्वपूर्ण कड़ी जो सटीक, विश्वसनीय और संवेदनशील सूचना द्वारा भरोसा उत्पन्न करते हैं": 0,
    "टेलीकम्युनिकेशन (टेलीविज़न, रेडियो और संबंधित सेवाएँ) नियम, 2026 का ड्राफ्ट": 0,
    "केबल टेलीविज़न नेटवर्क (संशोधन) नियम, 2026": 0,
    "अधिनियम/नीति/दिशानिर्देश": 0,
-   "1.35 मेगा बाइट |": 4,
+   "1.35 मेगा बाइट |": 5,
    "1.32 मेगा बाइट |": 0,
-   "06 सितंबर 2026": 4,
+   "06 सितंबर 2026": 5,
    "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविंग), डिजिटाइजेशन और रेस्टोरेशन पर एक विशेष कार्यशाला का": 0,
-   "07 सितंबर 2026": 0,
-   "1.37 मेगा बाइट |": 0
+   "07 सितंबर 2026": 1,
+   "1.37 मेगा बाइट |": 0,
+   "08 सितंबर 2026": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -878,20 +883,20 @@
    "https://mib.gov.in/sites/default/files/2026-07/order-and-notices.pdf": 0,
    "https://mib.gov.in/hi/provisions-regarding-official-language": 0,
    "https://mib.gov.in/sites/default/files/2026-07/hindi-translation-of-o.m-dated-18-06-2026_0.pdf": 0,
-   "https://harghartiranga.com/": 6,
+   "https://harghartiranga.com/": 7,
    "https://mib.gov.in/sites/default/files/2026-08/savatantarataa-daivasa.pdf": 0,
    "https://mib.gov.in/sites/default/files/2025-10/hindi-vacancy-circular-om-dated-10-10-2025-advertisement-for-ro-cbfc-cuttack-delhi-hyderabad-kolkata-and-mumbai-1.pdf": 0,
    "http://mib.gov.in/hi/offerings/notification/tender-notices": 0,
    "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-08/advisory-dt-20.08.2026.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2305539&reg=3&lang=2": 0,
-   "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026.pdf": 4,
+   "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026.pdf": 5,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-751-e-cable-television-networks-amendment-rules-2026.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306588&reg=3&lang=2": 0,
-   "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0
+   "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
+   "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": 0
   },
   "grave_lines": {
-   "07 अगस्त 2026": "2026-08-09T07:12:36Z",
    "08 अगस्त 2026": "2026-08-10T04:50:00Z",
    "सिनेमाटोग्राफ (संशोधन) अधिनियम और आईटी ढांचा पायरेसी विरोधी प्रवर्तन को मजबूत करते हैं। 4,996 टेलीग्राम चैनलों और 1,263 वेबसाइटों सहित 7,393 यूआरएल निष्क्रिय किए गए।": "2026-08-11T04:37:01Z",
    "सरकार का उद्देश्य भारत के इंटरनेट को गैरकानूनी और अश्लील कॉन्टेंट से मुक्त रखना और एक सुरक्षित व भरोसेमंद डिजिटल वातावरण सुनिश्चित करना है": "2026-08-11T04:37:01Z",
