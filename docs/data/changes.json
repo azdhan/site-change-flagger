@@ -1,5 +1,60 @@
 [
  {
+  "id": "1dc3040009a4",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-08T23:21:29Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Webinar on “Smart Telecom- Role of AI/ML in Network Management and Future Transmission” on 8th September 2026, Tuesday during 11:00 – 13:00 Hrs",
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (July - Sept 2026)",
+   "Transfer /Posting in the Junior Administrative Grade and Below level of Indian Posts and Telecommunications Accounts and Finance, Service Group 'A'"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "ad9b265eb835",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-08T23:21:29Z",
+  "summary": "11 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Mahesana, Gujarat",
+   "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association",
+   "09:00 AM",
+   "Sirmaur , Himachal Pradesh",
+   "Consumer Awareness Program at Mancherial (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
+   "Consumer Awareness Program at Sirmaur (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad (Regd)",
+   "Mancherial , Telangana",
+   "3 September, 2026"
+  ],
+  "removed_lines_total": 11,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "534a0fb5e6b6",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-08T23:21:29Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "1.35 मेगा बाइट |",
+   "06 सितंबर 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "27c1ad305dfd",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
