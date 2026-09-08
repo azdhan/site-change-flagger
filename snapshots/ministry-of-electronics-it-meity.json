@@ -100,15 +100,12 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।",
-  "हमारी टीम",
-  "हमारे संगठन",
-  "हमारा प्रदर्शन",
+  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
   "Shri Ashwini Vaishnaw",
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
-  "प्रमुख प्रस्ताव",
+  "Key Offerings",
   "TECHNICAL INTERNSHIP PROGRAMME 2025",
   "arrow_forward_ios",
   "NeGD’s Non-Technical (Summer) Internship Programme",
@@ -116,10 +113,10 @@
   "Digital India Internship Scheme 2026",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "अधिक देखें",
-  "नया क्या है",
-  "महानिदेशक, आईसीईआरटी के पद को भरना",
-  "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
+  "What’s New",
+  "Filling up the post of Director General, ICERT",
+  "Monthly Achievements for the month of July, 2026",
+  "View more",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "महत्वपूर्ण लिंक",
   "एमईआईटीवाई डैशबोर्ड",
@@ -127,6 +124,16 @@
   "सार्वजनिक शिकायतें",
   "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए",
   "पता लगाएँ कि नया क्या है",
+  "सोशल मीडिया में",
+  "एक्स",
+  "यूट्यूब",
+  "फेसबुक",
+  "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
+  "In Social Media",
+  "Instagram",
+  "Youtube",
+  "Facebook",
   "उपयोगी लिंक",
   "अभिलेखागार",
   "वेबसाइट नीतियाँ",
@@ -310,19 +317,19 @@
   },
   {
    "url": "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-director-general-indian-computer-emergency-response-team-dgicert-regarding-cjMwkjMtQWa",
-   "text": "महानिदेशक, आईसीईआरटी के पद को भरना arrow_forward_ios"
+   "text": "Filling up the post of Director General, ICERT arrow_forward_ios"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
-   "text": "जुलाई, 2026 के लिए मासिक उपलब्धियाँ arrow_forward_ios"
+   "text": "Monthly Achievements for the month of July, 2026 arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
+   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://meity.dashboard.nic.in/",
@@ -335,6 +342,14 @@
   {
    "url": "https://meity.gov.in/documents/act-and-policies/section-69a-of-it-act-2-YjNxgTMtQWa?pageTitle=Section-69A-of-IT-Act",
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
+  },
+  {
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+  },
+  {
+   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -386,7 +401,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-08T16:35:03Z",
+ "fetched_at": "2026-09-08T21:06:01Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -609,11 +624,11 @@
    "विश्वेश्वरैया पीएचडी योजना": 0,
    "अंतिम बार अद्यतन किया गयाः 02.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 03.09.2026": 0,
-   "Ministry of Electronics and Information Technology": 4,
+   "Ministry of Electronics and Information Technology": 5,
    "अंतिम बार अद्यतन किया गयाः 07.09.2026": 0,
-   "For Researcher": 4,
-   "For Media": 4,
-   "For Business Owner": 4,
+   "For Researcher": 5,
+   "For Media": 5,
+   "For Business Owner": 5,
    "अंतिम बार अद्यतन किया गयाः 08.09.2026": 0,
    "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई": 0
   },
@@ -646,7 +661,7 @@
    "https://meity.gov.in/connect/citizen-engagement": 0,
    "https://meity.gov.in/connect/parliament-questions": 0,
    "https://meity.gov.in/static/uploads/2026/04/5f8bd2d1ed4fafa1564f8768ba47e546.pdf": 0,
-   "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-chairman-members-in-the-data-protection-board-of-india-QTMxcjMtQWa": 1,
+   "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-chairman-members-in-the-data-protection-board-of-india-QTMxcjMtQWa": 2,
    "https://meity.gov.in/static/uploads/2025/01/5ff397f9e8152d5562ed4cef1a6b767b.pdf": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163000": 0,
    "https://meity.dashboard.nic.in/": 0,
@@ -680,11 +695,11 @@
    "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-director-general-indian-computer-emergency-response-team-dgicert-regarding-cjMwkjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa": 0,
    "https://meity.gov.in/ministry/directory": 0,
-   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 4,
-   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 4,
-   "https://meity.gov.in/persona/media-QOwIDOtQWa": 4,
-   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 4,
-   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 0,
+   "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 5,
+   "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 5,
+   "https://meity.gov.in/persona/media-QOwIDOtQWa": 5,
+   "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 5,
+   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 1,
    "https://meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf": 0
   },
   "grave_lines": {

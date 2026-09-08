@@ -1,5 +1,20 @@
 [
  {
+  "id": "27c1ad305dfd",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-08T21:06:01Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "प्राइवेट सैटेलाइट टेलीविज़न चैनलों पर मादक पदार्थों के दुरुपयोग के दुष्‍प्रभावों से संबंधित अस्‍वीकरण (डिस्‍कलेमर) प्रदर्शित करने के संबंध में एडवाइजरी दिनांक 20.08.2026."
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "127c777a6cfa",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
