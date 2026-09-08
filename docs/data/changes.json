@@ -1,5 +1,53 @@
 [
  {
+  "id": "127c777a6cfa",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-08T16:35:03Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "नागरिकों का पैसा बर्बाद होने से पहले बचाया गयाः वित्तीय धोखाधड़ी जोखिम संकेतक (एफआरआई) ₹5,000 करोड़ से अधिक के संदिग्ध साइबर धोखाधड़ी लेनदेन को रोकता है"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "30d2f420c093",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-08T16:35:03Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "35f535d5b14d",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-08T16:35:03Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf",
+    "text": "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "a761b266ad5e",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
