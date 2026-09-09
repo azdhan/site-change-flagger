@@ -1,5 +1,95 @@
 [
  {
+  "id": "0001d7020507",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-09T11:16:10Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 09.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "46a4c7e96f96",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-09T11:16:10Z",
+  "summary": "3 new links, 7 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Majuli (Assam) by Gram Vikas Parishad",
+   "Majuli , Assam",
+   "Consumer Awareness Program at Hanumakonda (Telangana) by Sri Dharani Voluntary Organisation",
+   "Hanumakonda , Telangana",
+   "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)",
+   "Mayiladuthurai, Tamil Nadu",
+   "9 September, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-majuli-assam-gram-vikas-parishad",
+    "text": "Consumer Awareness Program at Majuli (Assam) by Gram Vikas Parishad"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumakonda-telangana-sri-dharani-voluntary-organisation",
+    "text": "Consumer Awareness Program at Hanumakonda (Telangana) by Sri Dharani Voluntary Organisation"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mayiladuthurai-tamil-nadu-rural-organaisation-social",
+    "text": "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "e5573ce668cd",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-09T11:16:10Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी",
+   "09 सितंबर 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2",
+    "text": "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "95637e42fefa",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-09T11:16:10Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 09.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf",
+    "text": "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "1dc3040009a4",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
