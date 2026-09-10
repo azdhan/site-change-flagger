@@ -1,5 +1,68 @@
 [
  {
+  "id": "3a009a32b516",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-10T16:21:06Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "झारखंड में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग; झारखंड सरकार; जे. डी. आई. सी. एल.; बी. एस. एन. एल. और जे. सी. एन. एल. के बीच समझौते पर हस्ताक्षर किए गए",
+   "जुलाई-2026 के लिए मासिक खाते के आंकड़ों का विवरण",
+   "मई-2026 के महीने के मासिक खाते के आंकड़ों का विवरण"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "4240a0292b87",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-10T16:21:06Z",
+  "summary": "4 new links, 7 new text blocks, 11 items no longer on page",
+  "added_lines": [
+   "10th September 2026",
+   "TRAI releases The Standards of Quality of Service (Duration of Advertisements in Television Channels) (Repealing) Regulations, 2026",
+   "Consumer Awareness Program at Palamu (Jharkhand) by Prerna Rural Development Society",
+   "Palamu, Jharkhand",
+   "Consumer Awareness Program at Samastipur (Bihar) by Mithila Sewa Samiti",
+   "Samastipur , Bihar",
+   "10 September, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [
+   "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH",
+   "Bhadrak, Odisha",
+   "Nuapada , Odisha",
+   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development",
+   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)",
+   "Nuapada, Odisha",
+   "7 September, 2026"
+  ],
+  "removed_lines_total": 11,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-standards-quality-service-duration-advertisements",
+    "text": "TRAI releases The Standards of Quality of Service (Duration of Advertisements in Television Channels) (Repealing) Regulations, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-standards-quality-service-duration-advertisements",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-palamu-jharkhand-prerna-rural-development-society",
+    "text": "Consumer Awareness Program at Palamu (Jharkhand) by Prerna Rural Development Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-samastipur-bihar-mithila-sewa-samiti",
+    "text": "Consumer Awareness Program at Samastipur (Bihar) by Mithila Sewa Samiti"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
   "id": "9a6df87699f7",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
