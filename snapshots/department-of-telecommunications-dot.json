@@ -147,6 +147,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -161,7 +162,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 09.09.2026",
+  "अंतिम बार अद्यतन किया गयाः 10.09.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -397,6 +398,18 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://dot.gov.in/archives?page=tenders",
    "text": "अभिलेखागार"
   },
@@ -446,7 +459,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-09T23:11:56Z",
+ "fetched_at": "2026-09-10T04:34:34Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -770,8 +783,9 @@
    "नागरिकों का पैसा बर्बाद होने से पहले बचाया गयाः वित्तीय धोखाधड़ी जोखिम संकेतक (एफआरआई) ₹5,000 करोड़ से अधिक के संदिग्ध साइबर धोखाधड़ी लेनदेन को रोकता है": 0,
    "अंतिम बार अद्यतन किया गयाः 09.09.2026": 0,
    "भारत ने 6जी नेतृत्व और सुरक्षा के लिए कॉल टू एक्शन का समर्थन किया; दूरसंचार विभाग इस पहल को आगे बढ़ाएगा": 0,
-   "Revenue Management Services": 1,
-   "National Frequency Allocation Plan-2025": 1
+   "Revenue Management Services": 2,
+   "National Frequency Allocation Plan-2025": 2,
+   "अंतिम बार अद्यतन किया गयाः 10.09.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -841,9 +855,9 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 0
   },

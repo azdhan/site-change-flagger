@@ -100,6 +100,11 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
+  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
+  "Shri Ashwini Vaishnaw",
+  "HON’BLE MINISTER",
+  "Shri Jitin Prasada",
+  "HON’BLE MINISTER OF STATE",
   "Key Offerings",
   "TECHNICAL INTERNSHIP PROGRAMME 2025",
   "arrow_forward_ios",
@@ -140,7 +145,7 @@
   "फीडबैक",
   "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 09.09.2026",
+  "अंतिम बार अद्यतन किया गयाः 10.09.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -284,6 +289,14 @@
    "text": "open_in_new कार्यक्रम देखें"
   },
   {
+   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
+   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
+  },
+  {
+   "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
+   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
+  },
+  {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa",
    "text": "TECHNICAL INTERNSHIP PROGRAMME 2025"
   },
@@ -393,7 +406,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-09T23:11:56Z",
+ "fetched_at": "2026-09-10T04:34:34Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -527,10 +540,10 @@
    "इस अनुवाद का मूल्यांकन करें": 0,
    "Do you like to give feedback": 0,
    "जमा करें": 0,
-   "Shri Ashwini Vaishnaw": 1,
-   "HON’BLE MINISTER OF STATE": 1,
-   "Shri Jitin Prasada": 1,
-   "HON’BLE MINISTER": 1,
+   "Shri Ashwini Vaishnaw": 0,
+   "HON’BLE MINISTER OF STATE": 0,
+   "Shri Jitin Prasada": 0,
+   "HON’BLE MINISTER": 0,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
    "What’s New": 0,
@@ -543,7 +556,7 @@
    "डिजिटल इंडिया इंटर्नशिप योजना 2026": 0,
    "नया क्या है": 0,
    "TECHNICAL INTERNSHIP PROGRAMME 2025": 0,
-   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 1,
+   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 0,
    "NeGD’s Non-Technical (Summer) Internship Programme": 0,
    "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 0,
    "माननीय राज्य मंत्री": 0,
@@ -620,7 +633,8 @@
    "अंतिम बार अद्यतन किया गयाः 08.09.2026": 0,
    "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई": 0,
    "अंतिम बार अद्यतन किया गयाः 09.09.2026": 0,
-   "EOI for Industry Partners for the Project proposal on MEMS Sensors": 0
+   "EOI for Industry Partners for the Project proposal on MEMS Sensors": 0,
+   "अंतिम बार अद्यतन किया गयाः 10.09.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -651,7 +665,6 @@
    "https://meity.gov.in/connect/citizen-engagement": 0,
    "https://meity.gov.in/connect/parliament-questions": 0,
    "https://meity.gov.in/static/uploads/2026/04/5f8bd2d1ed4fafa1564f8768ba47e546.pdf": 0,
-   "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-chairman-members-in-the-data-protection-board-of-india-QTMxcjMtQWa": 7,
    "https://meity.gov.in/static/uploads/2025/01/5ff397f9e8152d5562ed4cef1a6b767b.pdf": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163000": 0,
    "https://meity.dashboard.nic.in/": 0,
@@ -670,9 +683,9 @@
    "https://www.instagram.com/goi_meity/": 0,
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 1,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 0,
    "https://intern.meity.gov.in": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 1,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa": 0,
@@ -685,7 +698,7 @@
    "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-director-general-indian-computer-emergency-response-team-dgicert-regarding-cjMwkjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa": 0,
    "https://meity.gov.in/ministry/directory": 0,
-   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 6,
+   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 7,
    "https://meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf": 0,
    "https://www.meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf": 0
   },
@@ -728,7 +741,8 @@
    "https://www.meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": "2026-09-02T16:31:27Z",
    "https://meity.gov.in/ministry/directory-2": "2026-09-08T04:28:36Z",
    "https://meity.gov.in/documents/act-and-policies/draft-amendments-to-the-it-rules-2021-in-relation-to-strengthening-intermediary-compliance-with-clarifications-advisories-and-directions-issued-by-the-ministry-and-digital-media-oversight-AjM2YjMtQWa?pageTitle=Draft-amendments-to-the-IT-Rules,-2021-in-relation-to-strengthening-intermediary-compliance-with-clarifications,-advisories-and-directions-issued-by-the-Ministry-and-digital-media-oversight": "2026-09-08T11:12:01Z",
-   "https://meity.gov.in/documents/reports/archive-integrated-finances-QzMxATMtQWa?pageTitle=Integrated-Finances": "2026-09-08T11:12:01Z"
+   "https://meity.gov.in/documents/reports/archive-integrated-finances-QzMxATMtQWa?pageTitle=Integrated-Finances": "2026-09-08T11:12:01Z",
+   "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-chairman-members-in-the-data-protection-board-of-india-QTMxcjMtQWa": "2026-09-10T04:34:34Z"
   }
  }
 }
