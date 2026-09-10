@@ -1,5 +1,21 @@
 [
  {
+  "id": "5a0b1a87c8ac",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-10T23:07:58Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "सूचना-प्रसारण सचिव ने कहा, भारतीय सूचना सेवा के अधिकारियों की भूमिका जनसंचार से कहीं अधिक : वे शासन और नागरिक आकांक्षाओं के बीच महत्वपूर्ण कड़ी जो सटीक, विश्वसनीय और संवेदनशील सूचना द्वारा भरोसा उत्पन्न करते हैं",
+   "08 सितंबर 2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "3a009a32b516",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
