@@ -234,8 +234,6 @@
   "Majuli , Assam",
   "Consumer Awareness Program at Hanumakonda (Telangana) by Sri Dharani Voluntary Organisation",
   "Hanumakonda , Telangana",
-  "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)",
-  "Mayiladuthurai, Tamil Nadu",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -961,19 +959,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
    "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "Explore"
   },
   {
@@ -1021,12 +1019,12 @@
    "text": "Consumer Awareness Program at Majuli (Assam) by Gram Vikas Parishad"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumakonda-telangana-sri-dharani-voluntary-organisation",
-   "text": "Consumer Awareness Program at Hanumakonda (Telangana) by Sri Dharani Voluntary Organisation"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-0",
+   "text": "Consumer Awareness Program at Gir Somnath (Gujarat) by Jhalod Taluka Grahak Surksha Mandal Jhalod"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mayiladuthurai-tamil-nadu-rural-organaisation-social",
-   "text": "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)"
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumakonda-telangana-sri-dharani-voluntary-organisation",
+   "text": "Consumer Awareness Program at Hanumakonda (Telangana) by Sri Dharani Voluntary Organisation"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1226,7 +1224,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-09T11:16:10Z",
+ "fetched_at": "2026-09-10T11:13:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1529,22 +1527,22 @@
    "28th August 2026": 0,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
    "10:30 AM": 0,
-   "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH": 6,
-   "Bhadrak, Odisha": 6,
-   "Nuapada , Odisha": 6,
-   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": 6,
-   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)": 6,
-   "Bolangiri, Odisha": 1,
-   "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL": 1,
-   "Nuapada, Odisha": 6,
-   "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation": 1,
-   "Agra , Uttar Pradesh": 1,
-   "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN": 1,
+   "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH": 7,
+   "Bhadrak, Odisha": 7,
+   "Nuapada , Odisha": 7,
+   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": 7,
+   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)": 7,
+   "Bolangiri, Odisha": 2,
+   "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL": 2,
+   "Nuapada, Odisha": 7,
+   "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation": 2,
+   "Agra , Uttar Pradesh": 2,
+   "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN": 2,
    "11:30 AM": 0,
-   "Deogarh , Odisha": 1,
+   "Deogarh , Odisha": 2,
    "Nilgiris, Tamil Nadu": 0,
    "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": 0,
-   "7 September, 2026": 6,
+   "7 September, 2026": 7,
    "Godda , Jharkhand": 0,
    "Consumer Awareness Program at Pudukkottai (Tamil Nadu) by TN Consumer Federation": 0,
    "Consumer Awareness Program at Godda (Jharkhand) by Mahila Kalyan Smiti Dhori": 0,
@@ -1552,7 +1550,7 @@
    "pudukkottai, Tamil Nadu": 0,
    "Consumer Awareness Program at Gir Somnath (Gujarat) by Jhalod Taluka Grahak Surksha Mandal Jhalod": 0,
    "Consumer Awareness Program at Dausa (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan": 0,
-   "8 September, 2026": 1,
+   "8 September, 2026": 2,
    "Dehradun, Uttarakhand": 0,
    "Dausa , Rajasthan": 0,
    "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club": 0,
@@ -1560,10 +1558,10 @@
    "Jamtara, Jharkhand": 0,
    "Consumer Awareness Program at Hanumakonda (Telangana) by Sri Dharani Voluntary Organisation": 0,
    "9 September, 2026": 0,
-   "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)": 0,
+   "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)": 1,
    "Consumer Awareness Program at Majuli (Assam) by Gram Vikas Parishad": 0,
    "12:00 PM": 0,
-   "Mayiladuthurai, Tamil Nadu": 0,
+   "Mayiladuthurai, Tamil Nadu": 1,
    "Majuli , Assam": 0,
    "Hanumakonda , Telangana": 0
   },
@@ -1723,7 +1721,7 @@
    "https://www.trai.gov.in/photo-gallery/trai-leadership-etgovtech-2026": 0,
    "https://www.trai.gov.in/photo-gallery/trai-participated-mobile-world-congress-mwc-barcelona-2026": 0,
    "https://www.trai.gov.in/photo-gallery/cultural-programme-tarang-10": 0,
-   "https://www.trai.gov.in/photo-gallery/green-room-inauguration": 6,
+   "https://www.trai.gov.in/photo-gallery/green-room-inauguration": 7,
    "https://www.trai.gov.in/video-gallery": 0,
    "https://twitter.com/TRAI/status/2071949093598081183?ref_src=twsrc%5Etfw": 0,
    "https://twitter.com/TRAI/status/2071947530838126907?ref_src=twsrc%5Etfw": 0,
@@ -1782,13 +1780,13 @@
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": 6,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development": 6,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development-bird": 6,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-agra-uttar-pradesh-ro-bhopal": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": 7,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development": 7,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development-bird": 7,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-agra-uttar-pradesh-ro-bhopal": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation": 2,
    "https://www.trai.gov.in/photo-gallery/bif-critical-communications-india-conference": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nilgiris-tamil-nadu-tamilnadu-consumer-protection-and": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-godda-jharkhand-mahila-kalyan-smiti-dhori": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pudukkottai-tamil-nadu-tn-consumer-federation": 0,
@@ -1798,8 +1796,9 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dausa-rajasthan-indian-institute-technology-entrepreneur": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-pmry-club": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-majuli-assam-gram-vikas-parishad": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mayiladuthurai-tamil-nadu-rural-organaisation-social": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumakonda-telangana-sri-dharani-voluntary-organisation": 0
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mayiladuthurai-tamil-nadu-rural-organaisation-social": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumakonda-telangana-sri-dharani-voluntary-organisation": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-0": 0
   },
   "grave_lines": {
    "01:00 PM": "2026-09-03T20:58:37Z",
@@ -1808,14 +1807,8 @@
    "12:00 PM": "2026-09-02T04:24:32Z",
    "Chandigarh, Chandigarh": "2026-08-26T09:54:33Z",
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Radio Madhuban Community Society": "2026-08-26T09:54:33Z",
-   "TRAI Assesses Mobile Network Quality Across Alipurduar and Cooch Behar Districts and adjoining areas in the State of West Bengal under West Bengal LSA.": "2026-08-11T02:24:15Z",
-   "TRAI Assesses Mobile Network Quality across South Tripura District and adjoining areas in the State of Tripura under North East LSA.": "2026-08-11T04:37:01Z",
    "Bathinda, Punjab": "2026-08-18T09:46:02Z",
    "Consumer Awareness Program at Bathinda (Punjab) by Indian Institute of Technology & Entrepreneur Development (IITED)": "2026-08-18T09:46:02Z",
-   "TRAI DND Reel Challenge, June 2026 - Click Here to Participate": "2026-08-11T07:32:59Z",
-   "23rd July 2026": "2026-08-11T07:32:59Z",
-   "TRAI Assesses Mobile Network Quality along river Ganga from Kolkata to Kachubaria-Gangasagar under West Bengal LSA.": "2026-08-11T07:32:59Z",
-   "7 August, 2026": "2026-08-11T07:32:59Z",
    "09:30 AM": "2026-08-23T03:57:55Z",
    "Bhilwara, Rajasthan": "2026-08-12T04:57:37Z",
    "Consumer Outreach Program at Bhilwara (Rajasthan) by RO Jaipur": "2026-08-12T04:57:37Z",
@@ -1992,14 +1985,7 @@
    "3 September, 2026": "2026-09-08T23:21:29Z"
   },
   "grave_links": {
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": "2026-08-11T02:24:15Z",
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-alipurduar-and-cooch-behar": "2026-08-11T02:24:15Z",
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": "2026-08-11T04:37:01Z",
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-tripura-district-and": "2026-08-11T04:37:01Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur": "2026-08-18T09:46:02Z",
-   "https://www.mygov.in/task/trai-dnd-reel-challenge-june-2026": "2026-08-11T07:32:59Z",
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": "2026-08-11T07:32:59Z",
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-along-river-ganga-kolkata": "2026-08-11T07:32:59Z",
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur": "2026-08-12T04:57:37Z",
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-bhilwara-rajasthan-ro-jaipur-0": "2026-08-12T04:57:37Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-programme-una-himachal-pradesh-iited-hp": "2026-08-12T07:48:09Z",

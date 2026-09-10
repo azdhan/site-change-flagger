@@ -127,10 +127,10 @@
   "हाल के दस्तावेज़",
   "प्रेस विज्ञप्ति",
   "भारत ने 6जी नेतृत्व और सुरक्षा के लिए कॉल टू एक्शन का समर्थन किया; दूरसंचार विभाग इस पहल को आगे बढ़ाएगा",
-  "नागरिकों का पैसा बर्बाद होने से पहले बचाया गयाः वित्तीय धोखाधड़ी जोखिम संकेतक (एफआरआई) ₹5,000 करोड़ से अधिक के संदिग्ध साइबर धोखाधड़ी लेनदेन को रोकता है",
   "आदेश और सूचनाएँ",
+  "यूबीआर के लिए परिपत्र",
+  "नागरिकों का पैसा बर्बाद होने से पहले बचाया गयाः वित्तीय धोखाधड़ी जोखिम संकेतक (एफआरआई) ₹5,000 करोड़ से अधिक के संदिग्ध साइबर धोखाधड़ी लेनदेन को रोकता है",
   "भारतीय दूरसंचार सेवा समूह 'ए' दिनांक 7.9.2026 के एचएजी + (सलाहकार) में नियमित पदोन्नति",
-  "रिपोर्टिंग वर्ष 2025-26 दिनांक 7.9.2026 के लिए ए. पी. ए. आर. को पूरा करने के लिए समय सीमा का एक बार विस्तार",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -147,7 +147,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -382,7 +381,7 @@
    "text": "खोदने से पहले कॉल करें arrow_forward_ios"
   },
   {
-   "url": "https://eservices.dot.gov.in/app-provider",
+   "url": "https://eservices.dot.gov.in/pm-wani-service-authorisation",
    "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
   },
   {
@@ -459,7 +458,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-10T04:34:34Z",
+ "fetched_at": "2026-09-10T11:13:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -783,9 +782,10 @@
    "नागरिकों का पैसा बर्बाद होने से पहले बचाया गयाः वित्तीय धोखाधड़ी जोखिम संकेतक (एफआरआई) ₹5,000 करोड़ से अधिक के संदिग्ध साइबर धोखाधड़ी लेनदेन को रोकता है": 0,
    "अंतिम बार अद्यतन किया गयाः 09.09.2026": 0,
    "भारत ने 6जी नेतृत्व और सुरक्षा के लिए कॉल टू एक्शन का समर्थन किया; दूरसंचार विभाग इस पहल को आगे बढ़ाएगा": 0,
-   "Revenue Management Services": 2,
-   "National Frequency Allocation Plan-2025": 2,
-   "अंतिम बार अद्यतन किया गयाः 10.09.2026": 0
+   "Revenue Management Services": 3,
+   "National Frequency Allocation Plan-2025": 3,
+   "अंतिम बार अद्यतन किया गयाः 10.09.2026": 0,
+   "यूबीआर के लिए परिपत्र": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -836,7 +836,7 @@
    "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 0,
    "https://eservices.dot.gov.in": 0,
    "https://eservices.dot.gov.in/call-before-u-dig": 0,
-   "https://eservices.dot.gov.in/app-provider": 0,
+   "https://eservices.dot.gov.in/app-provider": 1,
    "https://eservices.dot.gov.in/about-mtcte": 0,
    "https://eservices.dot.gov.in/right-of-way-permissions": 0,
    "https://dot.gov.in/important-links": 0,
@@ -859,7 +859,8 @@
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": 0,
-   "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 0
+   "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 0,
+   "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-02T04:24:32Z",
@@ -917,9 +918,7 @@
    "Transfer /Posting in the Junior Administrative Grade and Below level of Indian Posts and Telecommunications Accounts and Finance, Service Group 'A'": "2026-09-08T23:21:29Z"
   },
   "grave_links": {
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Jul-Sept-2026)": "2026-08-11T04:37:01Z",
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": "2026-09-04T23:01:45Z",
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-420-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs": "2026-08-11T07:32:59Z",
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-657-of-2026-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs": "2026-08-21T09:49:52Z",
    "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading": "2026-08-18T13:05:14Z",
    "https://www.instagram.com/p/DaPTbq-keC6/?utm_source=ig_embed&utm_campaign=loading": "2026-08-18T13:05:14Z",

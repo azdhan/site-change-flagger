@@ -1,5 +1,66 @@
 [
  {
+  "id": "9a6df87699f7",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-10T11:13:04Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "यूबीआर के लिए परिपत्र"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://eservices.dot.gov.in/pm-wani-service-authorisation",
+    "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "bef1ff568568",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-10T11:13:04Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-0",
+    "text": "Consumer Awareness Program at Gir Somnath (Gujarat) by Jhalod Taluka Grahak Surksha Mandal Jhalod"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "5c70742a1ea2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-10T11:13:04Z",
+  "summary": "1 new link, 4 new text blocks",
+  "added_lines": [
+   "ई - बुक्स",
+   "10.26 मेगा बाइट |",
+   "मन की बात जुलाई 2026",
+   "10 सितंबर 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf",
+    "text": "मन की बात जुलाई 2026"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "648baf649709",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
