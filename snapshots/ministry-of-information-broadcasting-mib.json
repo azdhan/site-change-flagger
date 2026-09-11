@@ -609,7 +609,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-11T20:55:27Z",
+ "fetched_at": "2026-09-11T23:13:35Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -779,7 +779,7 @@
    "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविंग), डिजिटाइजेशन और रेस्टोरेशन पर एक विशेष कार्यशाला का": 0,
    "1.37 मेगा बाइट |": 0,
    "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी": 0,
-   "10 सितंबर 2026": 1,
+   "10 सितंबर 2026": 2,
    "ई - बुक्स": 0,
    "मन की बात जुलाई 2026": 0,
    "10.26 मेगा बाइट |": 0,
@@ -892,17 +892,16 @@
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-751-e-cable-television-networks-amendment-rules-2026.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306588&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
-   "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": 7,
    "https://mib.gov.in/hi/whats-new": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 2,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 2,
-   "https://mib.gov.in/index.php/hi/help": 2,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 2,
-   "https://mib.gov.in/index.php/hi/archives": 2,
-   "https://mib.gov.in/index.php/hi/feedback": 2,
-   "https://mib.gov.in/index.php/hi/sitemap": 2,
-   "https://mib.gov.in/index.php/hi/related-link": 2,
+   "https://mib.gov.in/index.php/hi/website-policy": 3,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 3,
+   "https://mib.gov.in/index.php/hi/help": 3,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 3,
+   "https://mib.gov.in/index.php/hi/archives": 3,
+   "https://mib.gov.in/index.php/hi/feedback": 3,
+   "https://mib.gov.in/index.php/hi/sitemap": 3,
+   "https://mib.gov.in/index.php/hi/related-link": 3,
    "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf": 0
   },
   "grave_lines": {
@@ -1040,7 +1039,8 @@
    "https://harghartiranga.com/": "2026-09-08T16:35:03Z",
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026.pdf": "2026-09-08T23:21:29Z",
    "https://mib.gov.in/whats-new": "2026-09-10T23:07:58Z",
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2305539&reg=3&lang=2": "2026-09-10T23:07:58Z"
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2305539&reg=3&lang=2": "2026-09-10T23:07:58Z",
+   "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": "2026-09-11T23:13:35Z"
   }
  }
 }
