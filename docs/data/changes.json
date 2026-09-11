@@ -1,5 +1,44 @@
 [
  {
+  "id": "49a71f7a4bcc",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-11T20:55:27Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "75cef803fef9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-11T20:55:27Z",
+  "summary": "1 new text block, 15 items no longer on page",
+  "added_lines": [
+   "11 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "09 सितंबर 2026",
+   "| फिल्मों के प्रमाणन के प्रावधानों से छूट - के संबंध में।",
+   "| निजी एफएम रेडियो और कम्युनिटी रेडियो स्टेशनों से संबंधित शिकायतों/समस्याओं की…",
+   "| निविदा सूचनाएँ",
+   "| योजना परिव्यय 2025-26",
+   "| प्राइवेट सैटेलाइट टेलीविज़न चैनलों पर मादक पदार्थों के दुरुपयोग के दुष्‍प्रभावों…",
+   "| टेलीकम्युनिकेशन (टेलीविज़न, रेडियो और संबंधित सेवाएँ) नियम, 2026 का ड्राफ्ट",
+   "| केबल टेलीविज़न नेटवर्क (संशोधन) नियम, 2026",
+   "| ब्रॉडकास्ट कंटेंट और तकनीकी पैरामीटर व मानकों की निगरानी के संबंध में एडवाइज़री",
+   "| टीवी चैनलों द्वारा स्वतंत्रता दिवस 2026 के समारोह की सांकेतिक भाषा में व्याख्या…"
+  ],
+  "removed_lines_total": 15,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "c3ef230a6a8e",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

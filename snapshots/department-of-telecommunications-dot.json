@@ -458,7 +458,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-11T16:25:03Z",
+ "fetched_at": "2026-09-11T20:55:27Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -782,8 +782,8 @@
    "नागरिकों का पैसा बर्बाद होने से पहले बचाया गयाः वित्तीय धोखाधड़ी जोखिम संकेतक (एफआरआई) ₹5,000 करोड़ से अधिक के संदिग्ध साइबर धोखाधड़ी लेनदेन को रोकता है": 0,
    "अंतिम बार अद्यतन किया गयाः 09.09.2026": 0,
    "भारत ने 6जी नेतृत्व और सुरक्षा के लिए कॉल टू एक्शन का समर्थन किया; दूरसंचार विभाग इस पहल को आगे बढ़ाएगा": 0,
-   "Revenue Management Services": 5,
-   "National Frequency Allocation Plan-2025": 5,
+   "Revenue Management Services": 6,
+   "National Frequency Allocation Plan-2025": 6,
    "अंतिम बार अद्यतन किया गयाः 10.09.2026": 0,
    "यूबीआर के लिए परिपत्र": 0,
    "झारखंड में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग; झारखंड सरकार; जे. डी. आई. सी. एल.; बी. एस. एन. एल. और जे. सी. एन. एल. के बीच समझौते पर हस्ताक्षर किए गए": 0,
@@ -839,7 +839,6 @@
    "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 0,
    "https://eservices.dot.gov.in": 0,
    "https://eservices.dot.gov.in/call-before-u-dig": 0,
-   "https://eservices.dot.gov.in/app-provider": 7,
    "https://eservices.dot.gov.in/about-mtcte": 0,
    "https://eservices.dot.gov.in/right-of-way-permissions": 0,
    "https://dot.gov.in/important-links": 0,
@@ -934,7 +933,8 @@
    "https://dot.gov.in/documents/undefined/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": "2026-09-02T04:24:32Z",
    "https://dot.gov.in/offerings/undefined/details/pli-scheme-MjNzETMtQWa": "2026-09-02T04:24:32Z",
    "https://dot.gov.in/offerings/undefined/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": "2026-09-02T04:24:32Z",
-   "https://dot.gov.in/documents/orders-and-notices/telemarketer-codes-QDO0ATNtQWa?pageTitle=Telemarketer-Codes": "2026-09-04T20:43:34Z"
+   "https://dot.gov.in/documents/orders-and-notices/telemarketer-codes-QDO0ATNtQWa?pageTitle=Telemarketer-Codes": "2026-09-04T20:43:34Z",
+   "https://eservices.dot.gov.in/app-provider": "2026-09-11T20:55:27Z"
   }
  }
 }
