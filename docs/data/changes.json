@@ -1,5 +1,26 @@
 [
  {
+  "id": "c3ef230a6a8e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-11T16:25:03Z",
+  "summary": "10 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Bolangiri, Odisha",
+   "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL",
+   "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation",
+   "Agra , Uttar Pradesh",
+   "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN",
+   "Deogarh , Odisha",
+   "8 September, 2026"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e12384614e3d",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

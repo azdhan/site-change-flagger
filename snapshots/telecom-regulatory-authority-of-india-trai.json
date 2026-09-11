@@ -204,6 +204,7 @@
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "3rd August 2026",
+  "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
   "On-going Consultation",
   "Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "Comments",
@@ -215,11 +216,11 @@
   "10:30 AM",
   "Location :",
   "Jamtara, Jharkhand",
-  "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club",
-  "11:00 AM",
-  "Dehradun, Uttarakhand",
   "Consumer Awareness Program at Dausa (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan",
+  "11:00 AM",
   "Dausa , Rajasthan",
+  "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club",
+  "Dehradun, Uttarakhand",
   "Consumer Awareness Program at Majuli (Assam) by Gram Vikas Parishad",
   "12:00 PM",
   "Majuli , Assam",
@@ -970,11 +971,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
-   "text": "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback"
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas"
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby",
    "text": "Explore"
   },
   {
@@ -994,12 +995,12 @@
    "text": "Consumer Awareness Program at Jamtara (Jharkhand) by Mahila Janshakti Sangathan"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-pmry-club",
-   "text": "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dausa-rajasthan-indian-institute-technology-entrepreneur",
    "text": "Consumer Awareness Program at Dausa (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-pmry-club",
+   "text": "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-majuli-assam-gram-vikas-parishad",
@@ -1227,7 +1228,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-11T11:13:49Z",
+ "fetched_at": "2026-09-11T16:25:03Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1507,10 +1508,10 @@
    "Website Content Owned and Managed by Telecom Regulatory Authority of India, GOI Designed & Developed by TRAI": 0,
    "Copyright © 2024 TRAI. All rights reserved": 0,
    "Consultation Papers": 0,
-   "10:00 AM": 5,
+   "10:00 AM": 6,
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
-   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas": 1,
+   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas": 0,
    "3rd August 2026": 0,
    "4th August 2026": 0,
    "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": 0,
@@ -1530,30 +1531,23 @@
    "28th August 2026": 0,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
    "10:30 AM": 0,
-   "Bolangiri, Odisha": 7,
-   "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL": 7,
-   "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation": 7,
-   "Agra , Uttar Pradesh": 7,
-   "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN": 7,
    "11:30 AM": 0,
-   "Deogarh , Odisha": 7,
-   "Nilgiris, Tamil Nadu": 5,
-   "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": 5,
-   "Godda , Jharkhand": 5,
-   "Consumer Awareness Program at Pudukkottai (Tamil Nadu) by TN Consumer Federation": 5,
-   "Consumer Awareness Program at Godda (Jharkhand) by Mahila Kalyan Smiti Dhori": 5,
+   "Nilgiris, Tamil Nadu": 6,
+   "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": 6,
+   "Godda , Jharkhand": 6,
+   "Consumer Awareness Program at Pudukkottai (Tamil Nadu) by TN Consumer Federation": 6,
+   "Consumer Awareness Program at Godda (Jharkhand) by Mahila Kalyan Smiti Dhori": 6,
    "Gir Somnath, Gujarat": 0,
-   "pudukkottai, Tamil Nadu": 5,
+   "pudukkottai, Tamil Nadu": 6,
    "Consumer Awareness Program at Gir Somnath (Gujarat) by Jhalod Taluka Grahak Surksha Mandal Jhalod": 0,
    "Consumer Awareness Program at Dausa (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan": 0,
-   "8 September, 2026": 7,
    "Dehradun, Uttarakhand": 0,
    "Dausa , Rajasthan": 0,
    "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club": 0,
    "Consumer Awareness Program at Jamtara (Jharkhand) by Mahila Janshakti Sangathan": 0,
    "Jamtara, Jharkhand": 0,
    "Consumer Awareness Program at Hanumakonda (Telangana) by Sri Dharani Voluntary Organisation": 0,
-   "9 September, 2026": 5,
+   "9 September, 2026": 6,
    "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)": 0,
    "Consumer Awareness Program at Majuli (Assam) by Gram Vikas Parishad": 0,
    "12:00 PM": 0,
@@ -1763,10 +1757,10 @@
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 1,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 0,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 0,
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
@@ -1785,14 +1779,11 @@
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-agra-uttar-pradesh-ro-bhopal": 7,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation": 7,
    "https://www.trai.gov.in/photo-gallery/bif-critical-communications-india-conference": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan": 7,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nilgiris-tamil-nadu-tamilnadu-consumer-protection-and": 5,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-godda-jharkhand-mahila-kalyan-smiti-dhori": 5,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pudukkottai-tamil-nadu-tn-consumer-federation": 5,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-mandal": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nilgiris-tamil-nadu-tamilnadu-consumer-protection-and": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-godda-jharkhand-mahila-kalyan-smiti-dhori": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pudukkottai-tamil-nadu-tn-consumer-federation": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-mandal": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamtara-jharkhand-mahila-janshakti-sangathan": 0,
    "https://www.trai.gov.in/photo-gallery/smra-model-spectrum-auctions-2026": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dausa-rajasthan-indian-institute-technology-entrepreneur": 0,
@@ -1985,7 +1976,14 @@
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": "2026-09-10T16:21:06Z",
    "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)": "2026-09-10T16:21:06Z",
    "Nuapada, Odisha": "2026-09-10T16:21:06Z",
-   "7 September, 2026": "2026-09-10T16:21:06Z"
+   "7 September, 2026": "2026-09-10T16:21:06Z",
+   "Bolangiri, Odisha": "2026-09-11T16:25:03Z",
+   "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL": "2026-09-11T16:25:03Z",
+   "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation": "2026-09-11T16:25:03Z",
+   "Agra , Uttar Pradesh": "2026-09-11T16:25:03Z",
+   "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN": "2026-09-11T16:25:03Z",
+   "Deogarh , Odisha": "2026-09-11T16:25:03Z",
+   "8 September, 2026": "2026-09-11T16:25:03Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bathinda-punjab-indian-institute-technology-entrepreneur": "2026-08-18T09:46:02Z",
@@ -2073,7 +2071,10 @@
    "https://www.trai.gov.in/photo-gallery/green-room-inauguration": "2026-09-10T16:21:06Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": "2026-09-10T16:21:06Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development": "2026-09-10T16:21:06Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development-bird": "2026-09-10T16:21:06Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development-bird": "2026-09-10T16:21:06Z",
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-agra-uttar-pradesh-ro-bhopal": "2026-09-11T16:25:03Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation": "2026-09-11T16:25:03Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan": "2026-09-11T16:25:03Z"
   }
  }
 }
