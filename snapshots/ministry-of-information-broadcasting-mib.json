@@ -332,6 +332,18 @@
    "text": "मंत्रालय के बारे में"
   },
   {
+   "url": "https://mib.gov.in/index.php/hi/ministry/organizations",
+   "text": "हमारा संगठन"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/ministry/about-us/team",
+   "text": "हमारी टीम"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/ministry/our-wings",
+   "text": "हमारी विंग"
+  },
+  {
    "url": "https://mib.gov.in/hi/ministry/about-us/sarai-asavainai-vaaisanava",
    "text": "श्री अश्विनी वैष्णव"
   },
@@ -609,7 +621,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-12T10:40:43Z",
+ "fetched_at": "2026-09-12T15:28:42Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -779,7 +791,7 @@
    "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविंग), डिजिटाइजेशन और रेस्टोरेशन पर एक विशेष कार्यशाला का": 0,
    "1.37 मेगा बाइट |": 0,
    "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी": 0,
-   "10 सितंबर 2026": 4,
+   "10 सितंबर 2026": 5,
    "ई - बुक्स": 0,
    "मन की बात जुलाई 2026": 0,
    "10.26 मेगा बाइट |": 0,
@@ -894,18 +906,20 @@
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
    "https://mib.gov.in/hi/whats-new": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 5,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 5,
-   "https://mib.gov.in/index.php/hi/help": 5,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 5,
-   "https://mib.gov.in/index.php/hi/archives": 5,
-   "https://mib.gov.in/index.php/hi/feedback": 5,
-   "https://mib.gov.in/index.php/hi/sitemap": 5,
-   "https://mib.gov.in/index.php/hi/related-link": 5,
-   "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf": 0
+   "https://mib.gov.in/index.php/hi/website-policy": 6,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 6,
+   "https://mib.gov.in/index.php/hi/help": 6,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 6,
+   "https://mib.gov.in/index.php/hi/archives": 6,
+   "https://mib.gov.in/index.php/hi/feedback": 6,
+   "https://mib.gov.in/index.php/hi/sitemap": 6,
+   "https://mib.gov.in/index.php/hi/related-link": 6,
+   "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf": 0,
+   "https://mib.gov.in/index.php/hi/ministry/organizations": 0,
+   "https://mib.gov.in/index.php/hi/ministry/about-us/team": 0,
+   "https://mib.gov.in/index.php/hi/ministry/our-wings": 0
   },
   "grave_lines": {
-   "10 अगस्त 2026": "2026-08-13T13:41:40Z",
    "रचनात्मक अर्थव्यवस्था के लिए प्रमुख अंतरराष्ट्रीय मार्केटप्‍लेस 'ब्रिक्स वेव्स बाज़ार' ने मुंबई में ब्रिक्स सदस्य और भागीदार देशों के 500 से अधिक प्रतिनिधियों को एकत्रित किया": "2026-08-14T02:42:09Z",
    "सूचना प्रौद्योगिकी नियमावली, 2021 में शराब और तंबाकू सामग्री के लिए वर्गीकरण का प्रावधान, आचार संहिता की शिकायतों का निवारण करती है तीन स्तरीय प्रणाली": "2026-08-14T02:42:09Z",
    "12 अगस्त 2026": "2026-08-14T02:42:09Z",

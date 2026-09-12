@@ -146,6 +146,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -396,15 +397,15 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+  },
+  {
    "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -457,7 +458,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-12T10:40:43Z",
+ "fetched_at": "2026-09-12T15:28:42Z",
  "script": "latin",
  "memory": {
   "lines": {
