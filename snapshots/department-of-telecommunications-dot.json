@@ -124,6 +124,12 @@
   "एच. एम. ओ. सी. का पता-अगस्त 2026 संस्करण",
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
+  "हाल के दस्तावेज़",
+  "प्रेस विज्ञप्ति",
+  "झारखंड में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग; झारखंड सरकार; जे. डी. आई. सी. एल.; बी. एस. एन. एल. और जे. सी. एन. एल. के बीच समझौते पर हस्ताक्षर किए गए",
+  "रिपोर्टें",
+  "जुलाई-2026 के लिए मासिक खाते के आंकड़ों का विवरण",
+  "मई-2026 के महीने के मासिक खाते के आंकड़ों का विवरण",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -140,7 +146,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -391,15 +396,15 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
-  },
-  {
    "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -452,7 +457,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-12T04:28:37Z",
+ "fetched_at": "2026-09-12T10:40:43Z",
  "script": "latin",
  "memory": {
   "lines": {
