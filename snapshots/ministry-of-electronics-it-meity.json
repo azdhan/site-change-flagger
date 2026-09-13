@@ -125,6 +125,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -336,11 +337,11 @@
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -392,7 +393,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-13T11:44:45Z",
+ "fetched_at": "2026-09-13T16:12:28Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -526,10 +527,10 @@
    "इस अनुवाद का मूल्यांकन करें": 0,
    "Do you like to give feedback": 0,
    "जमा करें": 0,
-   "Shri Ashwini Vaishnaw": 1,
-   "HON’BLE MINISTER OF STATE": 1,
-   "Shri Jitin Prasada": 1,
-   "HON’BLE MINISTER": 1,
+   "Shri Ashwini Vaishnaw": 2,
+   "HON’BLE MINISTER OF STATE": 2,
+   "Shri Jitin Prasada": 2,
+   "HON’BLE MINISTER": 2,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
    "What’s New": 0,
@@ -542,14 +543,14 @@
    "डिजिटल इंडिया इंटर्नशिप योजना 2026": 0,
    "नया क्या है": 0,
    "TECHNICAL INTERNSHIP PROGRAMME 2025": 0,
-   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 1,
+   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 2,
    "NeGD’s Non-Technical (Summer) Internship Programme": 0,
    "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 0,
    "माननीय राज्य मंत्री": 0,
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 1,
+   "Key Offerings": 2,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
@@ -621,7 +622,7 @@
    "अंतिम बार अद्यतन किया गयाः 09.09.2026": 0,
    "EOI for Industry Partners for the Project proposal on MEMS Sensors": 0,
    "अंतिम बार अद्यतन किया गयाः 10.09.2026": 0,
-   "Explore What's new": 0
+   "Explore What's new": 1
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -670,9 +671,9 @@
    "https://www.instagram.com/goi_meity/": 0,
    "https://www.mygov.in/": 0,
    "https://www.india.gov.in/": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 1,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw": 2,
    "https://intern.meity.gov.in": 0,
-   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 1,
+   "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 2,
    "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa": 0,
@@ -698,7 +699,6 @@
    "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies": "2026-08-22T01:48:04Z",
    "Delegation of Powers dtd. 16-07-2026": "2026-08-22T01:48:04Z",
    "Special Campaign 6.0 for Institutionalizing Swachhata and Minimizing Pendency in Government Offices during 2nd October 2026 to 31st October2026 – Advancement of Preparatory action w.e.f. 15th August, 2026 in MeitY and its organizations reg": "2026-09-08T11:12:01Z",
-   "Major achievement of MeitY for the month of June 2026": "2026-08-14T13:36:41Z",
    "Appointment of Chief of Media & Communications for MeitY": "2026-09-08T11:12:01Z",
    "Call for Proposals for Grant challenges on Next-Generation Electronics, Communications, and Sensing Technologies. Last date to apply : 31.07.2026": "2026-08-17T18:55:25Z",
    "Electronics Component Manufacturing Scheme": "2026-08-29T09:59:30Z",
@@ -715,7 +715,6 @@
    "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": "2026-09-09T11:16:10Z",
    "https://meity.gov.in/persona/researcher-wNwIDOtQWa": "2026-09-09T11:16:10Z",
    "https://innovateindia.mygov.in/cyber-security-grand-challenge/": "2026-09-10T11:13:04Z",
-   "https://www.meity.gov.in/static/uploads/2026/07/716f00d023abdf0b4eebceb99b3206e7.pdf": "2026-08-14T13:36:41Z",
    "https://youtube.com/live/bKjTRyMRd4g?feature=share": "2026-08-23T03:57:55Z",
    "https://meity.gov.in/offerings/schemes-and-services/details/electronics-component-manufacturing-scheme-UTM1IjMtQWa": "2026-08-29T09:59:30Z",
    "https://meity.gov.in/static/uploads/2026/08/76b66d4289eeb4d9e05558d98127979d.pdf": "2026-08-31T20:48:48Z",

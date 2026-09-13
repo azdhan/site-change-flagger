@@ -560,35 +560,27 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/archives",
-   "text": "पुरालेखागार"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/website-policy",
+   "url": "https://mib.gov.in/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/related-link",
+   "url": "https://mib.gov.in/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/sitemap",
+   "url": "https://mib.gov.in/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/help",
+   "url": "https://mib.gov.in/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
-   "text": "हमसे संपर्क करें"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/feedback",
+   "url": "https://mib.gov.in/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -617,7 +609,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-13T11:44:45Z",
+ "fetched_at": "2026-09-13T16:12:28Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -790,7 +782,7 @@
    "ई - बुक्स": 0,
    "मन की बात जुलाई 2026": 0,
    "10.26 मेगा बाइट |": 0,
-   "11 सितंबर 2026": 4,
+   "11 सितंबर 2026": 5,
    "13 सितंबर 2026": 0
   },
   "links": {
@@ -877,12 +869,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 1,
-   "https://mib.gov.in/hi/related-link": 1,
-   "https://mib.gov.in/hi/sitemap": 1,
-   "https://mib.gov.in/hi/help": 1,
-   "https://mib.gov.in/hi/feedback": 1,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/hi/website-policy": 0,
+   "https://mib.gov.in/hi/related-link": 0,
+   "https://mib.gov.in/hi/sitemap": 0,
+   "https://mib.gov.in/hi/help": 0,
+   "https://mib.gov.in/hi/feedback": 0,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -903,17 +895,17 @@
    "https://mib.gov.in/hi/whats-new": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf": 0,
-   "https://mib.gov.in/index.php/hi/ministry/organizations": 4,
-   "https://mib.gov.in/index.php/hi/ministry/about-us/team": 4,
-   "https://mib.gov.in/index.php/hi/ministry/our-wings": 4,
-   "https://mib.gov.in/index.php/hi/related-link": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 0,
-   "https://mib.gov.in/index.php/hi/help": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 0,
-   "https://mib.gov.in/index.php/hi/sitemap": 0,
-   "https://mib.gov.in/index.php/hi/archives": 0,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0
+   "https://mib.gov.in/index.php/hi/ministry/organizations": 5,
+   "https://mib.gov.in/index.php/hi/ministry/about-us/team": 5,
+   "https://mib.gov.in/index.php/hi/ministry/our-wings": 5,
+   "https://mib.gov.in/index.php/hi/related-link": 1,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/index.php/hi/feedback": 1,
+   "https://mib.gov.in/index.php/hi/help": 1,
+   "https://mib.gov.in/index.php/hi/website-policy": 1,
+   "https://mib.gov.in/index.php/hi/sitemap": 1,
+   "https://mib.gov.in/index.php/hi/archives": 1,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 1
   },
   "grave_lines": {
    "13 अगस्त 2026": "2026-08-15T09:36:37Z",
