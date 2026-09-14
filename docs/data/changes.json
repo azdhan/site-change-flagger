@@ -1,5 +1,68 @@
 [
  {
+  "id": "9bd541c37a58",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-14T12:38:02Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "दूरसंचार विनिर्माण क्षेत्र",
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा (आई. पी. और टी. ए. एफ. एस.) समूह 'ए' अधिकारियों के संबंध में इलेक्ट्रॉनिक-वार्षिक प्रदर्शन मूल्यांकन रिपोर्ट (ई-ए. पी. ए. आर.) को सूचना वर्ष 2025-2026 के लिए स्वतः अग्रेषित करना।",
+   "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ने वैश्विक फिनटेक महोत्सव 2026 में समावेशी और भरोसेमंद बुद्धिमान वित्त का आह्वान किया"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://sws.invest.mp.gov.in/",
+    "text": "दूरसंचार विनिर्माण क्षेत्र"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "6cf101f99e15",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-14T12:38:02Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "14th September 2026",
+   "Withdrawal of Order No. 23-1/2012-B&CS dated 5th August 2013 regarding furnishing of information on duration of advertisements on TV channels",
+   "14 September, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/what-s-new/withdrawal-order-no-23-12012-bcs-dated-5th-august-2013-regarding-furnishing-information",
+    "text": "Withdrawal of Order No. 23-1/2012-B&CS dated 5th August 2013 regarding furnishing of information on duration of advertisements on TV channels"
+   },
+   {
+    "url": "http://www.trai.gov.in/what-s-new/withdrawal-order-no-23-12012-bcs-dated-5th-august-2013-regarding-furnishing-information",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "bb37f711ad62",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-14T12:38:02Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 14.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "8d34ba18e8a1",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
