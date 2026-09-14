@@ -1,5 +1,35 @@
 [
  {
+  "id": "8d34ba18e8a1",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-14T04:49:15Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 14.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "85479962a7a4",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-14T04:49:15Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "11 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "54bbbdefd0f2",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
