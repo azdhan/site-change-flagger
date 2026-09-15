@@ -1,5 +1,81 @@
 [
  {
+  "id": "717b85425c32",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-15T11:38:43Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "डी. ओ. टी. मुख्यालय में तैनात आई. टी. एस. अधिकारियों के प्रतिनियुक्ति आवेदनों की प्रक्रिया-संबंधित।",
+   "आई. टी. एस. समूह 'ए'-रेग के जे. ए. जी. में अधिकारियों का स्थानांतरण और नियुक्ति 15-09-2026 का आदेश।",
+   "पी. एल. आई. कंपनियों की सूची-मानित वर्ग II आपूर्तिकर्ता (10.09.2026 पर अद्यतन)",
+   "अंतिम बार अद्यतन किया गयाः 15.09.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "d7b4fd0ad95e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-15T11:38:43Z",
+  "summary": "5 new links, 8 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association",
+   "Nagapattinam, Tamil Nadu",
+   "Consumer Awareness Program at Kandhamal (Odisha) by Federation of Consumer Organisations Odisha",
+   "Kandhamal, Odisha",
+   "Consumer Awareness Program at Pulwama (Jammu and Kashmir) by Helpage Social Welfare Society",
+   "Pulwama, Jammu and Kashmir",
+   "Consumer Awareness Program at Dakshin Dinajpur (West Bengal) by Hemnagar Sundarban Dream",
+   "Dakshin Dinajpur, West Bengal"
+  ],
+  "added_lines_total": 8,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation-0",
+    "text": "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagapattinam-tamil-nadu-women-consumer-protection",
+    "text": "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kandhamal-odisha-federation-consumer-organisations",
+    "text": "Consumer Awareness Program at Kandhamal (Odisha) by Federation of Consumer Organisations Odisha"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pulwama-jammu-and-kashmir-helpage-social-welfare-society",
+    "text": "Consumer Awareness Program at Pulwama (Jammu and Kashmir) by Helpage Social Welfare Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dakshin-dinajpur-west-bengal-hemnagar-sundarban-dream",
+    "text": "Consumer Awareness Program at Dakshin Dinajpur (West Bengal) by Hemnagar Sundarban Dream"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "5b9c1ec82699",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-15T11:38:43Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "15 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "c18c98c6f8cc",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
