@@ -202,9 +202,9 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
-  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
+  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
   "On-going Consultation",
   "Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "Comments",
@@ -955,14 +955,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
    "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
   },
@@ -976,6 +968,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
+   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
    "text": "Explore"
   },
   {
@@ -1228,7 +1228,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-15T16:54:07Z",
+ "fetched_at": "2026-09-15T21:16:41Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1510,8 +1510,8 @@
    "Consultation Papers": 0,
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
-   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas": 6,
-   "3rd August 2026": 6,
+   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas": 7,
+   "3rd August 2026": 7,
    "4th August 2026": 0,
    "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": 0,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": 0,
@@ -1533,26 +1533,26 @@
    "11:30 AM": 0,
    "Gir Somnath, Gujarat": 0,
    "Consumer Awareness Program at Gir Somnath (Gujarat) by Jhalod Taluka Grahak Surksha Mandal Jhalod": 0,
-   "Consumer Awareness Program at Dausa (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan": 2,
-   "Dehradun, Uttarakhand": 2,
-   "Dausa , Rajasthan": 2,
-   "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club": 2,
-   "Consumer Awareness Program at Jamtara (Jharkhand) by Mahila Janshakti Sangathan": 2,
-   "Jamtara, Jharkhand": 2,
+   "Consumer Awareness Program at Dausa (Rajasthan) by Indian Institute Of Technology & Entrepreneur Development (IITED), Rajasthan": 3,
+   "Dehradun, Uttarakhand": 3,
+   "Dausa , Rajasthan": 3,
+   "Consumer Awareness Program at Dehradun (Uttarakhand) by P.M.R.Y. Club": 3,
+   "Consumer Awareness Program at Jamtara (Jharkhand) by Mahila Janshakti Sangathan": 3,
+   "Jamtara, Jharkhand": 3,
    "Consumer Awareness Program at Hanumakonda (Telangana) by Sri Dharani Voluntary Organisation": 0,
    "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)": 0,
-   "Consumer Awareness Program at Majuli (Assam) by Gram Vikas Parishad": 2,
+   "Consumer Awareness Program at Majuli (Assam) by Gram Vikas Parishad": 3,
    "12:00 PM": 0,
    "Mayiladuthurai, Tamil Nadu": 0,
-   "Majuli , Assam": 2,
+   "Majuli , Assam": 3,
    "Hanumakonda , Telangana": 0,
    "Samastipur , Bihar": 0,
-   "Palamu, Jharkhand": 2,
-   "10 September, 2026": 6,
+   "Palamu, Jharkhand": 3,
+   "10 September, 2026": 7,
    "Consumer Awareness Program at Samastipur (Bihar) by Mithila Sewa Samiti": 0,
-   "01:00 PM": 2,
+   "01:00 PM": 3,
    "10th September 2026": 0,
-   "Consumer Awareness Program at Palamu (Jharkhand) by Prerna Rural Development Society": 2,
+   "Consumer Awareness Program at Palamu (Jharkhand) by Prerna Rural Development Society": 3,
    "TRAI releases The Standards of Quality of Service (Duration of Advertisements in Television Channels) (Repealing) Regulations, 2026": 0,
    "Osmanabad, Maharashtra": 0,
    "Consumer Awareness Program at Osmanabad (Maharashtra) by Patil Foundation, Pune, Maharashtra": 0,
@@ -1763,10 +1763,8 @@
    "https://www.trai.gov.in/photo-gallery/wsis-26-ai-good-global-summit": 0,
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 7,
-   "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": 7,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 6,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 6,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 7,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-haridwar-rishikesh-nearby": 7,
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 0,
@@ -1786,16 +1784,16 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-july-2026": 0,
    "https://www.trai.gov.in/photo-gallery/bif-critical-communications-india-conference": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamtara-jharkhand-mahila-janshakti-sangathan": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jamtara-jharkhand-mahila-janshakti-sangathan": 3,
    "https://www.trai.gov.in/photo-gallery/smra-model-spectrum-auctions-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dausa-rajasthan-indian-institute-technology-entrepreneur": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-pmry-club": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-majuli-assam-gram-vikas-parishad": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dausa-rajasthan-indian-institute-technology-entrepreneur": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-pmry-club": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-majuli-assam-gram-vikas-parishad": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mayiladuthurai-tamil-nadu-rural-organaisation-social": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumakonda-telangana-sri-dharani-voluntary-organisation": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-0": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-standards-quality-service-duration-advertisements": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-palamu-jharkhand-prerna-rural-development-society": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-palamu-jharkhand-prerna-rural-development-society": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-samastipur-bihar-mithila-sewa-samiti": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-standards-quality-service-duration-advertisements": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-osmanabad-maharashtra-patil-foundation-pune-maharashtra": 0,
@@ -2084,7 +2082,9 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nilgiris-tamil-nadu-tamilnadu-consumer-protection-and": "2026-09-11T23:13:35Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-godda-jharkhand-mahila-kalyan-smiti-dhori": "2026-09-11T23:13:35Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pudukkottai-tamil-nadu-tn-consumer-federation": "2026-09-11T23:13:35Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-mandal": "2026-09-12T20:30:51Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-mandal": "2026-09-12T20:30:51Z",
+   "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": "2026-09-15T21:16:41Z",
+   "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": "2026-09-15T21:16:41Z"
   }
  }
 }
