@@ -1,5 +1,78 @@
 [
  {
+  "id": "eb59ff2fd4a8",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-16T11:26:04Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 16.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "ceb3737cc57a",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-16T11:26:04Z",
+  "summary": "2 new links, 5 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Mandya (Karnataka) by Consumer Care Society, Bangalore",
+   "Mandya , Karnataka",
+   "Consumer Awareness Program at Lohardaga (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
+   "Lohardaga, Jharkhand",
+   "16 September, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mandya-karnataka-consumer-care-society-bangalore",
+    "text": "Consumer Awareness Program at Mandya (Karnataka) by Consumer Care Society, Bangalore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-lohardaga-jharkhand-pragati-educational-academy",
+    "text": "Consumer Awareness Program at Lohardaga (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "ed6ff3cfefc6",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-16T11:26:04Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "16 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "49590e6714e9",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-16T11:26:04Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 16.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "a1e24f383ee2",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
