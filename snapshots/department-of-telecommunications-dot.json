@@ -468,7 +468,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-15T21:16:41Z",
+ "fetched_at": "2026-09-16T04:44:05Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -883,7 +883,6 @@
    "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 0,
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
-   "https://www.dot.gov.in/static/uploads/2026/09/2f3207588633ee4c6f08da2c35f0bc90.pdf": 7,
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0
   },
@@ -957,7 +956,8 @@
    "https://dot.gov.in/offerings/undefined/details/pli-scheme-MjNzETMtQWa": "2026-09-02T04:24:32Z",
    "https://dot.gov.in/offerings/undefined/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": "2026-09-02T04:24:32Z",
    "https://dot.gov.in/documents/orders-and-notices/telemarketer-codes-QDO0ATNtQWa?pageTitle=Telemarketer-Codes": "2026-09-04T20:43:34Z",
-   "https://eservices.dot.gov.in/app-provider": "2026-09-11T20:55:27Z"
+   "https://eservices.dot.gov.in/app-provider": "2026-09-11T20:55:27Z",
+   "https://www.dot.gov.in/static/uploads/2026/09/2f3207588633ee4c6f08da2c35f0bc90.pdf": "2026-09-16T04:44:05Z"
   }
  }
 }

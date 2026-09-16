@@ -1,5 +1,37 @@
 [
  {
+  "id": "a1e24f383ee2",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-16T04:44:05Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "19c525f7082c",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-16T04:44:05Z",
+  "summary": "1 new text block, 5 items no longer on page",
+  "added_lines": [
+   "No Open Consultation"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas",
+   "3rd August 2026",
+   "10 September, 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "bcdb88d163b8",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
