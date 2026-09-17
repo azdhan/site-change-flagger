@@ -148,7 +148,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -412,7 +411,7 @@
   },
   {
    "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
@@ -472,7 +471,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-17T11:35:20Z",
+ "fetched_at": "2026-09-17T16:55:45Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -593,7 +592,7 @@
    "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल": 0,
    "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना": 0,
    "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता": 0,
-   "100 5G Labs": 1,
+   "100 5G Labs": 2,
    "अधिक देखें": 0,
    "नया क्या है": 0,
    "एन. सी. ए.-टी. द्वारा 16.07.2026 से 17.07.2026 तक 'एम. ओ. डी. एस. आई.' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम": 0,
@@ -861,7 +860,7 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 1,
+   "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 2,
    "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
@@ -953,12 +952,6 @@
   "grave_links": {
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": "2026-09-04T23:01:45Z",
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-657-of-2026-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-07.08.2026-to-ISPs": "2026-08-21T09:49:52Z",
-   "https://www.instagram.com/p/DaNOXeLxdND/?utm_source=ig_embed&utm_campaign=loading": "2026-08-18T13:05:14Z",
-   "https://www.instagram.com/p/DaPTbq-keC6/?utm_source=ig_embed&utm_campaign=loading": "2026-08-18T13:05:14Z",
-   "https://www.instagram.com/reel/DaR0oBPOng_/?utm_source=ig_embed&utm_campaign=loading": "2026-08-18T13:05:14Z",
-   "https://www.instagram.com/p/DaKIw2IEVTU/?utm_source=ig_embed&utm_campaign=loading": "2026-08-18T13:05:14Z",
-   "https://www.instagram.com/p/DaKqg0Dkagq/?utm_source=ig_embed&utm_campaign=loading": "2026-08-18T13:05:14Z",
-   "https://www.instagram.com/p/DaMpC5nEUaD/?utm_source=ig_embed&utm_campaign=loading": "2026-08-18T13:05:14Z",
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=CS-COMM-861-of-2023-in-the-Hon%E2%80%99ble-High-Court-of-Delhi:-DoT-instructions-dated-20.08.2026-to-ISPs": "2026-08-22T03:52:56Z",
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": "2026-09-08T23:21:29Z",
    "https://dot.gov.in/offerings/undefined/details/100-5g-labs-EzN5ATNtQWa": "2026-09-02T04:24:32Z",

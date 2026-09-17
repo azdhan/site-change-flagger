@@ -1,5 +1,22 @@
 [
  {
+  "id": "18e0efd16d5e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-17T16:55:45Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Comments",
+   "Counter Comments",
+   "Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "813eb3200c20",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
