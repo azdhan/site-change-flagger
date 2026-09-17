@@ -120,13 +120,13 @@
   "फिल्मों के प्रमाणन के प्रावधानों से छूट - के संबंध में।",
   "और देखें",
   "हालिया दस्तावेज़",
+  "प्रेस प्रकाशनी",
+  "अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान और शानदार सिनेमाई यात्रा के लिए वर्ष 2024 का दादासाहेब फाल्के पुरस्कार प्रदान किया जाएगा",
+  "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया",
   "ई - बुक्स",
   "10.26 मेगा बाइट |",
   "मन की बात जुलाई 2026",
-  "प्रेस प्रकाशनी",
   "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी",
-  "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविंग), डिजिटाइजेशन और रेस्टोरेशन पर एक विशेष कार्यशाला का",
-  "अधिनियम/नीति/दिशानिर्देश",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "Image and name of मीडिया. Select to view more information.",
   "शोधकर्ता",
@@ -168,7 +168,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "16 सितंबर 2026"
+  "17 सितंबर 2026"
  ],
  "links": [
   {
@@ -456,16 +456,20 @@
    "text": "और देखें"
   },
   {
+   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311059&reg=3&lang=2",
+   "text": "अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान और शानदार सिनेमाई यात्रा के लिए वर्ष 2024 का दादासाहेब फाल्के पुरस्कार प्रदान किया जाएगा"
+  },
+  {
+   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311026&reg=3&lang=2",
+   "text": "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया"
+  },
+  {
    "url": "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf",
    "text": "मन की बात जुलाई 2026"
   },
   {
    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2",
    "text": "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी"
-  },
-  {
-   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306588&reg=3&lang=2",
-   "text": "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविं"
   },
   {
    "url": "http://mib.gov.in/hi/documents/reports",
@@ -564,35 +568,27 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/archives",
-   "text": "पुरालेखागार"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/website-policy",
+   "url": "https://mib.gov.in/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/related-link",
+   "url": "https://mib.gov.in/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/sitemap",
+   "url": "https://mib.gov.in/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/help",
+   "url": "https://mib.gov.in/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
-   "text": "हमसे संपर्क करें"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/feedback",
+   "url": "https://mib.gov.in/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -621,7 +617,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-17T04:47:19Z",
+ "fetched_at": "2026-09-17T11:35:20Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -786,16 +782,19 @@
    "903.41 किलोबाइट |": 0,
    "टेलीकम्युनिकेशन (टेलीविज़न, रेडियो और संबंधित सेवाएँ) नियम, 2026 का ड्राफ्ट": 0,
    "केबल टेलीविज़न नेटवर्क (संशोधन) नियम, 2026": 0,
-   "अधिनियम/नीति/दिशानिर्देश": 0,
+   "अधिनियम/नीति/दिशानिर्देश": 1,
    "1.32 मेगा बाइट |": 0,
-   "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविंग), डिजिटाइजेशन और रेस्टोरेशन पर एक विशेष कार्यशाला का": 0,
+   "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविंग), डिजिटाइजेशन और रेस्टोरेशन पर एक विशेष कार्यशाला का": 1,
    "1.37 मेगा बाइट |": 0,
    "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी": 0,
    "ई - बुक्स": 0,
    "मन की बात जुलाई 2026": 0,
    "10.26 मेगा बाइट |": 0,
-   "15 सितंबर 2026": 5,
-   "16 सितंबर 2026": 0
+   "15 सितंबर 2026": 6,
+   "16 सितंबर 2026": 1,
+   "17 सितंबर 2026": 0,
+   "अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान और शानदार सिनेमाई यात्रा के लिए वर्ष 2024 का दादासाहेब फाल्के पुरस्कार प्रदान किया जाएगा": 0,
+   "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -881,12 +880,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 1,
-   "https://mib.gov.in/hi/related-link": 1,
-   "https://mib.gov.in/hi/sitemap": 1,
-   "https://mib.gov.in/hi/help": 1,
-   "https://mib.gov.in/hi/feedback": 1,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/hi/website-policy": 0,
+   "https://mib.gov.in/hi/related-link": 0,
+   "https://mib.gov.in/hi/sitemap": 0,
+   "https://mib.gov.in/hi/help": 0,
+   "https://mib.gov.in/hi/feedback": 0,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -902,24 +901,24 @@
    "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-08/advisory-dt-20.08.2026.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-751-e-cable-television-networks-amendment-rules-2026.pdf": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306588&reg=3&lang=2": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306588&reg=3&lang=2": 1,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
    "https://mib.gov.in/hi/whats-new": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf": 0,
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": 0,
-   "https://mib.gov.in/index.php/hi/help": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
-   "https://mib.gov.in/index.php/hi/archives": 0,
-   "https://mib.gov.in/index.php/hi/sitemap": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 0,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 0
+   "https://mib.gov.in/index.php/hi/help": 1,
+   "https://mib.gov.in/index.php/hi/feedback": 1,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/index.php/hi/archives": 1,
+   "https://mib.gov.in/index.php/hi/sitemap": 1,
+   "https://mib.gov.in/index.php/hi/related-link": 1,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 1,
+   "https://mib.gov.in/index.php/hi/website-policy": 1,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311026&reg=3&lang=2": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311059&reg=3&lang=2": 0
   },
   "grave_lines": {
-   "ब्रिक्‍स वेब्‍स बाजार 2026 का समापन नई अंतर्राष्ट्रीय साझेदारियों और सहयोग के साथ हुआ": "2026-08-18T09:46:02Z",
-   "16 अगस्त 2026": "2026-08-18T09:46:02Z",
    "17 अगस्त 2026": "2026-08-19T15:44:34Z",
    "18 अगस्त 2026": "2026-08-20T09:48:00Z",
    "19 अगस्त 2026": "2026-08-21T13:07:40Z",
@@ -990,7 +989,6 @@
    "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-09-15T04:48:35Z",
    "https://mib.gov.in/index.php/hi/archives": "2026-09-15T04:48:35Z",
    "https://mib.gov.in/index.php/hi/help": "2026-09-15T04:48:35Z",
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2296499&reg=3&lang=2": "2026-08-18T09:46:02Z",
    "https://mib.gov.in/sites/default/files/2025-09/press-release_0-1_0.pdf": "2026-08-22T09:38:13Z",
    "https://mib.gov.in/sites/default/files/2025-12/filling-up-of-01-post-of-production-manager-printed_0.pdf": "2026-08-22T09:38:13Z",
    "https://mib.gov.in/sites/default/files/2026-01/ganatantara-daivasa-2026-kae-parasaaranasamaaraoha-kae-laie-naijai-saaitaelaaita-taivai-caainalaon-davaaraa-saankaetaika-bhaasaa-maen-vayaakhayaa-kai-sauvaidhaa-upalabadha-karaanae-haetau-dainaanka-22.01.2026-kaa-1.pdf": "2026-08-22T09:38:13Z",

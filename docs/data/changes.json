@@ -1,5 +1,78 @@
 [
  {
+  "id": "813eb3200c20",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-17T11:35:20Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना",
+   "अंतिम बार अद्यतन किया गयाः 17.09.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa",
+    "text": "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "568aa371c01b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-17T11:35:20Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "17th September 2026",
+   "TRAI Assesses Mobile Network Quality Across Various Areas of Chennai City.",
+   "17 September, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city",
+    "text": "TRAI Assesses Mobile Network Quality Across Various Areas of Chennai City."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "5a0dd9044435",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-17T11:35:20Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान और शानदार सिनेमाई यात्रा के लिए वर्ष 2024 का दादासाहेब फाल्के पुरस्कार प्रदान किया जाएगा",
+   "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया",
+   "17 सितंबर 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311059&reg=3&lang=2",
+    "text": "अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान और शानदार सिनेमाई यात्रा के लिए वर्ष 2024 का दादासाहेब फाल्के पुरस्कार प्रदान किया जाएगा"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311026&reg=3&lang=2",
+    "text": "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "2bcafbadfbe3",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
