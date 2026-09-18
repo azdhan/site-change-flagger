@@ -117,8 +117,8 @@
   "arrow_forward_ios",
   "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल",
   "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना",
-  "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना",
-  "Public Procurement-Preference to Make in India",
+  "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27",
+  "Technology Development & Investment Promotion (TDIP) Scheme",
   "अधिक देखें",
   "नया क्या है",
   "दूरसंचार विनिर्माण क्षेत्र योजना",
@@ -128,10 +128,10 @@
   "National Frequency Allocation Plan-2025",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
+  "इंजीनियरिंग सेवा परीक्षा नियम, 2027",
   "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
   "डी. ओ. टी. मुख्यालय में तैनात आई. टी. एस. अधिकारियों के प्रतिनियुक्ति आवेदनों की प्रक्रिया-संबंधित",
   "एन. सी. ए.-टी. द्वारा 'विभागीय सुरक्षा निर्देश पुस्तिका (एम. ओ. डी. एस. आई.)' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम, 28-09-2026 से 29-09-2026 तक",
-  "आई. टी. एस. समूह 'ए'-रेग के जे. ए. जी. में अधिकारियों का स्थानांतरण और नियुक्ति 15-09-2026 का आदेश।",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -148,7 +148,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -163,7 +162,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 17.09.2026",
+  "अंतिम बार अद्यतन किया गयाः 18.09.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -331,12 +330,12 @@
    "text": "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना"
   },
   {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa",
-   "text": "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना"
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa",
+   "text": "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27"
   },
   {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa",
-   "text": "Public Procurement-Preference to Make in India"
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa",
+   "text": "Technology Development & Investment Promotion (TDIP) Scheme"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf",
@@ -472,7 +471,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-18T04:36:53Z",
+ "fetched_at": "2026-09-18T11:08:01Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -593,7 +592,7 @@
    "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल": 0,
    "प्रौद्योगिकी विकास और निवेश संवर्धन (टी. डी. आई. पी.) योजना": 0,
    "सार्वजनिक खरीद-मेक इन इंडिया को प्राथमिकता": 0,
-   "100 5G Labs": 4,
+   "100 5G Labs": 5,
    "अधिक देखें": 0,
    "नया क्या है": 0,
    "एन. सी. ए.-टी. द्वारा 16.07.2026 से 17.07.2026 तक 'एम. ओ. डी. एस. आई.' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम": 0,
@@ -817,8 +816,12 @@
    "डी. ओ. टी. मुख्यालय में तैनात आई. टी. एस. अधिकारियों के प्रतिनियुक्ति आवेदनों की प्रक्रिया-संबंधित": 0,
    "एन. सी. ए.-टी. द्वारा 'विभागीय सुरक्षा निर्देश पुस्तिका (एम. ओ. डी. एस. आई.)' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम, 28-09-2026 से 29-09-2026 तक": 0,
    "अंतिम बार अद्यतन किया गयाः 17.09.2026": 0,
-   "Public Procurement-Preference to Make in India": 0,
-   "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना": 0
+   "Public Procurement-Preference to Make in India": 1,
+   "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना": 0,
+   "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27": 0,
+   "अंतिम बार अद्यतन किया गयाः 18.09.2026": 0,
+   "इंजीनियरिंग सेवा परीक्षा नियम, 2027": 0,
+   "Technology Development & Investment Promotion (TDIP) Scheme": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -860,8 +863,8 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 4,
+   "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 1,
+   "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": 5,
    "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
@@ -896,7 +899,8 @@
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0
+   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-02T04:24:32Z",

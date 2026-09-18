@@ -1,5 +1,119 @@
 [
  {
+  "id": "823f57b67967",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-18T11:08:01Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27",
+   "इंजीनियरिंग सेवा परीक्षा नियम, 2027",
+   "अंतिम बार अद्यतन किया गयाः 18.09.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa",
+    "text": "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "4aa6a897d77e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-18T11:08:01Z",
+  "summary": "9 new links, 11 new text blocks",
+  "added_lines": [
+   "OHD on Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024 - dated 30/09/2026",
+   "18th September 2026",
+   "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection",
+   "Consumer Awareness Program at Jalore (Rajasthan) by Consumer Unity & Trust Society",
+   "Jalore , Rajasthan",
+   "Consumer Awareness Program at Ghazipur (Uttar Pradesh) by Nyay Bharti",
+   "Ghazipur, Uttar Pradesh",
+   "Consumer Awareness Program at Prayagraj (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
+   "12:30 PM",
+   "Prayagraj , Uttar Pradesh",
+   "18 September, 2026"
+  ],
+  "added_lines_total": 11,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://trai.gov.in/events/ohd-consultation-paper-draft-amendments-standards-quality-service-access-wireline-and",
+    "text": "OHD on Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024 - dated 30/09/202"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-strengthens-framework-curbing-ucc-through-technology-driven",
+    "text": "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-strengthens-framework-curbing-ucc-through-technology-driven",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-citizens-awarness-group-0",
+    "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalore-rajasthan-consumer-unity-trust-society",
+    "text": "Consumer Awareness Program at Jalore (Rajasthan) by Consumer Unity & Trust Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ghazipur-uttar-pradesh-nyay-bharti",
+    "text": "Consumer Awareness Program at Ghazipur (Uttar Pradesh) by Nyay Bharti"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-prayagraj-uttar-pradesh-upbhokta-sanrakchhan-kalyan",
+    "text": "Consumer Awareness Program at Prayagraj (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
+   },
+   {
+    "url": "https://twitter.com/TRAI/status/2100153931691397235?ref_src=twsrc%5Etfw",
+    "text": ""
+   },
+   {
+    "url": "https://twitter.com/TRAI/status/2100230738251755686?ref_src=twsrc%5Etfw",
+    "text": ""
+   }
+  ],
+  "new_links_total": 9
+ },
+ {
+  "id": "b3af3f41a471",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-18T11:08:01Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "18 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "3e62f5360c51",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-18T11:08:01Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 18.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "68dbc80e21e5",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
