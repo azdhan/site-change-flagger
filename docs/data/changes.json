@@ -1,5 +1,32 @@
 [
  {
+  "id": "5dc8dc96002b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-19T15:50:35Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Tikamgarh (Madhya Pradesh) by National Centre for Human Settlement and Enviorment (NCHSE)",
+   "Tikamgarh , Madhya Pradesh",
+   "Consumer Outreach Program at Sundargarh (Odisha) by RO HYDERABAD",
+   "Sundargarh, Odisha"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tikamgarh-madhya-pradesh-national-centre-human",
+    "text": "Consumer Awareness Program at Tikamgarh (Madhya Pradesh) by National Centre for Human Settlement and Enviorment (NCHSE)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-sundargarh-odisha-ro-hyderabad-0",
+    "text": "Consumer Outreach Program at Sundargarh (Odisha) by RO HYDERABAD"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "ae3b947e4231",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
