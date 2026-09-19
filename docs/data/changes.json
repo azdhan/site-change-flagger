@@ -1,5 +1,56 @@
 [
  {
+  "id": "5ba6233c49e8",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-19T20:35:01Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a1fcc6fe0717",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-19T20:35:01Z",
+  "summary": "15 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)",
+   "Mayiladuthurai, Tamil Nadu",
+   "Samastipur , Bihar",
+   "Consumer Awareness Program at Samastipur (Bihar) by Mithila Sewa Samiti",
+   "Consumer Awareness Program at Lohardaga (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
+   "Lohardaga, Jharkhand",
+   "Mandya , Karnataka",
+   "Consumer Awareness Program at Mandya (Karnataka) by Consumer Care Society, Bangalore",
+   "17 September, 2026"
+  ],
+  "removed_lines_total": 15,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "d16b8e6eca02",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-19T20:35:01Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "17 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "5dc8dc96002b",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

@@ -148,7 +148,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -472,7 +471,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-19T15:50:35Z",
+ "fetched_at": "2026-09-19T20:35:01Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -816,7 +815,6 @@
    "डी. ओ. टी. मुख्यालय में तैनात आई. टी. एस. अधिकारियों के प्रतिनियुक्ति आवेदनों की प्रक्रिया-संबंधित": 0,
    "एन. सी. ए.-टी. द्वारा 'विभागीय सुरक्षा निर्देश पुस्तिका (एम. ओ. डी. एस. आई.)' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम, 28-09-2026 से 29-09-2026 तक": 0,
    "अंतिम बार अद्यतन किया गयाः 17.09.2026": 0,
-   "Public Procurement-Preference to Make in India": 7,
    "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना": 0,
    "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27": 0,
    "अंतिम बार अद्यतन किया गयाः 18.09.2026": 0,
@@ -863,7 +861,6 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": 7,
    "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
@@ -902,7 +899,7 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0
   },
   "grave_lines": {
-   "Public Procurement-Preference to Make in India": "2026-09-02T04:24:32Z",
+   "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",
    "Technology Development & Investment Promotion (TDIP) Scheme": "2026-09-02T04:24:32Z",
    "Related Links": "2026-09-08T23:21:29Z",
    "Website Policies": "2026-09-08T23:21:29Z",
@@ -968,7 +965,8 @@
    "https://dot.gov.in/documents/orders-and-notices/telemarketer-codes-QDO0ATNtQWa?pageTitle=Telemarketer-Codes": "2026-09-04T20:43:34Z",
    "https://eservices.dot.gov.in/app-provider": "2026-09-11T20:55:27Z",
    "https://www.dot.gov.in/static/uploads/2026/09/2f3207588633ee4c6f08da2c35f0bc90.pdf": "2026-09-16T04:44:05Z",
-   "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": "2026-09-18T23:15:59Z"
+   "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": "2026-09-18T23:15:59Z",
+   "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": "2026-09-19T20:35:01Z"
   }
  }
 }
