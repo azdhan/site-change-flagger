@@ -207,18 +207,15 @@
   "5th August 2026",
   "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
   "4th August 2026",
-  "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026",
+  "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.",
   "On-going Consultation",
   "No Open Consultation",
   "Events",
-  "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association",
+  "Consumer Awareness Program at Kandhamal (Odisha) by Federation of Consumer Organisations Odisha",
   "Date :",
   "Time :",
-  "10:00 AM",
-  "Location :",
-  "Nagapattinam, Tamil Nadu",
-  "Consumer Awareness Program at Kandhamal (Odisha) by Federation of Consumer Organisations Odisha",
   "10:30 AM",
+  "Location :",
   "Kandhamal, Odisha",
   "Consumer Awareness Program at Pulwama (Jammu and Kashmir) by Helpage Social Welfare Society",
   "11:00 AM",
@@ -240,6 +237,8 @@
   "Tikamgarh , Madhya Pradesh",
   "Consumer Outreach Program at Sundargarh (Odisha) by RO HYDERABAD",
   "Sundargarh, Odisha",
+  "Consumer Awareness Program at Annamayya (Andhra Pradesh) by Rural Action for Social Services",
+  "Annamayya, Andhra Pradesh",
   "TRAI Dashboard",
   "1065.88 Million",
   "Broadband Subscribers",
@@ -977,11 +976,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
-   "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026"
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
+   "text": "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg."
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag",
    "text": "Explore"
   },
   {
@@ -991,10 +990,6 @@
   {
    "url": "https://www.trai.gov.in/events",
    "text": "View All"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagapattinam-tamil-nadu-women-consumer-protection",
-   "text": "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kandhamal-odisha-federation-consumer-organisations",
@@ -1031,6 +1026,10 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-sundargarh-odisha-ro-hyderabad-0",
    "text": "Consumer Outreach Program at Sundargarh (Odisha) by RO HYDERABAD"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-annamayya-andhra-pradesh-rural-action-social-services",
+   "text": "Consumer Awareness Program at Annamayya (Andhra Pradesh) by Rural Action for Social Services"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf",
@@ -1230,7 +1229,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-20T04:49:02Z",
+ "fetched_at": "2026-09-20T11:16:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1513,9 +1512,9 @@
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
    "4th August 2026": 0,
-   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": 4,
-   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": 0,
-   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.": 1,
+   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": 5,
+   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": 1,
+   "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.": 0,
    "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
    "5th August 2026": 0,
    "10th August 2026": 0,
@@ -1527,23 +1526,23 @@
    "28th August 2026": 0,
    "TRAI releases Telecom Subscription Data as on July 2026": 0,
    "10:30 AM": 0,
-   "11:30 AM": 4,
+   "11:30 AM": 5,
    "12:00 PM": 0,
    "10th September 2026": 0,
    "TRAI releases The Standards of Quality of Service (Duration of Advertisements in Television Channels) (Repealing) Regulations, 2026": 0,
-   "Osmanabad, Maharashtra": 4,
-   "Consumer Awareness Program at Osmanabad (Maharashtra) by Patil Foundation, Pune, Maharashtra": 4,
+   "Osmanabad, Maharashtra": 5,
+   "Consumer Awareness Program at Osmanabad (Maharashtra) by Patil Foundation, Pune, Maharashtra": 5,
    "14th September 2026": 0,
    "Withdrawal of Order No. 23-1/2012-B&CS dated 5th August 2013 regarding furnishing of information on duration of advertisements on TV channels": 0,
    "Pulwama, Jammu and Kashmir": 0,
-   "Ayodhya, Uttar Pradesh": 4,
+   "Ayodhya, Uttar Pradesh": 5,
    "Kandhamal, Odisha": 0,
    "Dakshin Dinajpur, West Bengal": 0,
-   "Nagapattinam, Tamil Nadu": 0,
+   "Nagapattinam, Tamil Nadu": 1,
    "Consumer Awareness Program at Dakshin Dinajpur (West Bengal) by Hemnagar Sundarban Dream": 0,
-   "10:00 AM": 0,
-   "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": 4,
-   "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association": 0,
+   "10:00 AM": 1,
+   "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": 5,
+   "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association": 1,
    "Consumer Awareness Program at Pulwama (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
    "Consumer Awareness Program at Kandhamal (Odisha) by Federation of Consumer Organisations Odisha": 0,
    "No Open Consultation": 0,
@@ -1566,7 +1565,9 @@
    "Consumer Awareness Program at Tikamgarh (Madhya Pradesh) by National Centre for Human Settlement and Enviorment (NCHSE)": 0,
    "Sundargarh, Odisha": 0,
    "Consumer Outreach Program at Sundargarh (Odisha) by RO HYDERABAD": 0,
-   "Tikamgarh , Madhya Pradesh": 0
+   "Tikamgarh , Madhya Pradesh": 0,
+   "Consumer Awareness Program at Annamayya (Andhra Pradesh) by Rural Action for Social Services": 0,
+   "Annamayya, Andhra Pradesh": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1759,12 +1760,12 @@
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 4,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 4,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 0,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 5,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": 5,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 1,
+   "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag": 0,
+   "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag": 0,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 1,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
@@ -1779,13 +1780,13 @@
    "https://www.trai.gov.in/photo-gallery/smra-model-spectrum-auctions-2026": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-standards-quality-service-duration-advertisements": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-standards-quality-service-duration-advertisements": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-osmanabad-maharashtra-patil-foundation-pune-maharashtra": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-osmanabad-maharashtra-patil-foundation-pune-maharashtra": 5,
    "https://www.trai.gov.in/what-s-new/withdrawal-order-no-23-12012-bcs-dated-5th-august-2013-regarding-furnishing-information": 0,
    "http://www.trai.gov.in/what-s-new/withdrawal-order-no-23-12012-bcs-dated-5th-august-2013-regarding-furnishing-information": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagapattinam-tamil-nadu-women-consumer-protection": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagapattinam-tamil-nadu-women-consumer-protection": 1,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kandhamal-odisha-federation-consumer-organisations": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pulwama-jammu-and-kashmir-helpage-social-welfare-society": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation-0": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation-0": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dakshin-dinajpur-west-bengal-hemnagar-sundarban-dream": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 0,
@@ -1799,7 +1800,8 @@
    "https://trai.gov.in/events/ohd-consultation-paper-draft-amendments-standards-quality-service-access-wireline-and": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ghazipur-uttar-pradesh-nyay-bharti": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tikamgarh-madhya-pradesh-national-centre-human": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-sundargarh-odisha-ro-hyderabad-0": 0
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-sundargarh-odisha-ro-hyderabad-0": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-annamayya-andhra-pradesh-rural-action-social-services": 0
   },
   "grave_lines": {
    "01:00 PM": "2026-09-16T23:39:14Z",
