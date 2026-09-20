@@ -1,5 +1,22 @@
 [
  {
+  "id": "f5f0c2bb0586",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-20T23:12:46Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)",
+   "Osmanabad, Maharashtra",
+   "Consumer Awareness Program at Osmanabad (Maharashtra) by Patil Foundation, Pune, Maharashtra"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "270ede35a4a3",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
