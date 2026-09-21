@@ -127,12 +127,12 @@
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "National Frequency Allocation Plan-2025",
   "हाल के दस्तावेज़",
+  "प्रेस विज्ञप्ति",
+  "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ग्वालियर में दूरसंचार विनिर्माण क्षेत्र के लिए निवेश आकर्षित करने के लिए मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव के साथ बेंगलुरु में निवेशकों की बैठक बुलाएंगे",
   "आदेश और सूचनाएँ",
   "बी. डब्ल्यू. एस. इलेक्ट्रिकल जी. आर. पी. ए. संवर्ग के जे. ए. जी. स्तर के अधिकारियों का स्थानांतरण और नियुक्ति",
-  "प्रेस विज्ञप्ति",
   "दूरसंचार विभाग ने नागरिकों को धोखाधड़ी से सिम कार्ड जारी करने, दूरसंचार पहचानकर्ताओं का दुरुपयोग करने या आई. एम. ई. आई. नंबरों के साथ छेड़छाड़ करने के खिलाफ चेतावनी दी",
   "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य सिंधिया ने दूरसंचार विभाग के सचिव और वरिष्ठ अधिकारियों के साथ ग्वालियर में दूरसंचार विनिर्माण क्षेत्र के लिए चिन्हित स्थल का निरीक्षण किया",
-  "इंजीनियरिंग सेवा परीक्षा नियम, 2027",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -469,7 +469,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-21T12:41:44Z",
+ "fetched_at": "2026-09-21T19:58:29Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -821,7 +821,8 @@
    "अंतिम बार अद्यतन किया गयाः 21.09.2026": 0,
    "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य सिंधिया ने दूरसंचार विभाग के सचिव और वरिष्ठ अधिकारियों के साथ ग्वालियर में दूरसंचार विनिर्माण क्षेत्र के लिए चिन्हित स्थल का निरीक्षण किया": 0,
    "बी. डब्ल्यू. एस. इलेक्ट्रिकल जी. आर. पी. ए. संवर्ग के जे. ए. जी. स्तर के अधिकारियों का स्थानांतरण और नियुक्ति": 0,
-   "दूरसंचार विभाग ने नागरिकों को धोखाधड़ी से सिम कार्ड जारी करने, दूरसंचार पहचानकर्ताओं का दुरुपयोग करने या आई. एम. ई. आई. नंबरों के साथ छेड़छाड़ करने के खिलाफ चेतावनी दी": 0
+   "दूरसंचार विभाग ने नागरिकों को धोखाधड़ी से सिम कार्ड जारी करने, दूरसंचार पहचानकर्ताओं का दुरुपयोग करने या आई. एम. ई. आई. नंबरों के साथ छेड़छाड़ करने के खिलाफ चेतावनी दी": 0,
+   "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ग्वालियर में दूरसंचार विनिर्माण क्षेत्र के लिए निवेश आकर्षित करने के लिए मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव के साथ बेंगलुरु में निवेशकों की बैठक बुलाएंगे": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -896,7 +897,7 @@
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 1,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 2,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0
   },
