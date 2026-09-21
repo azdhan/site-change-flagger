@@ -101,6 +101,7 @@
   "open_in_new",
   "कार्यक्रम देखें",
   "हमारे बारे में",
+  "दूरसंचार सेवाओं को दुनिया भर में एक राष्ट्र के लिए सामाजिक-आर्थिक विकास के लिए एक महत्वपूर्ण उपकरण के रूप में मान्यता दी गई है और इसलिए दूरसंचार बुनियादी ढांचे को भारत में सामाजिक-आर्थिक उद्देश्यों को प्राप्त करने के लिए एक महत्वपूर्ण कारक के रूप में माना जाता है। तदनुसार, दूरसंचार विभाग दूरसंचार सेवाओं के त्वरित विकास के लिए विकासात्मक नीतियां बना रहा है। विभाग एकीकृत अभिगम सेवा, इंटरनेट और वी. एस. ए. टी. सेवा जैसी विभिन्न दूरसंचार सेवाओं के लिए लाइसेंस देने के लिए भी जिम्मेदार है। विभाग अंतर्राष्ट्रीय निकायों के साथ घनिष्ठ समन्वय में रेडियो संचार के क्षेत्र में आवृत्ति प्रबंधन के लिए भी जिम्मेदार है। यह देश में सभी उपयोगकर्ताओं के वायरलेस संचरण की निगरानी करके वायरलेस नियामक उपायों को भी लागू करता है।",
   "हमारी टीम",
   "हमारा प्रभाग",
   "हमारा संगठन",
@@ -127,10 +128,11 @@
   "National Frequency Allocation Plan-2025",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
+  "बी. डब्ल्यू. एस. इलेक्ट्रिकल जी. आर. पी. ए. संवर्ग के जे. ए. जी. स्तर के अधिकारियों का स्थानांतरण और नियुक्ति",
+  "प्रेस विज्ञप्ति",
+  "दूरसंचार विभाग ने नागरिकों को धोखाधड़ी से सिम कार्ड जारी करने, दूरसंचार पहचानकर्ताओं का दुरुपयोग करने या आई. एम. ई. आई. नंबरों के साथ छेड़छाड़ करने के खिलाफ चेतावनी दी",
+  "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य सिंधिया ने दूरसंचार विभाग के सचिव और वरिष्ठ अधिकारियों के साथ ग्वालियर में दूरसंचार विनिर्माण क्षेत्र के लिए चिन्हित स्थल का निरीक्षण किया",
   "इंजीनियरिंग सेवा परीक्षा नियम, 2027",
-  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
-  "डी. ओ. टी. मुख्यालय में तैनात आई. टी. एस. अधिकारियों के प्रतिनियुक्ति आवेदनों की प्रक्रिया-संबंधित",
-  "एन. सी. ए.-टी. द्वारा 'विभागीय सुरक्षा निर्देश पुस्तिका (एम. ओ. डी. एस. आई.)' और 'सरकारी संस्थाओं के लिए सूचना सुरक्षा प्रथाओं पर दिशानिर्देश' पर दो दिवसीय प्रशिक्षण कार्यक्रम, 28-09-2026 से 29-09-2026 तक",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -162,7 +164,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 18.09.2026",
+  "अंतिम बार अद्यतन किया गयाः 21.09.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -362,10 +364,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)",
-   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)"
-  },
-  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -471,7 +469,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-21T04:49:24Z",
+ "fetched_at": "2026-09-21T12:41:44Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -819,7 +817,11 @@
    "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27": 0,
    "अंतिम बार अद्यतन किया गयाः 18.09.2026": 0,
    "इंजीनियरिंग सेवा परीक्षा नियम, 2027": 0,
-   "Technology Development & Investment Promotion (TDIP) Scheme": 0
+   "Technology Development & Investment Promotion (TDIP) Scheme": 0,
+   "अंतिम बार अद्यतन किया गयाः 21.09.2026": 0,
+   "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य सिंधिया ने दूरसंचार विभाग के सचिव और वरिष्ठ अधिकारियों के साथ ग्वालियर में दूरसंचार विनिर्माण क्षेत्र के लिए चिन्हित स्थल का निरीक्षण किया": 0,
+   "बी. डब्ल्यू. एस. इलेक्ट्रिकल जी. आर. पी. ए. संवर्ग के जे. ए. जी. स्तर के अधिकारियों का स्थानांतरण और नियुक्ति": 0,
+   "दूरसंचार विभाग ने नागरिकों को धोखाधड़ी से सिम कार्ड जारी करने, दूरसंचार पहचानकर्ताओं का दुरुपयोग करने या आई. एम. ई. आई. नंबरों के साथ छेड़छाड़ करने के खिलाफ चेतावनी दी": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -894,7 +896,7 @@
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 1,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0
   },
