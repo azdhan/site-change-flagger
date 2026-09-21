@@ -120,13 +120,13 @@
   "फिल्मों के प्रमाणन के प्रावधानों से छूट - के संबंध में।",
   "और देखें",
   "हालिया दस्तावेज़",
+  "अधिनियम/नीति/दिशानिर्देश",
+  "1.9 मेगा बाइट |",
+  "सार्वजनिक प्रदर्शन के लिए फ़िल्मों के सर्टिफ़िकेशन के लिए संशोधित दिशानिर्देश।",
   "प्रेस प्रकाशनी",
+  "सरकार की प्रमुख योजनाओं के कारण बेरोजगारी दर 6 प्रतिशत से घटकर 3.2 प्रतिशत हुई: केंद्रीय मंत्री डॉ. एल. मुरुगन",
+  "रचनात्‍मक अर्थव्यवस्था भारत के अगले विकास के मोर्चे के रूप में उभर रही है, जो युवा भारतीयों के लिए नए अवसर प्रदान कर रही है: डॉ. एल. मुरुगन",
   "अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान और शानदार सिनेमाई यात्रा के लिए वर्ष 2024 का दादासाहेब फाल्के पुरस्कार प्रदान किया जाएगा",
-  "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया",
-  "ई - बुक्स",
-  "10.26 मेगा बाइट |",
-  "मन की बात जुलाई 2026",
-  "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "Image and name of मीडिया. Select to view more information.",
   "शोधकर्ता",
@@ -456,20 +456,20 @@
    "text": "और देखें"
   },
   {
+   "url": "https://mib.gov.in/sites/default/files/2026-09/saaravajanaika-paradarasana-kae-laie-pha-ilamaon-kae-sarataipha-ikaesana-kae-laie-sansaodhaita-daisaanairadaesa.pdf",
+   "text": "सार्वजनिक प्रदर्शन के लिए फ़िल्मों के सर्टिफ़िकेशन के लिए संशोधित दिशानिर्देश।"
+  },
+  {
+   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312578&reg=3&lang=2",
+   "text": "सरकार की प्रमुख योजनाओं के कारण बेरोजगारी दर 6 प्रतिशत से घटकर 3.2 प्रतिशत हुई: केंद्रीय मंत्री डॉ. एल. मुरुगन"
+  },
+  {
+   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312003&reg=3&lang=2",
+   "text": "रचनात्‍मक अर्थव्यवस्था भारत के अगले विकास के मोर्चे के रूप में उभर रही है, जो युवा भारतीयों के लिए नए अवसर प्रदान कर रही है: डॉ. एल. मुरुगन"
+  },
+  {
    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311059&reg=3&lang=2",
    "text": "अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान और शानदार सिनेमाई यात्रा के लिए वर्ष 2024 का दादासाहेब फाल्के पुरस्कार प्रदान किया जाएगा"
-  },
-  {
-   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311026&reg=3&lang=2",
-   "text": "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया"
-  },
-  {
-   "url": "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf",
-   "text": "मन की बात जुलाई 2026"
-  },
-  {
-   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2",
-   "text": "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी"
   },
   {
    "url": "http://mib.gov.in/hi/documents/reports",
@@ -617,7 +617,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-20T23:12:46Z",
+ "fetched_at": "2026-09-21T04:49:24Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -784,13 +784,18 @@
    "केबल टेलीविज़न नेटवर्क (संशोधन) नियम, 2026": 0,
    "1.32 मेगा बाइट |": 0,
    "1.37 मेगा बाइट |": 0,
-   "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी": 0,
-   "ई - बुक्स": 0,
-   "मन की बात जुलाई 2026": 0,
-   "10.26 मेगा बाइट |": 0,
+   "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी": 1,
+   "ई - बुक्स": 1,
+   "मन की बात जुलाई 2026": 1,
+   "10.26 मेगा बाइट |": 1,
    "अभिनेता अनंत नाग को भारतीय सिनेमा में उनके योगदान और शानदार सिनेमाई यात्रा के लिए वर्ष 2024 का दादासाहेब फाल्के पुरस्कार प्रदान किया जाएगा": 0,
-   "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया": 0,
-   "18 सितंबर 2026": 0
+   "सरकार ने 18 सदस्यों के साथ केंद्रीय फिल्म प्रमाणन बोर्ड का पुनर्गठन किया": 1,
+   "18 सितंबर 2026": 0,
+   "रचनात्‍मक अर्थव्यवस्था भारत के अगले विकास के मोर्चे के रूप में उभर रही है, जो युवा भारतीयों के लिए नए अवसर प्रदान कर रही है: डॉ. एल. मुरुगन": 0,
+   "अधिनियम/नीति/दिशानिर्देश": 0,
+   "1.9 मेगा बाइट |": 0,
+   "सार्वजनिक प्रदर्शन के लिए फ़िल्मों के सर्टिफ़िकेशन के लिए संशोधित दिशानिर्देश।": 0,
+   "सरकार की प्रमुख योजनाओं के कारण बेरोजगारी दर 6 प्रतिशत से घटकर 3.2 प्रतिशत हुई: केंद्रीय मंत्री डॉ. एल. मुरुगन": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -899,11 +904,14 @@
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-751-e-cable-television-networks-amendment-rules-2026.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
    "https://mib.gov.in/hi/whats-new": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2": 0,
-   "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2": 1,
+   "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf": 1,
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311026&reg=3&lang=2": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311059&reg=3&lang=2": 0
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311026&reg=3&lang=2": 1,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311059&reg=3&lang=2": 0,
+   "https://mib.gov.in/sites/default/files/2026-09/saaravajanaika-paradarasana-kae-laie-pha-ilamaon-kae-sarataipha-ikaesana-kae-laie-sansaodhaita-daisaanairadaesa.pdf": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312578&reg=3&lang=2": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312003&reg=3&lang=2": 0
   },
   "grave_lines": {
    "20 अगस्त 2026": "2026-08-22T06:56:51Z",

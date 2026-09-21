@@ -1,5 +1,36 @@
 [
  {
+  "id": "806cbd40c176",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-21T04:49:24Z",
+  "summary": "3 new links, 4 new text blocks",
+  "added_lines": [
+   "1.9 मेगा बाइट |",
+   "सार्वजनिक प्रदर्शन के लिए फ़िल्मों के सर्टिफ़िकेशन के लिए संशोधित दिशानिर्देश।",
+   "सरकार की प्रमुख योजनाओं के कारण बेरोजगारी दर 6 प्रतिशत से घटकर 3.2 प्रतिशत हुई: केंद्रीय मंत्री डॉ. एल. मुरुगन",
+   "रचनात्‍मक अर्थव्यवस्था भारत के अगले विकास के मोर्चे के रूप में उभर रही है, जो युवा भारतीयों के लिए नए अवसर प्रदान कर रही है: डॉ. एल. मुरुगन"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-09/saaravajanaika-paradarasana-kae-laie-pha-ilamaon-kae-sarataipha-ikaesana-kae-laie-sansaodhaita-daisaanairadaesa.pdf",
+    "text": "सार्वजनिक प्रदर्शन के लिए फ़िल्मों के सर्टिफ़िकेशन के लिए संशोधित दिशानिर्देश।"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312578&reg=3&lang=2",
+    "text": "सरकार की प्रमुख योजनाओं के कारण बेरोजगारी दर 6 प्रतिशत से घटकर 3.2 प्रतिशत हुई: केंद्रीय मंत्री डॉ. एल. मुरुगन"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2312003&reg=3&lang=2",
+    "text": "रचनात्‍मक अर्थव्यवस्था भारत के अगले विकास के मोर्चे के रूप में उभर रही है, जो युवा भारतीयों के लिए नए अवसर प्रदान कर रही है: डॉ. एल. मुरुगन"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "f5f0c2bb0586",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
