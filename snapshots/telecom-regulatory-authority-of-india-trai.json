@@ -1229,7 +1229,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-21T19:58:29Z",
+ "fetched_at": "2026-09-22T00:03:31Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1512,7 +1512,7 @@
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
    "4th August 2026": 0,
-   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": 3,
+   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": 4,
    "TRAI assessed mobile network quality across Srinagar, Ganderbal, Anantnag, Gulmarg, Pahalgam, and surrounding areas, including key highways connecting Srinagar to Pahalgam and Gulmarg.": 0,
    "TRAI releases consultation paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
    "5th August 2026": 0,
@@ -1530,15 +1530,12 @@
    "TRAI releases The Standards of Quality of Service (Duration of Advertisements in Television Channels) (Repealing) Regulations, 2026": 0,
    "14th September 2026": 0,
    "Withdrawal of Order No. 23-1/2012-B&CS dated 5th August 2013 regarding furnishing of information on duration of advertisements on TV channels": 0,
-   "Pulwama, Jammu and Kashmir": 2,
-   "Kandhamal, Odisha": 2,
+   "Pulwama, Jammu and Kashmir": 3,
+   "Kandhamal, Odisha": 3,
    "Dakshin Dinajpur, West Bengal": 0,
-   "Nagapattinam, Tamil Nadu": 7,
    "Consumer Awareness Program at Dakshin Dinajpur (West Bengal) by Hemnagar Sundarban Dream": 0,
-   "10:00 AM": 7,
-   "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association": 7,
-   "Consumer Awareness Program at Pulwama (Jammu and Kashmir) by Helpage Social Welfare Society": 2,
-   "Consumer Awareness Program at Kandhamal (Odisha) by Federation of Consumer Organisations Odisha": 2,
+   "Consumer Awareness Program at Pulwama (Jammu and Kashmir) by Helpage Social Welfare Society": 3,
+   "Consumer Awareness Program at Kandhamal (Odisha) by Federation of Consumer Organisations Odisha": 3,
    "No Open Consultation": 0,
    "17th September 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Various Areas of Chennai City.": 0,
@@ -1551,7 +1548,7 @@
    "12:30 PM": 0,
    "Consumer Awareness Program at Prayagraj (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti": 0,
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh": 0,
-   "18 September, 2026": 2,
+   "18 September, 2026": 3,
    "OHD on Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024 - dated 30/09/2026": 0,
    "Chandigarh , Chandigarh": 0,
    "Consumer Awareness Program at Ghazipur (Uttar Pradesh) by Nyay Bharti": 0,
@@ -1759,10 +1756,10 @@
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 3,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 4,
    "http://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assessed-mobile-network-quality-across-srinagar-ganderbal-anantnag": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 3,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": 4,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-consultation-paper-draft-amendments-standards-quality": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 0,
@@ -1779,9 +1776,8 @@
    "http://www.trai.gov.in/notifications/press-release/trai-releases-standards-quality-service-duration-advertisements": 0,
    "https://www.trai.gov.in/what-s-new/withdrawal-order-no-23-12012-bcs-dated-5th-august-2013-regarding-furnishing-information": 0,
    "http://www.trai.gov.in/what-s-new/withdrawal-order-no-23-12012-bcs-dated-5th-august-2013-regarding-furnishing-information": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagapattinam-tamil-nadu-women-consumer-protection": 7,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kandhamal-odisha-federation-consumer-organisations": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pulwama-jammu-and-kashmir-helpage-social-welfare-society": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kandhamal-odisha-federation-consumer-organisations": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pulwama-jammu-and-kashmir-helpage-social-welfare-society": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dakshin-dinajpur-west-bengal-hemnagar-sundarban-dream": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 0,
@@ -1937,7 +1933,7 @@
    "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN": "2026-09-11T16:25:03Z",
    "Deogarh , Odisha": "2026-09-11T16:25:03Z",
    "8 September, 2026": "2026-09-11T16:25:03Z",
-   "10:00 AM": "2026-09-11T23:13:35Z",
+   "10:00 AM": "2026-09-22T00:03:31Z",
    "Nilgiris, Tamil Nadu": "2026-09-11T23:13:35Z",
    "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": "2026-09-11T23:13:35Z",
    "Godda , Jharkhand": "2026-09-11T23:13:35Z",
@@ -1978,7 +1974,9 @@
    "17 September, 2026": "2026-09-19T20:35:01Z",
    "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": "2026-09-20T23:12:46Z",
    "Osmanabad, Maharashtra": "2026-09-20T23:12:46Z",
-   "Consumer Awareness Program at Osmanabad (Maharashtra) by Patil Foundation, Pune, Maharashtra": "2026-09-20T23:12:46Z"
+   "Consumer Awareness Program at Osmanabad (Maharashtra) by Patil Foundation, Pune, Maharashtra": "2026-09-20T23:12:46Z",
+   "Nagapattinam, Tamil Nadu": "2026-09-22T00:03:31Z",
+   "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association": "2026-09-22T00:03:31Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-banswara-rajasthan-indian-institute-technology": "2026-08-23T03:57:55Z",
@@ -2071,7 +2069,8 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": "2026-09-20T23:12:46Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": "2026-09-20T23:12:46Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-osmanabad-maharashtra-patil-foundation-pune-maharashtra": "2026-09-20T23:12:46Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation-0": "2026-09-20T23:12:46Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation-0": "2026-09-20T23:12:46Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagapattinam-tamil-nadu-women-consumer-protection": "2026-09-22T00:03:31Z"
   }
  }
 }
