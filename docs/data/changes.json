@@ -1,5 +1,97 @@
 [
  {
+  "id": "74312aea5ab1",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-22T11:30:30Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.) 2025-यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों द्वारा सेवा आवंटन के लिए वरीयताएँ",
+   "श्री की सेवानिवृत्ति। अरुण कुमार चौबे, निदेशक (परियोजना), टी. सी. आई. एल., 30-09-2026 तक सेवानिवृत्ति की आयु प्राप्त करने पर अधिकारी",
+   "अंतिम बार अद्यतन किया गयाः 22.09.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a77ee0ac836f",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-22T11:30:30Z",
+  "summary": "6 new links, 6 new text blocks",
+  "added_lines": [
+   "22nd September 2026",
+   "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026",
+   "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.",
+   "Consumer Awareness Program at Vadodara (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal",
+   "Vadodara, Gujarat",
+   "22 September, 2026"
+  ],
+  "added_lines_total": 6,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
+    "text": "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
+    "text": "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dakshin-dinajpur-west-bengal-hemnagar-sundarban-dream-0",
+    "text": "Consumer Awareness Program at Dakshin Dinajpur (West Bengal) by Hemnagar Sundarban Dream"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-vadodara-gujarat-shree-jagruti-grahak-suraksha-mahila",
+    "text": "Consumer Awareness Program at Vadodara (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal"
+   }
+  ],
+  "new_links_total": 6
+ },
+ {
+  "id": "1c91c0e7e531",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-22T11:30:30Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "22 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "9b10db015a43",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-22T11:30:30Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 22.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "b663aabc2b7a",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
