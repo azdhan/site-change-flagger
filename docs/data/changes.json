@@ -1,5 +1,25 @@
 [
  {
+  "id": "b663aabc2b7a",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-22T04:48:07Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "इंतजार की घड़ी बीत गई: 72वें राष्ट्रीय फिल्म पुरस्कार 22 सितंबर को भारतीय सिनेमा के सर्वश्रेष्ठ को सम्मानित करने के लिए तैयार"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313014&reg=3&lang=2",
+    "text": "इंतजार की घड़ी बीत गई: 72वें राष्ट्रीय फिल्म पुरस्कार 22 सितंबर को भारतीय सिनेमा के सर्वश्रेष्ठ को सम्मानित करने के लिए तैयार"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "42ec289ae458",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
