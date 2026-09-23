@@ -1,5 +1,85 @@
 [
  {
+  "id": "dc3d600516e5",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-23T11:29:13Z",
+  "summary": "1 new link, 4 new text blocks",
+  "added_lines": [
+   "\"ब्लॉक चेन-फंडामेंटल, एप्लीकेशन और इमर्जिंग ट्रेंड्स\" पर कार्यशाला 29-09-2026 और 30-09-2026 को आयोजित की जाएगी",
+   "दूरसंचार विभाग ने निवेश, नवाचार और घरेलू विनिर्माण पर ध्यान केंद्रित करने वाले दूरसंचार विनिर्माण क्षेत्र के लिए बेंगलुरु में तीसरी निवेशक गोलमेज बैठक की मेजबानी की",
+   "समाप्ति पत्र (जून-सितंबर 2026)",
+   "अंतिम बार अद्यतन किया गयाः 23.09.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)",
+    "text": "आदेश और सूचनाएँ समाप्ति पत्र (जून-सितंबर 2026)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "bb70bf21e56b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-23T11:29:13Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Chittorgarh (Rajasthan) by Maruti Seva Samiti",
+   "Chittorgarh, Rajasthan",
+   "Consumer Awareness Program at Jhajjar (Haryana) by Consumer Coordination Council",
+   "Jhajjar, Haryana"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chittorgarh-rajasthan-maruti-seva-samiti",
+    "text": "Consumer Awareness Program at Chittorgarh (Rajasthan) by Maruti Seva Samiti"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhajjar-haryana-consumer-coordination-council",
+    "text": "Consumer Awareness Program at Jhajjar (Haryana) by Consumer Coordination Council"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "56038107e4bc",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-23T11:29:13Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "23 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c0f86c847d83",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-23T11:29:13Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 23.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "823e1317e04f",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
