@@ -1,5 +1,35 @@
 [
  {
+  "id": "48c2f7c9e721",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-24T17:06:04Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e2fade91d6a8",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-24T17:06:04Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "EOI for Industry Partners for the Project proposal on MEMS Sensors"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "f9548cad298e",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

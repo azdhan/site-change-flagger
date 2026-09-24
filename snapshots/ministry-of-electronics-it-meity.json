@@ -149,6 +149,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -387,6 +388,10 @@
    "text": "View this post on Instagram"
   },
   {
+   "url": "https://innovateindia.mygov.in/cyber-security-grand-challenge/",
+   "text": ""
+  },
+  {
    "url": "https://meity.gov.in/archives?page=tenders_post",
    "text": "अभिलेखागार"
   },
@@ -436,7 +441,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-24T11:39:21Z",
+ "fetched_at": "2026-09-24T17:06:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -542,7 +547,7 @@
    "कार्यक्रम देखें": 0,
    "प्रमुख प्रस्ताव": 0,
    "अधिक देखें": 0,
-   "View more": 2,
+   "View more": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "महत्वपूर्ण लिंक": 0,
    "एमईआईटीवाई डैशबोर्ड": 0,
@@ -585,7 +590,7 @@
    "मई 2026 के महीने के लिए एम. ई. आई. टी. वाई. की प्रमुख उपलब्धि": 0,
    "डिजिटल इंडिया इंटर्नशिप योजना 2026": 0,
    "नया क्या है": 0,
-   "TECHNICAL INTERNSHIP PROGRAMME 2025": 1,
+   "TECHNICAL INTERNSHIP PROGRAMME 2025": 2,
    "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.": 0,
    "NeGD’s Non-Technical (Summer) Internship Programme": 0,
    "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges": 0,
@@ -593,7 +598,7 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 2,
+   "Key Offerings": 0,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
@@ -663,7 +668,6 @@
    "अंतिम बार अद्यतन किया गयाः 08.09.2026": 0,
    "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई": 0,
    "अंतिम बार अद्यतन किया गयाः 09.09.2026": 0,
-   "EOI for Industry Partners for the Project proposal on MEMS Sensors": 7,
    "अंतिम बार अद्यतन किया गयाः 10.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 14.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 15.09.2026": 0,
@@ -684,7 +688,7 @@
    "For Media": 0,
    "For Researcher": 0,
    "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)": 0,
-   "For IT Professional": 0,
+   "For IT Professional": 1,
    "Mobile Phone Manufacturing Scheme (MPMS)": 0,
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0
   },
@@ -739,7 +743,7 @@
    "https://intern.meity.gov.in": 0,
    "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa": 0,
-   "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 1,
+   "https://meity.gov.in/offerings/schemes-and-services/details/technical-internship-programme-2025-UjN5IjMtQWa": 2,
    "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
@@ -751,7 +755,6 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa": 0,
    "https://meity.gov.in/ministry/directory": 0,
    "https://meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf": 0,
-   "https://www.meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf": 7,
    "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 0,
    "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 0,
    "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 0,
@@ -775,7 +778,8 @@
    "Integrated Finances": "2026-09-08T11:12:01Z",
    "Act and policies": "2026-09-08T11:12:01Z",
    "Report": "2026-09-08T11:12:01Z",
-   "Explore What's new": "2026-09-15T04:48:35Z"
+   "Explore What's new": "2026-09-15T04:48:35Z",
+   "EOI for Industry Partners for the Project proposal on MEMS Sensors": "2026-09-24T17:06:04Z"
   },
   "grave_links": {
    "https://meity.gov.in/persona/media-QOwIDOtQWa": "2026-09-09T11:16:10Z",
@@ -790,7 +794,8 @@
    "https://meity.gov.in/ministry/directory-2": "2026-09-08T04:28:36Z",
    "https://meity.gov.in/documents/act-and-policies/draft-amendments-to-the-it-rules-2021-in-relation-to-strengthening-intermediary-compliance-with-clarifications-advisories-and-directions-issued-by-the-ministry-and-digital-media-oversight-AjM2YjMtQWa?pageTitle=Draft-amendments-to-the-IT-Rules,-2021-in-relation-to-strengthening-intermediary-compliance-with-clarifications,-advisories-and-directions-issued-by-the-Ministry-and-digital-media-oversight": "2026-09-08T11:12:01Z",
    "https://meity.gov.in/documents/reports/archive-integrated-finances-QzMxATMtQWa?pageTitle=Integrated-Finances": "2026-09-08T11:12:01Z",
-   "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-chairman-members-in-the-data-protection-board-of-india-QTMxcjMtQWa": "2026-09-10T04:34:34Z"
+   "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-chairman-members-in-the-data-protection-board-of-india-QTMxcjMtQWa": "2026-09-10T04:34:34Z",
+   "https://www.meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf": "2026-09-24T17:06:04Z"
   }
  }
 }

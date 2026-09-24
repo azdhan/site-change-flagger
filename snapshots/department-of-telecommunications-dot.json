@@ -128,10 +128,10 @@
   "National Frequency Allocation Plan-2025",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
+  "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई",
   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति",
   "शक्ति पर लिया गया अर्थात टी. ई. एस. जी. आर. के जे. टी. ओ. के आर. ओ. अधिकारी। बी-श्री भूषण, कर्मचारी नं. 6215",
   "\"ब्लॉक चेन-फंडामेंटल, एप्लीकेशन और इमर्जिंग ट्रेंड्स\" पर कार्यशाला, 29-09-2026 और 30-09-2026 को आयोजित होने वाली है",
-  "समाप्ति पत्र (जून-सितंबर 2026)",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -148,7 +148,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -363,10 +362,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)",
-   "text": "आदेश और सूचनाएँ समाप्ति पत्र (जून-सितंबर 2026)"
-  },
-  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -472,7 +467,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-24T11:39:21Z",
+ "fetched_at": "2026-09-24T17:06:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -837,7 +832,8 @@
    "\"ब्लॉक चेन-फंडामेंटल, एप्लीकेशन और इमर्जिंग ट्रेंड्स\" पर कार्यशाला, 29-09-2026 और 30-09-2026 को आयोजित होने वाली है": 0,
    "शक्ति पर लिया गया अर्थात टी. ई. एस. जी. आर. के जे. टी. ओ. के आर. ओ. अधिकारी। बी-श्री भूषण, कर्मचारी नं. 6215": 0,
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
-   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति": 0
+   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति": 0,
+   "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -914,7 +910,7 @@
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)": 0
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)": 1
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",
