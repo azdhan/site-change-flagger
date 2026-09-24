@@ -1,5 +1,23 @@
 [
  {
+  "id": "c15cf20a7d14",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-24T21:27:59Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "1.9 मेगा बाइट |",
+   "सार्वजनिक प्रदर्शन के लिए फ़िल्मों के सर्टिफ़िकेशन के लिए संशोधित दिशानिर्देश।",
+   "सरकार की प्रमुख योजनाओं के कारण बेरोजगारी दर 6 प्रतिशत से घटकर 3.2 प्रतिशत हुई: केंद्रीय मंत्री डॉ. एल. मुरुगन",
+   "केबल टेलीविज़न नेटवर्क (रेगुलेशन) एक्ट, 1995 में पिछला संशोधन"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "48c2f7c9e721",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
