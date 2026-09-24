@@ -1,5 +1,39 @@
 [
  {
+  "id": "831d406f7fd6",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-24T04:41:13Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "\"ब्लॉक चेन-फंडामेंटल, एप्लीकेशन और इमर्जिंग ट्रेंड्स\" पर कार्यशाला, 29-09-2026 और 30-09-2026 को आयोजित होने वाली है"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "28b4922a2ad1",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-24T04:41:13Z",
+  "summary": "5 new text blocks",
+  "added_lines": [
+   "आदेश और सूचनाएँ",
+   "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षमता भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण",
+   "एम. ई. आई. टी. वाई. और लिंक अधिकारी व्यवस्था में समूह समन्वयकों/एच. ए. जी. स्तर के अधिकारियों के बीच संशोधित कार्य वितरण 15.09.2026",
+   "एम. ई. आई. टी. वाई. के लिए मीडिया और संचार प्रमुख की नियुक्ति",
+   "2 अक्टूबर 2026 से 31 अक्टूबर2026 के दौरान सरकारी कार्यालयों में स्वच्छता को संस्थागत बनाने और लंबित मामलों को कम करने के लिए विशेष अभियान 6.0-एम. ई. आई. टी. वाई. और इसके संगठनों में 15 अगस्त, 2026 से प्रारंभिक कार्रवाई को आगे बढ़ाना"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "a664cdb2e3c9",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
