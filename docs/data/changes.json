@@ -1,5 +1,98 @@
 [
  {
+  "id": "f9548cad298e",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-24T11:39:21Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति",
+   "शक्ति पर लिया गया अर्थात टी. ई. एस. जी. आर. के जे. टी. ओ. के आर. ओ. अधिकारी। बी-श्री भूषण, कर्मचारी नं. 6215",
+   "अंतिम बार अद्यतन किया गयाः 24.09.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c128c2c8437d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-24T11:39:21Z",
+  "summary": "4 new links, 9 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Pali (Rajasthan) by Mount Abu International Ham Radio Club",
+   "Pali, Rajasthan",
+   "Consumer Awareness Program at Purnia (Bihar) by Yuva kriti Sangam",
+   "Purnia, Bihar",
+   "Consumer Outreach Program at Namsai (Arunachal Pradesh) by RO KOLKATA",
+   "Namsai, Arunachal Pradesh",
+   "Consumer Awareness Program at Anand (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+   "Anand, Gujarat",
+   "24 September, 2026"
+  ],
+  "added_lines_total": 9,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pali-rajasthan-mount-abu-international-ham-radio-club",
+    "text": "Consumer Awareness Program at Pali (Rajasthan) by Mount Abu International Ham Radio Club"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-purnia-bihar-yuva-kriti-sangam",
+    "text": "Consumer Awareness Program at Purnia (Bihar) by Yuva kriti Sangam"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-namsai-arunachal-pradesh-ro-kolkata",
+    "text": "Consumer Outreach Program at Namsai (Arunachal Pradesh) by RO KOLKATA"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-anand-gujarat-bhavnagar-grahak-suraksha-mandal",
+    "text": "Consumer Awareness Program at Anand (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "a759f021c243",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-24T11:39:21Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "24 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e515c4132161",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-24T11:39:21Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Mobile Phone Manufacturing Scheme (MPMS)",
+   "अंतिम बार अद्यतन किया गयाः 24.09.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa",
+    "text": "Mobile Phone Manufacturing Scheme (MPMS)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "831d406f7fd6",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
