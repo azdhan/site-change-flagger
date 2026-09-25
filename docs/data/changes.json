@@ -1,5 +1,51 @@
 [
  {
+  "id": "cbd950325491",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-25T17:06:07Z",
+  "summary": "3 new links, 4 new text blocks",
+  "added_lines": [
+   "25th September 2026",
+   "TRAI Launches Digital Connectivity Rating Platform",
+   "Consumer Awareness Program at Eluru (Andhra Pradesh) by Spandana Social Service Association",
+   "Eluru, Andhra Pradesh"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-launches-digital-connectivity-rating-platform",
+    "text": "TRAI Launches Digital Connectivity Rating Platform"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-launches-digital-connectivity-rating-platform",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-eluru-andhra-pradesh-spandana-social-service-association",
+    "text": "Consumer Awareness Program at Eluru (Andhra Pradesh) by Spandana Social Service Association"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "8d6c985accd3",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-25T17:06:07Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "25 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "a7f6163e1cda",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
