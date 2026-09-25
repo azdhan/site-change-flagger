@@ -1,5 +1,55 @@
 [
  {
+  "id": "297d151a1df5",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-25T04:51:10Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण",
+   "अंतिम बार अद्यतन किया गयाः 25.09.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f2ba3071ac54",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-25T04:51:10Z",
+  "summary": "8 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Dakshin Dinajpur, West Bengal",
+   "Consumer Awareness Program at Dakshin Dinajpur (West Bengal) by Hemnagar Sundarban Dream",
+   "Jalore , Rajasthan",
+   "Consumer Awareness Program at Jalore (Rajasthan) by Consumer Unity & Trust Society",
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh"
+  ],
+  "removed_lines_total": 8,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "dd4d723381dd",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-25T04:51:10Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "22 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "c15cf20a7d14",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
