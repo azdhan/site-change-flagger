@@ -1,5 +1,80 @@
 [
  {
+  "id": "a7f6163e1cda",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-25T11:45:10Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "For Business Owner"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa",
+    "text": "For Business Owner"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "fab850e5e561",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-25T11:45:10Z",
+  "summary": "3 new links, 5 new text blocks, 10 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs",
+   "Khawzawl, Mizoram",
+   "Consumer Awareness Program at Siddharthnagar (Uttar Pradesh) by Rural Consumer's Federation",
+   "Siddharthnagar, Uttar Pradesh",
+   "25 September, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "Ghazipur, Uttar Pradesh",
+   "Prayagraj , Uttar Pradesh",
+   "12:30 PM",
+   "Consumer Awareness Program at Prayagraj (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
+   "Consumer Awareness Program at Ghazipur (Uttar Pradesh) by Nyay Bharti",
+   "Consumer Awareness Program at Tikamgarh (Madhya Pradesh) by National Centre for Human Settlement and Enviorment (NCHSE)",
+   "Tikamgarh , Madhya Pradesh"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [
+   {
+    "url": "https://dcrp.trai.gov.in/",
+    "text": ""
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-khawzawl-mizoram-mizoram-consumers-union-hqrs",
+    "text": "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-siddharthnagar-uttar-pradesh-rural-consumers-federation",
+    "text": "Consumer Awareness Program at Siddharthnagar (Uttar Pradesh) by Rural Consumer's Federation"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "07946a25f56f",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-25T11:45:10Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 25.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "297d151a1df5",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

@@ -132,12 +132,12 @@
   "आदेश और सूचनाएँ",
   "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई",
   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति",
-  "शक्ति पर लिया गया अर्थात टी. ई. एस. जी. आर. के जे. टी. ओ. के आर. ओ. अधिकारी। बी-श्री भूषण, कर्मचारी नं. 6215",
+  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
   "For Researcher",
-  "For IT Professional",
+  "For Business Owner",
   "महत्वपूर्ण लिंक",
   "एम. टी. सी. टी. ई. पोर्टल",
   "खोदने से पहले कॉल करें",
@@ -149,6 +149,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -363,6 +364,10 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)",
+   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)"
+  },
+  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -375,8 +380,8 @@
    "text": "For Researcher"
   },
   {
-   "url": "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa",
-   "text": "For IT Professional"
+   "url": "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa",
+   "text": "For Business Owner"
   },
   {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
@@ -468,7 +473,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-25T04:51:10Z",
+ "fetched_at": "2026-09-25T11:45:10Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -605,7 +610,7 @@
    "मीडिया के लिए": 0,
    "For Industry Professional": 0,
    "For Researcher": 0,
-   "For IT Professional": 0,
+   "For IT Professional": 1,
    "महत्वपूर्ण लिंक": 0,
    "खोदने से पहले कॉल करें": 0,
    "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल": 0,
@@ -836,7 +841,8 @@
    "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति": 0,
    "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई": 0,
    "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण": 0,
-   "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
+   "For Business Owner": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -882,7 +888,7 @@
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 0,
-   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 0,
+   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 1,
    "https://eservices.dot.gov.in": 0,
    "https://eservices.dot.gov.in/call-before-u-dig": 0,
    "https://eservices.dot.gov.in/about-mtcte": 0,
@@ -913,7 +919,9 @@
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)": 3
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)": 4,
+   "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",
