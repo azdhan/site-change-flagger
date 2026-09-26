@@ -191,8 +191,8 @@
   "TRAI Launches Digital Connectivity Rating Platform",
   "Explore",
   "22nd September 2026",
-  "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.",
   "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026",
+  "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.",
   "18th September 2026",
   "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection",
   "17th September 2026",
@@ -224,17 +224,17 @@
   "Consumer Awareness Program at Anand (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
   "10:30 AM",
   "Anand, Gujarat",
-  "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation",
-  "11:00 AM",
-  "Balod, Chhattisgarh",
-  "Consumer Awareness Program at Charkhi Dadri (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
-  "Charkhi Dadri, Haryana",
   "Consumer Awareness Program at Eluru (Andhra Pradesh) by Spandana Social Service Association",
+  "11:00 AM",
   "Eluru, Andhra Pradesh",
   "Consumer Awareness Program at Siddharthnagar (Uttar Pradesh) by Rural Consumer's Federation",
   "Siddharthnagar, Uttar Pradesh",
   "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs",
   "Khawzawl, Mizoram",
+  "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation",
+  "Balod, Chhattisgarh",
+  "Consumer Awareness Program at Charkhi Dadri (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+  "Charkhi Dadri, Haryana",
   "Consumer Awareness Program at Hanumangarh (Rajasthan) by Upbhokta Sanrakshan Samiti",
   "11:15 AM",
   "Hanumangarh, Rajasthan",
@@ -903,19 +903,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
-   "text": "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
    "text": "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
+   "text": "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
    "text": "Explore"
   },
   {
@@ -999,14 +999,6 @@
    "text": "Consumer Awareness Program at Anand (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balod-chhattisgarh-upbhokta-surksha-avam-shiksha",
-   "text": "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-charkhi-dadri-haryana-rashtriya-samuddeshiya-vikas",
-   "text": "Consumer Awareness Program at Charkhi Dadri (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-eluru-andhra-pradesh-spandana-social-service-association",
    "text": "Consumer Awareness Program at Eluru (Andhra Pradesh) by Spandana Social Service Association"
   },
@@ -1017,6 +1009,14 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-khawzawl-mizoram-mizoram-consumers-union-hqrs",
    "text": "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balod-chhattisgarh-upbhokta-surksha-avam-shiksha",
+   "text": "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-charkhi-dadri-haryana-rashtriya-samuddeshiya-vikas",
+   "text": "Consumer Awareness Program at Charkhi Dadri (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumangarh-rajasthan-upbhokta-sanrakshan-samiti",
@@ -1220,7 +1220,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-26T16:18:46Z",
+ "fetched_at": "2026-09-26T21:05:13Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1502,8 +1502,8 @@
    "Consultation Papers": 0,
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
-   "10th August 2026": 5,
-   "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.": 5,
+   "10th August 2026": 6,
+   "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities.": 6,
    "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas.": 0,
    "14th August 2026": 0,
    "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024": 0,
@@ -1522,29 +1522,29 @@
    "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection": 0,
    "18th September 2026": 0,
    "OHD on Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024 - dated 30/09/2026": 0,
-   "Consumer Outreach Program at Nalgonda (Telangana) by RO HYDERABAD": 6,
-   "Nalgonda, Telangana": 6,
+   "Consumer Outreach Program at Nalgonda (Telangana) by RO HYDERABAD": 7,
+   "Nalgonda, Telangana": 7,
    "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.": 0,
    "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026": 0,
    "22nd September 2026": 0,
-   "Consumer Awareness Program at Chittorgarh (Rajasthan) by Maruti Seva Samiti": 6,
-   "Chittorgarh, Rajasthan": 6,
+   "Consumer Awareness Program at Chittorgarh (Rajasthan) by Maruti Seva Samiti": 7,
+   "Chittorgarh, Rajasthan": 7,
    "10:00 AM": 0,
-   "Consumer Awareness Program at Jhajjar (Haryana) by Consumer Coordination Council": 2,
-   "Jhajjar, Haryana": 2,
-   "Champawat, Uttarakhand": 2,
-   "Gorakhpur , Uttar Pradesh": 2,
-   "Pauri Garhwal, Uttarakhand": 2,
-   "Consumer Awareness Program at Champawat (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand": 2,
-   "Consumer Awareness Program at Pauri Garhwal (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan": 2,
-   "Consumer Awareness Program at Gorakhpur (Uttar Pradesh) by Consumer Guild": 2,
+   "Consumer Awareness Program at Jhajjar (Haryana) by Consumer Coordination Council": 3,
+   "Jhajjar, Haryana": 3,
+   "Champawat, Uttarakhand": 3,
+   "Gorakhpur , Uttar Pradesh": 3,
+   "Pauri Garhwal, Uttarakhand": 3,
+   "Consumer Awareness Program at Champawat (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand": 3,
+   "Consumer Awareness Program at Pauri Garhwal (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan": 3,
+   "Consumer Awareness Program at Gorakhpur (Uttar Pradesh) by Consumer Guild": 3,
    "Pali, Rajasthan": 0,
    "Consumer Outreach Program at Namsai (Arunachal Pradesh) by RO KOLKATA": 0,
    "Namsai, Arunachal Pradesh": 0,
    "Consumer Awareness Program at Purnia (Bihar) by Yuva kriti Sangam": 0,
    "Consumer Awareness Program at Pali (Rajasthan) by Mount Abu International Ham Radio Club": 0,
    "Purnia, Bihar": 0,
-   "24 September, 2026": 6,
+   "24 September, 2026": 7,
    "Consumer Awareness Program at Anand (Gujarat) by Bhavnagar Grahak Suraksha Mandal": 0,
    "Anand, Gujarat": 0,
    "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs": 0,
@@ -1699,10 +1699,10 @@
    "https://www.instagram.com/trai.official_/": 0,
    "https://play.google.com/store/apps/details?id=trai.gov.in.dnd&hl=en-gb": 0,
    "https://myspeed.trai.gov.in/": 0,
-   "https://www.trai.gov.in/dcra-portal": 6,
-   "https://cogroup.trai.gov.in/login": 6,
+   "https://www.trai.gov.in/dcra-portal": 7,
+   "https://cogroup.trai.gov.in/login": 7,
    "https://www.trai.gov.in/regulatory-framework": 0,
-   "https://channelselector.trai.gov.in/": 6,
+   "https://channelselector.trai.gov.in/": 7,
    "https://exemption.trai.gov.in/homepage": 0,
    "https://www.trai.gov.in/what-s-new": 0,
    "https://www.trai.gov.in/open-consultation": 0,
@@ -1755,8 +1755,8 @@
    "https://www.trai.gov.in/newsletter": 0,
    "https://www.trai.gov.in/photo-gallery/quantum-safe-communication": 0,
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 5,
-   "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 5,
+   "http://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 6,
+   "https://www.trai.gov.in/notifications/press-release/trai-initiates-phase-wise-implementation-1601-series-service-and": 6,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-shimla-nearby-areas-and": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-and-counter-comments-trai-0": 0,
@@ -1776,16 +1776,16 @@
    "https://twitter.com/TRAI/status/2100153931691397235?ref_src=twsrc%5Etfw": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-strengthens-framework-curbing-ucc-through-technology-driven": 0,
    "https://trai.gov.in/events/ohd-consultation-paper-draft-amendments-standards-quality-service-access-wireline-and": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-nalgonda-telangana-ro-hyderabad": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-nalgonda-telangana-ro-hyderabad": 7,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhajjar-haryana-consumer-coordination-council": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chittorgarh-rajasthan-maruti-seva-samiti": 6,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pauri-garhwal-uttarakhand-rastriya-samuddeshiya-vikas": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-champawat-uttarakhand-indian-institute-technology": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gorakhpur-uttar-pradesh-consumer-guild": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhajjar-haryana-consumer-coordination-council": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chittorgarh-rajasthan-maruti-seva-samiti": 7,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pauri-garhwal-uttarakhand-rastriya-samuddeshiya-vikas": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-champawat-uttarakhand-indian-institute-technology": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gorakhpur-uttar-pradesh-consumer-guild": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pali-rajasthan-mount-abu-international-ham-radio-club": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-anand-gujarat-bhavnagar-grahak-suraksha-mandal": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-namsai-arunachal-pradesh-ro-kolkata": 0,
