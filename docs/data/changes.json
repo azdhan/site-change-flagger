@@ -1,5 +1,59 @@
 [
  {
+  "id": "713c4a125a2f",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-26T04:51:01Z",
+  "summary": "14 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Sundargarh, Odisha",
+   "Consumer Outreach Program at Sundargarh (Odisha) by RO HYDERABAD",
+   "Consumer Awareness Program at Annamayya (Andhra Pradesh) by Rural Action for Social Services",
+   "Annamayya, Andhra Pradesh",
+   "Giridih, Jharkhand",
+   "Consumer Awareness Program at Giridih (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust",
+   "22 September, 2026",
+   "02:00 PM",
+   "Consumer Awareness Program at Vadodara (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal",
+   "Vadodara, Gujarat"
+  ],
+  "removed_lines_total": 14,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "858f7d692ad8",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-26T04:51:01Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "23 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "993238af7c82",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-09-26T04:51:01Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TECHNICAL INTERNSHIP PROGRAMME 2025"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "cbd950325491",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
