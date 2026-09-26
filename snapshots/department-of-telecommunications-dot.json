@@ -149,7 +149,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -413,7 +412,7 @@
   },
   {
    "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
@@ -473,7 +472,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-26T21:05:13Z",
+ "fetched_at": "2026-09-26T23:35:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -610,7 +609,6 @@
    "मीडिया के लिए": 0,
    "For Industry Professional": 0,
    "For Researcher": 0,
-   "For IT Professional": 7,
    "महत्वपूर्ण लिंक": 0,
    "खोदने से पहले कॉल करें": 0,
    "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल": 0,
@@ -843,7 +841,7 @@
    "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "For Business Owner": 0,
-   "Revenue Management Services": 5
+   "Revenue Management Services": 6
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -889,7 +887,6 @@
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 0,
-   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 7,
    "https://eservices.dot.gov.in": 0,
    "https://eservices.dot.gov.in/call-before-u-dig": 0,
    "https://eservices.dot.gov.in/about-mtcte": 0,
@@ -965,7 +962,8 @@
    "Webinar on “Smart Telecom- Role of AI/ML in Network Management and Future Transmission” on 8th September 2026, Tuesday during 11:00 – 13:00 Hrs": "2026-09-08T23:21:29Z",
    "Blocking Notifications/instructions to Internet Service Licensees under court orders (July - Sept 2026)": "2026-09-08T23:21:29Z",
    "Transfer /Posting in the Junior Administrative Grade and Below level of Indian Posts and Telecommunications Accounts and Finance, Service Group 'A'": "2026-09-08T23:21:29Z",
-   "100 5G Labs": "2026-09-18T23:15:59Z"
+   "100 5G Labs": "2026-09-18T23:15:59Z",
+   "For IT Professional": "2026-09-26T23:35:04Z"
   },
   "grave_links": {
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": "2026-09-04T23:01:45Z",
@@ -981,7 +979,8 @@
    "https://www.dot.gov.in/static/uploads/2026/09/2f3207588633ee4c6f08da2c35f0bc90.pdf": "2026-09-16T04:44:05Z",
    "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": "2026-09-18T23:15:59Z",
    "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": "2026-09-19T20:35:01Z",
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)": "2026-09-26T11:18:18Z"
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)": "2026-09-26T11:18:18Z",
+   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": "2026-09-26T23:35:04Z"
   }
  }
 }
