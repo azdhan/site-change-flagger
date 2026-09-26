@@ -1,5 +1,52 @@
 [
  {
+  "id": "1ed0d39e42be",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-26T11:18:18Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "05c38075c9df",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-26T11:18:18Z",
+  "summary": "3 new links, 7 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation",
+   "Balod, Chhattisgarh",
+   "Consumer Awareness Program at Charkhi Dadri (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+   "Charkhi Dadri, Haryana",
+   "Consumer Awareness Program at Hanumangarh (Rajasthan) by Upbhokta Sanrakshan Samiti",
+   "11:15 AM",
+   "Hanumangarh, Rajasthan"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balod-chhattisgarh-upbhokta-surksha-avam-shiksha",
+    "text": "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-charkhi-dadri-haryana-rashtriya-samuddeshiya-vikas",
+    "text": "Consumer Awareness Program at Charkhi Dadri (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumangarh-rajasthan-upbhokta-sanrakshan-samiti",
+    "text": "Consumer Awareness Program at Hanumangarh (Rajasthan) by Upbhokta Sanrakshan Samiti"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "713c4a125a2f",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

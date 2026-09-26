@@ -473,7 +473,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-26T04:51:01Z",
+ "fetched_at": "2026-09-26T11:18:18Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -610,7 +610,7 @@
    "मीडिया के लिए": 0,
    "For Industry Professional": 0,
    "For Researcher": 0,
-   "For IT Professional": 4,
+   "For IT Professional": 5,
    "महत्वपूर्ण लिंक": 0,
    "खोदने से पहले कॉल करें": 0,
    "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल": 0,
@@ -843,7 +843,7 @@
    "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "For Business Owner": 0,
-   "Revenue Management Services": 2
+   "Revenue Management Services": 3
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -889,7 +889,7 @@
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 0,
-   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 4,
+   "https://dot.gov.in/persona/For%20IT%20Professional-ETO0UzMtQWa": 5,
    "https://eservices.dot.gov.in": 0,
    "https://eservices.dot.gov.in/call-before-u-dig": 0,
    "https://eservices.dot.gov.in/about-mtcte": 0,
@@ -920,7 +920,6 @@
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)": 7,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0
   },
@@ -981,7 +980,8 @@
    "https://eservices.dot.gov.in/app-provider": "2026-09-11T20:55:27Z",
    "https://www.dot.gov.in/static/uploads/2026/09/2f3207588633ee4c6f08da2c35f0bc90.pdf": "2026-09-16T04:44:05Z",
    "https://dot.gov.in/offerings/schemes-and-services/details/100-5g-labs-EzN5ATNtQWa": "2026-09-18T23:15:59Z",
-   "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": "2026-09-19T20:35:01Z"
+   "https://dot.gov.in/offerings/schemes-and-services/details/pp-preference-to-make-in-india-UjNzETMtQWa": "2026-09-19T20:35:01Z",
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-june-2026-AzN5kjNtQWa?pageTitle=Termination-Letters-(June-Sep-2026)": "2026-09-26T11:18:18Z"
   }
  }
 }
