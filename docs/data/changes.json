@@ -1,5 +1,36 @@
 [
  {
+  "id": "9841a0c118c0",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-27T05:13:10Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "10th August 2026",
+   "TRAI initiates phase-wise implementation of 1601-series for service and transactional calls by utilities, courier and logistics sectors entities."
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "bbb3499ce3e5",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-27T05:13:10Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "24 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "82fd4228c74a",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

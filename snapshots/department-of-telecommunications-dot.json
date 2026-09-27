@@ -411,18 +411,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
    "url": "https://dot.gov.in/archives?page=tenders",
    "text": "अभिलेखागार"
   },
@@ -472,7 +460,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-26T23:35:04Z",
+ "fetched_at": "2026-09-27T05:13:10Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -841,7 +829,7 @@
    "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "For Business Owner": 0,
-   "Revenue Management Services": 6
+   "Revenue Management Services": 7
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -907,9 +895,9 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 1,
    "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 0,
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
