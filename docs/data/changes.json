@@ -1,5 +1,27 @@
 [
  {
+  "id": "33a1991e568f",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-27T21:17:57Z",
+  "summary": "12 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Jhajjar (Haryana) by Consumer Coordination Council",
+   "Jhajjar, Haryana",
+   "Champawat, Uttarakhand",
+   "Gorakhpur , Uttar Pradesh",
+   "Pauri Garhwal, Uttarakhand",
+   "Consumer Awareness Program at Champawat (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand",
+   "Consumer Awareness Program at Pauri Garhwal (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan",
+   "Consumer Awareness Program at Gorakhpur (Uttar Pradesh) by Consumer Guild"
+  ],
+  "removed_lines_total": 12,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "9841a0c118c0",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
