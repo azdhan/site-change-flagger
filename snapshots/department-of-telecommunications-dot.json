@@ -126,13 +126,6 @@
   "एच. एम. ओ. सी. का पता-अगस्त 2026 संस्करण",
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "National Frequency Allocation Plan-2025",
-  "हाल के दस्तावेज़",
-  "रिपोर्टें",
-  "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण",
-  "आदेश और सूचनाएँ",
-  "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई",
-  "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति",
-  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -149,6 +142,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -363,10 +357,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)",
-   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)"
-  },
-  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -472,7 +462,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-27T11:57:34Z",
+ "fetched_at": "2026-09-27T16:55:30Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -917,7 +907,7 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 1
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",

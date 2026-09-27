@@ -611,7 +611,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-27T11:57:34Z",
+ "fetched_at": "2026-09-27T16:55:30Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -894,10 +894,7 @@
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313014&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313683&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313479&reg=3&lang=2": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313384&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/ministry/about-us/team": 7,
-   "https://mib.gov.in/index.php/hi/ministry/our-wings": 7,
-   "https://mib.gov.in/index.php/hi/ministry/organizations": 7
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313384&reg=3&lang=2": 0
   },
   "grave_lines": {
    "परामर्श": "2026-09-08T21:06:01Z",
@@ -981,7 +978,7 @@
    "https://mib.gov.in/index.php/hi/offerings/schemes-monitoring": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi/ministry/directory": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi/documents/reports": "2026-09-07T23:28:28Z",
-   "https://mib.gov.in/index.php/hi/ministry/organizations": "2026-09-14T04:49:15Z",
+   "https://mib.gov.in/index.php/hi/ministry/organizations": "2026-09-27T16:55:30Z",
    "https://mib.gov.in/index.php/hi/persona/researcher": "2026-09-25T11:45:10Z",
    "https://mib.gov.in/index.php/hi/offerings/vacancies": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi/ministry/about-us/sarai-asavainai-vaaisanava": "2026-09-07T23:28:28Z",
@@ -1002,11 +999,11 @@
    "https://mib.gov.in/index.php/hi/documents/notification/notices": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi/offerings/notification/tender-notices": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi": "2026-09-07T23:28:28Z",
-   "https://mib.gov.in/index.php/hi/ministry/about-us/team": "2026-09-25T11:45:10Z",
+   "https://mib.gov.in/index.php/hi/ministry/about-us/team": "2026-09-27T16:55:30Z",
    "https://mib.gov.in/index.php/hi/persona/media/mann_ki_baat": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi/documents/notification/acts-policy-guidelines": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi/media/photo-gallery": "2026-09-07T23:28:28Z",
-   "https://mib.gov.in/index.php/hi/ministry/our-wings": "2026-09-14T04:49:15Z",
+   "https://mib.gov.in/index.php/hi/ministry/our-wings": "2026-09-27T16:55:30Z",
    "https://mib.gov.in/index.php/hi/documents/notification/Other-communication": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/sites/default/files/2026-02/revised-republic-day-parade-advisory-2.pdf": "2026-08-29T23:15:37Z",
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2299641&reg=3&lang=2": "2026-08-29T23:15:37Z",
