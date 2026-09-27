@@ -109,16 +109,15 @@
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "arrow_forward_ios",
   "Mobile Phone Manufacturing Scheme (MPMS)",
-  "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम",
-  "विश्वेश्वरैया पीएचडी योजना",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "Visvesvaraya PhD Scheme",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "Digital India Internship Scheme 2026",
   "अधिक देखें",
   "What’s New",
   "Filling up the post of Director General, ICERT",
   "Monthly Achievements for the month of July, 2026",
+  "View more",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
   "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षमता भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण",
@@ -141,6 +140,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -316,11 +316,11 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
-   "text": "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम"
+   "text": "NeGD’s Non-Technical (Summer) Internship Programme"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa",
-   "text": "विश्वेश्वरैया पीएचडी योजना"
+   "text": "Visvesvaraya PhD Scheme"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
@@ -336,11 +336,11 @@
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
+   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
@@ -372,7 +372,7 @@
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
@@ -432,7 +432,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-27T05:13:10Z",
+ "fetched_at": "2026-09-27T11:57:34Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -538,7 +538,7 @@
    "कार्यक्रम देखें": 0,
    "प्रमुख प्रस्ताव": 0,
    "अधिक देखें": 0,
-   "View more": 1,
+   "View more": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "महत्वपूर्ण लिंक": 0,
    "एमईआईटीवाई डैशबोर्ड": 0,
@@ -588,7 +588,7 @@
    "श्री जितिन प्रसाद": 0,
    "श्री अश्विनी वैष्णव": 0,
    "माननीय मंत्री": 0,
-   "Key Offerings": 2,
+   "Key Offerings": 3,
    "योजनाएं और सेवाएँ": 0,
    "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश": 0,
    "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।": 0,
@@ -680,7 +680,7 @@
    "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)": 0,
    "Mobile Phone Manufacturing Scheme (MPMS)": 0,
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
-   "Recent Documents": 4,
+   "Recent Documents": 5,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0
   },
   "links": {

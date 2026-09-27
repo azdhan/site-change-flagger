@@ -411,6 +411,18 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
+  },
+  {
    "url": "https://dot.gov.in/archives?page=tenders",
    "text": "अभिलेखागार"
   },
@@ -460,7 +472,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-27T05:13:10Z",
+ "fetched_at": "2026-09-27T11:57:34Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -828,8 +840,7 @@
    "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई": 0,
    "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
-   "For Business Owner": 0,
-   "Revenue Management Services": 7
+   "For Business Owner": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -895,9 +906,9 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 1,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 0,
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
@@ -924,7 +935,7 @@
    "Help": "2026-09-08T23:21:29Z",
    "Feedback": "2026-09-08T23:21:29Z",
    "Recent Documents": "2026-09-08T23:21:29Z",
-   "Revenue Management Services": "2026-09-12T04:28:37Z",
+   "Revenue Management Services": "2026-09-27T11:57:34Z",
    "PM-WANI- Telecom eServices Portal": "2026-09-08T23:21:29Z",
    "Explore User Personas": "2026-09-08T23:21:29Z",
    "Telecom eServices Portal": "2026-09-08T23:21:29Z",

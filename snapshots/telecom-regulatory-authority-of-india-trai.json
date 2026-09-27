@@ -224,8 +224,10 @@
   "Consumer Awareness Program at Anand (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
   "10:30 AM",
   "Anand, Gujarat",
-  "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation",
+  "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs",
   "11:00 AM",
+  "Khawzawl, Mizoram",
+  "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation",
   "Balod, Chhattisgarh",
   "Consumer Awareness Program at Charkhi Dadri (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
   "Charkhi Dadri, Haryana",
@@ -233,8 +235,6 @@
   "Eluru, Andhra Pradesh",
   "Consumer Awareness Program at Siddharthnagar (Uttar Pradesh) by Rural Consumer's Federation",
   "Siddharthnagar, Uttar Pradesh",
-  "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs",
-  "Khawzawl, Mizoram",
   "Consumer Awareness Program at Hanumangarh (Rajasthan) by Upbhokta Sanrakshan Samiti",
   "11:15 AM",
   "Hanumangarh, Rajasthan",
@@ -999,6 +999,10 @@
    "text": "Consumer Awareness Program at Anand (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
   },
   {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-khawzawl-mizoram-mizoram-consumers-union-hqrs",
+   "text": "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs"
+  },
+  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balod-chhattisgarh-upbhokta-surksha-avam-shiksha",
    "text": "Consumer Awareness Program at Balod (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation"
   },
@@ -1013,10 +1017,6 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-siddharthnagar-uttar-pradesh-rural-consumers-federation",
    "text": "Consumer Awareness Program at Siddharthnagar (Uttar Pradesh) by Rural Consumer's Federation"
-  },
-  {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-khawzawl-mizoram-mizoram-consumers-union-hqrs",
-   "text": "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hanumangarh-rajasthan-upbhokta-sanrakshan-samiti",
@@ -1220,7 +1220,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-09-27T05:13:10Z",
+ "fetched_at": "2026-09-27T11:57:34Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1524,14 +1524,14 @@
    "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026": 0,
    "22nd September 2026": 0,
    "10:00 AM": 0,
-   "Consumer Awareness Program at Jhajjar (Haryana) by Consumer Coordination Council": 5,
-   "Jhajjar, Haryana": 5,
-   "Champawat, Uttarakhand": 5,
-   "Gorakhpur , Uttar Pradesh": 5,
-   "Pauri Garhwal, Uttarakhand": 5,
-   "Consumer Awareness Program at Champawat (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand": 5,
-   "Consumer Awareness Program at Pauri Garhwal (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan": 5,
-   "Consumer Awareness Program at Gorakhpur (Uttar Pradesh) by Consumer Guild": 5,
+   "Consumer Awareness Program at Jhajjar (Haryana) by Consumer Coordination Council": 6,
+   "Jhajjar, Haryana": 6,
+   "Champawat, Uttarakhand": 6,
+   "Gorakhpur , Uttar Pradesh": 6,
+   "Pauri Garhwal, Uttarakhand": 6,
+   "Consumer Awareness Program at Champawat (Uttarakhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttarakhand": 6,
+   "Consumer Awareness Program at Pauri Garhwal (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan": 6,
+   "Consumer Awareness Program at Gorakhpur (Uttar Pradesh) by Consumer Guild": 6,
    "Pali, Rajasthan": 0,
    "Consumer Outreach Program at Namsai (Arunachal Pradesh) by RO KOLKATA": 0,
    "Namsai, Arunachal Pradesh": 0,
@@ -1768,10 +1768,10 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhajjar-haryana-consumer-coordination-council": 5,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pauri-garhwal-uttarakhand-rastriya-samuddeshiya-vikas": 5,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-champawat-uttarakhand-indian-institute-technology": 5,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gorakhpur-uttar-pradesh-consumer-guild": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jhajjar-haryana-consumer-coordination-council": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pauri-garhwal-uttarakhand-rastriya-samuddeshiya-vikas": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-champawat-uttarakhand-indian-institute-technology": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gorakhpur-uttar-pradesh-consumer-guild": 6,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pali-rajasthan-mount-abu-international-ham-radio-club": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-anand-gujarat-bhavnagar-grahak-suraksha-mandal": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-namsai-arunachal-pradesh-ro-kolkata": 0,
