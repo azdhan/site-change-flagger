@@ -127,12 +127,12 @@
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "National Frequency Allocation Plan-2025",
   "हाल के दस्तावेज़",
+  "आदेश और सूचनाएँ",
+  "निदेशक (सी. एफ. ए.) बी. एस. एन. एल. की सेवानिवृत्ति पर सेवानिवृत्ति-श्री विवेक बंजल",
   "रिपोर्टें",
   "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण",
-  "आदेश और सूचनाएँ",
   "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई",
   "इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए यू. पी. एस. सी. द्वारा अनुशंसित उम्मीदवारों की चिकित्सा स्थिति",
-  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -164,7 +164,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 25.09.2026",
+  "अंतिम बार अद्यतन किया गयाः 28.09.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -364,10 +364,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)",
-   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (जुलाई-सितंबर 2026)"
-  },
-  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -473,7 +469,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-27T21:17:57Z",
+ "fetched_at": "2026-09-28T05:16:35Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -841,7 +837,9 @@
    "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई": 0,
    "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
-   "For Business Owner": 0
+   "For Business Owner": 0,
+   "निदेशक (सी. एफ. ए.) बी. एस. एन. एल. की सेवानिवृत्ति पर सेवानिवृत्ति-श्री विवेक बंजल": 0,
+   "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -918,7 +916,7 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 0
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": 1
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",
