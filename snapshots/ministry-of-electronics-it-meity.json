@@ -100,15 +100,11 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "हमारे बारे में",
-  "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।",
-  "हमारी टीम",
-  "हमारे संगठन",
-  "हमारा प्रदर्शन",
-  "श्री अश्विनी वैष्णव",
-  "माननीय मंत्री",
-  "श्री जितिन प्रसाद",
-  "माननीय राज्य मंत्री",
+  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
+  "Shri Ashwini Vaishnaw",
+  "HON’BLE MINISTER",
+  "Shri Jitin Prasada",
+  "HON’BLE MINISTER OF STATE",
   "प्रमुख प्रस्ताव",
   "योजनाएं और सेवाएँ",
   "रिक्तियां",
@@ -117,16 +113,16 @@
   "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
   "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम",
   "विश्वेश्वरैया पीएचडी योजना",
-  "Digital India Internship Scheme 2026",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "Mobile Phone Manufacturing Scheme (MPMS)",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "Visvesvaraya PhD Scheme",
+  "Digital India Internship Scheme 2026",
   "अधिक देखें",
   "नया क्या है",
   "महानिदेशक, आईसीईआरटी के पद को भरना",
   "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
   "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षमता भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण",
@@ -308,11 +304,11 @@
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
-   "text": "श्री अश्विनी वैष्णव माननीय मंत्री"
+   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
-   "text": "श्री जितिन प्रसाद माननीय राज्य मंत्री"
+   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
@@ -332,7 +328,7 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
-   "text": "Digital India Internship Scheme 2026"
+   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026"
   },
   {
    "url": "https://meity.gov.in/offerings/vacancies/details/filling-up-the-post-of-director-general-indian-computer-emergency-response-team-dgicert-regarding-cjMwkjMtQWa",
@@ -440,7 +436,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-29T09:44:44Z",
+ "fetched_at": "2026-09-29T18:03:19Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -546,7 +542,7 @@
    "कार्यक्रम देखें": 0,
    "प्रमुख प्रस्ताव": 0,
    "अधिक देखें": 0,
-   "View more": 1,
+   "View more": 2,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "महत्वपूर्ण लिंक": 0,
    "एमईआईटीवाई डैशबोर्ड": 0,
@@ -580,7 +576,7 @@
    "HON’BLE MINISTER": 0,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
-   "What’s New": 0,
+   "What’s New": 1,
    "अभिलेखागार": 0,
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
@@ -642,12 +638,12 @@
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 0,
+   "Monthly Achievements for the month of July, 2026": 1,
    "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
    "जुलाई, 2026 के लिए मासिक उपलब्धियाँ": 0,
    "अंतिम बार अद्यतन किया गयाः 17.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 18.08.2026": 0,
-   "Filling up the post of Director General, ICERT": 0,
+   "Filling up the post of Director General, ICERT": 1,
    "महानिदेशक, आईसीईआरटी के पद को भरना": 0,
    "अंतिम बार अद्यतन किया गयाः 20.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 21.08.2026": 0,
@@ -687,13 +683,13 @@
    "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)": 0,
    "Mobile Phone Manufacturing Scheme (MPMS)": 0,
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
-   "Recent Documents": 0,
+   "Recent Documents": 1,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
-   "For IT Professional": 6,
+   "For IT Professional": 7,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
-   "Invitation for suggestions and feedback on the Draft Request for Empanelment (RFE) for Specialized Ecosystem Enablement Partners for DigiLocker": 0,
-   "Appointment of Chief of Media & Communications for MeitY": 0,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 15.09.2026": 0
+   "Invitation for suggestions and feedback on the Draft Request for Empanelment (RFE) for Specialized Ecosystem Enablement Partners for DigiLocker": 1,
+   "Appointment of Chief of Media & Communications for MeitY": 1,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 15.09.2026": 1
   },
   "links": {
    "https://bhashini.gov.in": 0,
