@@ -1,5 +1,74 @@
 [
  {
+  "id": "28ce3d21563b",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-29T09:44:44Z",
+  "summary": "1 new link, 5 new text blocks",
+  "added_lines": [
+   "सेवारत/सेवानिवृत्त आई. टी. एस. अधिकारियों को यू. पी. एस. सी. के सलाहकारों/विशेषज्ञों के रूप में शामिल करना",
+   "दूरसंचार विभाग ने स्वच्छता, कुशल अभिलेख प्रबंधन और बेहतर कार्यालय प्रशासन के लिए विशेष अभियान 6 चलाया",
+   "एम. एस. सी. कोडों का आवंटन",
+   "एन. सी. ए.-टी., गाजियाबाद में \"उपग्रह संचार-उभरती प्रौद्योगिकियां, अनुप्रयोग और नियामक परिप्रेक्ष्य\" (28-30 अक्टूबर 2026) पर तीन दिवसीय सी. आई. एस. टी. के लिए नामांकन आमंत्रित करना",
+   "अंतिम बार अद्यतन किया गयाः 29.09.2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes",
+    "text": "आदेश और सूचनाएँ एम. एस. सी. कोडों का आवंटन"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "371cf8a2b92e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-29T09:44:44Z",
+  "summary": "5 new links, 10 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Old Delhi by Federation of Coummunity Radio Station",
+   "Old Delhi, Delhi",
+   "Consumer Awareness Program at Jaisalmer (Rajasthan) by Jeevan Dhara NGO",
+   "Jaisalmer, Rajasthan",
+   "Consumer Awareness Program at Guntur (Andhra Pradesh) by P.S.S. Educational Development Society",
+   "Guntur , Andhra Pradesh",
+   "Consumer Awareness Program at Sangrur (Punjab) by Patiala Consumer & Telephone Subscribers Forum",
+   "Sangrur , Punjab",
+   "Consumer Outreach Program at Durg (Chhattisgarh) by RO BHOPAL",
+   "Durg, Chhattisgarh"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-old-delhi-federation-coummunity-radio-station",
+    "text": "Consumer Awareness Program at Old Delhi by Federation of Coummunity Radio Station"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jaisalmer-rajasthan-jeevan-dhara-ngo",
+    "text": "Consumer Awareness Program at Jaisalmer (Rajasthan) by Jeevan Dhara NGO"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-guntur-andhra-pradesh-pss-educational-development",
+    "text": "Consumer Awareness Program at Guntur (Andhra Pradesh) by P.S.S. Educational Development Society"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sangrur-punjab-patiala-consumer-telephone-subscribers",
+    "text": "Consumer Awareness Program at Sangrur (Punjab) by Patiala Consumer & Telephone Subscribers Forum"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-durg-chhattisgarh-ro-bhopal",
+    "text": "Consumer Outreach Program at Durg (Chhattisgarh) by RO BHOPAL"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
   "id": "d7fa9cafbd43",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
