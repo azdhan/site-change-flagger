@@ -1,5 +1,59 @@
 [
  {
+  "id": "73057b8e431c",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-30T20:04:13Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "निदेशक (परियोजना) टी. सी. आई. एल. के पद का अतिरिक्त प्रभार"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "69eba48d7740",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-30T20:04:13Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at North Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi",
+   "North Delhi, Delhi"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-delhi-delhi-indian-institute-technology",
+    "text": "Consumer Awareness Program at North Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "53be8ead14d9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-30T20:04:13Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.mygov.in/campaigns/make-in-india/?target=webview&type=campaign&nid=0",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "45c54dca0ab7",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
