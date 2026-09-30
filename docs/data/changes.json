@@ -1,5 +1,40 @@
 [
  {
+  "id": "eea98262d717",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-30T05:26:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 30.09.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8ec32a74ea7c",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-30T05:26:41Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "डॉ. एल. मुरुगन ने यूट्यूब इम्पैक्ट समिट 2026 में विकसित भारत के निर्माण में क्रिएटर इकोनॉमी और एआई की भूमिका पर प्रकाश डाला"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316783&reg=3&lang=2",
+    "text": "डॉ. एल. मुरुगन ने यूट्यूब इम्पैक्ट समिट 2026 में विकसित भारत के निर्माण में क्रिएटर इकोनॉमी और एआई की भूमिका पर प्रकाश डाला"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "37191a1163e3",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
