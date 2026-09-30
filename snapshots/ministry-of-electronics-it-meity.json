@@ -110,14 +110,14 @@
   "arrow_forward_ios",
   "Mobile Phone Manufacturing Scheme (MPMS)",
   "NeGD’s Non-Technical (Summer) Internship Programme",
-  "विश्वेश्वरैया पीएचडी योजना",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "Visvesvaraya PhD Scheme",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "Digital India Internship Scheme 2026",
   "अधिक देखें",
   "What’s New",
   "Filling up the post of Director General, ICERT",
   "Monthly Achievements for the month of July, 2026",
+  "View more",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
   "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षमता भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण",
@@ -320,7 +320,7 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa",
-   "text": "विश्वेश्वरैया पीएचडी योजना"
+   "text": "Visvesvaraya PhD Scheme"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
@@ -340,7 +340,7 @@
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
@@ -432,7 +432,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-09-30T05:26:41Z",
+ "fetched_at": "2026-09-30T12:28:24Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -538,7 +538,7 @@
    "कार्यक्रम देखें": 0,
    "प्रमुख प्रस्ताव": 0,
    "अधिक देखें": 0,
-   "View more": 4,
+   "View more": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "महत्वपूर्ण लिंक": 0,
    "एमईआईटीवाई डैशबोर्ड": 0,
@@ -679,12 +679,12 @@
    "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)": 0,
    "Mobile Phone Manufacturing Scheme (MPMS)": 0,
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
-   "Recent Documents": 3,
+   "Recent Documents": 4,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
-   "Invitation for suggestions and feedback on the Draft Request for Empanelment (RFE) for Specialized Ecosystem Enablement Partners for DigiLocker": 3,
-   "Appointment of Chief of Media & Communications for MeitY": 3,
-   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 15.09.2026": 3
+   "Invitation for suggestions and feedback on the Draft Request for Empanelment (RFE) for Specialized Ecosystem Enablement Partners for DigiLocker": 4,
+   "Appointment of Chief of Media & Communications for MeitY": 4,
+   "Revised work distribution amongst Group Coordinators/HAG level officers in MeitY & Link Officer arrangement 15.09.2026": 4
   },
   "links": {
    "https://bhashini.gov.in": 0,

@@ -1,5 +1,77 @@
 [
  {
+  "id": "45c54dca0ab7",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-09-30T12:28:24Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "निदेशक सी. एफ. ए. (बी. एस. एन. एल.) पद का अतिरिक्त प्रभार",
+   "निदेशक मानव संसाधन और ई. बी. (एम. टी. एन. एल.) के पद का अतिरिक्त प्रभार",
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के उच्च प्रशासनिक ग्रेड में पदोन्नति और नियुक्ति",
+   "आई. टी. एस. समूह 'ए' के अधिकारियों की सेवानिवृत्ति 30.09.2026 (ए/एन) पर सेवानिवृत्ति की आयु प्राप्त करने पर-संबंधित।"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "32b7a54c99e1",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-09-30T12:28:24Z",
+  "summary": "2 new links, 3 new text blocks, 19 items no longer on page",
+  "added_lines": [
+   "29th September 2026",
+   "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam.",
+   "30 September, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality Across Shimla & Nearby Areas and Solan & Nearby Areas.",
+   "14th August 2026",
+   "Extension of last date for submission of comments and counter-comments on TRAI Consultation Paper on draft amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
+   "25th August 2026",
+   "28th August 2026",
+   "TRAI releases Telecom Subscription Data as on July 2026",
+   "Pali, Rajasthan",
+   "Consumer Awareness Program at Purnia (Bihar) by Yuva kriti Sangam",
+   "Consumer Awareness Program at Pali (Rajasthan) by Mount Abu International Ham Radio Club",
+   "Purnia, Bihar"
+  ],
+  "removed_lines_total": 19,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-sonitpur-district",
+    "text": "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-sonitpur-district",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "a230bce07774",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-09-30T12:28:24Z",
+  "summary": "1 new text block, 1 item no longer on page",
+  "added_lines": [
+   "30 सितंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "25 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "eea98262d717",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
