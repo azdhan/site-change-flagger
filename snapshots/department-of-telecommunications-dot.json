@@ -126,10 +126,11 @@
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
+  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (अक्टूबर-दिसंबर 2026)",
+  "रिपोर्टें",
+  "5जी बीटीएस की स्थिति 30.09.2026 पर है",
+  "एम. सी. टी. पी. चरण-II (प्रबंधन घटक) बैच-1 के लिए आई. टी. एस. अधिकारियों का नामांकन",
   "निदेशक (परियोजना) टी. सी. आई. एल. के पद का अतिरिक्त प्रभार",
-  "निदेशक सी. एफ. ए. (बी. एस. एन. एल.) पद का अतिरिक्त प्रभार",
-  "निदेशक मानव संसाधन और ई. बी. (एम. टी. एन. एल.) के पद का अतिरिक्त प्रभार",
-  "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के उच्च प्रशासनिक ग्रेड में पदोन्नति और नियुक्ति",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -146,7 +147,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -161,7 +161,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 30.09.2026",
+  "अंतिम बार अद्यतन किया गयाः 01.10.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -353,6 +353,10 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)",
+   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (अक्टूबर-दिसंबर 2026)"
+  },
+  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -458,7 +462,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-01T00:31:39Z",
+ "fetched_at": "2026-10-01T10:02:35Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -792,7 +796,7 @@
    "दूरसंचार विनिर्माण क्षेत्र": 0,
    "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य सिंधिया ने वैश्विक फिनटेक महोत्सव 2026 में समावेशी और भरोसेमंद बुद्धिमान वित्त का आह्वान किया": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा (आई. पी. और टी. ए. एफ. एस.) समूह 'ए' अधिकारियों के संबंध में इलेक्ट्रॉनिक-वार्षिक प्रदर्शन मूल्यांकन रिपोर्ट (ई-ए. पी. ए. आर.) को सूचना वर्ष 2025-2026 के लिए स्वतः अग्रेषित करना।": 0,
-   "National Frequency Allocation Plan-2025": 3,
+   "National Frequency Allocation Plan-2025": 4,
    "अंतिम बार अद्यतन किया गयाः 15.09.2026": 0,
    "पी. एल. आई. कंपनियों की सूची-मानित वर्ग II आपूर्तिकर्ता (10.09.2026 पर अद्यतन)": 0,
    "डी. ओ. टी. मुख्यालय में तैनात आई. टी. एस. अधिकारियों के प्रतिनियुक्ति आवेदनों की प्रक्रिया-संबंधित।": 0,
@@ -835,13 +839,17 @@
    "दूरसंचार विभाग ने स्वच्छता, कुशल अभिलेख प्रबंधन और बेहतर कार्यालय प्रशासन के लिए विशेष अभियान 6 चलाया": 0,
    "अंतिम बार अद्यतन किया गयाः 29.09.2026": 0,
    "एन. सी. ए.-टी., गाजियाबाद में \"उपग्रह संचार-उभरती प्रौद्योगिकियां, अनुप्रयोग और नियामक परिप्रेक्ष्य\" (28-30 अक्टूबर 2026) पर तीन दिवसीय सी. आई. एस. टी. के लिए नामांकन आमंत्रित करना": 0,
-   "Revenue Management Services": 3,
+   "Revenue Management Services": 4,
    "अंतिम बार अद्यतन किया गयाः 30.09.2026": 0,
    "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के उच्च प्रशासनिक ग्रेड में पदोन्नति और नियुक्ति": 0,
    "निदेशक सी. एफ. ए. (बी. एस. एन. एल.) पद का अतिरिक्त प्रभार": 0,
    "निदेशक मानव संसाधन और ई. बी. (एम. टी. एन. एल.) के पद का अतिरिक्त प्रभार": 0,
    "आई. टी. एस. समूह 'ए' के अधिकारियों की सेवानिवृत्ति 30.09.2026 (ए/एन) पर सेवानिवृत्ति की आयु प्राप्त करने पर-संबंधित।": 0,
-   "निदेशक (परियोजना) टी. सी. आई. एल. के पद का अतिरिक्त प्रभार": 0
+   "निदेशक (परियोजना) टी. सी. आई. एल. के पद का अतिरिक्त प्रभार": 0,
+   "5जी बीटीएस की स्थिति 30.09.2026 पर है": 0,
+   "अंतिम बार अद्यतन किया गयाः 01.10.2026": 0,
+   "एम. सी. टी. पी. चरण-II (प्रबंधन घटक) बैच-1 के लिए आई. टी. एस. अधिकारियों का नामांकन": 0,
+   "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (अक्टूबर-दिसंबर 2026)": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -910,15 +918,16 @@
    "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": 4,
-   "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 4,
+   "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": 5,
+   "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": 5,
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes": 3
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes": 4,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",

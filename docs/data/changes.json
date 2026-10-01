@@ -1,5 +1,96 @@
 [
  {
+  "id": "7d609cc4a76a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-01T10:02:35Z",
+  "summary": "1 new link, 4 new text blocks",
+  "added_lines": [
+   "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (अक्टूबर-दिसंबर 2026)",
+   "5जी बीटीएस की स्थिति 30.09.2026 पर है",
+   "एम. सी. टी. पी. चरण-II (प्रबंधन घटक) बैच-1 के लिए आई. टी. एस. अधिकारियों का नामांकन",
+   "अंतिम बार अद्यतन किया गयाः 01.10.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)",
+    "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (अक्टूबर-दिसंबर 2026)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "5486c8ec5e2c",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-01T10:02:35Z",
+  "summary": "2 new links, 3 new text blocks, 27 items no longer on page",
+  "added_lines": [
+   "1st October 2026",
+   "Direction regarding publication of tariff offers, etc.",
+   "1 October, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "Consumer Outreach Program at Namsai (Arunachal Pradesh) by RO KOLKATA",
+   "Namsai, Arunachal Pradesh",
+   "Consumer Awareness Program at Anand (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+   "Anand, Gujarat",
+   "Consumer Awareness Program at Khawzawl (Mizoram) by Mizoram Consumers' Union Hqrs",
+   "Khawzawl, Mizoram",
+   "Consumer Awareness Program at Siddharthnagar (Uttar Pradesh) by Rural Consumer's Federation",
+   "Siddharthnagar, Uttar Pradesh",
+   "Consumer Awareness Program at Eluru (Andhra Pradesh) by Spandana Social Service Association",
+   "Eluru, Andhra Pradesh"
+  ],
+  "removed_lines_total": 27,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/what-s-new/direction-regarding-publication-tariff-offers-etc",
+    "text": "Direction regarding publication of tariff offers, etc."
+   },
+   {
+    "url": "http://www.trai.gov.in/what-s-new/direction-regarding-publication-tariff-offers-etc",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "ea17cd21768c",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-01T10:02:35Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "01 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e7710a32158d",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-01T10:02:35Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षम भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण",
+   "अंतिम बार अद्यतन किया गयाः 01.10.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "73057b8e431c",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
