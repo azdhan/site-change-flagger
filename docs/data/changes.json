@@ -1,5 +1,42 @@
 [
  {
+  "id": "d2aa5d58b33c",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-01T18:24:01Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "एच. एम. ओ. सी. का पता-सितंबर 2026",
+   "टी. सी. आई. एल. ने भारत सरकार को वर्ष के लिए ₹ 43.86 करोड़ रुपये के लाभांश का भुगतान किया",
+   "डीओटी के मुख्यालय में तैनात अधिकारियों के बीच कार्य का आवंटन"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/10/7055c08dd8b1aeab78e2f8590f320054.pdf",
+    "text": "एच. एम. ओ. सी. का पता-सितंबर 2026 arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "24fbb708a7de",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-01T18:24:01Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "28 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "7d609cc4a76a",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
