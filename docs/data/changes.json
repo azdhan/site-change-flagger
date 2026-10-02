@@ -1,5 +1,57 @@
 [
  {
+  "id": "a79f5e851647",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-02T17:51:44Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "7b53f0459748",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-02T17:51:44Z",
+  "summary": "23 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "10th September 2026",
+   "TRAI releases The Standards of Quality of Service (Duration of Advertisements in Television Channels) (Repealing) Regulations, 2026",
+   "OHD on Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024 - dated 30/09/2026",
+   "11:15 AM",
+   "OHD on Consultation Paper on Draft Amendments in The Standards of Quality of Service of Access (Wireline and Wireless) and Broadband (Wireline and Wireless) Service Regulations, 2024",
+   "28 September, 2026",
+   "New Delhi, Delhi",
+   "Consumer Awareness Program at Guntur (Andhra Pradesh) by P.S.S. Educational Development Society",
+   "Guntur , Andhra Pradesh",
+   "Consumer Awareness Program at Sangrur (Punjab) by Patiala Consumer & Telephone Subscribers Forum"
+  ],
+  "removed_lines_total": 23,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "3b4cdd44d958",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-02T17:51:44Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "29 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "bfa44e90a524",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
