@@ -1,5 +1,33 @@
 [
  {
+  "id": "bfa44e90a524",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-02T09:40:37Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8caf3439f3e9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-02T09:40:37Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "इंतजार की घड़ी बीत गई: 72वें राष्ट्रीय फिल्म पुरस्कार 22 सितंबर को भारतीय सिनेमा के सर्वश्रेष्ठ को सम्मानित करने के लिए तैयार"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d2aa5d58b33c",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
