@@ -1,5 +1,40 @@
 [
  {
+  "id": "9c8f52f06e6d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-03T11:34:53Z",
+  "summary": "9 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "10:30 AM",
+   "14th September 2026",
+   "Withdrawal of Order No. 23-1/2012-B&CS dated 5th August 2013 regarding furnishing of information on duration of advertisements on TV channels",
+   "Durg, Chhattisgarh",
+   "Consumer Outreach Program at Durg (Chhattisgarh) by RO BHOPAL",
+   "30 September, 2026"
+  ],
+  "removed_lines_total": 9,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "857bbcb7fcf9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-03T11:34:53Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "30 सितंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "8200c74c91d3",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
