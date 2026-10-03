@@ -192,9 +192,9 @@
   "29th September 2026",
   "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam.",
   "28th September 2026",
-  "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "TRAI releases Telecom Subscription Data as on August 2026",
   "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA.",
+  "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "25th September 2026",
   "TRAI Launches Digital Connectivity Rating Platform",
   "22nd September 2026",
@@ -882,14 +882,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-august-2026",
    "text": "TRAI releases Telecom Subscription Data as on August 2026"
   },
@@ -903,6 +895,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-delhi-agra-routes-yamuna",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
    "text": "Explore"
   },
   {
@@ -1155,7 +1155,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-03T11:34:53Z",
+ "fetched_at": "2026-10-03T16:12:47Z",
  "script": "latin",
  "memory": {
   "lines": {

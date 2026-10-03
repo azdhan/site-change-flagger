@@ -615,7 +615,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-03T11:34:53Z",
+ "fetched_at": "2026-10-03T16:12:47Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -898,14 +898,6 @@
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313479&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313384&reg=3&lang=2": 0,
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 7,
-   "https://mib.gov.in/index.php/hi/feedback": 7,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 7,
-   "https://mib.gov.in/index.php/hi/help": 7,
-   "https://mib.gov.in/index.php/hi/related-link": 7,
-   "https://mib.gov.in/index.php/hi/archives": 7,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 7,
-   "https://mib.gov.in/index.php/hi/sitemap": 7,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316783&reg=3&lang=2": 0,
    "https://www.mygov.in/campaigns/make-in-india/?target=webview&type=campaign&nid=0": 0
   },
@@ -973,14 +965,14 @@
    "30 सितंबर 2026": "2026-10-03T11:34:53Z"
   },
   "grave_links": {
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-09-27T05:13:10Z",
-   "https://mib.gov.in/index.php/hi/feedback": "2026-09-27T05:13:10Z",
-   "https://mib.gov.in/index.php/hi/sitemap": "2026-09-27T05:13:10Z",
-   "https://mib.gov.in/index.php/hi/related-link": "2026-09-27T05:13:10Z",
-   "https://mib.gov.in/index.php/hi/website-policy": "2026-09-27T05:13:10Z",
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-09-27T05:13:10Z",
-   "https://mib.gov.in/index.php/hi/archives": "2026-09-27T05:13:10Z",
-   "https://mib.gov.in/index.php/hi/help": "2026-09-27T05:13:10Z",
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-10-03T16:12:47Z",
+   "https://mib.gov.in/index.php/hi/feedback": "2026-10-03T16:12:47Z",
+   "https://mib.gov.in/index.php/hi/sitemap": "2026-10-03T16:12:47Z",
+   "https://mib.gov.in/index.php/hi/related-link": "2026-10-03T16:12:47Z",
+   "https://mib.gov.in/index.php/hi/website-policy": "2026-10-03T16:12:47Z",
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-10-03T16:12:47Z",
+   "https://mib.gov.in/index.php/hi/archives": "2026-10-03T16:12:47Z",
+   "https://mib.gov.in/index.php/hi/help": "2026-10-03T16:12:47Z",
    "https://mib.gov.in/index.php/hi/connect/indian-information-service-page": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi/connect/vigilance": "2026-09-07T23:28:28Z",
    "https://mib.gov.in/index.php/hi/offerings/FM-radio-auctions": "2026-09-07T23:28:28Z",
