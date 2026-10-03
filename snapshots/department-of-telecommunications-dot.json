@@ -149,7 +149,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -408,18 +407,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
    "url": "https://dot.gov.in/archives?page=tenders",
    "text": "अभिलेखागार"
   },
@@ -469,7 +456,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-02T22:09:15Z",
+ "fetched_at": "2026-10-03T05:11:58Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -923,9 +910,9 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 1,
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
