@@ -192,14 +192,14 @@
   "29th September 2026",
   "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam.",
   "28th September 2026",
+  "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "TRAI releases Telecom Subscription Data as on August 2026",
   "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA.",
-  "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "25th September 2026",
   "TRAI Launches Digital Connectivity Rating Platform",
   "22nd September 2026",
-  "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.",
   "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026",
+  "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.",
   "18th September 2026",
   "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection",
   "17th September 2026",
@@ -882,6 +882,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-august-2026",
    "text": "TRAI releases Telecom Subscription Data as on August 2026"
   },
@@ -898,14 +906,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-launches-digital-connectivity-rating-platform",
    "text": "TRAI Launches Digital Connectivity Rating Platform"
   },
@@ -914,19 +914,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
-   "text": "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
    "text": "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026"
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
+   "text": "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
    "text": "Explore"
   },
   {
@@ -1155,7 +1155,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-04T12:17:15Z",
+ "fetched_at": "2026-10-04T18:37:59Z",
  "script": "latin",
  "memory": {
   "lines": {
