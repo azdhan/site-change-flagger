@@ -198,8 +198,8 @@
   "25th September 2026",
   "TRAI Launches Digital Connectivity Rating Platform",
   "22nd September 2026",
-  "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026",
   "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.",
+  "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026",
   "18th September 2026",
   "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection",
   "17th September 2026",
@@ -914,19 +914,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
-   "text": "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
    "text": "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA."
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
+   "text": "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
    "text": "Explore"
   },
   {
@@ -1155,7 +1155,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-04T18:37:59Z",
+ "fetched_at": "2026-10-04T23:56:34Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1681,9 +1681,6 @@
    "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": "2026-09-20T23:12:46Z",
    "Ayodhya, Uttar Pradesh": "2026-09-20T23:12:46Z",
    "Chandigarh , Chandigarh": "2026-09-25T04:51:10Z",
-   "Kathua , Jammu and Kashmir": "2026-09-04T20:43:34Z",
-   "Consumer Awareness Program at Kathua (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": "2026-09-04T20:43:34Z",
-   "2 September, 2026": "2026-09-04T20:43:34Z",
    "Sri Muktsar Sahib, Punjab": "2026-09-05T17:18:26Z",
    "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab": "2026-09-05T17:18:26Z",
    "Mahesana, Gujarat": "2026-09-08T23:21:29Z",
@@ -1852,8 +1849,6 @@
    "30 September, 2026": "2026-10-03T11:34:53Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/photo-gallery/itu-trai-workshop-2025-bhubaneswar": "2026-09-04T20:43:34Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kathua-jammu-and-kashmir-indian-institute-technology": "2026-09-04T20:43:34Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur": "2026-09-05T17:18:26Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": "2026-09-08T23:21:29Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": "2026-09-08T23:21:29Z",
