@@ -127,12 +127,10 @@
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
   "प्रेस विज्ञप्ति",
-  "टी. सी. आई. एल. ने भारत सरकार को वर्ष के लिए ₹ 43.86 करोड़ रुपये के लाभांश का भुगतान किया",
-  "आदेश और सूचनाएँ",
-  "डीओटी के मुख्यालय में तैनात अधिकारियों के बीच कार्य का आवंटन",
-  "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (अक्टूबर-दिसंबर 2026)",
-  "रिपोर्टें",
-  "5जी बीटीएस की स्थिति 30.09.2026 पर है",
+  "दूरसंचार विभाग ने विशेष अभियान 6 के कार्यान्वयन चरण की शुरुआत की",
+  "दूरसंचार विभाग ने स्वच्छता ही सेवा 2026 अभियान का समापन किया",
+  "महाराष्ट्र में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग; महाराष्ट्र सरकार; एम. डी. आई. एल.; बी. एस. एन. एल. और एम. ए. आई. टी. के बीच समझौते पर हस्ताक्षर किए गए",
+  "दूरसंचार विभाग में स्वच्छता ही सेवा 2026 अभियान जोरों पर",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -149,6 +147,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -163,7 +162,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 01.10.2026",
+  "अंतिम बार अद्यतन किया गयाः 04.10.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -359,10 +358,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)",
-   "text": "आदेश और सूचनाएँ अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (अक्टूबर-दिसंबर 2026)"
-  },
-  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -408,7 +403,7 @@
   },
   {
    "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
@@ -468,7 +463,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-04T05:45:35Z",
+ "fetched_at": "2026-10-04T12:17:15Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -856,7 +851,12 @@
    "अदालती आदेशों के तहत इंटरनेट सेवा लाइसेंसधारियों को अधिसूचनाओं/निर्देशों को अवरुद्ध करना (अक्टूबर-दिसंबर 2026)": 0,
    "टी. सी. आई. एल. ने भारत सरकार को वर्ष के लिए ₹ 43.86 करोड़ रुपये के लाभांश का भुगतान किया": 0,
    "एच. एम. ओ. सी. का पता-सितंबर 2026": 0,
-   "डीओटी के मुख्यालय में तैनात अधिकारियों के बीच कार्य का आवंटन": 0
+   "डीओटी के मुख्यालय में तैनात अधिकारियों के बीच कार्य का आवंटन": 0,
+   "दूरसंचार विभाग ने स्वच्छता ही सेवा 2026 अभियान का समापन किया": 0,
+   "दूरसंचार विभाग ने विशेष अभियान 6 के कार्यान्वयन चरण की शुरुआत की": 0,
+   "महाराष्ट्र में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग; महाराष्ट्र सरकार; एम. डी. आई. एल.; बी. एस. एन. एल. और एम. ए. आई. टी. के बीच समझौते पर हस्ताक्षर किए गए": 0,
+   "अंतिम बार अद्यतन किया गयाः 04.10.2026": 0,
+   "दूरसंचार विभाग में स्वच्छता ही सेवा 2026 अभियान जोरों पर": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -931,7 +931,7 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": 0,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": 1,
    "https://www.dot.gov.in/static/uploads/2026/10/7055c08dd8b1aeab78e2f8590f320054.pdf": 0
   },
   "grave_lines": {
