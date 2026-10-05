@@ -1,5 +1,55 @@
 [
  {
+  "id": "ff513f4e7c11",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-05T05:30:19Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 05.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "5b6b4ea64cf5",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-05T05:30:19Z",
+  "summary": "4 new links, 4 new text blocks",
+  "added_lines": [
+   "सूचना और प्रसारण मंत्रालय ने डॉ. एंगम पामे (आईआईएस), अपर महानिदेशक (एडीजी), श्री नांपिबौ मारिनमई (आईआईएस), निदेशक और श्री एच. लियानवेला, एमटीएस के असामयिक निधन पर शोक व्यक्त किया",
+   "पत्र सूचना कार्यालय (पीआईबी) ने राष्ट्रीय मीडिया केंद्र में स्वच्छता ही सेवा 2026 गतिविधियों का आयोजन किया",
+   "केंद्रीय राज्य मंत्री डॉ. एल. मुरुगन ने आईआईएमसी में स्वच्छता ही सेवा गतिविधियों में भाग लिया",
+   "कहानियों, सिनेमा और वैश्विक आवाजों का जश्न: आईएफएफआई 2026 में भागीदारी हेतु मीडियाकर्मी गोवा आमंत्रित; मीडिया प्रत्यायन शुरू"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318394&reg=3&lang=2",
+    "text": "सूचना और प्रसारण मंत्रालय ने डॉ. एंगम पामे (आईआईएस), अपर महानिदेशक (एडीजी), श्री नांपिबौ मारिनमई (आईआईएस), निदेशक और श्री एच. लियानवेला, एमटीएस के असामयिक निधन पर शोक व्यक्त किया"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317750&reg=3&lang=2",
+    "text": "पत्र सूचना कार्यालय (पीआईबी) ने राष्ट्रीय मीडिया केंद्र में स्वच्छता ही सेवा 2026 गतिविधियों का आयोजन किया"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317679&reg=3&lang=2",
+    "text": "केंद्रीय राज्य मंत्री डॉ. एल. मुरुगन ने आईआईएमसी में स्वच्छता ही सेवा गतिविधियों में भाग लिया"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317768&reg=3&lang=2",
+    "text": "कहानियों, सिनेमा और वैश्विक आवाजों का जश्न: आईएफएफआई 2026 में भागीदारी हेतु मीडियाकर्मी गोवा आमंत्रित; मीडिया प्रत्यायन शुरू"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
   "id": "f7ef60f563f7",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
