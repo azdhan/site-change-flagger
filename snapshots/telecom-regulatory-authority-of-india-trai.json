@@ -194,9 +194,9 @@
   "29th September 2026",
   "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam.",
   "28th September 2026",
+  "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "TRAI releases Telecom Subscription Data as on August 2026",
   "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA.",
-  "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "25th September 2026",
   "TRAI Launches Digital Connectivity Rating Platform",
   "22nd September 2026",
@@ -894,6 +894,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-august-2026",
    "text": "TRAI releases Telecom Subscription Data as on August 2026"
   },
@@ -907,14 +915,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-delhi-agra-routes-yamuna",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
    "text": "Explore"
   },
   {
@@ -1167,7 +1167,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-05T14:28:35Z",
+ "fetched_at": "2026-10-05T21:58:55Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1450,8 +1450,8 @@
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
    "No Open Consultation": 0,
-   "17th September 2026": 1,
-   "TRAI Assesses Mobile Network Quality Across Various Areas of Chennai City.": 1,
+   "17th September 2026": 2,
+   "TRAI Assesses Mobile Network Quality Across Various Areas of Chennai City.": 2,
    "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection": 0,
    "18th September 2026": 0,
    "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.": 0,
@@ -1467,7 +1467,7 @@
    "29th September 2026": 0,
    "North Delhi, Delhi": 0,
    "Consumer Awareness Program at North Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi": 0,
-   "1 October, 2026": 1,
+   "1 October, 2026": 2,
    "Direction regarding publication of tariff offers, etc.": 0,
    "1st October 2026": 0,
    "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
@@ -1668,8 +1668,8 @@
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
    "https://www.trai.gov.in/photo-gallery/bif-critical-communications-india-conference": 0,
    "https://www.trai.gov.in/photo-gallery/smra-model-spectrum-auctions-2026": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 1,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 2,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 2,
    "https://twitter.com/TRAI/status/2100230738251755686?ref_src=twsrc%5Etfw": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-strengthens-framework-curbing-ucc-through-technology-driven": 0,
    "https://twitter.com/TRAI/status/2100153931691397235?ref_src=twsrc%5Etfw": 0,
@@ -1704,8 +1704,6 @@
    "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": "2026-09-20T23:12:46Z",
    "Ayodhya, Uttar Pradesh": "2026-09-20T23:12:46Z",
    "Chandigarh , Chandigarh": "2026-09-25T04:51:10Z",
-   "Sri Muktsar Sahib, Punjab": "2026-09-05T17:18:26Z",
-   "Consumer Awareness Program at Muktsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab": "2026-09-05T17:18:26Z",
    "Mahesana, Gujarat": "2026-09-08T23:21:29Z",
    "Consumer Awareness Program at Mehsana (Gujarat) by Consumer Protection Association": "2026-09-08T23:21:29Z",
    "09:00 AM": "2026-09-08T23:21:29Z",
@@ -1872,7 +1870,6 @@
    "30 September, 2026": "2026-10-03T11:34:53Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-muktsar-punjab-indian-institute-technology-entrepreneur": "2026-09-05T17:18:26Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mehsana-gujarat-consumer-protection-association": "2026-09-08T23:21:29Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sirmaur-himachal-pradesh-himachal-upbhokta-sanrakchan": "2026-09-08T23:21:29Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mancherial-telangana-society-health-and-agriculture": "2026-09-08T23:21:29Z",
