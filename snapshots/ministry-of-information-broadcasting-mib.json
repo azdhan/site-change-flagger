@@ -120,11 +120,15 @@
   "फिल्मों के प्रमाणन के प्रावधानों से छूट - के संबंध में।",
   "और देखें",
   "हालिया दस्तावेज़",
+  "ई - बुक्स",
+  "14.2 मेगा बाइट |",
+  "मन की बात अगस्त 2026",
+  "परामर्श",
+  "1.28 मेगा बाइट |",
+  "'ओटीटी प्लेटफ़ॉर्म पर नशीले पदार्थों के सेवन के हानिकारक प्रभावों से जुड़ी चेतावनी दिखाने' के संबंध में 24.08.2026 की एडवाइज़री।",
   "प्रेस प्रकाशनी",
   "सूचना और प्रसारण मंत्रालय ने डॉ. एंगम पामे (आईआईएस), अपर महानिदेशक (एडीजी), श्री नांपिबौ मारिनमई (आईआईएस), निदेशक और श्री एच. लियानवेला, एमटीएस के असामयिक निधन पर शोक व्यक्त किया",
   "पत्र सूचना कार्यालय (पीआईबी) ने राष्ट्रीय मीडिया केंद्र में स्वच्छता ही सेवा 2026 गतिविधियों का आयोजन किया",
-  "केंद्रीय राज्य मंत्री डॉ. एल. मुरुगन ने आईआईएमसी में स्वच्छता ही सेवा गतिविधियों में भाग लिया",
-  "कहानियों, सिनेमा और वैश्विक आवाजों का जश्न: आईएफएफआई 2026 में भागीदारी हेतु मीडियाकर्मी गोवा आमंत्रित; मीडिया प्रत्यायन शुरू",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "Image and name of मीडिया. Select to view more information.",
   "शोधकर्ता",
@@ -166,7 +170,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "01 अक्टूबर 2026"
+  "05 अक्टूबर 2026"
  ],
  "links": [
   {
@@ -454,20 +458,20 @@
    "text": "और देखें"
   },
   {
+   "url": "https://mib.gov.in/sites/default/files/2026-10/mann-ki-baat-hindi-august-2026-single-spreads.pdf",
+   "text": "मन की बात अगस्त 2026"
+  },
+  {
+   "url": "https://mib.gov.in/sites/default/files/2026-10/edavaaija-rai.pdf",
+   "text": "'ओटीटी प्लेटफ़ॉर्म पर नशीले पदार्थों के सेवन के हानिकारक प्रभावों से जुड़ी चेतावनी दिखाने' के संबंध में 24.08.2026 की एडवाइज़री।"
+  },
+  {
    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318394&reg=3&lang=2",
    "text": "सूचना और प्रसारण मंत्रालय ने डॉ. एंगम पामे (आईआईएस), अपर महानिदेशक (एडीजी), श्री नांपिबौ मारिनमई (आईआईएस), निदेशक और श्री एच. लियानवेला, एमटीएस के असामयिक निधन पर शोक व्यक्त किया"
   },
   {
    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317750&reg=3&lang=2",
    "text": "पत्र सूचना कार्यालय (पीआईबी) ने राष्ट्रीय मीडिया केंद्र में स्वच्छता ही सेवा 2026 गतिविधियों का आयोजन किया"
-  },
-  {
-   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317679&reg=3&lang=2",
-   "text": "केंद्रीय राज्य मंत्री डॉ. एल. मुरुगन ने आईआईएमसी में स्वच्छता ही सेवा गतिविधियों में भाग लिया"
-  },
-  {
-   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317768&reg=3&lang=2",
-   "text": "कहानियों, सिनेमा और वैश्विक आवाजों का जश्न: आईएफएफआई 2026 में भागीदारी हेतु मीडियाकर्मी गोवा आमंत्रित; मीडिया प्रत्यायन शुरू"
   },
   {
    "url": "http://mib.gov.in/hi/documents/reports",
@@ -566,27 +570,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -615,7 +627,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-05T05:30:19Z",
+ "fetched_at": "2026-10-05T14:28:35Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -782,15 +794,22 @@
    "केबल टेलीविज़न नेटवर्क (संशोधन) नियम, 2026": 0,
    "1.32 मेगा बाइट |": 0,
    "1.37 मेगा बाइट |": 0,
-   "राष्ट्रपति श्रीमती द्रौपदी मुर्मु ने गुजरात के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान किए": 1,
-   "स्वच्छता ही सेवा 2026 के अंतर्गत राष्ट्रीय मिडिया केंद्र में निवारक स्वास्थ्य देखभाल एवं परामर्श शिविर का आयोजन किया गया": 1,
-   "राष्ट्रीय फिल्म पुरस्कार देश के सर्वश्रेष्ठ पर्यटन स्थलों पर आयोजित किए जाएंगे": 1,
-   "डॉ. एल. मुरुगन ने यूट्यूब इम्पैक्ट समिट 2026 में विकसित भारत के निर्माण में क्रिएटर इकोनॉमी और एआई की भूमिका पर प्रकाश डाला": 1,
-   "01 अक्टूबर 2026": 0,
-   "कहानियों, सिनेमा और वैश्विक आवाजों का जश्न: आईएफएफआई 2026 में भागीदारी हेतु मीडियाकर्मी गोवा आमंत्रित; मीडिया प्रत्यायन शुरू": 0,
+   "राष्ट्रपति श्रीमती द्रौपदी मुर्मु ने गुजरात के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान किए": 2,
+   "स्वच्छता ही सेवा 2026 के अंतर्गत राष्ट्रीय मिडिया केंद्र में निवारक स्वास्थ्य देखभाल एवं परामर्श शिविर का आयोजन किया गया": 2,
+   "राष्ट्रीय फिल्म पुरस्कार देश के सर्वश्रेष्ठ पर्यटन स्थलों पर आयोजित किए जाएंगे": 2,
+   "डॉ. एल. मुरुगन ने यूट्यूब इम्पैक्ट समिट 2026 में विकसित भारत के निर्माण में क्रिएटर इकोनॉमी और एआई की भूमिका पर प्रकाश डाला": 2,
+   "01 अक्टूबर 2026": 1,
+   "कहानियों, सिनेमा और वैश्विक आवाजों का जश्न: आईएफएफआई 2026 में भागीदारी हेतु मीडियाकर्मी गोवा आमंत्रित; मीडिया प्रत्यायन शुरू": 1,
    "सूचना और प्रसारण मंत्रालय ने डॉ. एंगम पामे (आईआईएस), अपर महानिदेशक (एडीजी), श्री नांपिबौ मारिनमई (आईआईएस), निदेशक और श्री एच. लियानवेला, एमटीएस के असामयिक निधन पर शोक व्यक्त किया": 0,
    "पत्र सूचना कार्यालय (पीआईबी) ने राष्ट्रीय मीडिया केंद्र में स्वच्छता ही सेवा 2026 गतिविधियों का आयोजन किया": 0,
-   "केंद्रीय राज्य मंत्री डॉ. एल. मुरुगन ने आईआईएमसी में स्वच्छता ही सेवा गतिविधियों में भाग लिया": 0
+   "केंद्रीय राज्य मंत्री डॉ. एल. मुरुगन ने आईआईएमसी में स्वच्छता ही सेवा गतिविधियों में भाग लिया": 1,
+   "05 अक्टूबर 2026": 0,
+   "मन की बात अगस्त 2026": 0,
+   "परामर्श": 0,
+   "'ओटीटी प्लेटफ़ॉर्म पर नशीले पदार्थों के सेवन के हानिकारक प्रभावों से जुड़ी चेतावनी दिखाने' के संबंध में 24.08.2026 की एडवाइज़री।": 0,
+   "ई - बुक्स": 0,
+   "1.28 मेगा बाइट |": 0,
+   "14.2 मेगा बाइट |": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -875,12 +894,12 @@
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
    "https://www.indiacode.nic.in/": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -898,16 +917,26 @@
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-751-e-cable-television-networks-amendment-rules-2026.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
    "https://mib.gov.in/hi/whats-new": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313683&reg=3&lang=2": 1,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313479&reg=3&lang=2": 1,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313384&reg=3&lang=2": 1,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313683&reg=3&lang=2": 2,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313479&reg=3&lang=2": 2,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2313384&reg=3&lang=2": 2,
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316783&reg=3&lang=2": 1,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2316783&reg=3&lang=2": 2,
    "https://www.mygov.in/campaigns/make-in-india/?target=webview&type=campaign&nid=0": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317750&reg=3&lang=2": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317679&reg=3&lang=2": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317679&reg=3&lang=2": 1,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318394&reg=3&lang=2": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317768&reg=3&lang=2": 0
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317768&reg=3&lang=2": 1,
+   "https://mib.gov.in/sites/default/files/2026-10/edavaaija-rai.pdf": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/help": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/sites/default/files/2026-10/mann-ki-baat-hindi-august-2026-single-spreads.pdf": 0,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0
   },
   "grave_lines": {
    "परामर्श": "2026-09-08T21:06:01Z",

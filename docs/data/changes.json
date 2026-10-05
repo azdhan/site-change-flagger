@@ -1,5 +1,91 @@
 [
  {
+  "id": "530558477c02",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-05T14:28:35Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "एच. एम. ओ. सी. का संबोधन नोट-सितंबर 2026 संस्करण"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf",
+    "text": "एच. एम. ओ. सी. का संबोधन नोट-सितंबर 2026 संस्करण arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "8fa245857afe",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-05T14:28:35Z",
+  "summary": "4 new links, 7 new text blocks",
+  "added_lines": [
+   "5th October 2026",
+   "TRAI releases The Indian Telecom Services Yearly Performance Indicators 2025 - 2026",
+   "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
+   "Kinnaur , Himachal Pradesh",
+   "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society",
+   "Ganderbal, Jammu and Kashmir",
+   "5 October, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-indian-telecom-services-yearly-performance-indicators-1",
+    "text": "TRAI releases The Indian Telecom Services Yearly Performance Indicators 2025 - 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-indian-telecom-services-yearly-performance-indicators-1",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kinnaur-himachal-pradesh-indian-institute-technology",
+    "text": "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ganderbal-jammu-and-kashmir-helpage-social-welfare",
+    "text": "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "d8382208afed",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-05T14:28:35Z",
+  "summary": "2 new links, 5 new text blocks",
+  "added_lines": [
+   "14.2 मेगा बाइट |",
+   "मन की बात अगस्त 2026",
+   "1.28 मेगा बाइट |",
+   "'ओटीटी प्लेटफ़ॉर्म पर नशीले पदार्थों के सेवन के हानिकारक प्रभावों से जुड़ी चेतावनी दिखाने' के संबंध में 24.08.2026 की एडवाइज़री।",
+   "05 अक्टूबर 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-10/mann-ki-baat-hindi-august-2026-single-spreads.pdf",
+    "text": "मन की बात अगस्त 2026"
+   },
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-10/edavaaija-rai.pdf",
+    "text": "'ओटीटी प्लेटफ़ॉर्म पर नशीले पदार्थों के सेवन के हानिकारक प्रभावों से जुड़ी चेतावनी दिखाने' के संबंध में 24.08.2026 की एडवाइज़री।"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "ff513f4e7c11",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
