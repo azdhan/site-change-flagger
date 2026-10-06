@@ -1,5 +1,69 @@
 [
  {
+  "id": "02562fefad0b",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-06T13:16:51Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "11939df3a9e8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-06T13:16:51Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Outreach Program at Dhar (Madhya Pradesh) by RO BHOPAL",
+   "Dhar, Madhya Pradesh"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-dhar-madhya-pradesh-ro-bhopal",
+    "text": "Consumer Outreach Program at Dhar (Madhya Pradesh) by RO BHOPAL"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "cd9a7a2176f8",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-06T13:16:51Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "06 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "d21e75d3ebe7",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-06T13:16:51Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 06.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "fa9750547854",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

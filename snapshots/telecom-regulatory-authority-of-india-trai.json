@@ -194,14 +194,14 @@
   "29th September 2026",
   "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam.",
   "28th September 2026",
-  "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "TRAI releases Telecom Subscription Data as on August 2026",
   "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA.",
+  "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "25th September 2026",
   "TRAI Launches Digital Connectivity Rating Platform",
   "22nd September 2026",
-  "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026",
   "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.",
+  "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026",
   "18th September 2026",
   "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection",
   "On-going Consultation",
@@ -215,6 +215,9 @@
   "North Delhi, Delhi",
   "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
   "Kinnaur , Himachal Pradesh",
+  "Consumer Outreach Program at Dhar (Madhya Pradesh) by RO BHOPAL",
+  "10:30 AM",
+  "Dhar, Madhya Pradesh",
   "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society",
   "Ganderbal, Jammu and Kashmir",
   "Consumer Awareness Program at Kullu (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad",
@@ -896,14 +899,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
-   "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-august-2026",
    "text": "TRAI releases Telecom Subscription Data as on August 2026"
   },
@@ -920,6 +915,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
+   "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-launches-digital-connectivity-rating-platform",
    "text": "TRAI Launches Digital Connectivity Rating Platform"
   },
@@ -928,19 +931,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
-   "text": "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
    "text": "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA."
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
+   "text": "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations",
    "text": "Explore"
   },
   {
@@ -966,6 +969,10 @@
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kinnaur-himachal-pradesh-indian-institute-technology",
    "text": "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-dhar-madhya-pradesh-ro-bhopal",
+   "text": "Consumer Outreach Program at Dhar (Madhya Pradesh) by RO BHOPAL"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ganderbal-jammu-and-kashmir-helpage-social-welfare",
@@ -1173,7 +1180,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-06T06:13:53Z",
+ "fetched_at": "2026-10-06T13:16:51Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1456,8 +1463,8 @@
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
    "No Open Consultation": 0,
-   "17th September 2026": 3,
-   "TRAI Assesses Mobile Network Quality Across Various Areas of Chennai City.": 3,
+   "17th September 2026": 4,
+   "TRAI Assesses Mobile Network Quality Across Various Areas of Chennai City.": 4,
    "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection": 0,
    "18th September 2026": 0,
    "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.": 0,
@@ -1473,19 +1480,22 @@
    "29th September 2026": 0,
    "North Delhi, Delhi": 0,
    "Consumer Awareness Program at North Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi": 0,
-   "1 October, 2026": 3,
+   "1 October, 2026": 4,
    "Direction regarding publication of tariff offers, etc.": 0,
    "1st October 2026": 0,
    "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
    "Ganderbal, Jammu and Kashmir": 0,
-   "5 October, 2026": 1,
+   "5 October, 2026": 2,
    "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 0,
    "TRAI releases The Indian Telecom Services Yearly Performance Indicators 2025 - 2026": 0,
    "Kinnaur , Himachal Pradesh": 0,
    "5th October 2026": 0,
    "Kullu , Himachal Pradesh": 0,
    "Consumer Awareness Program at Kullu (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad": 0,
-   "6 October, 2026": 0
+   "6 October, 2026": 0,
+   "10:30 AM": 0,
+   "Consumer Outreach Program at Dhar (Madhya Pradesh) by RO BHOPAL": 0,
+   "Dhar, Madhya Pradesh": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
@@ -1677,8 +1687,8 @@
    "https://play.google.com/store/apps/details?id=com.trai.mycall": 0,
    "https://www.trai.gov.in/photo-gallery/bif-critical-communications-india-conference": 0,
    "https://www.trai.gov.in/photo-gallery/smra-model-spectrum-auctions-2026": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 3,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 3,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 4,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": 4,
    "https://twitter.com/TRAI/status/2100230738251755686?ref_src=twsrc%5Etfw": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-strengthens-framework-curbing-ucc-through-technology-driven": 0,
    "https://twitter.com/TRAI/status/2100153931691397235?ref_src=twsrc%5Etfw": 0,
@@ -1705,7 +1715,8 @@
    "http://www.trai.gov.in/notifications/press-release/trai-releases-indian-telecom-services-yearly-performance-indicators-1": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-indian-telecom-services-yearly-performance-indicators-1": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kinnaur-himachal-pradesh-indian-institute-technology": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kullu-himachal-pradesh-himachal-upbhokta-sanrakchan": 0
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kullu-himachal-pradesh-himachal-upbhokta-sanrakchan": 0,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-dhar-madhya-pradesh-ro-bhopal": 0
   },
   "grave_lines": {
    "01:00 PM": "2026-09-26T04:51:01Z",
