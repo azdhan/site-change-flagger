@@ -1,5 +1,43 @@
 [
  {
+  "id": "fa9750547854",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-06T06:13:53Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' की स्वीकृत संख्या में संशोधन-मंत्रिमंडल के निर्णय का कार्यान्वयन",
+   "अंतिम बार अद्यतन किया गयाः 06.10.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "507e4df321bd",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-06T06:13:53Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Kullu (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad",
+   "Kullu , Himachal Pradesh",
+   "6 October, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kullu-himachal-pradesh-himachal-upbhokta-sanrakchan",
+    "text": "Consumer Awareness Program at Kullu (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "95397dadaffb",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
