@@ -1,5 +1,69 @@
 [
  {
+  "id": "21ad02410682",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-07T18:54:10Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "प्रधानमंत्री श्री नरेन्द्र मोदी ने केंद्रीय संचार मंत्री ज्योतिरादित्या सिंधिया और राज्य मंत्री डॉ. चंद्रशेखर पेम्मासानी के साथ ग्लोबल सिस्टम फॉर मोबाइल कम्युनिकेशंस एसोसिएशन (जी. एस. एम. ए.) बोर्ड के सदस्यों के साथ बातचीत की"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "b61acd47fafc",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-07T18:54:10Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "17th September 2026",
+   "TRAI Assesses Mobile Network Quality Across Various Areas of Chennai City.",
+   "1 October, 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "ff1df9654faf",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-07T18:54:10Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "01 अक्टूबर 2026",
+   "कहानियों, सिनेमा और वैश्विक आवाजों का जश्न: आईएफएफआई 2026 में भागीदारी हेतु मीडियाकर्मी गोवा आमंत्रित; मीडिया प्रत्यायन शुरू",
+   "केंद्रीय राज्य मंत्री डॉ. एल. मुरुगन ने आईआईएमसी में स्वच्छता ही सेवा गतिविधियों में भाग लिया"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "34a41a813b34",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-07T18:54:10Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 07.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "5001a3b1e060",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
