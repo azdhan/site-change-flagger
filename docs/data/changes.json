@@ -1,5 +1,70 @@
 [
  {
+  "id": "bd7b92bc27dd",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-08T10:28:21Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री सिद्धार्थ कुमार, स्टाफ नं। 21342",
+   "अंतिम बार अद्यतन किया गयाः 08.10.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "96cf5112b4f8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-08T10:28:21Z",
+  "summary": "3 new links, 5 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "8th October 2026",
+   "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)",
+   "Consumer Outreach Program at Panchmahal (Gujarat) by RO JAIPUR",
+   "Panchmahal, Gujarat",
+   "8 October, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "5 October, 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-fazilka-city-and-adjoining",
+    "text": "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-fazilka-city-and-adjoining",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-panchmahal-gujarat-ro-jaipur",
+    "text": "Consumer Outreach Program at Panchmahal (Gujarat) by RO JAIPUR"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "f28616208ed2",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-08T10:28:21Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 08.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "21ad02410682",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
