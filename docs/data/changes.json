@@ -1,5 +1,62 @@
 [
  {
+  "id": "07bb6d1ef437",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-09T10:27:05Z",
+  "summary": "3 new links, 4 new text blocks",
+  "added_lines": [
+   "9th October 2026",
+   "TRAI Releases Draft Telecommunication (Broadcasting and Cable) Services DRM- based Digital Addressable Systems Audit Manual, 2026",
+   "Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders",
+   "9 October, 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0",
+    "text": "TRAI Releases Draft Telecommunication (Broadcasting and Cable) Services DRM- based Digital Addressable Systems Audit Manual, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/draft-telecommunication-broadcasting-cable-services-drm-based-digital-addressable-systems-audit",
+    "text": "9th October 2026 Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "ceb17ebb1dd7",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-09T10:27:05Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "सूचना और प्रसारण मंत्रालय ने 'स्वच्छता ही सेवा 2026' अभियान सफलतापूर्वक पूरा किया",
+   "डॉ. एल. मुरुगन ने युवाओं से 2047 तक विकसित भारत यात्रा में देश का नेतृत्व करने का आह्वान किया",
+   "09 अक्टूबर 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321029&reg=3&lang=2",
+    "text": "सूचना और प्रसारण मंत्रालय ने 'स्वच्छता ही सेवा 2026' अभियान सफलतापूर्वक पूरा किया"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320785&reg=3&lang=2",
+    "text": "डॉ. एल. मुरुगन ने युवाओं से 2047 तक विकसित भारत यात्रा में देश का नेतृत्व करने का आह्वान किया"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "e7227adf1715",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
