@@ -1,5 +1,33 @@
 [
  {
+  "id": "e7227adf1715",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-09T01:11:05Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "संघ लोक सेवा आयोग द्वारा इंजीनियरिंग सेवा परीक्षा (ई. एस. ई.)-2025 के लिए अनुशंसित उम्मीदवारों को सेवा/पद का आवंटन"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "17737cd8a480",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-09T01:11:05Z",
+  "summary": "27 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 27,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "6c0465c58ff7",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
