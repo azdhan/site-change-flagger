@@ -1,5 +1,76 @@
 [
  {
+  "id": "2cf27c0e43dc",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-09T18:19:39Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "अधिकारी का स्थानांतरण और नियुक्ति-संबंधित",
+   "आई. टी. एस. समूह ए के जे. टी. एस. ग्रेड में ई. एस. ई.-2023 के प्रशिक्षु अधिकारियों का स्थानांतरण और नियुक्ति",
+   "आई. टी. एस. जी. आर. ए. के अधिकारी के संबंध में 09-10-2026 का आदेश लिया गया",
+   "अंतिम बार अद्यतन किया गयाः 09.10.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e885140dc240",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-09T18:19:39Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection",
+   "18th September 2026",
+   "6 October, 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "5da54af1e52d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-09T18:19:39Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "06 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a90cd07945b5",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-09T18:19:39Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026",
+   "अंतिम बार अद्यतन किया गयाः 09.10.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf",
+    "text": "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026 arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "07bb6d1ef437",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
