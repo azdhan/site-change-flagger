@@ -200,9 +200,9 @@
   "29th September 2026",
   "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam.",
   "28th September 2026",
+  "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA.",
   "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
   "TRAI releases Telecom Subscription Data as on August 2026",
-  "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA.",
   "25th September 2026",
   "TRAI Launches Digital Connectivity Rating Platform",
   "On-going Consultation",
@@ -927,6 +927,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-delhi-agra-routes-yamuna",
+   "text": "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-delhi-agra-routes-yamuna",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-south-delhi-and-nearby",
    "text": "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas."
   },
@@ -940,14 +948,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-august-2026",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-delhi-agra-routes-yamuna",
-   "text": "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-delhi-agra-routes-yamuna",
    "text": "Explore"
   },
   {
@@ -1188,7 +1188,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-10T09:44:55Z",
+ "fetched_at": "2026-10-10T17:19:10Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1470,10 +1470,10 @@
    "Consultation Papers": 0,
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
-   "No Open Consultation": 4,
-   "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.": 4,
-   "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026": 5,
-   "22nd September 2026": 4,
+   "No Open Consultation": 5,
+   "TRAI Assesses Mobile Network Quality on Gandhidham to Santhalpur National Highway (NH-27) in Gujarat LSA.": 5,
+   "TRAI releases Telecom Consumer Protection (13th Amendment) Regulations, 2026": 6,
+   "22nd September 2026": 5,
    "25th September 2026": 0,
    "TRAI Launches Digital Connectivity Rating Platform": 0,
    "TRAI releases Telecom Subscription Data as on August 2026": 0,
@@ -1482,8 +1482,6 @@
    "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.": 0,
    "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam.": 0,
    "29th September 2026": 0,
-   "North Delhi, Delhi": 7,
-   "Consumer Awareness Program at North Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi": 7,
    "Direction regarding publication of tariff offers, etc.": 0,
    "1st October 2026": 0,
    "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
@@ -1497,13 +1495,12 @@
    "10:30 AM": 0,
    "Consumer Outreach Program at Dhar (Madhya Pradesh) by RO BHOPAL": 0,
    "Dhar, Madhya Pradesh": 0,
-   "7 October, 2026": 7,
    "TRAI Assesses Mobile Network Quality in and around Balasore City, covering Balasore, Soro, Remuna, Nilagiri, Jaleswar, Baliapal and nearby areas.": 0,
    "7th October 2026": 0,
    "Panchmahal, Gujarat": 0,
    "8th October 2026": 0,
    "Consumer Outreach Program at Panchmahal (Gujarat) by RO JAIPUR": 0,
-   "8 October, 2026": 4,
+   "8 October, 2026": 5,
    "10:00 AM": 0,
    "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)": 0,
    "Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders": 0,
@@ -1705,10 +1702,10 @@
    "https://www.trai.gov.in/photo-gallery/smra-model-spectrum-auctions-2026": 0,
    "https://twitter.com/TRAI/status/2100230738251755686?ref_src=twsrc%5Etfw": 0,
    "https://twitter.com/TRAI/status/2100153931691397235?ref_src=twsrc%5Etfw": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national": 4,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national": 4,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations": 5,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations": 5,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national": 5,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-gandhidham-santhalpur-national": 5,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations": 6,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-consumer-protection-13th-amendment-regulations": 6,
    "https://dcrp.trai.gov.in/": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-launches-digital-connectivity-rating-platform": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-launches-digital-connectivity-rating-platform": 0,
@@ -1720,7 +1717,6 @@
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-august-2026": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-sonitpur-district": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-sonitpur-district": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-delhi-delhi-indian-institute-technology": 7,
    "https://www.trai.gov.in/what-s-new/direction-regarding-publication-tariff-offers-etc": 0,
    "http://www.trai.gov.in/what-s-new/direction-regarding-publication-tariff-offers-etc": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ganderbal-jammu-and-kashmir-helpage-social-welfare": 0,
@@ -1745,13 +1741,6 @@
    "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": "2026-09-20T23:12:46Z",
    "Ayodhya, Uttar Pradesh": "2026-09-20T23:12:46Z",
    "Chandigarh , Chandigarh": "2026-09-25T04:51:10Z",
-   "Consumer Awareness Program at Bhadrak (Odisha) by VIKASH": "2026-09-10T16:21:06Z",
-   "Bhadrak, Odisha": "2026-09-10T16:21:06Z",
-   "Nuapada , Odisha": "2026-09-10T16:21:06Z",
-   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development": "2026-09-10T16:21:06Z",
-   "Consumer Awareness Program at Nuapada (Odisha) by Bhanja Institute for Rural Development (BIRD)": "2026-09-10T16:21:06Z",
-   "Nuapada, Odisha": "2026-09-10T16:21:06Z",
-   "7 September, 2026": "2026-09-10T16:21:06Z",
    "Bolangiri, Odisha": "2026-09-11T16:25:03Z",
    "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL": "2026-09-11T16:25:03Z",
    "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation": "2026-09-11T16:25:03Z",
@@ -1907,13 +1896,12 @@
    "5 October, 2026": "2026-10-08T10:28:21Z",
    "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection": "2026-10-09T18:19:39Z",
    "18th September 2026": "2026-10-09T18:19:39Z",
-   "6 October, 2026": "2026-10-09T18:19:39Z"
+   "6 October, 2026": "2026-10-09T18:19:39Z",
+   "North Delhi, Delhi": "2026-10-10T17:19:10Z",
+   "Consumer Awareness Program at North Delhi (Delhi) by Indian Institute of Technology & Entrepreneur Development (IITED), Delhi": "2026-10-10T17:19:10Z",
+   "7 October, 2026": "2026-10-10T17:19:10Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/photo-gallery/green-room-inauguration": "2026-09-10T16:21:06Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhadrak-odisha-vikash": "2026-09-10T16:21:06Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development": "2026-09-10T16:21:06Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nuapada-odisha-bhanja-institute-rural-development-bird": "2026-09-10T16:21:06Z",
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-agra-uttar-pradesh-ro-bhopal": "2026-09-11T16:25:03Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation": "2026-09-11T16:25:03Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan": "2026-09-11T16:25:03Z",
@@ -2005,7 +1993,8 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": "2026-10-07T18:54:10Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-various-areas-chennai-city": "2026-10-07T18:54:10Z",
    "http://www.trai.gov.in/notifications/press-release/trai-strengthens-framework-curbing-ucc-through-technology-driven": "2026-10-09T18:19:39Z",
-   "https://www.trai.gov.in/notifications/press-release/trai-strengthens-framework-curbing-ucc-through-technology-driven": "2026-10-09T18:19:39Z"
+   "https://www.trai.gov.in/notifications/press-release/trai-strengthens-framework-curbing-ucc-through-technology-driven": "2026-10-09T18:19:39Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-north-delhi-delhi-indian-institute-technology": "2026-10-10T17:19:10Z"
   }
  }
 }
