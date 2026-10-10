@@ -1,5 +1,20 @@
 [
  {
+  "id": "fbf5c4c35566",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-10T09:44:55Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "10 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "ad5c7fe47110",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
