@@ -1182,7 +1182,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-11T12:42:14Z",
+ "fetched_at": "2026-10-11T19:31:24Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1476,9 +1476,9 @@
    "1st October 2026": 0,
    "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
    "Ganderbal, Jammu and Kashmir": 0,
-   "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 1,
+   "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 2,
    "TRAI releases The Indian Telecom Services Yearly Performance Indicators 2025 - 2026": 0,
-   "Kinnaur , Himachal Pradesh": 1,
+   "Kinnaur , Himachal Pradesh": 2,
    "5th October 2026": 0,
    "Kullu , Himachal Pradesh": 0,
    "Consumer Awareness Program at Kullu (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad": 0,
@@ -1707,7 +1707,7 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ganderbal-jammu-and-kashmir-helpage-social-welfare": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-indian-telecom-services-yearly-performance-indicators-1": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-indian-telecom-services-yearly-performance-indicators-1": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kinnaur-himachal-pradesh-indian-institute-technology": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kinnaur-himachal-pradesh-indian-institute-technology": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kullu-himachal-pradesh-himachal-upbhokta-sanrakchan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-dhar-madhya-pradesh-ro-bhopal": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-and-around-balasore-city-covering": 0,
@@ -1726,13 +1726,6 @@
    "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": "2026-09-20T23:12:46Z",
    "Ayodhya, Uttar Pradesh": "2026-09-20T23:12:46Z",
    "Chandigarh , Chandigarh": "2026-09-25T04:51:10Z",
-   "Bolangiri, Odisha": "2026-09-11T16:25:03Z",
-   "Consumer Outreach Program at Agra (Uttar Pradesh) by RO BHOPAL": "2026-09-11T16:25:03Z",
-   "Consumer Awareness Program at Balangir (Odisha) by Gangotree Social Organisation": "2026-09-11T16:25:03Z",
-   "Agra , Uttar Pradesh": "2026-09-11T16:25:03Z",
-   "Consumer Awareness Program at Deogarh (Odisha) by PARIBARTAN": "2026-09-11T16:25:03Z",
-   "Deogarh , Odisha": "2026-09-11T16:25:03Z",
-   "8 September, 2026": "2026-09-11T16:25:03Z",
    "10:00 AM": "2026-10-01T10:02:35Z",
    "Nilgiris, Tamil Nadu": "2026-09-11T23:13:35Z",
    "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": "2026-09-11T23:13:35Z",
@@ -1892,9 +1885,6 @@
    "8 October, 2026": "2026-10-11T12:42:14Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-agra-uttar-pradesh-ro-bhopal": "2026-09-11T16:25:03Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-balangir-odisha-gangotree-social-organisation": "2026-09-11T16:25:03Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-paribartan": "2026-09-11T16:25:03Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nilgiris-tamil-nadu-tamilnadu-consumer-protection-and": "2026-09-11T23:13:35Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-godda-jharkhand-mahila-kalyan-smiti-dhori": "2026-09-11T23:13:35Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pudukkottai-tamil-nadu-tn-consumer-federation": "2026-09-11T23:13:35Z",
