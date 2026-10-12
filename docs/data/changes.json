@@ -1,5 +1,112 @@
 [
  {
+  "id": "7fed07174fd6",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-12T10:40:16Z",
+  "summary": "2 new links, 9 new text blocks",
+  "added_lines": [
+   "Our Divisions",
+   "Our Organisations",
+   "हमारे विभाग",
+   "हमारे संगठन",
+   "तरंग संचार पोर्टल",
+   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project",
+   "डाक और टेलीग्राफ भवन निर्माण कार्य सेवा के कनिष्ठ प्रशासनिक ग्रेड स्तर के अधिकारी के कार्य का आवंटन",
+   "दूरसंचार विभाग के आई. टी. एस. समूह 'ए' के जे. टी. एस. की अंतिम वरिष्ठता सूची 01.01.2026-रेग पर",
+   "अंतिम बार अद्यतन किया गयाः 12.10.2026"
+  ],
+  "added_lines_total": 9,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa",
+    "text": "तरंग संचार पोर्टल"
+   },
+   {
+    "url": "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa",
+    "text": "दूरसंचार ई-सेवा पोर्टल"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "c5c7321036a8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-12T10:40:16Z",
+  "summary": "4 new links, 4 new text blocks",
+  "added_lines": [
+   "12th October 2026",
+   "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
+   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
+   "12 October, 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
+    "text": "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
+    "text": "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "92b57c8db69f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-12T10:40:16Z",
+  "summary": "1 new link, 2 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "सूचना एवं प्रसारण मंत्रालय ने स्वच्छता बढ़ाने और लंबित मामलों में कमी लाने के लिए देशव्यापी विशेष अभियान 6.0 का शुभारंभ किया",
+   "12 अक्टूबर 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "09 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321519&reg=3&lang=2",
+    "text": "सूचना एवं प्रसारण मंत्रालय ने स्वच्छता बढ़ाने और लंबित मामलों में कमी लाने के लिए देशव्यापी विशेष अभियान 6.0 का शुभारंभ किया"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "9fe984f9d0df",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-12T10:40:16Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "समूह समन्वयकों/एच. ए. जी. स्तर के कार्यालय के बीच संशोधित कार्य वितरण 13.04.2026",
+   "एमईआईटीवाई 12.10.2026 में समूह समन्वयकों/एचएजी स्तर के अधिकारियों के बीच संशोधित कार्य वितरण",
+   "अंतिम बार अद्यतन किया गयाः 12.10.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d27e90cfcbbf",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

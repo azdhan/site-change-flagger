@@ -56,8 +56,8 @@
   "expand_more",
   "About Us",
   "Our Team",
-  "Our Division",
-  "Our Organisation",
+  "Our Divisions",
+  "Our Organisations",
   "Our Performance",
   "Directory",
   "Offerings",
@@ -103,8 +103,8 @@
   "हमारे बारे में",
   "दूरसंचार सेवाओं को दुनिया भर में एक राष्ट्र के लिए सामाजिक-आर्थिक विकास के लिए एक महत्वपूर्ण उपकरण के रूप में मान्यता दी गई है और इसलिए दूरसंचार बुनियादी ढांचे को भारत में सामाजिक-आर्थिक उद्देश्यों को प्राप्त करने के लिए एक महत्वपूर्ण कारक के रूप में माना जाता है। तदनुसार, दूरसंचार विभाग दूरसंचार सेवाओं के त्वरित विकास के लिए विकासात्मक नीतियां बना रहा है। विभाग एकीकृत अभिगम सेवा, इंटरनेट और वी. एस. ए. टी. सेवा जैसी विभिन्न दूरसंचार सेवाओं के लिए लाइसेंस देने के लिए भी जिम्मेदार है। विभाग अंतर्राष्ट्रीय निकायों के साथ घनिष्ठ समन्वय में रेडियो संचार के क्षेत्र में आवृत्ति प्रबंधन के लिए भी जिम्मेदार है। यह देश में सभी उपयोगकर्ताओं के वायरलेस संचरण की निगरानी करके वायरलेस नियामक उपायों को भी लागू करता है।",
   "हमारी टीम",
-  "हमारा प्रभाग",
-  "हमारा संगठन",
+  "हमारे विभाग",
+  "हमारे संगठन",
   "श्री ज्योतिरादित्य एम. सिंधिया",
   "माननीय कैबिनेट मंत्री",
   "डॉ. पेम्मासानी चंद्र शेखर",
@@ -115,9 +115,8 @@
   "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना",
   "arrow_forward_ios",
   "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना",
-  "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल",
-  "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27",
-  "Technology Development & Investment Promotion (TDIP) Scheme",
+  "तरंग संचार पोर्टल",
+  "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project",
   "अधिक देखें",
   "नया क्या है",
   "एच. एम. ओ. सी. का संबोधन नोट-सितंबर 2026 संस्करण",
@@ -126,11 +125,12 @@
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
+  "आदेश और सूचनाएँ",
+  "डाक और टेलीग्राफ भवन निर्माण कार्य सेवा के कनिष्ठ प्रशासनिक ग्रेड स्तर के अधिकारी के कार्य का आवंटन",
+  "दूरसंचार विभाग के आई. टी. एस. समूह 'ए' के जे. टी. एस. की अंतिम वरिष्ठता सूची 01.01.2026-रेग पर",
   "प्रेस विज्ञप्ति",
   "युवा नवोन्मेषकों ने इंडिया मोबाइल कांग्रेस 2026 के दौरान दूरसंचार विभाग (डीओटी) और अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) द्वारा आयोजित 'रोबोटिक्स फॉर गुड यूथ चैलेंज इंडिया 2026' में अपनी प्रतिभा का प्रदर्शन किया",
   "कृषि-खाद्य प्रणालियों के लिए कृत्रिम बुद्धिमत्ता (जी. आई.-ए. आई. 4. एफ. एस.) पर वैश्विक पहल की दूसरी बैठक नई दिल्ली में आई. एम. सी. 2026 में आयोजित की गई",
-  "केंद्रीय मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने आईएमसी 2026 में 5जी उपयोग केस लैब्स पर कार्यशाला का उद्घाटन किया; भारत के 5जी और 6जी दृष्टिकोण को आगे बढ़ाने में युवा नवोन्मेषकों की भूमिका पर प्रकाश डाला",
-  "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने इंडिया मोबाइल कांग्रेस 2026 में मीडिया से बातचीत की; भारतीय प्रौद्योगिकी को दुनिया तक ले जाने का आह्वान किया",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -147,7 +147,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -162,7 +161,7 @@
   "फीडबैक",
   "यह वेबसाइट दूरसंचार विभाग, संचार मंत्रालय, भारत सरकार की है।",
   "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 11.10.2026",
+  "अंतिम बार अद्यतन किया गयाः 12.10.2026",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -191,11 +190,11 @@
   },
   {
    "url": "https://dot.gov.in/ministry/our-division",
-   "text": "Our Division"
+   "text": "Our Divisions"
   },
   {
    "url": "https://dot.gov.in/ministry/our-organisation",
-   "text": "Our Organisation"
+   "text": "Our Organisations"
   },
   {
    "url": "https://dot.gov.in/ministry/our-performance",
@@ -326,16 +325,16 @@
    "text": "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना"
   },
   {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa",
+   "text": "तरंग संचार पोर्टल"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa",
+   "text": "दूरसंचार ई-सेवा पोर्टल"
+  },
+  {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa",
-   "text": "डिजिटल इंटेलिजेंस यूनिट (डी. आई. यू.) परियोजना के तहत संचार साथी पहल"
-  },
-  {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa",
-   "text": "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27"
-  },
-  {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa",
-   "text": "Technology Development & Investment Promotion (TDIP) Scheme"
+   "text": "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project"
   },
   {
    "url": "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf",
@@ -467,7 +466,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-12T00:29:54Z",
+ "fetched_at": "2026-10-12T10:40:16Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -527,8 +526,8 @@
    "expand_more": 0,
    "About Us": 0,
    "Our Team": 0,
-   "Our Division": 0,
-   "Our Organisation": 0,
+   "Our Division": 1,
+   "Our Organisation": 1,
    "Our Performance": 0,
    "Directory": 0,
    "Offerings": 0,
@@ -813,7 +812,7 @@
    "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27": 0,
    "अंतिम बार अद्यतन किया गयाः 18.09.2026": 0,
    "इंजीनियरिंग सेवा परीक्षा नियम, 2027": 0,
-   "Technology Development & Investment Promotion (TDIP) Scheme": 0,
+   "Technology Development & Investment Promotion (TDIP) Scheme": 1,
    "अंतिम बार अद्यतन किया गयाः 21.09.2026": 0,
    "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य सिंधिया ने दूरसंचार विभाग के सचिव और वरिष्ठ अधिकारियों के साथ ग्वालियर में दूरसंचार विनिर्माण क्षेत्र के लिए चिन्हित स्थल का निरीक्षण किया": 0,
    "बी. डब्ल्यू. एस. इलेक्ट्रिकल जी. आर. पी. ए. संवर्ग के जे. ए. जी. स्तर के अधिकारियों का स्थानांतरण और नियुक्ति": 0,
@@ -878,26 +877,35 @@
    "अधिकारी का स्थानांतरण और नियुक्ति-संबंधित": 0,
    "आई. टी. एस. जी. आर. ए. के अधिकारी के संबंध में 09-10-2026 का आदेश लिया गया": 0,
    "अंतिम बार अद्यतन किया गयाः 09.10.2026": 0,
-   "National Frequency Allocation Plan-2025": 6,
-   "Revenue Management Services": 0,
+   "National Frequency Allocation Plan-2025": 7,
+   "Revenue Management Services": 1,
    "कृषि-खाद्य प्रणालियों के लिए कृत्रिम बुद्धिमत्ता (जी. आई.-ए. आई. 4. एफ. एस.) पर वैश्विक पहल की दूसरी बैठक नई दिल्ली में आई. एम. सी. 2026 में आयोजित की गई": 0,
    "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने इंडिया मोबाइल कांग्रेस 2026 में मीडिया से बातचीत की; भारतीय प्रौद्योगिकी को दुनिया तक ले जाने का आह्वान किया": 0,
    "अंतिम बार अद्यतन किया गयाः 11.10.2026": 0,
    "केंद्रीय मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने आईएमसी 2026 में 5जी उपयोग केस लैब्स पर कार्यशाला का उद्घाटन किया; भारत के 5जी और 6जी दृष्टिकोण को आगे बढ़ाने में युवा नवोन्मेषकों की भूमिका पर प्रकाश डाला": 0,
    "युवा नवोन्मेषकों ने इंडिया मोबाइल कांग्रेस 2026 के दौरान दूरसंचार विभाग (डीओटी) और अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) द्वारा आयोजित 'रोबोटिक्स फॉर गुड यूथ चैलेंज इंडिया 2026' में अपनी प्रतिभा का प्रदर्शन किया": 0,
-   "FOR MEDIA": 0,
-   "MTCTE Portal": 0,
-   "Union Minister Shri Jyotiraditya M. Scindia Inaugurates Workshop on 5G Use Case Labs at IMC 2026; Highlights Role of Young Innovators in Advancing India’s 5G and 6G Vision": 0,
-   "Explore User Personas": 0,
-   "PM-WANI- Telecom eServices Portal": 0,
-   "Recent Documents": 0,
-   "Second Meeting of Global Initiative on AI for Agri-Food Systems (GI-AI4FS) held at IMC 2026 in New Delhi": 0,
-   "Call Before u Dig": 0,
-   "Telecom eServices Portal": 0,
-   "Union Minister of Communications Shri Jyotiraditya M. Scindia Holds Media Interaction at India Mobile Congress 2026; Calls for Taking Indian Technologies to the World": 0,
-   "View more": 0,
-   "Young Innovators showcase their talent in ‘Robotics for Good Youth Challenge India 2026’ hosted by Department of Telecommunications (DoT) and International Telecommunication Union (ITU) during India Mobile Congress 2026": 0,
-   "Important Links": 0
+   "FOR MEDIA": 1,
+   "MTCTE Portal": 1,
+   "Union Minister Shri Jyotiraditya M. Scindia Inaugurates Workshop on 5G Use Case Labs at IMC 2026; Highlights Role of Young Innovators in Advancing India’s 5G and 6G Vision": 1,
+   "Explore User Personas": 1,
+   "PM-WANI- Telecom eServices Portal": 1,
+   "Recent Documents": 1,
+   "Second Meeting of Global Initiative on AI for Agri-Food Systems (GI-AI4FS) held at IMC 2026 in New Delhi": 1,
+   "Call Before u Dig": 1,
+   "Telecom eServices Portal": 1,
+   "Union Minister of Communications Shri Jyotiraditya M. Scindia Holds Media Interaction at India Mobile Congress 2026; Calls for Taking Indian Technologies to the World": 1,
+   "View more": 1,
+   "Young Innovators showcase their talent in ‘Robotics for Good Youth Challenge India 2026’ hosted by Department of Telecommunications (DoT) and International Telecommunication Union (ITU) during India Mobile Congress 2026": 1,
+   "Important Links": 1,
+   "तरंग संचार पोर्टल": 0,
+   "अंतिम बार अद्यतन किया गयाः 12.10.2026": 0,
+   "दूरसंचार विभाग के आई. टी. एस. समूह 'ए' के जे. टी. एस. की अंतिम वरिष्ठता सूची 01.01.2026-रेग पर": 0,
+   "हमारे विभाग": 0,
+   "Our Divisions": 0,
+   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 0,
+   "Our Organisations": 0,
+   "हमारे संगठन": 0,
+   "डाक और टेलीग्राफ भवन निर्माण कार्य सेवा के कनिष्ठ प्रशासनिक ग्रेड स्तर के अधिकारी के कार्य का आवंटन": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -938,7 +946,7 @@
    "https://dot.gov.in/ministry/our-team/details/Dr.%20Pemmasani%20Chandra%20Sekhar": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 1,
    "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
@@ -970,10 +978,12 @@
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 1,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/7055c08dd8b1aeab78e2f8590f320054.pdf": 0,
-   "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": 0
+   "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",
