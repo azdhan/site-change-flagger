@@ -1,5 +1,78 @@
 [
  {
+  "id": "42b1efd54b5b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-12T21:14:55Z",
+  "summary": "3 new links, 13 new text blocks",
+  "added_lines": [
+   "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
+   "1087.50 Million",
+   "Total Broadband Subscribers - June 2026",
+   "47.82 Million",
+   "Total Wireline Subscribers - June 2026",
+   "1,067,970 Million",
+   "Telecom Financial Data - Gross Revenue (GR) - June 2026",
+   "1,114.17 Million",
+   "Total Internet subscribers - June 2026",
+   "1,300.25 Million",
+   "Total Wireless Subscribers - June 2026",
+   "1,348.08 Million",
+   "Total Subscribers (Wireless+Wireline) - June 2026"
+  ],
+  "added_lines_total": 13,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
+    "text": "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf",
+    "text": "Download Telecom Report (2.05 MB)"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "f87d4f12e1c9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-12T21:14:55Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-25th-october-2026?target=inapp&type=group_issue&nid=5934",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "b7f862ec6819",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-12T21:14:55Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "भारतीय कंप्यूटर आपातकालीन प्रतिक्रिया दल (आई. सी. ई. आर. टी.) की घोषणा, एक संलग्न कार्यालय के रूप में"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "7fed07174fd6",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
