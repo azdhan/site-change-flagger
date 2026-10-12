@@ -1182,7 +1182,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-11T19:31:24Z",
+ "fetched_at": "2026-10-12T00:29:54Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1476,9 +1476,9 @@
    "1st October 2026": 0,
    "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
    "Ganderbal, Jammu and Kashmir": 0,
-   "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 2,
+   "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 3,
    "TRAI releases The Indian Telecom Services Yearly Performance Indicators 2025 - 2026": 0,
-   "Kinnaur , Himachal Pradesh": 2,
+   "Kinnaur , Himachal Pradesh": 3,
    "5th October 2026": 0,
    "Kullu , Himachal Pradesh": 0,
    "Consumer Awareness Program at Kullu (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad": 0,
@@ -1707,7 +1707,7 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ganderbal-jammu-and-kashmir-helpage-social-welfare": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-indian-telecom-services-yearly-performance-indicators-1": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-indian-telecom-services-yearly-performance-indicators-1": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kinnaur-himachal-pradesh-indian-institute-technology": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kinnaur-himachal-pradesh-indian-institute-technology": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kullu-himachal-pradesh-himachal-upbhokta-sanrakchan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-dhar-madhya-pradesh-ro-bhopal": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-and-around-balasore-city-covering": 0,
@@ -1727,13 +1727,6 @@
    "Ayodhya, Uttar Pradesh": "2026-09-20T23:12:46Z",
    "Chandigarh , Chandigarh": "2026-09-25T04:51:10Z",
    "10:00 AM": "2026-10-01T10:02:35Z",
-   "Nilgiris, Tamil Nadu": "2026-09-11T23:13:35Z",
-   "Consumer Awareness Program at Nilgiris (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": "2026-09-11T23:13:35Z",
-   "Godda , Jharkhand": "2026-09-11T23:13:35Z",
-   "Consumer Awareness Program at Pudukkottai (Tamil Nadu) by TN Consumer Federation": "2026-09-11T23:13:35Z",
-   "Consumer Awareness Program at Godda (Jharkhand) by Mahila Kalyan Smiti Dhori": "2026-09-11T23:13:35Z",
-   "pudukkottai, Tamil Nadu": "2026-09-11T23:13:35Z",
-   "9 September, 2026": "2026-09-11T23:13:35Z",
    "TRAI Assesses Mobile Network Quality Across Haridwar, Rishikesh & Nearby Areas": "2026-09-16T04:44:05Z",
    "3rd August 2026": "2026-09-16T04:44:05Z",
    "10 September, 2026": "2026-09-16T04:44:05Z",
@@ -1885,9 +1878,6 @@
    "8 October, 2026": "2026-10-11T12:42:14Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nilgiris-tamil-nadu-tamilnadu-consumer-protection-and": "2026-09-11T23:13:35Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-godda-jharkhand-mahila-kalyan-smiti-dhori": "2026-09-11T23:13:35Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-pudukkottai-tamil-nadu-tn-consumer-federation": "2026-09-11T23:13:35Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gir-somnath-gujarat-jhalod-taluka-grahak-surksha-mandal": "2026-09-12T20:30:51Z",
    "http://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": "2026-09-15T21:16:41Z",
    "https://www.trai.gov.in/notifications/press-release/trai-revamps-trai-mycall-mobile-application-assess-voice-call-quality": "2026-09-15T21:16:41Z",
