@@ -1,5 +1,57 @@
 [
  {
+  "id": "0b921c3277c5",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-13T10:27:41Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "ऑर्डर डी. टी. 13.10.2026 रेग. आई. टी. एस. समूह 'ए' के एस. टी. एस. ग्रेड में अधिकारियों का स्थानांतरण और नियुक्ति",
+   "आई. टी. एस. जी. आर. ए. के जे. टी. एस. ग्रेड में स्थानांतरण और नियुक्ति",
+   "अंतिम बार अद्यतन किया गयाः 13.10.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e97b12b76396",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-13T10:27:41Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "13 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://e-hrms.gov.in/home",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "5201dd00494d",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-13T10:27:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 13.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "42b1efd54b5b",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
