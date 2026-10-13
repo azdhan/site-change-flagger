@@ -1,5 +1,41 @@
 [
  {
+  "id": "e43a4345c715",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-13T19:13:34Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "समाप्ति पत्र (अक्टूबर 2026)"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)",
+    "text": "आदेश और सूचनाएँ समाप्ति पत्र (अक्टूबर 2026)"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "f6b6431d8741",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-13T19:13:34Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
+   "Kinnaur , Himachal Pradesh"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "0b921c3277c5",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
