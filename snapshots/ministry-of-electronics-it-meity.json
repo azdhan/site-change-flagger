@@ -105,20 +105,19 @@
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
-  "प्रमुख प्रस्ताव",
+  "Key Offerings",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "arrow_forward_ios",
   "NeGD’s Non-Technical (Summer) Internship Programme",
-  "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
+  "Mobile Phone Manufacturing Scheme (MPMS)",
   "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "विश्वेश्वरैया पीएचडी योजना",
-  "Mobile Phone Manufacturing Scheme (MPMS)",
   "Digital India Internship Scheme 2026",
   "Visvesvaraya PhD Scheme",
   "अधिक देखें",
-  "नया क्या है",
-  "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026",
-  "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
+  "What’s New",
+  "Digital Personal Data Protection(Removal of Difficulties) Order,2026",
+  "Monthly Achievements for the month of July, 2026",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
   "भारतीय कंप्यूटर आपातकालीन प्रतिक्रिया दल (आई. सी. ई. आर. टी.) की घोषणा, एक संलग्न कार्यालय के रूप में",
@@ -141,7 +140,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -317,7 +315,7 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa",
-   "text": "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)"
+   "text": "Mobile Phone Manufacturing Scheme (MPMS)"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
@@ -329,15 +327,15 @@
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf",
-   "text": "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026 arrow_forward_ios"
+   "text": "Digital Personal Data Protection(Removal of Difficulties) Order,2026 arrow_forward_ios"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
-   "text": "जुलाई, 2026 के लिए मासिक उपलब्धियाँ arrow_forward_ios"
+   "text": "Monthly Achievements for the month of July, 2026 arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
+   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
@@ -433,7 +431,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-13T19:13:34Z",
+ "fetched_at": "2026-10-14T00:16:11Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -572,7 +570,7 @@
    "HON’BLE MINISTER": 0,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
-   "What’s New": 1,
+   "What’s New": 0,
    "अभिलेखागार": 0,
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
@@ -634,7 +632,7 @@
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 1,
+   "Monthly Achievements for the month of July, 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
    "जुलाई, 2026 के लिए मासिक उपलब्धियाँ": 0,
    "अंतिम बार अद्यतन किया गयाः 17.08.2026": 0,
@@ -680,7 +678,7 @@
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
-   "Key Offerings": 3,
+   "Key Offerings": 0,
    "अंतिम बार अद्यतन किया गयाः 01.10.2026": 0,
    "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षम भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण": 0,
    "अंतिम बार अद्यतन किया गयाः 05.10.2026": 0,
@@ -689,8 +687,8 @@
    "अंतिम बार अद्यतन किया गयाः 08.10.2026": 0,
    "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 09.10.2026": 0,
-   "Digital Personal Data Protection(Removal of Difficulties) Order,2026": 1,
-   "View more": 3,
+   "Digital Personal Data Protection(Removal of Difficulties) Order,2026": 0,
+   "View more": 4,
    "अंतिम बार अद्यतन किया गयाः 12.10.2026": 0,
    "एमईआईटीवाई 12.10.2026 में समूह समन्वयकों/एचएजी स्तर के अधिकारियों के बीच संशोधित कार्य वितरण": 0,
    "समूह समन्वयकों/एच. ए. जी. स्तर के कार्यालय के बीच संशोधित कार्य वितरण 13.04.2026": 0,
