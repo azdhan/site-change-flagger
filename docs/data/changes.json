@@ -1,5 +1,29 @@
 [
  {
+  "id": "52d7fbf7986f",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-14T19:19:27Z",
+  "summary": "13 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "1065.88 Million",
+   "Total Broadband Subscribers - March 2026",
+   "48.25 Million",
+   "Total Wireline Subscribers - March 2026",
+   "1,051,180 Million",
+   "Telecom Financial Data - Gross Revenue (GR) - March 2026",
+   "1092.79 Million",
+   "Total Internet subscribers - March 2026",
+   "1265.73 Million",
+   "Total Wireless Subscribers - March 2026"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "0dfac3bab80b",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
