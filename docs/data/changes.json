@@ -1,5 +1,57 @@
 [
  {
+  "id": "5672850ea21c",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-14T08:37:11Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 14.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8b9b920fd8ff",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-14T08:37:11Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "92.76 किलोबाइट |",
+   "स्रोत \"सौजन्य: संसद टीवी\" को प्रमुखता से प्रदर्शित करने के संबंध में।",
+   "14 अक्टूबर 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-10/advisory-dated-07102026.pdf",
+    "text": "14-10-2026 | 92.76 किलोबाइट | स्रोत \"सौजन्य: संसद टीवी\" को प्रमुखता से प्रदर्शित करने के संबंध में।"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "3418fccc469d",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-14T08:37:11Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 14.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e43a4345c715",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
