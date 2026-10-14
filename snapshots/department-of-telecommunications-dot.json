@@ -125,11 +125,12 @@
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
+  "प्रेस विज्ञप्ति",
+  "दूरसंचार विभाग (डीओटी) संचार साथी के माध्यम से खोए हुए मोबाइल हैंडसेट की बरामदगी के लिए शीर्ष प्रदर्शन करने वाले राज्यों/केंद्र शासित प्रदेशों, जिला पुलिस और पुलिस स्टेशनों को सम्मानित करेगा",
+  "डीओटी और आईटीयू ने इंडिया मोबाइल कांग्रेस 2026 में गुड बिल्ड-ए-थॉन 5.0 के लिए एआई का आयोजन किया",
   "आदेश और सूचनाएँ",
-  "समाप्ति पत्र (अक्टूबर 2026)",
-  "ऑर्डर डी. टी. 13.10.2026 रेग. आई. टी. एस. समूह 'ए' के एस. टी. एस. ग्रेड में अधिकारियों का स्थानांतरण और नियुक्ति",
-  "आई. टी. एस. जी. आर. ए. के जे. टी. एस. ग्रेड में स्थानांतरण और नियुक्ति",
-  "डाक और टेलीग्राफ भवन निर्माण कार्य सेवा के कनिष्ठ प्रशासनिक ग्रेड स्तर के अधिकारी के कार्य का आवंटन",
+  "एकीकृत लाइसेंस समझौते में संशोधन-\"कॉलिंग लाइन आइडेंटिफिकेशन\" की परिभाषा",
+  "परिपत्र संख्या. 01-दूरसंचार नेटवर्क में कॉलिंग नाम प्रस्तुति सेवा का परिचय",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -360,10 +361,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)",
-   "text": "आदेश और सूचनाएँ समाप्ति पत्र (अक्टूबर 2026)"
-  },
-  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -469,7 +466,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-14T08:37:11Z",
+ "fetched_at": "2026-10-14T14:29:00Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -529,8 +526,6 @@
    "expand_more": 0,
    "About Us": 0,
    "Our Team": 0,
-   "Our Division": 7,
-   "Our Organisation": 7,
    "Our Performance": 0,
    "Directory": 0,
    "Offerings": 0,
@@ -815,7 +810,6 @@
    "पूंजी निवेश के लिए राज्यों को विशेष सहायता (एसएएससीआई), 2026-27": 0,
    "अंतिम बार अद्यतन किया गयाः 18.09.2026": 0,
    "इंजीनियरिंग सेवा परीक्षा नियम, 2027": 0,
-   "Technology Development & Investment Promotion (TDIP) Scheme": 7,
    "अंतिम बार अद्यतन किया गयाः 21.09.2026": 0,
    "केंद्रीय संचार और पूर्वोत्तर क्षेत्र विकास मंत्री श्री ज्योतिरादित्य सिंधिया ने दूरसंचार विभाग के सचिव और वरिष्ठ अधिकारियों के साथ ग्वालियर में दूरसंचार विनिर्माण क्षेत्र के लिए चिन्हित स्थल का निरीक्षण किया": 0,
    "बी. डब्ल्यू. एस. इलेक्ट्रिकल जी. आर. पी. ए. संवर्ग के जे. ए. जी. स्तर के अधिकारियों का स्थानांतरण और नियुक्ति": 0,
@@ -880,25 +874,11 @@
    "अधिकारी का स्थानांतरण और नियुक्ति-संबंधित": 0,
    "आई. टी. एस. जी. आर. ए. के अधिकारी के संबंध में 09-10-2026 का आदेश लिया गया": 0,
    "अंतिम बार अद्यतन किया गयाः 09.10.2026": 0,
-   "Revenue Management Services": 7,
    "कृषि-खाद्य प्रणालियों के लिए कृत्रिम बुद्धिमत्ता (जी. आई.-ए. आई. 4. एफ. एस.) पर वैश्विक पहल की दूसरी बैठक नई दिल्ली में आई. एम. सी. 2026 में आयोजित की गई": 0,
    "केंद्रीय संचार मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने इंडिया मोबाइल कांग्रेस 2026 में मीडिया से बातचीत की; भारतीय प्रौद्योगिकी को दुनिया तक ले जाने का आह्वान किया": 0,
    "अंतिम बार अद्यतन किया गयाः 11.10.2026": 0,
    "केंद्रीय मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने आईएमसी 2026 में 5जी उपयोग केस लैब्स पर कार्यशाला का उद्घाटन किया; भारत के 5जी और 6जी दृष्टिकोण को आगे बढ़ाने में युवा नवोन्मेषकों की भूमिका पर प्रकाश डाला": 0,
    "युवा नवोन्मेषकों ने इंडिया मोबाइल कांग्रेस 2026 के दौरान दूरसंचार विभाग (डीओटी) और अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) द्वारा आयोजित 'रोबोटिक्स फॉर गुड यूथ चैलेंज इंडिया 2026' में अपनी प्रतिभा का प्रदर्शन किया": 0,
-   "FOR MEDIA": 7,
-   "MTCTE Portal": 7,
-   "Union Minister Shri Jyotiraditya M. Scindia Inaugurates Workshop on 5G Use Case Labs at IMC 2026; Highlights Role of Young Innovators in Advancing India’s 5G and 6G Vision": 7,
-   "Explore User Personas": 7,
-   "PM-WANI- Telecom eServices Portal": 7,
-   "Recent Documents": 7,
-   "Second Meeting of Global Initiative on AI for Agri-Food Systems (GI-AI4FS) held at IMC 2026 in New Delhi": 7,
-   "Call Before u Dig": 7,
-   "Telecom eServices Portal": 7,
-   "Union Minister of Communications Shri Jyotiraditya M. Scindia Holds Media Interaction at India Mobile Congress 2026; Calls for Taking Indian Technologies to the World": 7,
-   "View more": 7,
-   "Young Innovators showcase their talent in ‘Robotics for Good Youth Challenge India 2026’ hosted by Department of Telecommunications (DoT) and International Telecommunication Union (ITU) during India Mobile Congress 2026": 7,
-   "Important Links": 7,
    "तरंग संचार पोर्टल": 0,
    "अंतिम बार अद्यतन किया गयाः 12.10.2026": 0,
    "दूरसंचार विभाग के आई. टी. एस. समूह 'ए' के जे. टी. एस. की अंतिम वरिष्ठता सूची 01.01.2026-रेग पर": 0,
@@ -912,7 +892,11 @@
    "आई. टी. एस. जी. आर. ए. के जे. टी. एस. ग्रेड में स्थानांतरण और नियुक्ति": 0,
    "अंतिम बार अद्यतन किया गयाः 13.10.2026": 0,
    "समाप्ति पत्र (अक्टूबर 2026)": 0,
-   "अंतिम बार अद्यतन किया गयाः 14.10.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 14.10.2026": 0,
+   "परिपत्र संख्या. 01-दूरसंचार नेटवर्क में कॉलिंग नाम प्रस्तुति सेवा का परिचय": 0,
+   "डीओटी और आईटीयू ने इंडिया मोबाइल कांग्रेस 2026 में गुड बिल्ड-ए-थॉन 5.0 के लिए एआई का आयोजन किया": 0,
+   "एकीकृत लाइसेंस समझौते में संशोधन-\"कॉलिंग लाइन आइडेंटिफिकेशन\" की परिभाषा": 0,
+   "दूरसंचार विभाग (डीओटी) संचार साथी के माध्यम से खोए हुए मोबाइल हैंडसेट की बरामदगी के लिए शीर्ष प्रदर्शन करने वाले राज्यों/केंद्र शासित प्रदेशों, जिला पुलिस और पुलिस स्टेशनों को सम्मानित करेगा": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -953,7 +937,6 @@
    "https://dot.gov.in/ministry/our-team/details/Dr.%20Pemmasani%20Chandra%20Sekhar": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": 7,
    "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
@@ -985,20 +968,35 @@
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 7,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/7055c08dd8b1aeab78e2f8590f320054.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)": 0
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)": 1
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",
-   "Revenue Management Services": "2026-10-02T17:51:44Z",
+   "Revenue Management Services": "2026-10-14T14:29:00Z",
    "National Frequency Allocation Plan-2025": "2026-10-12T21:14:55Z",
    "100 5G Labs": "2026-09-18T23:15:59Z",
-   "For IT Professional": "2026-09-26T23:35:04Z"
+   "For IT Professional": "2026-09-26T23:35:04Z",
+   "Our Division": "2026-10-14T14:29:00Z",
+   "Our Organisation": "2026-10-14T14:29:00Z",
+   "Technology Development & Investment Promotion (TDIP) Scheme": "2026-10-14T14:29:00Z",
+   "FOR MEDIA": "2026-10-14T14:29:00Z",
+   "MTCTE Portal": "2026-10-14T14:29:00Z",
+   "Union Minister Shri Jyotiraditya M. Scindia Inaugurates Workshop on 5G Use Case Labs at IMC 2026; Highlights Role of Young Innovators in Advancing India’s 5G and 6G Vision": "2026-10-14T14:29:00Z",
+   "Explore User Personas": "2026-10-14T14:29:00Z",
+   "PM-WANI- Telecom eServices Portal": "2026-10-14T14:29:00Z",
+   "Recent Documents": "2026-10-14T14:29:00Z",
+   "Second Meeting of Global Initiative on AI for Agri-Food Systems (GI-AI4FS) held at IMC 2026 in New Delhi": "2026-10-14T14:29:00Z",
+   "Call Before u Dig": "2026-10-14T14:29:00Z",
+   "Telecom eServices Portal": "2026-10-14T14:29:00Z",
+   "Union Minister of Communications Shri Jyotiraditya M. Scindia Holds Media Interaction at India Mobile Congress 2026; Calls for Taking Indian Technologies to the World": "2026-10-14T14:29:00Z",
+   "View more": "2026-10-14T14:29:00Z",
+   "Young Innovators showcase their talent in ‘Robotics for Good Youth Challenge India 2026’ hosted by Department of Telecommunications (DoT) and International Telecommunication Union (ITU) during India Mobile Congress 2026": "2026-10-14T14:29:00Z",
+   "Important Links": "2026-10-14T14:29:00Z"
   },
   "grave_links": {
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-july-sept-2026-cTO2UzNtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(July-Sept-2026)": "2026-09-30T05:26:41Z",
@@ -1010,7 +1008,9 @@
    "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": "2026-10-02T09:40:37Z",
    "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": "2026-10-02T09:40:37Z",
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes": "2026-10-11T05:39:29Z",
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": "2026-10-11T19:31:24Z"
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": "2026-10-11T19:31:24Z",
+   "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": "2026-10-14T14:29:00Z",
+   "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": "2026-10-14T14:29:00Z"
   }
  }
 }

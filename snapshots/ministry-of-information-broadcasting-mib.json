@@ -334,6 +334,18 @@
    "text": "मंत्रालय के बारे में"
   },
   {
+   "url": "https://mib.gov.in/index.php/hi/ministry/organizations",
+   "text": "हमारा संगठन"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/ministry/about-us/team",
+   "text": "हमारी टीम"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/ministry/our-wings",
+   "text": "हमारी विंग"
+  },
+  {
    "url": "https://mib.gov.in/hi/ministry/about-us/sarai-asavainai-vaaisanava",
    "text": "श्री अश्विनी वैष्णव"
   },
@@ -562,27 +574,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -611,7 +631,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-14T08:37:11Z",
+ "fetched_at": "2026-10-14T14:29:00Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -714,8 +734,8 @@
    "वित्त वर्ष 2024-2025 के लिए NFDC की वार्षिक रिपोर्ट": 0,
    "955.14 किलोबाइट |": 0,
    "टीवी रेटिंग नीति 2026- टेलीविजन रेटिंग के विनियमन संबंधी दिशानिर्देश रेटिंग…": 0,
-   "7.71 मेगा बाइट |": 1,
-   "फिल्मों के प्रमाणन के प्रावधानों से छूट - के संबंध में।": 1,
+   "7.71 मेगा बाइट |": 2,
+   "फिल्मों के प्रमाणन के प्रावधानों से छूट - के संबंध में।": 2,
    "और देखें": 0,
    "हालिया दस्तावेज़": 0,
    "प्रेस प्रकाशनी": 0,
@@ -778,18 +798,15 @@
    "केबल टेलीविज़न नेटवर्क (संशोधन) नियम, 2026": 0,
    "1.32 मेगा बाइट |": 0,
    "1.37 मेगा बाइट |": 0,
-   "मन की बात अगस्त 2026": 1,
+   "मन की बात अगस्त 2026": 2,
    "परामर्श": 0,
-   "'ओटीटी प्लेटफ़ॉर्म पर नशीले पदार्थों के सेवन के हानिकारक प्रभावों से जुड़ी चेतावनी दिखाने' के संबंध में 24.08.2026 की एडवाइज़री।": 7,
-   "ई - बुक्स": 1,
-   "1.28 मेगा बाइट |": 7,
-   "14.2 मेगा बाइट |": 1,
+   "ई - बुक्स": 2,
+   "14.2 मेगा बाइट |": 2,
    "डॉ. एल. मुरुगन ने युवाओं से 2047 तक विकसित भारत यात्रा में देश का नेतृत्व करने का आह्वान किया": 0,
    "सूचना और प्रसारण मंत्रालय ने 'स्वच्छता ही सेवा 2026' अभियान सफलतापूर्वक पूरा किया": 0,
-   "10 अक्टूबर 2026": 7,
-   "12 अक्टूबर 2026": 4,
+   "12 अक्टूबर 2026": 5,
    "सूचना एवं प्रसारण मंत्रालय ने स्वच्छता बढ़ाने और लंबित मामलों में कमी लाने के लिए देशव्यापी विशेष अभियान 6.0 का शुभारंभ किया": 0,
-   "13 अक्टूबर 2026": 1,
+   "13 अक्टूबर 2026": 2,
    "14 अक्टूबर 2026": 0,
    "92.76 किलोबाइट |": 0,
    "स्रोत \"सौजन्य: संसद टीवी\" को प्रमुखता से प्रदर्शित करने के संबंध में।": 0
@@ -852,7 +869,7 @@
    "https://mib.gov.in/sites/default/files/2026-05/adaesa-imc-1.pdf": 0,
    "https://mib.gov.in/sites/default/files/annual-report-of-nfdc-for-fy-2024-2025.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-05/taivai-raetainga-naitai-2026-taelaivaijana-raetainga-kae-vainaiyamana-sanbandhai-daisaanairadaesa.pdf": 0,
-   "https://mib.gov.in/sites/default/files/2026-04/hindi-exemption-policy-dated-30-03-2026.pdf": 1,
+   "https://mib.gov.in/sites/default/files/2026-04/hindi-exemption-policy-dated-30-03-2026.pdf": 2,
    "http://mib.gov.in/hi/whats-new": 0,
    "http://mib.gov.in/hi/documents/reports": 0,
    "https://mib.gov.in/hi/persona/media": 0,
@@ -876,13 +893,13 @@
    "https://www.ncs.gov.in/": 0,
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
-   "https://www.indiacode.nic.in/": 4,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://www.indiacode.nic.in/": 5,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -900,53 +917,52 @@
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-751-e-cable-television-networks-amendment-rules-2026.pdf": 0,
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
    "https://mib.gov.in/hi/whats-new": 0,
-   "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": 6,
+   "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": 7,
    "https://www.mygov.in/campaigns/make-in-india/?target=webview&type=campaign&nid=0": 0,
-   "https://mib.gov.in/sites/default/files/2026-10/edavaaija-rai.pdf": 7,
-   "https://mib.gov.in/sites/default/files/2026-10/mann-ki-baat-hindi-august-2026-single-spreads.pdf": 1,
+   "https://mib.gov.in/sites/default/files/2026-10/mann-ki-baat-hindi-august-2026-single-spreads.pdf": 2,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320785&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321029&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/chief-controller-of-accounts": 6,
-   "https://mib.gov.in/index.php/hi/ministry/about-us/team": 6,
-   "https://mib.gov.in/index.php/hi/connect/rti": 6,
-   "https://mib.gov.in/index.php/hi/documents/notification/acts-policy-guidelines": 6,
-   "https://mib.gov.in/index.php/hi/offerings/FM-radio-auctions": 6,
-   "https://mib.gov.in/index.php/hi/media/video-gallery": 6,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 4,
-   "https://mib.gov.in/index.php/hi/ministry/directory": 6,
-   "https://mib.gov.in/index.php/hi/persona/researcher": 6,
-   "https://mib.gov.in/index.php/hi/provisions-regarding-official-language": 6,
-   "https://mib.gov.in/index.php/hi/offerings/notification/tender-notices": 6,
-   "https://mib.gov.in/index.php/hi": 6,
-   "https://mib.gov.in/index.php/hi/offerings/vacancies": 6,
-   "https://mib.gov.in/index.php/hi/connect/vigilance": 6,
-   "https://mib.gov.in/index.php/hi/document/e-book-handbook": 6,
-   "https://mib.gov.in/index.php/hi/connect/indian-information-service-page": 6,
-   "https://mib.gov.in/index.php/hi/ministry/our-wings": 6,
-   "https://mib.gov.in/index.php/hi/persona/media/mann_ki_baat": 6,
-   "https://mib.gov.in/index.php/hi/ministry/about-us": 6,
-   "https://mib.gov.in/index.php/hi/documents/reports": 6,
-   "https://mib.gov.in/index.php/hi/ministry/our-performance": 6,
-   "https://mib.gov.in/index.php/hi/documents/notification/press-releases": 6,
-   "https://mib.gov.in/index.php/hi/persona/media": 6,
+   "https://mib.gov.in/index.php/hi/chief-controller-of-accounts": 7,
+   "https://mib.gov.in/index.php/hi/ministry/about-us/team": 0,
+   "https://mib.gov.in/index.php/hi/connect/rti": 7,
+   "https://mib.gov.in/index.php/hi/documents/notification/acts-policy-guidelines": 7,
+   "https://mib.gov.in/index.php/hi/offerings/FM-radio-auctions": 7,
+   "https://mib.gov.in/index.php/hi/media/video-gallery": 7,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
+   "https://mib.gov.in/index.php/hi/ministry/directory": 7,
+   "https://mib.gov.in/index.php/hi/persona/researcher": 7,
+   "https://mib.gov.in/index.php/hi/provisions-regarding-official-language": 7,
+   "https://mib.gov.in/index.php/hi/offerings/notification/tender-notices": 7,
+   "https://mib.gov.in/index.php/hi": 7,
+   "https://mib.gov.in/index.php/hi/offerings/vacancies": 7,
+   "https://mib.gov.in/index.php/hi/connect/vigilance": 7,
+   "https://mib.gov.in/index.php/hi/document/e-book-handbook": 7,
+   "https://mib.gov.in/index.php/hi/connect/indian-information-service-page": 7,
+   "https://mib.gov.in/index.php/hi/ministry/our-wings": 0,
+   "https://mib.gov.in/index.php/hi/persona/media/mann_ki_baat": 7,
+   "https://mib.gov.in/index.php/hi/ministry/about-us": 7,
+   "https://mib.gov.in/index.php/hi/documents/reports": 7,
+   "https://mib.gov.in/index.php/hi/ministry/our-performance": 7,
+   "https://mib.gov.in/index.php/hi/documents/notification/press-releases": 7,
+   "https://mib.gov.in/index.php/hi/persona/media": 7,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321519&reg=3&lang=2": 0,
-   "https://mib.gov.in/index.php/hi/documents/notification/notices": 6,
-   "https://mib.gov.in/index.php/hi/media/photo-gallery": 6,
-   "https://mib.gov.in/index.php/hi/connect/e-sewa": 6,
-   "https://mib.gov.in/index.php/hi/connect/parliament-question": 6,
-   "https://mib.gov.in/index.php/hi/documents/citizen_charter": 6,
-   "https://mib.gov.in/index.php/hi/connect/grievance-redressal": 6,
-   "https://mib.gov.in/index.php/hi/documents/notification/Other-communication": 6,
-   "https://mib.gov.in/index.php/hi/offerings/schemes-monitoring": 6,
-   "https://mib.gov.in/index.php/hi/ministry/organizations": 6,
+   "https://mib.gov.in/index.php/hi/documents/notification/notices": 7,
+   "https://mib.gov.in/index.php/hi/media/photo-gallery": 7,
+   "https://mib.gov.in/index.php/hi/connect/e-sewa": 7,
+   "https://mib.gov.in/index.php/hi/connect/parliament-question": 7,
+   "https://mib.gov.in/index.php/hi/documents/citizen_charter": 7,
+   "https://mib.gov.in/index.php/hi/connect/grievance-redressal": 7,
+   "https://mib.gov.in/index.php/hi/documents/notification/Other-communication": 7,
+   "https://mib.gov.in/index.php/hi/offerings/schemes-monitoring": 7,
+   "https://mib.gov.in/index.php/hi/ministry/organizations": 0,
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-25th-october-2026?target=inapp&type=group_issue&nid=5934": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 4,
-   "https://mib.gov.in/index.php/hi/feedback": 4,
-   "https://mib.gov.in/index.php/hi/help": 4,
-   "https://mib.gov.in/index.php/hi/website-policy": 4,
-   "https://mib.gov.in/index.php/hi/archives": 4,
-   "https://mib.gov.in/index.php/hi/related-link": 4,
-   "https://mib.gov.in/index.php/hi/sitemap": 4,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/help": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
    "https://e-hrms.gov.in/home": 0,
    "https://mib.gov.in/sites/default/files/2026-10/advisory-dated-07102026.pdf": 0
   },
@@ -991,7 +1007,10 @@
    "सूचना और प्रसारण मंत्रालय ने डॉ. एंगम पामे (आईआईएस), अपर महानिदेशक (एडीजी), श्री नांपिबौ मारिनमई (आईआईएस), निदेशक और श्री एच. लियानवेला, एमटीएस के असामयिक निधन पर शोक व्यक्त किया": "2026-10-11T12:42:14Z",
    "पत्र सूचना कार्यालय (पीआईबी) ने राष्ट्रीय मीडिया केंद्र में स्वच्छता ही सेवा 2026 गतिविधियों का आयोजन किया": "2026-10-11T12:42:14Z",
    "08 अक्टूबर 2026": "2026-10-11T12:42:14Z",
-   "09 अक्टूबर 2026": "2026-10-12T10:40:16Z"
+   "09 अक्टूबर 2026": "2026-10-12T10:40:16Z",
+   "'ओटीटी प्लेटफ़ॉर्म पर नशीले पदार्थों के सेवन के हानिकारक प्रभावों से जुड़ी चेतावनी दिखाने' के संबंध में 24.08.2026 की एडवाइज़री।": "2026-10-14T14:29:00Z",
+   "1.28 मेगा बाइट |": "2026-10-14T14:29:00Z",
+   "10 अक्टूबर 2026": "2026-10-14T14:29:00Z"
   },
   "grave_links": {
    "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-10-09T18:19:39Z",
@@ -1054,7 +1073,8 @@
    "https://mib.gov.in/index.php/hi/documents/citizen_charter": "2026-10-09T01:11:05Z",
    "https://mib.gov.in/index.php/hi/persona/media/mann_ki_baat": "2026-10-09T01:11:05Z",
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2317750&reg=3&lang=2": "2026-10-11T12:42:14Z",
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318394&reg=3&lang=2": "2026-10-11T12:42:14Z"
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2318394&reg=3&lang=2": "2026-10-11T12:42:14Z",
+   "https://mib.gov.in/sites/default/files/2026-10/edavaaija-rai.pdf": "2026-10-14T14:29:00Z"
   }
  }
 }

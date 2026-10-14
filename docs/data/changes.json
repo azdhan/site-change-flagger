@@ -1,5 +1,86 @@
 [
  {
+  "id": "0dfac3bab80b",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-14T14:29:00Z",
+  "summary": "4 new text blocks, 18 items no longer on page",
+  "added_lines": [
+   "दूरसंचार विभाग (डीओटी) संचार साथी के माध्यम से खोए हुए मोबाइल हैंडसेट की बरामदगी के लिए शीर्ष प्रदर्शन करने वाले राज्यों/केंद्र शासित प्रदेशों, जिला पुलिस और पुलिस स्टेशनों को सम्मानित करेगा",
+   "डीओटी और आईटीयू ने इंडिया मोबाइल कांग्रेस 2026 में गुड बिल्ड-ए-थॉन 5.0 के लिए एआई का आयोजन किया",
+   "एकीकृत लाइसेंस समझौते में संशोधन-\"कॉलिंग लाइन आइडेंटिफिकेशन\" की परिभाषा",
+   "परिपत्र संख्या. 01-दूरसंचार नेटवर्क में कॉलिंग नाम प्रस्तुति सेवा का परिचय"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [
+   "Our Division",
+   "Our Organisation",
+   "Technology Development & Investment Promotion (TDIP) Scheme",
+   "FOR MEDIA",
+   "MTCTE Portal",
+   "Union Minister Shri Jyotiraditya M. Scindia Inaugurates Workshop on 5G Use Case Labs at IMC 2026; Highlights Role of Young Innovators in Advancing India’s 5G and 6G Vision",
+   "Explore User Personas",
+   "PM-WANI- Telecom eServices Portal",
+   "Recent Documents",
+   "Second Meeting of Global Initiative on AI for Agri-Food Systems (GI-AI4FS) held at IMC 2026 in New Delhi"
+  ],
+  "removed_lines_total": 18,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "9c9de2ddb3b3",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-14T14:29:00Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "25th September 2026",
+   "TRAI Launches Digital Connectivity Rating Platform",
+   "9 October, 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "5f19982d2741",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-14T14:29:00Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "'ओटीटी प्लेटफ़ॉर्म पर नशीले पदार्थों के सेवन के हानिकारक प्रभावों से जुड़ी चेतावनी दिखाने' के संबंध में 24.08.2026 की एडवाइज़री।",
+   "1.28 मेगा बाइट |",
+   "10 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f0d51316699b",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-14T14:29:00Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://nasscom.in/events/gitex-global-2026-under-india-pavilion",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "5672850ea21c",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

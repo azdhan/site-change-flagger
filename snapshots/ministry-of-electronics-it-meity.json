@@ -148,6 +148,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -282,6 +283,10 @@
    "text": "Parliament Questions"
   },
   {
+   "url": "https://nasscom.in/events/gitex-global-2026-under-india-pavilion",
+   "text": ""
+  },
+  {
    "url": "https://meity.gov.in/static/uploads/2026/04/5f8bd2d1ed4fafa1564f8768ba47e546.pdf",
    "text": ""
   },
@@ -386,6 +391,10 @@
    "text": "View this post on Instagram"
   },
   {
+   "url": "https://innovateindia.mygov.in/cyber-security-grand-challenge/",
+   "text": ""
+  },
+  {
    "url": "https://meity.gov.in/archives?page=tenders_post",
    "text": "अभिलेखागार"
   },
@@ -435,7 +444,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-14T08:37:11Z",
+ "fetched_at": "2026-10-14T14:29:00Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -682,7 +691,7 @@
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
-   "Key Offerings": 1,
+   "Key Offerings": 2,
    "अंतिम बार अद्यतन किया गयाः 01.10.2026": 0,
    "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षम भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण": 0,
    "अंतिम बार अद्यतन किया गयाः 05.10.2026": 0,
@@ -692,7 +701,7 @@
    "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 09.10.2026": 0,
    "Digital Personal Data Protection(Removal of Difficulties) Order,2026": 0,
-   "View more": 5,
+   "View more": 6,
    "अंतिम बार अद्यतन किया गयाः 12.10.2026": 0,
    "एमईआईटीवाई 12.10.2026 में समूह समन्वयकों/एचएजी स्तर के अधिकारियों के बीच संशोधित कार्य वितरण": 0,
    "समूह समन्वयकों/एच. ए. जी. स्तर के कार्यालय के बीच संशोधित कार्य वितरण 13.04.2026": 0,
@@ -767,7 +776,8 @@
    "https://meity.gov.in/persona/media-QOwIDOtQWa": 0,
    "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa": 0,
-   "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf": 0
+   "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf": 0,
+   "https://nasscom.in/events/gitex-global-2026-under-india-pavilion": 0
   },
   "grave_lines": {
    "Recent Documents": "2026-10-13T02:34:24Z",
