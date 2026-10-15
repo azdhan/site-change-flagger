@@ -147,7 +147,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -406,18 +405,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
    "url": "https://dot.gov.in/archives?page=tenders",
    "text": "अभिलेखागार"
   },
@@ -467,7 +454,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-15T16:54:13Z",
+ "fetched_at": "2026-10-15T21:19:01Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -898,8 +885,8 @@
    "डीओटी और आईटीयू ने इंडिया मोबाइल कांग्रेस 2026 में गुड बिल्ड-ए-थॉन 5.0 के लिए एआई का आयोजन किया": 0,
    "एकीकृत लाइसेंस समझौते में संशोधन-\"कॉलिंग लाइन आइडेंटिफिकेशन\" की परिभाषा": 0,
    "दूरसंचार विभाग (डीओटी) संचार साथी के माध्यम से खोए हुए मोबाइल हैंडसेट की बरामदगी के लिए शीर्ष प्रदर्शन करने वाले राज्यों/केंद्र शासित प्रदेशों, जिला पुलिस और पुलिस स्टेशनों को सम्मानित करेगा": 0,
-   "Revenue Management Services": 2,
-   "National Frequency Allocation Plan-2025": 2,
+   "Revenue Management Services": 3,
+   "National Frequency Allocation Plan-2025": 3,
    "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री कपिल डालमिया, स्टाफ नं. 21501": 0,
    "दूरसंचार इंजीनियरिंग केंद्र (टी. ई. सी.) ने वैश्विक दूरसंचार मानकीकरण में भारत की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए टी. ई. सी. नई दिल्ली में विश्व मानक दिवस 2026 मनाया": 0,
    "डीओटी इकाइयों/संलग्न/अधीनस्थ/क्षेत्रीय कार्यालयों में वित्तीय शक्तियों का प्रत्यायोजन": 0,
@@ -968,9 +955,9 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 1,
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
@@ -980,7 +967,7 @@
    "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)": 6
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)": 7
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",

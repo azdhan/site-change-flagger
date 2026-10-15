@@ -1,5 +1,42 @@
 [
  {
+  "id": "3532b1ba0bcd",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-15T21:19:01Z",
+  "summary": "6 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Ganderbal (Jammu and Kashmir) by Helpage Social Welfare Society",
+   "Ganderbal, Jammu and Kashmir",
+   "Consumer Outreach Program at Dhar (Madhya Pradesh) by RO BHOPAL",
+   "Dhar, Madhya Pradesh"
+  ],
+  "removed_lines_total": 6,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "76d9047cb715",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-15T21:19:01Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "7.71 मेगा बाइट |",
+   "फिल्मों के प्रमाणन के प्रावधानों से छूट - के संबंध में।",
+   "मन की बात अगस्त 2026",
+   "14.2 मेगा बाइट |",
+   "13 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "86499159ea3b",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
