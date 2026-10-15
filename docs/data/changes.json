@@ -1,5 +1,119 @@
 [
  {
+  "id": "6848d1e8758d",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-15T11:20:56Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "आई. टी. एस. जी. आर. के अधिकारी के संबंध में शक्ति पर लिया गया। ए-श्री कपिल डालमिया, स्टाफ नं. 21501",
+   "डीओटी इकाइयों/संलग्न/अधीनस्थ/क्षेत्रीय कार्यालयों में वित्तीय शक्तियों का प्रत्यायोजन",
+   "दूरसंचार इंजीनियरिंग केंद्र (टी. ई. सी.) ने वैश्विक दूरसंचार मानकीकरण में भारत की महत्वपूर्ण भूमिका पर प्रकाश डालते हुए टी. ई. सी. नई दिल्ली में विश्व मानक दिवस 2026 मनाया",
+   "अंतिम बार अद्यतन किया गयाः 15.10.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "5608f6b03dfb",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-15T11:20:56Z",
+  "summary": "13 new links, 14 new text blocks",
+  "added_lines": [
+   "15th October 2026",
+   "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal.",
+   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
+   "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route",
+   "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
+   "Consumer Awareness Program at Siaha (Mizoram) by Mizoram Consumers' Union Hqrs",
+   "Saiha, Mizoram",
+   "Consumer Outreach Program at Hassan (Karnataka) by RO BENGALURU",
+   "Hassan , Karnataka",
+   "Consumer Awareness Program at Old Delhi (Delhi) by Federation of Coummunity Radio Station",
+   "Consumer Awareness Program at Udupi (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)",
+   "02:30 PM",
+   "Udupi, Karnataka",
+   "15 October, 2026"
+  ],
+  "added_lines_total": 14,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah",
+    "text": "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman",
+    "text": "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal L"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kathgodam-dehradun-railway",
+    "text": "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kathgodam-dehradun-railway",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+    "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-siaha-mizoram-mizoram-consumers-union-hqrs",
+    "text": "Consumer Awareness Program at Siaha (Mizoram) by Mizoram Consumers' Union Hqrs"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hassan-karnataka-ro-bengaluru",
+    "text": "Consumer Outreach Program at Hassan (Karnataka) by RO BENGALURU"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-old-delhi-delhi-federation-coummunity-radio-station",
+    "text": "Consumer Awareness Program at Old Delhi (Delhi) by Federation of Coummunity Radio Station"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-udupi-karnataka-coordinated-action-consumer-voluntary",
+    "text": "Consumer Awareness Program at Udupi (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-citizens-awarness-group-1",
+    "text": "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh"
+   }
+  ],
+  "new_links_total": 13
+ },
+ {
+  "id": "d3c6177c0f41",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-15T11:20:56Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 15.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "5515d693d866",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
