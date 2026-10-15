@@ -147,7 +147,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "डीओटी _ इंडिया (दूरसंचार विभाग) द्वारा साझा की गई एक पोस्ट (@department_of_telecom)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -467,7 +466,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-14T23:54:00Z",
+ "fetched_at": "2026-10-15T04:29:57Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -897,7 +896,9 @@
    "परिपत्र संख्या. 01-दूरसंचार नेटवर्क में कॉलिंग नाम प्रस्तुति सेवा का परिचय": 0,
    "डीओटी और आईटीयू ने इंडिया मोबाइल कांग्रेस 2026 में गुड बिल्ड-ए-थॉन 5.0 के लिए एआई का आयोजन किया": 0,
    "एकीकृत लाइसेंस समझौते में संशोधन-\"कॉलिंग लाइन आइडेंटिफिकेशन\" की परिभाषा": 0,
-   "दूरसंचार विभाग (डीओटी) संचार साथी के माध्यम से खोए हुए मोबाइल हैंडसेट की बरामदगी के लिए शीर्ष प्रदर्शन करने वाले राज्यों/केंद्र शासित प्रदेशों, जिला पुलिस और पुलिस स्टेशनों को सम्मानित करेगा": 0
+   "दूरसंचार विभाग (डीओटी) संचार साथी के माध्यम से खोए हुए मोबाइल हैंडसेट की बरामदगी के लिए शीर्ष प्रदर्शन करने वाले राज्यों/केंद्र शासित प्रदेशों, जिला पुलिस और पुलिस स्टेशनों को सम्मानित करेगा": 0,
+   "Revenue Management Services": 0,
+   "National Frequency Allocation Plan-2025": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -974,7 +975,7 @@
    "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)": 3
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)": 4
   },
   "grave_lines": {
    "Public Procurement-Preference to Make in India": "2026-09-19T20:35:01Z",
