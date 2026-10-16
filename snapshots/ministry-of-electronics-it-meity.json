@@ -100,15 +100,14 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "हमारे बारे में",
-  "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।",
+  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
   "हमारी टीम",
   "हमारे संगठन",
   "हमारा प्रदर्शन",
-  "श्री अश्विनी वैष्णव",
-  "माननीय मंत्री",
-  "श्री जितिन प्रसाद",
-  "माननीय राज्य मंत्री",
+  "Shri Ashwini Vaishnaw",
+  "HON’BLE MINISTER",
+  "Shri Jitin Prasada",
+  "HON’BLE MINISTER OF STATE",
   "प्रमुख प्रस्ताव",
   "योजनाएं और सेवाएँ",
   "रिक्तियां",
@@ -117,16 +116,17 @@
   "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
   "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम",
   "विश्वेश्वरैया पीएचडी योजना",
-  "Digital India Internship Scheme 2026",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "Mobile Phone Manufacturing Scheme (MPMS)",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "Visvesvaraya PhD Scheme",
+  "Digital India Internship Scheme 2026",
   "अधिक देखें",
-  "नया क्या है",
-  "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026",
-  "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
+  "What’s New",
+  "Digital Personal Data Protection(Removal of Difficulties) Order,2026",
+  "Monthly Achievements for the month of July, 2026",
+  "View more",
   "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
   "भारतीय कंप्यूटर आपातकालीन प्रतिक्रिया दल (आई. सी. ई. आर. टी.) की घोषणा, एक संलग्न कार्यालय के रूप में",
@@ -149,6 +149,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -312,11 +313,11 @@
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
-   "text": "श्री अश्विनी वैष्णव माननीय मंत्री"
+   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
-   "text": "श्री जितिन प्रसाद माननीय राज्य मंत्री"
+   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
@@ -336,23 +337,23 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
-   "text": "Digital India Internship Scheme 2026"
+   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf",
-   "text": "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026 arrow_forward_ios"
+   "text": "Digital Personal Data Protection(Removal of Difficulties) Order,2026 arrow_forward_ios"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
-   "text": "जुलाई, 2026 के लिए मासिक उपलब्धियाँ arrow_forward_ios"
+   "text": "Monthly Achievements for the month of July, 2026 arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
+   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
@@ -389,6 +390,10 @@
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://innovateindia.mygov.in/cyber-security-grand-challenge/",
+   "text": ""
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -440,7 +445,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-16T11:15:53Z",
+ "fetched_at": "2026-10-16T16:33:48Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -687,7 +692,7 @@
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
-   "Key Offerings": 0,
+   "Key Offerings": 1,
    "अंतिम बार अद्यतन किया गयाः 01.10.2026": 0,
    "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षम भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण": 0,
    "अंतिम बार अद्यतन किया गयाः 05.10.2026": 0,
@@ -705,10 +710,10 @@
    "अंतिम बार अद्यतन किया गयाः 14.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 15.10.2026": 0,
    "View more": 0,
-   "Revised work distribution amongst Group Coordinators/HAG level office 13.04.2026": 3,
-   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 3,
-   "Recent Documents": 3,
-   "For IT Professional": 0,
+   "Revised work distribution amongst Group Coordinators/HAG level office 13.04.2026": 4,
+   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 4,
+   "Recent Documents": 4,
+   "For IT Professional": 1,
    "अंतिम बार अद्यतन किया गयाः 16.10.2026": 0
   },
   "links": {

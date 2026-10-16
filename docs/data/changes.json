@@ -1,5 +1,56 @@
 [
  {
+  "id": "67b334393a12",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-16T16:33:48Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "ऑर्डर डी. टी. 16.10.2026 रेग. जे. टी. ओ.-2024 बैच के प्रोबेशनर का स्थानांतरण और नियुक्ति",
+   "सितंबर-2026 के महीने के मासिक खाते के आंकड़ों का विवरण"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "396079815fb7",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-16T16:33:48Z",
+  "summary": "3 new links, 6 new text blocks, 3 items no longer on page",
+  "added_lines": [
+   "Consumer Outreach Program at Nanded (Maharashtra) by RO HYDERABAD",
+   "Nanded, Maharashtra",
+   "Consumer Awareness Program at Hazaribagh (Jharkhand) by Mahila Janshakti Sangathan",
+   "Hazaribag, Jharkhand",
+   "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD",
+   "West Godavari, Andhra Pradesh"
+  ],
+  "added_lines_total": 6,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality on Delhi–Agra Routes via Yamuna Expressway and Rail Route under Delhi LSA."
+  ],
+  "removed_lines_total": 3,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-nanded-maharashtra-ro-hyderabad",
+    "text": "Consumer Outreach Program at Nanded (Maharashtra) by RO HYDERABAD"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hazaribagh-jharkhand-mahila-janshakti-sangathan",
+    "text": "Consumer Awareness Program at Hazaribagh (Jharkhand) by Mahila Janshakti Sangathan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-west-godavari-andhra-pradesh-ro-hyderabad",
+    "text": "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "1c27ec398121",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
