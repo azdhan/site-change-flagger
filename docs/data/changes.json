@@ -1,5 +1,66 @@
 [
  {
+  "id": "1c27ec398121",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-16T11:15:53Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "26 अक्टूबर से 6 नवंबर 2026 के दौरान निर्धारित \"एम. सी. टी. पी. चरण-I (तकनीकी घटक) बैच-08 के लिए आई. टी. एस. अधिकारियों का नामांकन\"",
+   "अंतिम बार अद्यतन किया गयाः 16.10.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "3358fd0886aa",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-16T11:15:53Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "16 October, 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "1e2ba6b88aa7",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-16T11:15:53Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "16 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "37c94939f415",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-16T11:15:53Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 16.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "b0b2590a4579",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
