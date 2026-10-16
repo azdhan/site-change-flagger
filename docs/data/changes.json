@@ -1,5 +1,28 @@
 [
  {
+  "id": "f7814ad25ce2",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-16T23:32:22Z",
+  "summary": "17 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "28th September 2026",
+   "TRAI Assesses Mobile Network Quality Across South Delhi and Nearby Areas.",
+   "TRAI Assesses Mobile Network Quality across parts of Sonitpur district under Assam LSA in the state of Assam.",
+   "29th September 2026",
+   "Direction regarding publication of tariff offers, etc.",
+   "1st October 2026",
+   "TRAI releases The Indian Telecom Services Yearly Performance Indicators 2025 - 2026",
+   "5th October 2026",
+   "12 October, 2026"
+  ],
+  "removed_lines_total": 17,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d4b2e9280621",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

@@ -101,33 +101,24 @@
   "open_in_new",
   "कार्यक्रम देखें",
   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
-  "हमारी टीम",
-  "हमारे संगठन",
-  "हमारा प्रदर्शन",
   "Shri Ashwini Vaishnaw",
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
   "प्रमुख प्रस्ताव",
-  "योजनाएं और सेवाएँ",
-  "रिक्तियां",
-  "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश",
-  "arrow_forward_ios",
-  "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
-  "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम",
-  "विश्वेश्वरैया पीएचडी योजना",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
+  "arrow_forward_ios",
   "Mobile Phone Manufacturing Scheme (MPMS)",
   "NeGD’s Non-Technical (Summer) Internship Programme",
+  "विश्वेश्वरैया पीएचडी योजना",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "Visvesvaraya PhD Scheme",
   "Digital India Internship Scheme 2026",
   "अधिक देखें",
   "What’s New",
   "Digital Personal Data Protection(Removal of Difficulties) Order,2026",
   "Monthly Achievements for the month of July, 2026",
-  "View more",
-  "Recent Documents",
+  "हाल के दस्तावेज़",
   "आदेश और सूचनाएँ",
   "भारतीय कंप्यूटर आपातकालीन प्रतिक्रिया दल (आई. सी. ई. आर. टी.) की घोषणा, एक संलग्न कार्यालय के रूप में",
   "समूह समन्वयकों/एच. ए. जी. स्तर के कार्यालय के बीच संशोधित कार्य वितरण 13.04.2026",
@@ -321,15 +312,15 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
-   "text": "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश"
+   "text": "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa",
-   "text": "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)"
+   "text": "Mobile Phone Manufacturing Scheme (MPMS)"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
-   "text": "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम"
+   "text": "NeGD’s Non-Technical (Summer) Internship Programme"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa",
@@ -353,7 +344,7 @@
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "View more chevron_right"
+   "text": "अधिक देखें chevron_right"
   },
   {
    "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
@@ -445,7 +436,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-16T21:01:37Z",
+ "fetched_at": "2026-10-16T23:32:22Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -692,7 +683,7 @@
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
-   "Key Offerings": 2,
+   "Key Offerings": 3,
    "अंतिम बार अद्यतन किया गयाः 01.10.2026": 0,
    "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षम भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण": 0,
    "अंतिम बार अद्यतन किया गयाः 05.10.2026": 0,
@@ -709,11 +700,11 @@
    "अंतिम बार अद्यतन किया गयाः 13.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 14.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 15.10.2026": 0,
-   "View more": 0,
-   "Revised work distribution amongst Group Coordinators/HAG level office 13.04.2026": 5,
-   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 5,
-   "Recent Documents": 0,
-   "For IT Professional": 2,
+   "View more": 1,
+   "Revised work distribution amongst Group Coordinators/HAG level office 13.04.2026": 6,
+   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 6,
+   "Recent Documents": 1,
+   "For IT Professional": 3,
    "अंतिम बार अद्यतन किया गयाः 16.10.2026": 0
   },
   "links": {
