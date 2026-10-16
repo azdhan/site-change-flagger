@@ -1,5 +1,20 @@
 [
  {
+  "id": "d4b2e9280621",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-16T21:01:37Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI releases Telecom Subscription Data as on August 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "67b334393a12",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

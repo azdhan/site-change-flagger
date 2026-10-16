@@ -127,7 +127,7 @@
   "Digital Personal Data Protection(Removal of Difficulties) Order,2026",
   "Monthly Achievements for the month of July, 2026",
   "View more",
-  "हाल के दस्तावेज़",
+  "Recent Documents",
   "आदेश और सूचनाएँ",
   "भारतीय कंप्यूटर आपातकालीन प्रतिक्रिया दल (आई. सी. ई. आर. टी.) की घोषणा, एक संलग्न कार्यालय के रूप में",
   "समूह समन्वयकों/एच. ए. जी. स्तर के कार्यालय के बीच संशोधित कार्य वितरण 13.04.2026",
@@ -445,7 +445,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-16T16:33:48Z",
+ "fetched_at": "2026-10-16T21:01:37Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -692,7 +692,7 @@
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
-   "Key Offerings": 1,
+   "Key Offerings": 2,
    "अंतिम बार अद्यतन किया गयाः 01.10.2026": 0,
    "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षम भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण": 0,
    "अंतिम बार अद्यतन किया गयाः 05.10.2026": 0,
@@ -710,10 +710,10 @@
    "अंतिम बार अद्यतन किया गयाः 14.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 15.10.2026": 0,
    "View more": 0,
-   "Revised work distribution amongst Group Coordinators/HAG level office 13.04.2026": 4,
-   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 4,
-   "Recent Documents": 4,
-   "For IT Professional": 1,
+   "Revised work distribution amongst Group Coordinators/HAG level office 13.04.2026": 5,
+   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 5,
+   "Recent Documents": 0,
+   "For IT Professional": 2,
    "अंतिम बार अद्यतन किया गयाः 16.10.2026": 0
   },
   "links": {
