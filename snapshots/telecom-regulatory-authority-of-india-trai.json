@@ -191,9 +191,9 @@
   "Explore",
   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
   "12th October 2026",
-  "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
   "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
+  "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
   "9th October 2026",
   "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route",
@@ -898,14 +898,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
-   "text": "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
    "text": "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi."
   },
@@ -919,6 +911,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
+   "text": "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
    "text": "Explore"
   },
   {
@@ -1199,7 +1199,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-17T10:34:40Z",
+ "fetched_at": "2026-10-17T15:28:25Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1469,13 +1469,13 @@
    "Consultation Papers": 0,
    "Newsletter": 0,
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
-   "Kullu , Himachal Pradesh": 6,
-   "Consumer Awareness Program at Kullu (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad": 6,
+   "Kullu , Himachal Pradesh": 7,
+   "Consumer Awareness Program at Kullu (Himachal Pradesh) by Himachal Upbhokta Sanrakchan Parishad": 7,
    "TRAI Assesses Mobile Network Quality in and around Balasore City, covering Balasore, Soro, Remuna, Nilagiri, Jaleswar, Baliapal and nearby areas.": 0,
    "7th October 2026": 0,
-   "Panchmahal, Gujarat": 6,
+   "Panchmahal, Gujarat": 7,
    "8th October 2026": 0,
-   "Consumer Outreach Program at Panchmahal (Gujarat) by RO JAIPUR": 6,
+   "Consumer Outreach Program at Panchmahal (Gujarat) by RO JAIPUR": 7,
    "10:00 AM": 0,
    "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)": 0,
    "Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders": 0,
@@ -1506,16 +1506,16 @@
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh": 0,
    "Udupi, Karnataka": 0,
    "Old Delhi, Delhi": 0,
-   "15 October, 2026": 6,
+   "15 October, 2026": 7,
    "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal.": 0,
    "15th October 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.": 0,
-   "Consumer Awareness Program at Siaha (Mizoram) by Mizoram Consumers' Union Hqrs": 6,
+   "Consumer Awareness Program at Siaha (Mizoram) by Mizoram Consumers' Union Hqrs": 7,
    "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.": 0,
    "Hassan , Karnataka": 0,
    "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route": 0,
    "Consumer Awareness Program at Old Delhi (Delhi) by Federation of Coummunity Radio Station": 0,
-   "Saiha, Mizoram": 6,
+   "Saiha, Mizoram": 7,
    "01:00 PM": 0,
    "16 October, 2026": 0,
    "10:30 AM": 0,
@@ -1718,11 +1718,11 @@
    "https://twitter.com/TRAI/status/2100230738251755686?ref_src=twsrc%5Etfw": 0,
    "https://twitter.com/TRAI/status/2100153931691397235?ref_src=twsrc%5Etfw": 0,
    "https://dcrp.trai.gov.in/": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kullu-himachal-pradesh-himachal-upbhokta-sanrakchan": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kullu-himachal-pradesh-himachal-upbhokta-sanrakchan": 7,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-and-around-balasore-city-covering": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-and-around-balasore-city-covering": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-fazilka-city-and-adjoining": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-panchmahal-gujarat-ro-jaipur": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-panchmahal-gujarat-ro-jaipur": 7,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-fazilka-city-and-adjoining": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0": 0,
    "https://www.trai.gov.in/draft-telecommunication-broadcasting-cable-services-drm-based-digital-addressable-systems-audit": 0,
@@ -1742,7 +1742,7 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-citizens-awarness-group-1": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-siaha-mizoram-mizoram-consumers-union-hqrs": 6,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-siaha-mizoram-mizoram-consumers-union-hqrs": 7,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah": 0,
