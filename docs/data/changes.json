@@ -1,5 +1,36 @@
 [
  {
+  "id": "487321fcca00",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-17T10:34:40Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "17 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c64f0cce2fa7",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-17T10:34:40Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Revised work distribution amongst Group Coordinators/HAG level office 13.04.2026",
+   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "01bbddfc2d52",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
