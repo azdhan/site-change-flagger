@@ -187,17 +187,17 @@
   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.",
   "What’s New",
   "15th October 2026",
-  "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal.",
-  "Explore",
   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
+  "Explore",
+  "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal.",
   "12th October 2026",
-  "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
   "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
+  "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
   "9th October 2026",
-  "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route",
   "TRAI Releases Draft Telecommunication (Broadcasting and Cable) Services DRM- based Digital Addressable Systems Audit Manual, 2026",
+  "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "8th October 2026",
   "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)",
   "7th October 2026",
@@ -882,14 +882,6 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah",
-   "text": "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman",
    "text": "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal L"
   },
@@ -898,11 +890,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
-   "text": "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah",
+   "text": "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal."
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah",
    "text": "Explore"
   },
   {
@@ -922,11 +914,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
-   "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
+   "text": "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi."
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
    "text": "Explore"
   },
   {
@@ -943,6 +935,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+   "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
    "text": "Explore"
   },
   {
@@ -1199,7 +1199,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-18T10:57:47Z",
+ "fetched_at": "2026-10-18T15:48:01Z",
  "script": "latin",
  "memory": {
   "lines": {
