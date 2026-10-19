@@ -556,35 +556,27 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/archives",
-   "text": "पुरालेखागार"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/website-policy",
+   "url": "https://mib.gov.in/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/related-link",
+   "url": "https://mib.gov.in/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/sitemap",
+   "url": "https://mib.gov.in/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/help",
+   "url": "https://mib.gov.in/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
-   "text": "हमसे संपर्क करें"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/feedback",
+   "url": "https://mib.gov.in/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -613,7 +605,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-19T13:01:31Z",
+ "fetched_at": "2026-10-19T20:33:43Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -782,7 +774,7 @@
    "सूचना एवं प्रसारण मंत्रालय ने स्वच्छता बढ़ाने और लंबित मामलों में कमी लाने के लिए देशव्यापी विशेष अभियान 6.0 का शुभारंभ किया": 0,
    "92.76 किलोबाइट |": 0,
    "स्रोत \"सौजन्य: संसद टीवी\" को प्रमुखता से प्रदर्शित करने के संबंध में।": 0,
-   "17 अक्टूबर 2026": 1,
+   "17 अक्टूबर 2026": 2,
    "19 अक्टूबर 2026": 0
   },
   "links": {
@@ -865,12 +857,12 @@
    "https://www.ncs.gov.in/": 0,
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
-   "https://mib.gov.in/hi/website-policy": 1,
-   "https://mib.gov.in/hi/related-link": 1,
-   "https://mib.gov.in/hi/sitemap": 1,
-   "https://mib.gov.in/hi/help": 1,
-   "https://mib.gov.in/hi/feedback": 1,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/hi/website-policy": 0,
+   "https://mib.gov.in/hi/related-link": 0,
+   "https://mib.gov.in/hi/sitemap": 0,
+   "https://mib.gov.in/hi/help": 0,
+   "https://mib.gov.in/hi/feedback": 0,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -895,14 +887,14 @@
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-25th-october-2026?target=inapp&type=group_issue&nid=5934": 0,
    "https://e-hrms.gov.in/home": 0,
    "https://mib.gov.in/sites/default/files/2026-10/advisory-dated-07102026.pdf": 0,
-   "https://mib.gov.in/index.php/hi/sitemap": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
-   "https://mib.gov.in/index.php/hi/help": 0,
-   "https://mib.gov.in/index.php/hi/archives": 0,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 0
+   "https://mib.gov.in/index.php/hi/sitemap": 1,
+   "https://mib.gov.in/index.php/hi/related-link": 1,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/index.php/hi/help": 1,
+   "https://mib.gov.in/index.php/hi/archives": 1,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 1,
+   "https://mib.gov.in/index.php/hi/website-policy": 1,
+   "https://mib.gov.in/index.php/hi/feedback": 1
   },
   "grave_lines": {
    "अधिनियम/नीति/दिशानिर्देश": "2026-09-24T21:27:59Z",
