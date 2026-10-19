@@ -605,7 +605,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-18T23:06:06Z",
+ "fetched_at": "2026-10-19T04:32:40Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -885,20 +885,10 @@
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321519&reg=3&lang=2": 0,
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-25th-october-2026?target=inapp&type=group_issue&nid=5934": 0,
    "https://e-hrms.gov.in/home": 0,
-   "https://mib.gov.in/sites/default/files/2026-10/advisory-dated-07102026.pdf": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 7,
-   "https://mib.gov.in/index.php/hi/website-policy": 7,
-   "https://mib.gov.in/index.php/hi/archives": 7,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 7,
-   "https://mib.gov.in/index.php/hi/sitemap": 7,
-   "https://mib.gov.in/index.php/hi/help": 7,
-   "https://mib.gov.in/index.php/hi/feedback": 7,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 7
+   "https://mib.gov.in/sites/default/files/2026-10/advisory-dated-07102026.pdf": 0
   },
   "grave_lines": {
    "अधिनियम/नीति/दिशानिर्देश": "2026-09-24T21:27:59Z",
-   "राष्ट्रीय फिल्म विकास निगम-भारतीय राष्ट्रीय फिल्म अभिलेखागार (एनएफडीसी-एनएफएआई) और भारतीय फिल्म और टेलीविजन संस्थान (एफटीआईआई), पुणे संयुक्त रूप से चलचित्र (मूविंग इमेज) संरक्षण, अभिलेखागार (आर्काइविंग), डिजिटाइजेशन और रेस्टोरेशन पर एक विशेष कार्यशाला का": "2026-09-18T23:15:59Z",
-   "16 सितंबर 2026": "2026-09-18T23:15:59Z",
    "17 सितंबर 2026": "2026-09-19T20:35:01Z",
    "राष्ट्रपति 22 सितंबर को गुजरात के केवडिया जिले के एकता नगर में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान करेंगी": "2026-09-22T21:14:56Z",
    "ई - बुक्स": "2026-10-15T21:19:01Z",
@@ -951,14 +941,14 @@
    "16 अक्टूबर 2026": "2026-10-18T20:35:37Z"
   },
   "grave_links": {
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-10-16T16:33:48Z",
-   "https://mib.gov.in/index.php/hi/feedback": "2026-10-16T16:33:48Z",
-   "https://mib.gov.in/index.php/hi/sitemap": "2026-10-16T16:33:48Z",
-   "https://mib.gov.in/index.php/hi/related-link": "2026-10-16T16:33:48Z",
-   "https://mib.gov.in/index.php/hi/website-policy": "2026-10-16T16:33:48Z",
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-10-16T16:33:48Z",
-   "https://mib.gov.in/index.php/hi/archives": "2026-10-16T16:33:48Z",
-   "https://mib.gov.in/index.php/hi/help": "2026-10-16T16:33:48Z",
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-10-19T04:32:40Z",
+   "https://mib.gov.in/index.php/hi/feedback": "2026-10-19T04:32:40Z",
+   "https://mib.gov.in/index.php/hi/sitemap": "2026-10-19T04:32:40Z",
+   "https://mib.gov.in/index.php/hi/related-link": "2026-10-19T04:32:40Z",
+   "https://mib.gov.in/index.php/hi/website-policy": "2026-10-19T04:32:40Z",
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-10-19T04:32:40Z",
+   "https://mib.gov.in/index.php/hi/archives": "2026-10-19T04:32:40Z",
+   "https://mib.gov.in/index.php/hi/help": "2026-10-19T04:32:40Z",
    "https://mib.gov.in/index.php/hi/ministry/organizations": "2026-10-16T11:15:53Z",
    "https://mib.gov.in/index.php/hi/persona/researcher": "2026-10-14T19:19:27Z",
    "https://mib.gov.in/index.php/hi/ministry/about-us/dr-l-murugan": "2026-10-09T01:11:05Z",
@@ -966,7 +956,6 @@
    "https://mib.gov.in/index.php/hi/ministry/about-us/team": "2026-10-16T11:15:53Z",
    "https://mib.gov.in/index.php/hi/ministry/our-wings": "2026-10-16T11:15:53Z",
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-27th-september-2026/?target=inapp&type=group_issue&nid=5850": "2026-10-14T19:19:27Z",
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2306588&reg=3&lang=2": "2026-09-18T23:15:59Z",
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2307825&reg=3&lang=2": "2026-09-22T21:14:56Z",
    "https://mib.gov.in/sites/default/files/2026-09/mann-ki-baat-july-2026-hindi.pdf": "2026-09-22T21:14:56Z",
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311026&reg=3&lang=2": "2026-09-22T21:14:56Z",
