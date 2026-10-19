@@ -1,5 +1,75 @@
 [
  {
+  "id": "6259d5df7b01",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-19T13:01:31Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "सरकार से स्वैच्छिक सेवानिवृत्ति। सेवा-श्री रॉबिन अडावल [कर्मचारी संख्या 20559], आई. टी. एस., वर्तमान में पी. जी. एम. भारत नेट बी. एस. एन. एल. पुणे का मामला 15.11.2026 (ए/एन) से वी. आर. एस. के लिए।",
+   "एन. सी. ए.-टी. गाजियाबाद द्वारा 22 अक्टूबर 2026 को \"द क्वांटम शिफ्ट-माइग्रेशन टू पी. क्यू. सी\". विषय पर वेबिनार",
+   "डी. ओ. टी. में कार्य का आवंटन",
+   "अंतिम बार अद्यतन किया गयाः 19.10.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f32fe9285986",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-19T13:01:31Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "Consumer Outreach Program at South West Delhi (Delhi) by RO DELHI",
+   "South West Delhi, Delhi",
+   "19 October, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-south-west-delhi-delhi-ro-delhi",
+    "text": "Consumer Outreach Program at South West Delhi (Delhi) by RO DELHI"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "3dc0acfc7845",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-19T13:01:31Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "19 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "9b58d2641726",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-19T13:01:31Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 19.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "4d8f049b9a2c",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
