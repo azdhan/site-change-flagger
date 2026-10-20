@@ -191,13 +191,13 @@
   "Explore",
   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
   "12th October 2026",
-  "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
   "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
+  "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
   "9th October 2026",
-  "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route",
   "TRAI Releases Draft Telecommunication (Broadcasting and Cable) Services DRM- based Digital Addressable Systems Audit Manual, 2026",
+  "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "8th October 2026",
   "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)",
   "7th October 2026",
@@ -316,7 +316,7 @@
   "S. Ganesh - Dy. Advisor (IT)",
   "Website Content Owned and Managed by Telecom Regulatory Authority of India, GOI Designed & Developed by TRAI",
   "Copyright © 2024 TRAI. All rights reserved",
-  "19 October, 2026"
+  "20 October, 2026"
  ],
  "links": [
   {
@@ -900,14 +900,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
-   "text": "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
    "text": "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA."
   },
@@ -924,11 +916,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
-   "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
+   "text": "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi."
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
    "text": "Explore"
   },
   {
@@ -945,6 +937,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+   "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
    "text": "Explore"
   },
   {
@@ -1205,7 +1205,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-20T00:17:39Z",
+ "fetched_at": "2026-10-20T08:26:29Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1516,7 +1516,7 @@
    "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route": 0,
    "Consumer Awareness Program at Old Delhi (Delhi) by Federation of Coummunity Radio Station": 0,
    "01:00 PM": 0,
-   "16 October, 2026": 3,
+   "16 October, 2026": 4,
    "10:30 AM": 0,
    "Consumer Awareness Program at Hazaribagh (Jharkhand) by Mahila Janshakti Sangathan": 0,
    "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD": 0,
@@ -1524,9 +1524,10 @@
    "Consumer Outreach Program at Nanded (Maharashtra) by RO HYDERABAD": 0,
    "West Godavari, Andhra Pradesh": 0,
    "Hazaribag, Jharkhand": 0,
-   "19 October, 2026": 0,
+   "19 October, 2026": 1,
    "South West Delhi, Delhi": 0,
-   "Consumer Outreach Program at South West Delhi (Delhi) by RO DELHI": 0
+   "Consumer Outreach Program at South West Delhi (Delhi) by RO DELHI": 0,
+   "20 October, 2026": 0
   },
   "links": {
    "https://www.trai.gov.in/user/login": 0,
