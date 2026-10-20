@@ -191,13 +191,13 @@
   "Explore",
   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
   "12th October 2026",
+  "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
   "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
   "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
-  "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
   "9th October 2026",
-  "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route",
   "TRAI Releases Draft Telecommunication (Broadcasting and Cable) Services DRM- based Digital Addressable Systems Audit Manual, 2026",
+  "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "8th October 2026",
   "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)",
   "7th October 2026",
@@ -900,6 +900,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
+   "text": "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
    "text": "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026"
   },
@@ -916,22 +924,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
-   "text": "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
-   "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kathgodam-dehradun-railway",
    "text": "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route"
   },
@@ -945,6 +937,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+   "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
    "text": "Explore"
   },
   {
@@ -1205,7 +1205,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-20T19:11:04Z",
+ "fetched_at": "2026-10-20T23:50:13Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1516,7 +1516,7 @@
    "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route": 0,
    "Consumer Awareness Program at Old Delhi (Delhi) by Federation of Coummunity Radio Station": 0,
    "01:00 PM": 0,
-   "16 October, 2026": 6,
+   "16 October, 2026": 7,
    "10:30 AM": 0,
    "Consumer Awareness Program at Hazaribagh (Jharkhand) by Mahila Janshakti Sangathan": 0,
    "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD": 0,
@@ -1524,7 +1524,7 @@
    "Consumer Outreach Program at Nanded (Maharashtra) by RO HYDERABAD": 0,
    "West Godavari, Andhra Pradesh": 0,
    "Hazaribag, Jharkhand": 0,
-   "19 October, 2026": 3,
+   "19 October, 2026": 4,
    "South West Delhi, Delhi": 0,
    "Consumer Outreach Program at South West Delhi (Delhi) by RO DELHI": 0,
    "20 October, 2026": 0
@@ -1754,15 +1754,9 @@
   },
   "grave_lines": {
    "01:00 PM": "2026-09-26T04:51:01Z",
-   "11:30 AM": "2026-09-20T23:12:46Z",
    "12:00 PM": "2026-09-30T12:28:24Z",
-   "Consumer Awareness Program at Ayodhya (Uttar Pradesh) by Rural Consumer's Federation": "2026-09-20T23:12:46Z",
-   "Ayodhya, Uttar Pradesh": "2026-09-20T23:12:46Z",
    "Chandigarh , Chandigarh": "2026-09-25T04:51:10Z",
    "10:00 AM": "2026-10-01T10:02:35Z",
-   "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": "2026-09-20T23:12:46Z",
-   "Osmanabad, Maharashtra": "2026-09-20T23:12:46Z",
-   "Consumer Awareness Program at Osmanabad (Maharashtra) by Patil Foundation, Pune, Maharashtra": "2026-09-20T23:12:46Z",
    "Nagapattinam, Tamil Nadu": "2026-09-22T00:03:31Z",
    "Consumer Awareness Program at Nagapattinam (Tamil Nadu) by Women Consumer Protection Association": "2026-09-22T00:03:31Z",
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.04.2026 to 30.06.2026": "2026-09-22T21:14:56Z",
@@ -1919,10 +1913,6 @@
    "Saiha, Mizoram": "2026-10-17T20:31:05Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": "2026-09-20T23:12:46Z",
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": "2026-09-20T23:12:46Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-osmanabad-maharashtra-patil-foundation-pune-maharashtra": "2026-09-20T23:12:46Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ayodhya-uttar-pradesh-rural-consumers-federation-0": "2026-09-20T23:12:46Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nagapattinam-tamil-nadu-women-consumer-protection": "2026-09-22T00:03:31Z",
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": "2026-09-22T21:14:56Z",
    "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited": "2026-09-22T21:14:56Z",
