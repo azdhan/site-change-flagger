@@ -191,9 +191,9 @@
   "Explore",
   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
   "12th October 2026",
-  "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
   "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
+  "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
   "9th October 2026",
   "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route",
@@ -900,14 +900,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
-   "text": "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-major-areas-new-delhi-and",
    "text": "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi."
   },
@@ -921,6 +913,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
+   "text": "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
    "text": "Explore"
   },
   {
@@ -1205,7 +1205,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-19T20:33:43Z",
+ "fetched_at": "2026-10-20T00:17:39Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1516,7 +1516,7 @@
    "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route": 0,
    "Consumer Awareness Program at Old Delhi (Delhi) by Federation of Coummunity Radio Station": 0,
    "01:00 PM": 0,
-   "16 October, 2026": 2,
+   "16 October, 2026": 3,
    "10:30 AM": 0,
    "Consumer Awareness Program at Hazaribagh (Jharkhand) by Mahila Janshakti Sangathan": 0,
    "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD": 0,
@@ -1759,15 +1759,6 @@
    "Ayodhya, Uttar Pradesh": "2026-09-20T23:12:46Z",
    "Chandigarh , Chandigarh": "2026-09-25T04:51:10Z",
    "10:00 AM": "2026-10-01T10:02:35Z",
-   "Consumer Awareness Program at Mayiladuthurai (Tamil Nadu) by Rural Organaisation for Social & Education Trust (Rose Trust)": "2026-09-19T20:35:01Z",
-   "Mayiladuthurai, Tamil Nadu": "2026-09-19T20:35:01Z",
-   "Samastipur , Bihar": "2026-09-19T20:35:01Z",
-   "Consumer Awareness Program at Samastipur (Bihar) by Mithila Sewa Samiti": "2026-09-19T20:35:01Z",
-   "Consumer Awareness Program at Lohardaga (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY": "2026-09-19T20:35:01Z",
-   "Lohardaga, Jharkhand": "2026-09-19T20:35:01Z",
-   "Mandya , Karnataka": "2026-09-19T20:35:01Z",
-   "Consumer Awareness Program at Mandya (Karnataka) by Consumer Care Society, Bangalore": "2026-09-19T20:35:01Z",
-   "17 September, 2026": "2026-09-19T20:35:01Z",
    "TRAI Assesses Mobile Network Quality on Ahmedabad to Gandhidham Rail Route (Gujarat LSA)": "2026-09-20T23:12:46Z",
    "Osmanabad, Maharashtra": "2026-09-20T23:12:46Z",
    "Consumer Awareness Program at Osmanabad (Maharashtra) by Patil Foundation, Pune, Maharashtra": "2026-09-20T23:12:46Z",
@@ -1927,12 +1918,6 @@
    "Saiha, Mizoram": "2026-10-17T20:31:05Z"
   },
   "grave_links": {
-   "https://twitter.com/TRAI/status/2071949093598081183?ref_src=twsrc%5Etfw": "2026-09-19T20:35:01Z",
-   "https://twitter.com/TRAI/status/2071947530838126907?ref_src=twsrc%5Etfw": "2026-09-19T20:35:01Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mayiladuthurai-tamil-nadu-rural-organaisation-social": "2026-09-19T20:35:01Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-samastipur-bihar-mithila-sewa-samiti": "2026-09-19T20:35:01Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mandya-karnataka-consumer-care-society-bangalore": "2026-09-19T20:35:01Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-lohardaga-jharkhand-pragati-educational-academy": "2026-09-19T20:35:01Z",
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": "2026-09-20T23:12:46Z",
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ahmedabad-gandhidham-rail-route": "2026-09-20T23:12:46Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-osmanabad-maharashtra-patil-foundation-pune-maharashtra": "2026-09-20T23:12:46Z",
