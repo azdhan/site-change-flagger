@@ -1,5 +1,41 @@
 [
  {
+  "id": "d9756032aade",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-21T17:06:51Z",
+  "summary": "5 new links, 1 new text block",
+  "added_lines": [
+   "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) में अधिकारियों को अतिरिक्त जिम्मेदारियां सौंपना -"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://meity.gov.in/persona/IT%20professional-gMwIDOtQWa",
+    "text": "आईटी पेशेवरों के लिए"
+   },
+   {
+    "url": "https://meity.gov.in/persona/Researcher-wNwIDOtQWa",
+    "text": "For Researcher"
+   },
+   {
+    "url": "https://meity.gov.in/persona/Business%20owner-AOwIDOtQWa",
+    "text": "For Business Owner"
+   },
+   {
+    "url": "https://meity.gov.in/persona/Media-QOwIDOtQWa",
+    "text": "For Media"
+   },
+   {
+    "url": "https://meity.gov.in/important-links",
+    "text": "अधिक देखें chevron_right"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
   "id": "52f82477a38e",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
