@@ -1,5 +1,72 @@
 [
  {
+  "id": "12666b56c967",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-22T11:43:56Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 22.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "bfd71e55f010",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-22T11:43:56Z",
+  "summary": "3 new links, 7 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Budgam (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir",
+   "Bhudgam , Jammu and Kashmir",
+   "Consumer Outreach Program at Sepahijala (Tripura) by RO KOLKATA",
+   "Sepahijala, Tripura",
+   "Consumer Awareness Program at Chamba (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
+   "Chamba , Himachal Pradesh",
+   "22 October, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-budgam-jammu-and-kashmir-indian-institute-technology",
+    "text": "Consumer Awareness Program at Budgam (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-sepahijala-tripura-ro-kolkata",
+    "text": "Consumer Outreach Program at Sepahijala (Tripura) by RO KOLKATA"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamba-himachal-pradesh-indian-institute-technology",
+    "text": "Consumer Awareness Program at Chamba (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "d426f2fe222d",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-22T11:43:56Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://sameer.gov.in/storage/tenders/rLCgBpaL8yKceGlydHJredOjHB89VgmyLknjZ6EB.pdf",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "ce9c50830b7b",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
