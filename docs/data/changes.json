@@ -1,5 +1,38 @@
 [
  {
+  "id": "177c9ef6b407",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-22T17:06:01Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "22 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8567eaa14706",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-22T17:06:01Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.meity.gov.in/static/uploads/2026/10/4f2d643107a8b586181dd19d8cc11379.pdf",
+    "text": "EOI for 1.5 T INDIGENOUS MRI SYSTEM arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "12666b56c967",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
