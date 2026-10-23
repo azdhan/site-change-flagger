@@ -1,5 +1,63 @@
 [
  {
+  "id": "60489f0fd9bd",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-23T11:31:37Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 23.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "466a75452984",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-23T11:31:37Z",
+  "summary": "2 new links, 5 new text blocks",
+  "added_lines": [
+   "📣 ITU Workshop & SG-12RG-AP Meeting | 2–3 December 2026 | Hyderabad, India | Click Here for More Information",
+   "🔊 TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback",
+   "ITU Workshop on TSQ & SG-12RG-AP Meeting",
+   "Hyderabad, Telangana",
+   "23 October, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/itu-trai-workshop-2026",
+    "text": "📣 ITU Workshop & SG-12RG-AP Meeting | 2–3 December 2026 | Hyderabad, India | Click Here for More Information"
+   },
+   {
+    "url": "https://www.trai.gov.in/events/itu-workshop-tsq-sg-12rg-ap-meeting",
+    "text": "ITU Workshop on TSQ & SG-12RG-AP Meeting"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "d7c6c79dc12b",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-23T11:31:37Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "23 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "5e33a833728a",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
