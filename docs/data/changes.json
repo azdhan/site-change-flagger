@@ -1,5 +1,62 @@
 [
  {
+  "id": "2a8277f68f76",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-23T17:00:17Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "मुखपृष्ठ"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "3bf101a89aa9",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-23T17:00:17Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Patan (Gujarat) by Consumer Protection Association",
+   "Patan, Gujarat",
+   "Consumer Awareness Program at Alwar (Rajasthan) by PMRY Club",
+   "Alwar, Rajasthan"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-patan-gujarat-consumer-protection-association",
+    "text": "Consumer Awareness Program at Patan (Gujarat) by Consumer Protection Association"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-alwar-rajasthan-pmry-club",
+    "text": "Consumer Awareness Program at Alwar (Rajasthan) by PMRY Club"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "193773a9a1d6",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-23T17:00:17Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "मुखपृष्ठ"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "60489f0fd9bd",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
