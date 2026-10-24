@@ -132,10 +132,6 @@
   "सरकार से स्वैच्छिक सेवानिवृत्ति। सेवा-श्री रॉबिन अडावल [कर्मचारी संख्या 20559], आई. टी. एस., वर्तमान में पी. जी. एम. भारत नेट बी. एस. एन. एल. पुणे का मामला 15.11.2026 (ए/एन) से वी. आर. एस. के लिए।",
   "एन. सी. ए.-टी. गाजियाबाद द्वारा 22 अक्टूबर 2026 को \"द क्वांटम शिफ्ट-माइग्रेशन टू पी. क्यू. सी\". विषय पर वेबिनार",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "मीडिया के लिए",
-  "For Industry Professional",
-  "For Researcher",
-  "For Business Owner",
   "महत्वपूर्ण लिंक",
   "एम. टी. सी. टी. ई. पोर्टल",
   "खोदने से पहले कॉल करें",
@@ -361,22 +357,6 @@
    "text": "अधिक देखें chevron_right"
   },
   {
-   "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
-   "text": "मीडिया के लिए"
-  },
-  {
-   "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
-   "text": "For Industry Professional"
-  },
-  {
-   "url": "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa",
-   "text": "For Researcher"
-  },
-  {
-   "url": "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa",
-   "text": "For Business Owner"
-  },
-  {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
    "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
   },
@@ -403,18 +383,6 @@
   {
    "url": "https://dot.gov.in/important-links",
    "text": "अधिक देखें chevron_right"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
@@ -466,7 +434,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-23T21:20:41Z",
+ "fetched_at": "2026-10-24T04:29:16Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -599,8 +567,8 @@
    "डीओटी द्वारा एआई समाधान मानचित्रण शिखर सम्मेलन के लिए इंडियाएआई मिशन और इंडियाएआई प्रभाव का लाभ उठाना": 0,
    "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें": 0,
    "मीडिया के लिए": 0,
-   "For Industry Professional": 0,
-   "For Researcher": 0,
+   "For Industry Professional": 1,
+   "For Researcher": 1,
    "महत्वपूर्ण लिंक": 0,
    "खोदने से पहले कॉल करें": 0,
    "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल": 0,
@@ -830,7 +798,7 @@
    "श्री समीर गुप्ता, आई. टी. एस. (कर्मचारी संख्या 20460) सलाहकार, टी. आर. ए. आई. मुख्यालय, नई दिल्ली की प्रतिनियुक्ति अवधि प्रतिनियुक्ति के आधार पर बढ़ाई गई": 0,
    "अगस्त-2026 के लिए प्राप्ति और व्यय का विवरण": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
-   "For Business Owner": 0,
+   "For Business Owner": 1,
    "निदेशक (सी. एफ. ए.) बी. एस. एन. एल. की सेवानिवृत्ति पर सेवानिवृत्ति-श्री विवेक बंजल": 0,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
    "एन. सी. ए.-टी., गाजियाबाद में \"उपग्रह संचार-उभरती प्रौद्योगिकियां, अनुप्रयोग और नियामक परिप्रेक्ष्य\" (28-30 अक्टूबर 2026) पर 3-दिवसीय सी. आई. एस. टी. के लिए नामांकन आमंत्रित करना": 0,
@@ -956,9 +924,9 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
    "https://dot.gov.in/whats-new": 0,
-   "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
-   "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
-   "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 0,
+   "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 1,
+   "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 1,
+   "https://dot.gov.in/persona/For%20Researcher-IjN0UzMtQWa": 1,
    "https://eservices.dot.gov.in": 0,
    "https://eservices.dot.gov.in/call-before-u-dig": 0,
    "https://eservices.dot.gov.in/about-mtcte": 0,
@@ -979,14 +947,14 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 1,
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
-   "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
+   "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 1,
    "https://www.dot.gov.in/static/uploads/2026/10/7055c08dd8b1aeab78e2f8590f320054.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
