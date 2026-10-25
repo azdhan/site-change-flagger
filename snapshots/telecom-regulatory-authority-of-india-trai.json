@@ -192,13 +192,13 @@
   "Explore",
   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
   "12th October 2026",
-  "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
   "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
   "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
+  "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
   "9th October 2026",
+  "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route",
   "TRAI Releases Draft Telecommunication (Broadcasting and Cable) Services DRM- based Digital Addressable Systems Audit Manual, 2026",
-  "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
   "8th October 2026",
   "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)",
   "7th October 2026",
@@ -907,14 +907,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
-   "text": "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6",
    "text": "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026"
   },
@@ -931,6 +923,22 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
+   "text": "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+   "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kathgodam-dehradun-railway",
    "text": "TRAI Assesses Mobile Network Quality Across Kathgodam–Dehradun Railway Route"
   },
@@ -944,14 +952,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
-   "text": "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa",
    "text": "Explore"
   },
   {
@@ -1220,7 +1220,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-25T04:33:54Z",
+ "fetched_at": "2026-10-25T11:17:41Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1515,11 +1515,11 @@
    "Telecom Financial Data - Gross Revenue (GR) - June 2026": 0,
    "1,300.25 Million": 0,
    "Total Wireless Subscribers - June 2026": 0,
-   "Consumer Awareness Program at Udupi (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": 5,
+   "Consumer Awareness Program at Udupi (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": 6,
    "Chandigarh , Chandigarh": 0,
-   "02:30 PM": 5,
+   "02:30 PM": 6,
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh": 0,
-   "Udupi, Karnataka": 5,
+   "Udupi, Karnataka": 6,
    "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal.": 0,
    "15th October 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.": 0,
@@ -1755,7 +1755,7 @@
    "https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf": 0,
    "http://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kathgodam-dehradun-railway": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-udupi-karnataka-coordinated-action-consumer-voluntary": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-udupi-karnataka-coordinated-action-consumer-voluntary": 6,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kathgodam-dehradun-railway": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman": 0,
@@ -1778,13 +1778,7 @@
   "grave_lines": {
    "01:00 PM": "2026-10-24T04:29:16Z",
    "12:00 PM": "2026-09-30T12:28:24Z",
-   "Chandigarh , Chandigarh": "2026-09-25T04:51:10Z",
    "10:00 AM": "2026-10-01T10:02:35Z",
-   "Dakshin Dinajpur, West Bengal": "2026-09-25T04:51:10Z",
-   "Consumer Awareness Program at Dakshin Dinajpur (West Bengal) by Hemnagar Sundarban Dream": "2026-09-25T04:51:10Z",
-   "Jalore , Rajasthan": "2026-09-25T04:51:10Z",
-   "Consumer Awareness Program at Jalore (Rajasthan) by Consumer Unity & Trust Society": "2026-09-25T04:51:10Z",
-   "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh": "2026-09-25T04:51:10Z",
    "Ghazipur, Uttar Pradesh": "2026-09-25T11:45:10Z",
    "Prayagraj , Uttar Pradesh": "2026-09-25T11:45:10Z",
    "12:30 PM": "2026-10-01T10:02:35Z",
@@ -1934,9 +1928,6 @@
    "Hyderabad, Telangana": "2026-10-25T04:33:54Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalore-rajasthan-consumer-unity-trust-society": "2026-09-25T04:51:10Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chandigarh-chandigarh-citizens-awarness-group-0": "2026-09-25T04:51:10Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dakshin-dinajpur-west-bengal-hemnagar-sundarban-dream-0": "2026-09-25T04:51:10Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-prayagraj-uttar-pradesh-upbhokta-sanrakchhan-kalyan": "2026-09-25T11:45:10Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ghazipur-uttar-pradesh-nyay-bharti": "2026-09-25T11:45:10Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-tikamgarh-madhya-pradesh-national-centre-human": "2026-09-25T11:45:10Z",
