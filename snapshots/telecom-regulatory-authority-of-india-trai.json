@@ -188,9 +188,9 @@
   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.",
   "What’s New",
   "15th October 2026",
-  "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
-  "Explore",
   "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal.",
+  "Explore",
+  "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.",
   "12th October 2026",
   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
   "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
@@ -891,19 +891,19 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman",
-   "text": "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal L"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah",
    "text": "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal."
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman",
+   "text": "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal L"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman",
    "text": "Explore"
   },
   {
@@ -1220,7 +1220,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-24T23:08:18Z",
+ "fetched_at": "2026-10-25T04:33:54Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1515,11 +1515,11 @@
    "Telecom Financial Data - Gross Revenue (GR) - June 2026": 0,
    "1,300.25 Million": 0,
    "Total Wireless Subscribers - June 2026": 0,
-   "Consumer Awareness Program at Udupi (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": 4,
+   "Consumer Awareness Program at Udupi (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": 5,
    "Chandigarh , Chandigarh": 0,
-   "02:30 PM": 4,
+   "02:30 PM": 5,
    "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh": 0,
-   "Udupi, Karnataka": 4,
+   "Udupi, Karnataka": 5,
    "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal.": 0,
    "15th October 2026": 0,
    "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.": 0,
@@ -1541,9 +1541,7 @@
    "Consumer Awareness Program at Chamba (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 0,
    "Consumer Outreach Program at Sepahijala (Tripura) by RO KOLKATA": 0,
    "23 October, 2026": 0,
-   "ITU Workshop on TSQ & SG-12RG-AP Meeting": 7,
    "📣 ITU Workshop & SG-12RG-AP Meeting | 2–3 December 2026 | Hyderabad, India | Click Here for More Information": 0,
-   "Hyderabad, Telangana": 7,
    "🔊 TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": 0,
    "Alwar, Rajasthan": 0,
    "Consumer Awareness Program at Alwar (Rajasthan) by PMRY Club": 0,
@@ -1757,7 +1755,7 @@
    "https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf": 0,
    "http://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kathgodam-dehradun-railway": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-udupi-karnataka-coordinated-action-consumer-voluntary": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-udupi-karnataka-coordinated-action-consumer-voluntary": 5,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kathgodam-dehradun-railway": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-bilaspur-and-janjgir-champa": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman": 0,
@@ -1774,7 +1772,6 @@
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-sepahijala-tripura-ro-kolkata": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamba-himachal-pradesh-indian-institute-technology": 0,
    "https://www.trai.gov.in/itu-trai-workshop-2026": 0,
-   "https://www.trai.gov.in/events/itu-workshop-tsq-sg-12rg-ap-meeting": 7,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-alwar-rajasthan-pmry-club": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-patan-gujarat-consumer-protection-association": 0
   },
@@ -1932,7 +1929,9 @@
    "Consumer Awareness Program at Old Delhi (Delhi) by Federation of Coummunity Radio Station": "2026-10-24T04:29:16Z",
    "21 October, 2026": "2026-10-24T04:29:16Z",
    "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": "2026-10-24T23:08:18Z",
-   "22 October, 2026": "2026-10-24T23:08:18Z"
+   "22 October, 2026": "2026-10-24T23:08:18Z",
+   "ITU Workshop on TSQ & SG-12RG-AP Meeting": "2026-10-25T04:33:54Z",
+   "Hyderabad, Telangana": "2026-10-25T04:33:54Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jalore-rajasthan-consumer-unity-trust-society": "2026-09-25T04:51:10Z",
@@ -2015,7 +2014,8 @@
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-panchmahal-gujarat-ro-jaipur": "2026-10-17T20:31:05Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-siaha-mizoram-mizoram-consumers-union-hqrs": "2026-10-17T20:31:05Z",
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hassan-karnataka-ro-bengaluru": "2026-10-24T04:29:16Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-old-delhi-delhi-federation-coummunity-radio-station": "2026-10-24T04:29:16Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-old-delhi-delhi-federation-coummunity-radio-station": "2026-10-24T04:29:16Z",
+   "https://www.trai.gov.in/events/itu-workshop-tsq-sg-12rg-ap-meeting": "2026-10-25T04:33:54Z"
   }
  }
 }

@@ -1,5 +1,21 @@
 [
  {
+  "id": "9469c4b6a50c",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-25T04:33:54Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "ITU Workshop on TSQ & SG-12RG-AP Meeting",
+   "Hyderabad, Telangana"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "3070c5565887",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
