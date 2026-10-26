@@ -1,5 +1,100 @@
 [
  {
+  "id": "68c8e28dc478",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-26T12:53:41Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "भारतीय दूरसंचार सेवा समूह 'ए' के उच्च प्रशासनिक ग्रेड में नियमित पदोन्नति और नियुक्ति-26 अक्टूबर 2026",
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के वरिष्ठ समय पैमाने में पदोन्नति और नियुक्ति",
+   "निदेशक (उपभोक्ता गतिशीलता), भारत संचार निगम लिमिटेड (बीएसएनएल) के पद पर नियुक्ति",
+   "अंतिम बार अद्यतन किया गयाः 26.10.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e54ba8919842",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-26T12:53:41Z",
+  "summary": "5 new links, 6 new text blocks",
+  "added_lines": [
+   "26th October 2026",
+   "TRAI releases Recommendations on Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services'",
+   "TRAI Assesses Mobile Network Quality Across in Vijayanagara District, Karnataka LSA.",
+   "Consumer Awareness Program at Bandipora (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir",
+   "Bandipora, Jammu and Kashmir",
+   "26 October, 2026"
+  ],
+  "added_lines_total": 6,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-authorisation-framework-application-based",
+    "text": "TRAI releases Recommendations on Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services'"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-authorisation-framework-application-based",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-vijayanagara-district",
+    "text": "TRAI Assesses Mobile Network Quality Across in Vijayanagara District, Karnataka LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-vijayanagara-district",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bandipora-jammu-and-kashmir-indian-institute-technology",
+    "text": "Consumer Awareness Program at Bandipora (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "bf1733d033c3",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-26T12:53:41Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "26 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "89d4da527c04",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-26T12:53:41Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "रिपोर्ट करें",
+   "सी. ए. जी. और पी. ए. सी. पैरासिफड"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://meity.gov.in/documents/reports/cag-pac-parasifd-ATM4kjMtQWa?pageTitle=CAG-and-PAC-ParasIFD",
+    "text": "रिपोर्ट करें सी. ए. जी. और पी. ए. सी. पैरासिफड"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "72cbe3825b52",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
