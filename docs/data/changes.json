@@ -1,5 +1,45 @@
 [
  {
+  "id": "72cbe3825b52",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-26T04:38:42Z",
+  "summary": "2 new links, 2 new text blocks",
+  "added_lines": [
+   "भारत को केवल एक वैश्विक कंटेंट मार्केट से आगे बढ़कर विश्व स्तर पर प्रतिस्पर्धा करने वाली मीडिया और मनोरंजन कंपनियों का निर्माता बनना होगा: सूचना एवं प्रसारण सचिव, सीआईआई बिग पिक्चर समिट 2026",
+   "सूचना एवं प्रसारण मंत्रालय ने आईएफएफआई 2026 के लिए मीडिया प्रत्यायन की अंतिम तिथि बढ़ाकर 17 अक्टूबर की"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324027&reg=3&lang=2",
+    "text": "भारत को केवल एक वैश्विक कंटेंट मार्केट से आगे बढ़कर विश्व स्तर पर प्रतिस्पर्धा करने वाली मीडिया और मनोरंजन कंपनियों का निर्माता बनना होगा: सूचना एवं प्रसारण सचिव, सीआईआई बिग पिक्चर समिट 2026"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323933&reg=3&lang=2",
+    "text": "सूचना एवं प्रसारण मंत्रालय ने आईएफएफआई 2026 के लिए मीडिया प्रत्यायन की अंतिम तिथि बढ़ाकर 17 अक्टूबर की"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "de7166575a6f",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-26T04:38:42Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 26.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e250f0972cac",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
