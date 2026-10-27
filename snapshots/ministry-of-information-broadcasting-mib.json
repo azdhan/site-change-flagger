@@ -556,35 +556,27 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/archives",
-   "text": "पुरालेखागार"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/website-policy",
+   "url": "https://mib.gov.in/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/related-link",
+   "url": "https://mib.gov.in/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/sitemap",
+   "url": "https://mib.gov.in/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/help",
+   "url": "https://mib.gov.in/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
-   "text": "हमसे संपर्क करें"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/feedback",
+   "url": "https://mib.gov.in/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -613,7 +605,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-27T09:03:25Z",
+ "fetched_at": "2026-10-27T15:21:14Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -777,15 +769,15 @@
    "1.32 मेगा बाइट |": 0,
    "1.37 मेगा बाइट |": 0,
    "परामर्श": 0,
-   "डॉ. एल. मुरुगन ने युवाओं से 2047 तक विकसित भारत यात्रा में देश का नेतृत्व करने का आह्वान किया": 5,
-   "सूचना और प्रसारण मंत्रालय ने 'स्वच्छता ही सेवा 2026' अभियान सफलतापूर्वक पूरा किया": 5,
-   "सूचना एवं प्रसारण मंत्रालय ने स्वच्छता बढ़ाने और लंबित मामलों में कमी लाने के लिए देशव्यापी विशेष अभियान 6.0 का शुभारंभ किया": 1,
+   "डॉ. एल. मुरुगन ने युवाओं से 2047 तक विकसित भारत यात्रा में देश का नेतृत्व करने का आह्वान किया": 6,
+   "सूचना और प्रसारण मंत्रालय ने 'स्वच्छता ही सेवा 2026' अभियान सफलतापूर्वक पूरा किया": 6,
+   "सूचना एवं प्रसारण मंत्रालय ने स्वच्छता बढ़ाने और लंबित मामलों में कमी लाने के लिए देशव्यापी विशेष अभियान 6.0 का शुभारंभ किया": 2,
    "92.76 किलोबाइट |": 0,
    "स्रोत \"सौजन्य: संसद टीवी\" को प्रमुखता से प्रदर्शित करने के संबंध में।": 0,
-   "23 अक्टूबर 2026": 4,
+   "23 अक्टूबर 2026": 5,
    "सूचना एवं प्रसारण मंत्रालय ने आईएफएफआई 2026 के लिए मीडिया प्रत्यायन की अंतिम तिथि बढ़ाकर 17 अक्टूबर की": 0,
    "भारत को केवल एक वैश्विक कंटेंट मार्केट से आगे बढ़कर विश्व स्तर पर प्रतिस्पर्धा करने वाली मीडिया और मनोरंजन कंपनियों का निर्माता बनना होगा: सूचना एवं प्रसारण सचिव, सीआईआई बिग पिक्चर समिट 2026": 0,
-   "26 अक्टूबर 2026": 1,
+   "26 अक्टूबर 2026": 2,
    "27 अक्टूबर 2026": 0,
    "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे": 0
   },
@@ -869,12 +861,12 @@
    "https://www.ncs.gov.in/": 0,
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
-   "https://mib.gov.in/hi/website-policy": 1,
-   "https://mib.gov.in/hi/related-link": 1,
-   "https://mib.gov.in/hi/sitemap": 1,
-   "https://mib.gov.in/hi/help": 1,
-   "https://mib.gov.in/hi/feedback": 1,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/hi/website-policy": 0,
+   "https://mib.gov.in/hi/related-link": 0,
+   "https://mib.gov.in/hi/sitemap": 0,
+   "https://mib.gov.in/hi/help": 0,
+   "https://mib.gov.in/hi/feedback": 0,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -893,20 +885,20 @@
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
    "https://mib.gov.in/hi/whats-new": 0,
    "https://www.mygov.in/campaigns/make-in-india/?target=webview&type=campaign&nid=0": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320785&reg=3&lang=2": 5,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321029&reg=3&lang=2": 5,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321519&reg=3&lang=2": 1,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2320785&reg=3&lang=2": 6,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321029&reg=3&lang=2": 6,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2321519&reg=3&lang=2": 2,
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-25th-october-2026?target=inapp&type=group_issue&nid=5934": 0,
    "https://e-hrms.gov.in/home": 0,
    "https://mib.gov.in/sites/default/files/2026-10/advisory-dated-07102026.pdf": 0,
-   "https://mib.gov.in/index.php/hi/sitemap": 0,
-   "https://mib.gov.in/index.php/hi/help": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 0,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 0,
-   "https://mib.gov.in/index.php/hi/archives": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 1,
+   "https://mib.gov.in/index.php/hi/help": 1,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/index.php/hi/related-link": 1,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 1,
+   "https://mib.gov.in/index.php/hi/website-policy": 1,
+   "https://mib.gov.in/index.php/hi/archives": 1,
+   "https://mib.gov.in/index.php/hi/feedback": 1,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323933&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324027&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328551&reg=3&lang=2": 0
