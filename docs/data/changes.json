@@ -1,5 +1,85 @@
 [
  {
+  "id": "b8900f950685",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-27T09:03:25Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "आई. टी. एस. समूह ए के एस. ए. जी. में अधिकारियों के स्थानांतरण और नियुक्ति के संबंध में आदेश-26-10-2026",
+   "एन. सी. ए.-टी., गाजियाबाद में \"उपग्रह संचार-उभरती प्रौद्योगिकियां, अनुप्रयोग और नियामक परिप्रेक्ष्य\" (18-20 नवंबर 2026) पर 3-दिवसीय सी. आई. एस. टी. के लिए नामांकन आमंत्रित करना",
+   "आई. टी. एस. समूह 'ए' के एस. ए. जी. में अधिकारियों का स्थानांतरण और नियुक्ति",
+   "अंतिम बार अद्यतन किया गयाः 27.10.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "df023e2e85d3",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-27T09:03:25Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "27th October 2026",
+   "TRAI releases Telecom Subscription Data as on September 2026",
+   "27 October, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-september-2026",
+    "text": "TRAI releases Telecom Subscription Data as on September 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-september-2026",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "524126dd19a5",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-27T09:03:25Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे",
+   "27 अक्टूबर 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328551&reg=3&lang=2",
+    "text": "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "a907673e5815",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-27T09:03:25Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 27.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "68c8e28dc478",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
