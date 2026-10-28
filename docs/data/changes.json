@@ -1,5 +1,23 @@
 [
  {
+  "id": "50750b058cc0",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-28T05:31:31Z",
+  "summary": "1 new text block, 4 items no longer on page",
+  "added_lines": [
+   "28 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "डॉ. एल. मुरुगन ने युवाओं से 2047 तक विकसित भारत यात्रा में देश का नेतृत्व करने का आह्वान किया",
+   "सूचना और प्रसारण मंत्रालय ने 'स्वच्छता ही सेवा 2026' अभियान सफलतापूर्वक पूरा किया"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "7d4409a97ae3",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
