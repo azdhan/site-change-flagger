@@ -1,5 +1,108 @@
 [
  {
+  "id": "7669d31666de",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-28T12:43:55Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "भारतीय दूरसंचार सेवा समूह 'ए' के एच. ए. जी. + में पदोन्नति-डी. एम. एझिल बुद्धन",
+   "भारतीय दूरसंचार सेवा समूह 'ए' के एच. ए. जी. + में पदोन्नति-संदीप सावरकर",
+   "डीओटी, मुख्यालय में कार्य का आवंटन",
+   "अंतिम बार अद्यतन किया गयाः 28.10.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "adf2253f03ee",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-28T12:43:55Z",
+  "summary": "4 new links, 7 new text blocks, 12 items no longer on page",
+  "added_lines": [
+   "28th October 2026",
+   "TRAI Assesses Mobile Network Quality Across Gonda, Bahraich, Shravasti & Balrampur City, Prayagraj to Gonda and Gonda to Bahraich Highway.",
+   "Consumer Awareness Program at Garhwa (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
+   "Garhwa, Jharkhand",
+   "Consumer Awareness Program at Etawah (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh",
+   "Etawah, Uttar Pradesh",
+   "28 October, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality in and around Balasore City, covering Balasore, Soro, Remuna, Nilagiri, Jaleswar, Baliapal and nearby areas.",
+   "7th October 2026",
+   "8th October 2026",
+   "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)",
+   "Chamba , Himachal Pradesh",
+   "Consumer Awareness Program at Chamba (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh",
+   "23 October, 2026"
+  ],
+  "removed_lines_total": 12,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gonda-bahraich-shravasti",
+    "text": "TRAI Assesses Mobile Network Quality Across Gonda, Bahraich, Shravasti & Balrampur City, Prayagraj to Gonda and Gonda to Bahraich Highway."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gonda-bahraich-shravasti",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-garhwa-jharkhand-pragati-educational-academy",
+    "text": "Consumer Awareness Program at Garhwa (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-etawah-uttar-pradesh-indian-institute-technology",
+    "text": "Consumer Awareness Program at Etawah (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "850dac39a0fd",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-28T12:43:55Z",
+  "summary": "1 new link, 3 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "407.46 किलोबाइट |",
+   "केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम,…",
+   "केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम, 1994 के अंतर्गत निर्धारित कार्यक्रम संहिता का कड़ाई से अनुपालन सुनिश्चित किए जाने के संबंध में सभी प्राइवेट सैटेलाइट टीवी चैनल हेतु एडवाइजरी।"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "23 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-10/hindi.pdf",
+    "text": "28-10-2026 | 407.46 किलोबाइट | केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम,…"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "bc9f521be3be",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-28T12:43:55Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 28.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "50750b058cc0",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
