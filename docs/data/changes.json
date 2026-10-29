@@ -1,5 +1,59 @@
 [
  {
+  "id": "f9334ff407a7",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-29T18:25:31Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "दूरसंचार-सी. एस. आई. आर. टी., डी. जी. टी. मुख्यालय, डी. ओ. टी. ने राष्ट्रीय साइबर सुरक्षा जागरूकता माह 2026 के हिस्से के रूप में \"साइबर स्वच्छता की संस्कृति का निर्माण\" पर जागरूकता वेबिनार का आयोजन किया",
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के अधिकारियों की सेवानिवृत्ति पर सेवानिवृत्ति"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8ec9671dc9a3",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-29T18:25:31Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "3.11 मेगा बाइट |",
+   "वार्षिक रिपोर्ट 2025-26",
+   "वार्षिक रिपोर्ट्स"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-10/annual-report-hindi.pdf",
+    "text": "वार्षिक रिपोर्ट 2025-26"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "ebef835720b4",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-29T18:25:31Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "ए. आई. प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)",
+   "अंतिम बार अद्यतन किया गयाः 29.10.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "86aa04df1ba3",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

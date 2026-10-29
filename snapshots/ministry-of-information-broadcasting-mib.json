@@ -51,6 +51,8 @@
   "संपर्क करें",
   "Pause",
   "घोषणाएं",
+  "3.11 मेगा बाइट |",
+  "वार्षिक रिपोर्ट 2025-26",
   "97.65 किलोबाइट |",
   "निविदा सूचनाएँ",
   "6.85 मेगा बाइट |",
@@ -59,8 +61,6 @@
   "#11YearsofJanDhan",
   "1.58 मेगा बाइट |",
   "भारत में एमएसओ द्वारा तैनात सीएएस और एसएमएस का विवरण मांगा गया है।",
-  "733.86 किलोबाइट |",
-  "मुख्य सचिवालय, सूचना एवं प्रसारण मंत्रालय में आधिकारिक उपयोग के लिए एक बीएस-VI सीएनजी ऑटो रिक्शा की आपूर्ति के लिए कोटेशन का निमंत्रण।",
   "लाल किले से मैंने सबका प्रयास की बात कही है। आज मेरा ये विश्वास और पक्का हो गया है कि आप सभी का प्रयास आने वाले वर्षों में WAVES को नई ऊंचाई देगा। मेरा इंडस्ट्री के साथियों से ये आग्रह बना रहेगा, कि जैसे आपने पहली समिट की हैंड होल्डिंग की है, वो आगे भी जारी रखें। अभी तो WAVES में कई तरह की खूबसूरत लहरें आनी बाकी हैं",
   "वेव्स समिट 2025",
   "देखने के लिए क्लिक करें",
@@ -120,12 +120,12 @@
   "टीवी रेटिंग नीति 2026- टेलीविजन रेटिंग के विनियमन संबंधी दिशानिर्देश रेटिंग…",
   "और देखें",
   "हालिया दस्तावेज़",
+  "वार्षिक रिपोर्ट्स",
   "प्रेस प्रकाशनी",
   "सूचना और प्रसारण मंत्रालय ने 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) 2026 के लिए मीडिया प्रत्‍यायन की अंतिम तिथि 4 नवंबर 2026 तक बढ़ाई",
   "परामर्श",
   "केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम, 1994 के अंतर्गत निर्धारित कार्यक्रम संहिता का कड़ाई से अनुपालन सुनिश्चित किए जाने के संबंध में सभी प्राइवेट सैटेलाइट टीवी चैनल हेतु एडवाइजरी।",
   "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे",
-  "भारत को केवल एक वैश्विक कंटेंट मार्केट से आगे बढ़कर विश्व स्तर पर प्रतिस्पर्धा करने वाली मीडिया और मनोरंजन कंपनियों का निर्माता बनना होगा: सूचना एवं प्रसारण सचिव, सीआईआई बिग पिक्चर समिट 2026",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "Image and name of मीडिया. Select to view more information.",
   "शोधकर्ता",
@@ -307,6 +307,10 @@
    "text": ""
   },
   {
+   "url": "https://mib.gov.in/sites/default/files/2026-10/annual-report-hindi.pdf",
+   "text": "वार्षिक रिपोर्ट 2025-26"
+  },
+  {
    "url": "https://mib.gov.in/sites/default/files/2026-08/tender-notices-admn.pdf",
    "text": "निविदा सूचनाएँ"
   },
@@ -321,10 +325,6 @@
   {
    "url": "https://mib.gov.in/sites/default/files/2025-06/advisoy-dated-16.06.2025-1_1.pdf",
    "text": "भारत में एमएसओ द्वारा तैनात सीएएस और एसएमएस का विवरण मांगा गया है।"
-  },
-  {
-   "url": "https://mib.gov.in/sites/default/files/2025-10/invitation-of-quotations-for-supply-of-one-bs-vi-cng-auto-rickshaw-for-official-use-in_0.pdf",
-   "text": "मुख्य सचिवालय, सूचना एवं प्रसारण मंत्रालय में आधिकारिक उपयोग के लिए एक बीएस-VI सीएनजी ऑटो रिक्शा की आपूर्ति के लिए कोटेशन का निमंत्रण।"
   },
   {
    "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2125750",
@@ -461,10 +461,6 @@
   {
    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328551&reg=3&lang=2",
    "text": "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे"
-  },
-  {
-   "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324027&reg=3&lang=2",
-   "text": "भारत को केवल एक वैश्विक कंटेंट मार्केट से आगे बढ़कर विश्व स्तर पर प्रतिस्पर्धा करने वाली मीडिया और मनोरंजन कंपनियों का निर्माता बनना होगा: सूचना एवं प्रसारण सचिव, सीआईआई बिग पिक्चर समिट 2026"
   },
   {
    "url": "http://mib.gov.in/hi/documents/reports",
@@ -612,7 +608,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-10-29T09:51:40Z",
+ "fetched_at": "2026-10-29T18:25:31Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -672,8 +668,8 @@
    "#11YearsofJanDhan": 0,
    "1.58 मेगा बाइट |": 0,
    "भारत में एमएसओ द्वारा तैनात सीएएस और एसएमएस का विवरण मांगा गया है।": 0,
-   "733.86 किलोबाइट |": 0,
-   "मुख्य सचिवालय, सूचना एवं प्रसारण मंत्रालय में आधिकारिक उपयोग के लिए एक बीएस-VI सीएनजी ऑटो रिक्शा की आपूर्ति के लिए कोटेशन का निमंत्रण।": 0,
+   "733.86 किलोबाइट |": 1,
+   "मुख्य सचिवालय, सूचना एवं प्रसारण मंत्रालय में आधिकारिक उपयोग के लिए एक बीएस-VI सीएनजी ऑटो रिक्शा की आपूर्ति के लिए कोटेशन का निमंत्रण।": 1,
    "लाल किले से मैंने सबका प्रयास की बात कही है। आज मेरा ये विश्वास और पक्का हो गया है कि आप सभी का प्रयास आने वाले वर्षों में WAVES को नई ऊंचाई देगा। मेरा इंडस्ट्री के साथियों से ये आग्रह बना रहेगा, कि जैसे आपने पहली समिट की हैंड होल्डिंग की है, वो आगे भी जारी रखें। अभी तो WAVES में कई तरह की खूबसूरत लहरें आनी बाकी हैं": 0,
    "वेव्स समिट 2025": 0,
    "देखने के लिए क्लिक करें": 0,
@@ -778,16 +774,19 @@
    "परामर्श": 0,
    "92.76 किलोबाइट |": 0,
    "स्रोत \"सौजन्य: संसद टीवी\" को प्रमुखता से प्रदर्शित करने के संबंध में।": 0,
-   "सूचना एवं प्रसारण मंत्रालय ने आईएफएफआई 2026 के लिए मीडिया प्रत्यायन की अंतिम तिथि बढ़ाकर 17 अक्टूबर की": 1,
-   "भारत को केवल एक वैश्विक कंटेंट मार्केट से आगे बढ़कर विश्व स्तर पर प्रतिस्पर्धा करने वाली मीडिया और मनोरंजन कंपनियों का निर्माता बनना होगा: सूचना एवं प्रसारण सचिव, सीआईआई बिग पिक्चर समिट 2026": 0,
-   "27 अक्टूबर 2026": 5,
+   "सूचना एवं प्रसारण मंत्रालय ने आईएफएफआई 2026 के लिए मीडिया प्रत्यायन की अंतिम तिथि बढ़ाकर 17 अक्टूबर की": 2,
+   "भारत को केवल एक वैश्विक कंटेंट मार्केट से आगे बढ़कर विश्व स्तर पर प्रतिस्पर्धा करने वाली मीडिया और मनोरंजन कंपनियों का निर्माता बनना होगा: सूचना एवं प्रसारण सचिव, सीआईआई बिग पिक्चर समिट 2026": 1,
+   "27 अक्टूबर 2026": 6,
    "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे": 0,
-   "28 अक्टूबर 2026": 1,
+   "28 अक्टूबर 2026": 2,
    "केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम, 1994 के अंतर्गत निर्धारित कार्यक्रम संहिता का कड़ाई से अनुपालन सुनिश्चित किए जाने के संबंध में सभी प्राइवेट सैटेलाइट टीवी चैनल हेतु एडवाइजरी।": 0,
    "केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम,…": 0,
    "407.46 किलोबाइट |": 0,
    "सूचना और प्रसारण मंत्रालय ने 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) 2026 के लिए मीडिया प्रत्‍यायन की अंतिम तिथि 4 नवंबर 2026 तक बढ़ाई": 0,
-   "29 अक्टूबर 2026": 0
+   "29 अक्टूबर 2026": 0,
+   "3.11 मेगा बाइट |": 0,
+   "वार्षिक रिपोर्ट्स": 0,
+   "वार्षिक रिपोर्ट 2025-26": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -825,7 +824,7 @@
    "https://mib.gov.in/sites/default/files/2026-01/vaarasaika-raipaorata-2024-25.pdf": 0,
    "https://mib.gov.in/sites/default/files/2025-08/-11yearsofjandhan-1_0.pdf": 0,
    "https://mib.gov.in/sites/default/files/2025-06/advisoy-dated-16.06.2025-1_1.pdf": 0,
-   "https://mib.gov.in/sites/default/files/2025-10/invitation-of-quotations-for-supply-of-one-bs-vi-cng-auto-rickshaw-for-official-use-in_0.pdf": 0,
+   "https://mib.gov.in/sites/default/files/2025-10/invitation-of-quotations-for-supply-of-one-bs-vi-cng-auto-rickshaw-for-official-use-in_0.pdf": 1,
    "https://pib.gov.in/PressReleasePage.aspx?PRID=2125750": 0,
    "https://mib.gov.in/ministry/about-us": 0,
    "https://mib.gov.in/hi/ministry/about-us/sarai-asavainai-vaaisanava": 0,
@@ -896,19 +895,12 @@
    "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-25th-october-2026?target=inapp&type=group_issue&nid=5934": 0,
    "https://e-hrms.gov.in/home": 0,
    "https://mib.gov.in/sites/default/files/2026-10/advisory-dated-07102026.pdf": 0,
-   "https://mib.gov.in/index.php/hi/sitemap": 7,
-   "https://mib.gov.in/index.php/hi/help": 7,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 7,
-   "https://mib.gov.in/index.php/hi/related-link": 7,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 7,
-   "https://mib.gov.in/index.php/hi/website-policy": 7,
-   "https://mib.gov.in/index.php/hi/archives": 7,
-   "https://mib.gov.in/index.php/hi/feedback": 7,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323933&reg=3&lang=2": 1,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324027&reg=3&lang=2": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2323933&reg=3&lang=2": 2,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2324027&reg=3&lang=2": 1,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328551&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-10/hindi.pdf": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329405&reg=3&lang=2": 0
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329405&reg=3&lang=2": 0,
+   "https://mib.gov.in/sites/default/files/2026-10/annual-report-hindi.pdf": 0
   },
   "grave_lines": {
    "ई - बुक्स": "2026-10-15T21:19:01Z",
@@ -956,14 +948,14 @@
    "26 अक्टूबर 2026": "2026-10-29T09:51:40Z"
   },
   "grave_links": {
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-10-22T04:35:51Z",
-   "https://mib.gov.in/index.php/hi/feedback": "2026-10-22T04:35:51Z",
-   "https://mib.gov.in/index.php/hi/sitemap": "2026-10-22T04:35:51Z",
-   "https://mib.gov.in/index.php/hi/related-link": "2026-10-22T04:35:51Z",
-   "https://mib.gov.in/index.php/hi/website-policy": "2026-10-22T04:35:51Z",
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-10-22T04:35:51Z",
-   "https://mib.gov.in/index.php/hi/archives": "2026-10-22T04:35:51Z",
-   "https://mib.gov.in/index.php/hi/help": "2026-10-22T04:35:51Z",
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": "2026-10-29T18:25:31Z",
+   "https://mib.gov.in/index.php/hi/feedback": "2026-10-29T18:25:31Z",
+   "https://mib.gov.in/index.php/hi/sitemap": "2026-10-29T18:25:31Z",
+   "https://mib.gov.in/index.php/hi/related-link": "2026-10-29T18:25:31Z",
+   "https://mib.gov.in/index.php/hi/website-policy": "2026-10-29T18:25:31Z",
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": "2026-10-29T18:25:31Z",
+   "https://mib.gov.in/index.php/hi/archives": "2026-10-29T18:25:31Z",
+   "https://mib.gov.in/index.php/hi/help": "2026-10-29T18:25:31Z",
    "https://mib.gov.in/index.php/hi/ministry/organizations": "2026-10-16T11:15:53Z",
    "https://mib.gov.in/index.php/hi/persona/researcher": "2026-10-14T19:19:27Z",
    "https://mib.gov.in/index.php/hi/ministry/about-us/dr-l-murugan": "2026-10-09T01:11:05Z",

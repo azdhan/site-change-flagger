@@ -127,12 +127,12 @@
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "राष्ट्रीय आवृत्ति आवंटन योजना-2025",
   "हाल के दस्तावेज़",
-  "आदेश और सूचनाएँ",
-  "सीएमडी, टी. सी. आई. एल. के पद के लिए चयन",
   "प्रेस विज्ञप्ति",
-  "डी. ओ. टी. ने ई. एस. टी. आई. सी. 2026 में 'बुद्धिमान नेटवर्क और क्वांटम संचार' विषयगत सत्र का नेतृत्व किया",
-  "भारतीय दूरसंचार सेवा समूह 'ए' के एच. ए. जी. + में पदोन्नति-डी. एम. एझिल बुद्धन",
-  "भारतीय दूरसंचार सेवा समूह 'ए' के एच. ए. जी. + में पदोन्नति-संदीप सावरकर",
+  "दूरसंचार-सी. एस. आई. आर. टी., डी. जी. टी. मुख्यालय, डी. ओ. टी. ने राष्ट्रीय साइबर सुरक्षा जागरूकता माह 2026 के हिस्से के रूप में \"साइबर स्वच्छता की संस्कृति का निर्माण\" पर जागरूकता वेबिनार का आयोजन किया",
+  "आदेश और सूचनाएँ",
+  "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के अधिकारियों की सेवानिवृत्ति पर सेवानिवृत्ति",
+  "सीएमडी, टी. सी. आई. एल. के पद के लिए चयन",
+  "एम. एस. सी. कोडों का आवंटन",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
   "मीडिया के लिए",
   "For Industry Professional",
@@ -363,6 +363,10 @@
    "text": "अधिक देखें chevron_right"
   },
   {
+   "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes",
+   "text": "आदेश और सूचनाएँ एम. एस. सी. कोडों का आवंटन"
+  },
+  {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
    "text": "मीडिया के लिए"
   },
@@ -468,7 +472,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-29T09:51:40Z",
+ "fetched_at": "2026-10-29T18:25:31Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -932,7 +936,9 @@
    "भारतीय दूरसंचार सेवा समूह 'ए' के एच. ए. जी. + में पदोन्नति-संदीप सावरकर": 0,
    "सीएमडी, टी. सी. आई. एल. के पद के लिए चयन": 0,
    "अंतिम बार अद्यतन किया गयाः 29.10.2026": 0,
-   "डी. ओ. टी. ने ई. एस. टी. आई. सी. 2026 में 'बुद्धिमान नेटवर्क और क्वांटम संचार' विषयगत सत्र का नेतृत्व किया": 0
+   "डी. ओ. टी. ने ई. एस. टी. आई. सी. 2026 में 'बुद्धिमान नेटवर्क और क्वांटम संचार' विषयगत सत्र का नेतृत्व किया": 0,
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के अधिकारियों की सेवानिवृत्ति पर सेवानिवृत्ति": 0,
+   "दूरसंचार-सी. एस. आई. आर. टी., डी. जी. टी. मुख्यालय, डी. ओ. टी. ने राष्ट्रीय साइबर सुरक्षा जागरूकता माह 2026 के हिस्से के रूप में \"साइबर स्वच्छता की संस्कृति का निर्माण\" पर जागरूकता वेबिनार का आयोजन किया": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -1009,7 +1015,8 @@
    "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": 4
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": 5,
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes": 0
   },
   "grave_lines": {
    "Revenue Management Services": "2026-10-16T23:32:22Z",
