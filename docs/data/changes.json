@@ -1,5 +1,80 @@
 [
  {
+  "id": "86aa04df1ba3",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-29T09:51:40Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "सीएमडी, टी. सी. आई. एल. के पद के लिए चयन",
+   "डी. ओ. टी. ने ई. एस. टी. आई. सी. 2026 में 'बुद्धिमान नेटवर्क और क्वांटम संचार' विषयगत सत्र का नेतृत्व किया",
+   "अंतिम बार अद्यतन किया गयाः 29.10.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "628c7c9354c2",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-29T09:51:40Z",
+  "summary": "3 new links, 5 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "29th October 2026",
+   "TRAI Assesses Mobile Network Quality across Kachchh area including Gandhidham & Bhuj cities and Bhuj to Bachau highway (in Gujarat LSA)",
+   "Consumer Awareness Program at Hnahthial (Mizoram) by Mizoram Consumers' Union Hqrs",
+   "Hnahthial, Mizoram",
+   "29 October, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "26 October, 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kachchh-area-including",
+    "text": "TRAI Assesses Mobile Network Quality across Kachchh area including Gandhidham & Bhuj cities and Bhuj to Bachau highway (in Gujarat LSA)"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kachchh-area-including",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hnahthial-mizoram-mizoram-consumers-union-hqrs",
+    "text": "Consumer Awareness Program at Hnahthial (Mizoram) by Mizoram Consumers' Union Hqrs"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "d12f7a90c3c9",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-29T09:51:40Z",
+  "summary": "1 new link, 2 new text blocks, 3 items no longer on page",
+  "added_lines": [
+   "सूचना और प्रसारण मंत्रालय ने 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) 2026 के लिए मीडिया प्रत्‍यायन की अंतिम तिथि 4 नवंबर 2026 तक बढ़ाई",
+   "29 अक्टूबर 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "सूचना एवं प्रसारण मंत्रालय ने स्वच्छता बढ़ाने और लंबित मामलों में कमी लाने के लिए देशव्यापी विशेष अभियान 6.0 का शुभारंभ किया",
+   "26 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329405&reg=3&lang=2",
+    "text": "सूचना और प्रसारण मंत्रालय ने 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) 2026 के लिए मीडिया प्रत्‍यायन की अंतिम तिथि 4 नवंबर 2026 तक बढ़ाई"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "7669d31666de",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
