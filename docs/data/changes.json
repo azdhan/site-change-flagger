@@ -1,5 +1,48 @@
 [
  {
+  "id": "bff278cc8c14",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-30T17:59:06Z",
+  "summary": "5 new links, 3 new text blocks, 7 items no longer on page",
+  "added_lines": [
+   "TRAI releases draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services for stakeholders comments.",
+   "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026",
+   "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "TRAI Releases Draft Telecommunication (Broadcasting and Cable) Services DRM- based Digital Addressable Systems Audit Manual, 2026",
+   "Chandigarh , Chandigarh",
+   "Consumer Awareness Program at Chandigarh (Chandigarh) by Citizens Awarness Group Chandigarh",
+   "27 October, 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence",
+    "text": "TRAI releases draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services for stakeholders comments."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft",
+    "text": "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/draft-guidelines-responsible-use-artificial-intelligence-ai-telecommunication-networks-and",
+    "text": "30th October 2026 Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
   "id": "d140049cae85",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
