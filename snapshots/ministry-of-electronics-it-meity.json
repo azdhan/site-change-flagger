@@ -100,26 +100,35 @@
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
   "कार्यक्रम देखें",
-  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
-  "Shri Ashwini Vaishnaw",
-  "HON’BLE MINISTER",
-  "Shri Jitin Prasada",
-  "HON’BLE MINISTER OF STATE",
-  "Key Offerings",
-  "Mobile Phone Manufacturing Scheme (MPMS)",
+  "हमारे बारे में",
+  "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।",
+  "हमारी टीम",
+  "हमारे संगठन",
+  "हमारा प्रदर्शन",
+  "श्री अश्विनी वैष्णव",
+  "माननीय मंत्री",
+  "श्री जितिन प्रसाद",
+  "माननीय राज्य मंत्री",
+  "प्रमुख प्रस्ताव",
+  "योजनाएं और सेवाएँ",
+  "रिक्तियां",
+  "निविदाएं",
+  "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
   "arrow_forward_ios",
+  "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम",
+  "विश्वेश्वरैया पीएचडी योजना",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
+  "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
+  "Mobile Phone Manufacturing Scheme (MPMS)",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "Visvesvaraya PhD Scheme",
   "Digital India Internship Scheme 2026",
-  "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश",
-  "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "अधिक देखें",
-  "What’s New",
-  "EOI for indigenous 1.5 T MRI Scanner",
-  "Digital Personal Data Protection(Removal of Difficulties) Order,2026",
-  "Monthly Achievements for the month of July, 2026",
-  "View more",
-  "Recent Documents",
+  "नया क्या है",
+  "स्वदेशी 1.5 टी एमआरआई स्कैनर के लिए ईओआई",
+  "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026",
+  "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
+  "हाल के दस्तावेज़",
   "कानून और नीतियाँ",
   "ए. आई. प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)",
   "रिपोर्ट करें",
@@ -310,51 +319,51 @@
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
-   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
+   "text": "श्री अश्विनी वैष्णव माननीय मंत्री"
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
-   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
+   "text": "श्री जितिन प्रसाद माननीय राज्य मंत्री"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa",
-   "text": "Mobile Phone Manufacturing Scheme (MPMS)"
+   "text": "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
-   "text": "NeGD’s Non-Technical (Summer) Internship Programme"
+   "text": "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa",
-   "text": "Visvesvaraya PhD Scheme"
+   "text": "विश्वेश्वरैया पीएचडी योजना"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
-   "text": "Digital India Internship Scheme 2026"
+   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
-   "text": "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश"
+   "text": "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/10/4f2d643107a8b586181dd19d8cc11379.pdf",
-   "text": "EOI for indigenous 1.5 T MRI Scanner arrow_forward_ios"
+   "text": "स्वदेशी 1.5 टी एमआरआई स्कैनर के लिए ईओआई arrow_forward_ios"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf",
-   "text": "Digital Personal Data Protection(Removal of Difficulties) Order,2026 arrow_forward_ios"
+   "text": "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026 arrow_forward_ios"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
-   "text": "Monthly Achievements for the month of July, 2026 arrow_forward_ios"
+   "text": "जुलाई, 2026 के लिए मासिक उपलब्धियाँ arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
+   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "View more chevron_right"
+   "text": "अधिक देखें chevron_right"
   },
   {
    "url": "https://meity.gov.in/documents/reports/cag-pac-parasifd-ATM4kjMtQWa?pageTitle=CAG-and-PAC-ParasIFD",
@@ -395,10 +404,6 @@
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://innovateindia.mygov.in/cyber-security-grand-challenge/",
-   "text": ""
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -450,7 +455,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-10-30T17:59:06Z",
+ "fetched_at": "2026-10-30T22:14:41Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -731,16 +736,19 @@
    "सी. ए. जी. और पी. ए. सी. पैरासिफड": 0,
    "रिपोर्ट करें": 0,
    "अंतिम बार अद्यतन किया गयाः 27.10.2026": 0,
-   "CAG and PAC ParasIFD": 3,
-   "Report": 3,
+   "CAG and PAC ParasIFD": 0,
+   "Report": 0,
    "Recent Documents": 0,
    "अंतिम बार अद्यतन किया गयाः 28.10.2026": 0,
    "कानून और नीतियाँ": 0,
-   "Act and policies": 3,
+   "Act and policies": 0,
    "अंतिम बार अद्यतन किया गयाः 29.10.2026": 0,
-   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 3,
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 0,
    "ए. आई. प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)": 0,
-   "अंतिम बार अद्यतन किया गयाः 30.10.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 30.10.2026": 0,
+   "For IT Professional": 0,
+   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 0,
+   "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -810,7 +818,7 @@
    "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa": 0,
    "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf": 0,
-   "https://nasscom.in/events/gitex-global-2026-under-india-pavilion": 5,
+   "https://nasscom.in/events/gitex-global-2026-under-india-pavilion": 6,
    "https://sameer.gov.in/storage/tenders/rLCgBpaL8yKceGlydHJredOjHB89VgmyLknjZ6EB.pdf": 0,
    "https://www.meity.gov.in/static/uploads/2026/10/4f2d643107a8b586181dd19d8cc11379.pdf": 0,
    "https://meity.gov.in/documents/reports/cag-pac-parasifd-ATM4kjMtQWa?pageTitle=CAG-and-PAC-ParasIFD": 0,
