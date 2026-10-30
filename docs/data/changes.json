@@ -1,5 +1,117 @@
 [
  {
+  "id": "d140049cae85",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-30T09:55:51Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "एच. एम. ओ. सी. का संबोधन नोट-अक्टूबर 2026 संस्करण",
+   "एच. एम. ओ. सी. का पता नोट-अक्टूबर 2026 संस्करण",
+   "आई. टी. एस. समूह 'ए' के अधिकारियों की सेवानिवृत्ति 31.10.2026 (ए/एन) पर सेवानिवृत्ति की आयु प्राप्त करने पर-संबंधित।",
+   "अंतिम बार अद्यतन किया गयाः 30.10.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/10/b0febb4cc0cfc3ee9420a48838eb1741.pdf",
+    "text": "एच. एम. ओ. सी. का संबोधन नोट-अक्टूबर 2026 संस्करण arrow_forward_ios"
+   },
+   {
+    "url": "https://www.dot.gov.in/static/uploads/2026/10/8581d175750d2eb4b7d84e75e31f1ed9.pdf",
+    "text": "एच. एम. ओ. सी. का पता नोट-अक्टूबर 2026 संस्करण arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "c47eedbcc6a9",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-30T09:55:51Z",
+  "summary": "6 new links, 9 new text blocks",
+  "added_lines": [
+   "30th October 2026",
+   "TRAI Assesses Mobile Network Quality in Leh and Nearby Areas of Ladakh.",
+   "TRAI Assesses Mobile Network Quality in Adoni, Mantralayam, Hyderabad and Nearby Areas.",
+   "Consumer Awareness Program at Rajnandgaon (Chhattisgarh) by SAMARPIT Centre for Poverty Alleviation and Social Researc",
+   "11:30 AM",
+   "Rajnandgaon, Chhattisgarh",
+   "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
+   "Hamirpur, Uttar Pradesh",
+   "30 October, 2026"
+  ],
+  "added_lines_total": 9,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-leh-and-nearby-areas-ladakh",
+    "text": "TRAI Assesses Mobile Network Quality in Leh and Nearby Areas of Ladakh."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-leh-and-nearby-areas-ladakh",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and",
+    "text": "TRAI Assesses Mobile Network Quality in Adoni, Mantralayam, Hyderabad and Nearby Areas."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rajnandgaon-chhattisgarh-samarpit-centre-poverty",
+    "text": "Consumer Awareness Program at Rajnandgaon (Chhattisgarh) by SAMARPIT Centre for Poverty Alleviation and Social Researc"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hamirpur-uttar-pradesh-upbhokta-sanrakchhan-kalyan",
+    "text": "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
+   }
+  ],
+  "new_links_total": 6
+ },
+ {
+  "id": "c759b0969cc5",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-30T09:55:51Z",
+  "summary": "1 new text block, 1 item no longer on page",
+  "added_lines": [
+   "30 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "27 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "53c1f14c6dac",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-30T09:55:51Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 30.10.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://fellowship.indiaai.gov.in",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "f9334ff407a7",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
