@@ -1,5 +1,54 @@
 [
  {
+  "id": "93737b9f5313",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-31T12:16:37Z",
+  "summary": "10 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality Across Bilaspur and Janjgir-Champa.",
+   "Nanded, Maharashtra",
+   "Consumer Outreach Program at Nanded (Maharashtra) by RO HYDERABAD",
+   "Consumer Awareness Program at Budgam (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir",
+   "Bhudgam , Jammu and Kashmir",
+   "28 October, 2026"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f3d8cd2366a2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-31T12:16:37Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "सूचना एवं प्रसारण मंत्रालय ने आईएफएफआई 2026 के लिए मीडिया प्रत्यायन की अंतिम तिथि बढ़ाकर 17 अक्टूबर की",
+   "28 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c69df8481502",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-10-31T12:16:37Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "5e3c8b037704",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
