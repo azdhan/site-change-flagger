@@ -1,5 +1,68 @@
 [
  {
+  "id": "f3afd6d12dba",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-10-31T19:15:47Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "सरकार ने चक्रवात अर्नब के बीच दूरसंचार संपर्क की निरंतरता सुनिश्चित की",
+   "डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग; तमिलनाडु सरकार और टी. ए. एन. एफ. आई. एन. ई. टी. के बीच ए. बी. पी. के तहत तमिलनाडु में भारतनेट नेटवर्क के उपयोग के लिए समझौते पर हस्ताक्षर किए गए",
+   "अंतिम बार अद्यतन किया गयाः 31.10.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "4742b7054f2f",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-10-31T19:15:47Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Amritsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab",
+   "Amritsar, Punjab",
+   "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+   "Mahendragarh, Haryana"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-amritsar-punjab-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Amritsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mahendragarh-haryana-rashtriya-samuddeshiya-vikas",
+    "text": "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "46c1fb7f3f06",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-10-31T19:15:47Z",
+  "summary": "1 new text block, 5 items no longer on page",
+  "added_lines": [
+   "31 अक्टूबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "733.86 किलोबाइट |",
+   "मुख्य सचिवालय, सूचना एवं प्रसारण मंत्रालय में आधिकारिक उपयोग के लिए एक बीएस-VI सीएनजी ऑटो रिक्शा की आपूर्ति के लिए कोटेशन का निमंत्रण।",
+   "भारत को केवल एक वैश्विक कंटेंट मार्केट से आगे बढ़कर विश्व स्तर पर प्रतिस्पर्धा करने वाली मीडिया और मनोरंजन कंपनियों का निर्माता बनना होगा: सूचना एवं प्रसारण सचिव, सीआईआई बिग पिक्चर समिट 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "93737b9f5313",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
