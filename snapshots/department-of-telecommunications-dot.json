@@ -468,7 +468,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-01T00:04:38Z",
+ "fetched_at": "2026-11-01T05:54:56Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -940,7 +940,7 @@
    "National Frequency Allocation Plan-2025": 0,
    "एच. एम. ओ. सी. का पता नोट-अक्टूबर 2026 संस्करण": 0,
    "अंतिम बार अद्यतन किया गयाः 30.10.2026": 0,
-   "Revenue Management Services": 5,
+   "Revenue Management Services": 6,
    "डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग; तमिलनाडु सरकार और टी. ए. एन. एफ. आई. एन. ई. टी. के बीच ए. बी. पी. के तहत तमिलनाडु में भारतनेट नेटवर्क के उपयोग के लिए समझौते पर हस्ताक्षर किए गए": 0,
    "सरकार ने चक्रवात अर्नब के बीच दूरसंचार संपर्क की निरंतरता सुनिश्चित की": 0,
    "अंतिम बार अद्यतन किया गयाः 31.10.2026": 0
@@ -1016,11 +1016,8 @@
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
-   "https://www.dot.gov.in/static/uploads/2026/10/7055c08dd8b1aeab78e2f8590f320054.pdf": 7,
-   "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": 7,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
-   "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes": 7,
    "https://www.dot.gov.in/static/uploads/2026/10/b0febb4cc0cfc3ee9420a48838eb1741.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/8581d175750d2eb4b7d84e75e31f1ed9.pdf": 0
   },
@@ -1047,11 +1044,13 @@
   "grave_links": {
    "https://www.dot.gov.in/static/uploads/2026/09/249663a39e39d3048848b6685599ea4a.pdf": "2026-10-02T09:40:37Z",
    "https://www.dot.gov.in/static/uploads/2026/09/337cf127f6e1e3ca9a61a020dd3a1f0b.pdf": "2026-10-02T09:40:37Z",
-   "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes": "2026-10-11T05:39:29Z",
+   "https://dot.gov.in/documents/orders-and-notices/allotment-of-msc-codes-ATOxATNtQWa?pageTitle=Allotment-of-MSC-Codes": "2026-11-01T05:54:56Z",
    "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": "2026-10-30T17:59:06Z",
    "https://dot.gov.in/offerings/schemes-and-services/details/technology-development-investment-promotion-tdip-scheme-EDOwITNtQWa": "2026-10-14T14:29:00Z",
    "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": "2026-10-14T14:29:00Z",
-   "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)": "2026-10-16T04:24:36Z"
+   "https://dot.gov.in/documents/orders-and-notices/termination-letters-oct-2026-UTNykDOtQWa?pageTitle=Termination-Letters-(Oct-2026)": "2026-10-16T04:24:36Z",
+   "https://www.dot.gov.in/static/uploads/2026/10/7055c08dd8b1aeab78e2f8590f320054.pdf": "2026-11-01T05:54:56Z",
+   "https://www.dot.gov.in/static/uploads/2026/10/80fc8cf77be36f5bf8990046abbd45c5.pdf": "2026-11-01T05:54:56Z"
   }
  }
 }

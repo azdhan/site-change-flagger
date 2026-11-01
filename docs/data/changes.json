@@ -1,5 +1,57 @@
 [
  {
+  "id": "10c7cb3d5561",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-01T05:54:56Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "d7f8730d8a2c",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-01T05:54:56Z",
+  "summary": "17 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "10:00 AM",
+   "TRAI Assesses Mobile Network Quality Across Major Areas of New Delhi and Central Delhi.",
+   "Press Release on Indian Telecom Services Performance Indicator Report for the Quarter ending June, 2026",
+   "Consumer Awareness Program at Hazaribagh (Jharkhand) by Mahila Janshakti Sangathan",
+   "Hazaribag, Jharkhand",
+   "Sepahijala, Tripura",
+   "Consumer Outreach Program at Sepahijala (Tripura) by RO KOLKATA",
+   "Consumer Awareness Program at Garhwa (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY",
+   "Garhwa, Jharkhand",
+   "29 October, 2026"
+  ],
+  "removed_lines_total": 17,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c35c39d3eb5f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-01T05:54:56Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "29 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "f3afd6d12dba",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
