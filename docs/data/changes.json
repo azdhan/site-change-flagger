@@ -1,5 +1,21 @@
 [
  {
+  "id": "b1a240720f44",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-01T13:14:20Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.",
+   "12th October 2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "10c7cb3d5561",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

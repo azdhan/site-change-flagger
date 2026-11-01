@@ -188,11 +188,11 @@
   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.",
   "What’s New",
   "30th October 2026",
-  "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026",
-  "Explore",
   "TRAI Assesses Mobile Network Quality in Adoni, Mantralayam, Hyderabad and Nearby Areas.",
+  "Explore",
   "TRAI releases draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services for stakeholders comments.",
   "TRAI Assesses Mobile Network Quality in Leh and Nearby Areas of Ladakh.",
+  "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026",
   "29th October 2026",
   "TRAI Assesses Mobile Network Quality across Kachchh area including Gandhidham & Bhuj cities and Bhuj to Bachau highway (in Gujarat LSA)",
   "28th October 2026",
@@ -895,14 +895,6 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft",
-   "text": "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and",
    "text": "TRAI Assesses Mobile Network Quality in Adoni, Mantralayam, Hyderabad and Nearby Areas."
   },
@@ -924,6 +916,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-leh-and-nearby-areas-ladakh",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft",
+   "text": "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft",
    "text": "Explore"
   },
   {
@@ -1228,7 +1228,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-01T05:54:56Z",
+ "fetched_at": "2026-11-01T13:14:20Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1501,8 +1501,6 @@
    "9th October 2026": 0,
    "Comments": 0,
    "Counter Comments": 0,
-   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.": 7,
-   "12th October 2026": 7,
    "Total Broadband Subscribers - June 2026": 0,
    "47.82 Million": 0,
    "1,114.17 Million": 0,
@@ -1517,7 +1515,7 @@
    "Total Wireless Subscribers - June 2026": 0,
    "TRAI Assesses Mobile Network Quality across parts of Kolkata city, Howrah and Hooghly Districts under Kolkata LSA in the state of West Bengal.": 0,
    "15th October 2026": 0,
-   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.": 1,
+   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA.": 2,
    "10:30 AM": 0,
    "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD": 0,
    "West Godavari, Andhra Pradesh": 0,
@@ -1531,9 +1529,9 @@
    "Consumer Awareness Program at Patan (Gujarat) by Consumer Protection Association": 0,
    "26th October 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Vijayanagara District, Karnataka LSA.": 0,
-   "Consumer Awareness Program at Bandipora (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": 3,
+   "Consumer Awareness Program at Bandipora (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir": 4,
    "TRAI releases Recommendations on Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services'": 0,
-   "Bandipora, Jammu and Kashmir": 3,
+   "Bandipora, Jammu and Kashmir": 4,
    "TRAI releases Telecom Subscription Data as on September 2026": 0,
    "27th October 2026": 0,
    "28th October 2026": 0,
@@ -1545,11 +1543,11 @@
    "29th October 2026": 0,
    "Hnahthial, Mizoram": 0,
    "TRAI Assesses Mobile Network Quality in Leh and Nearby Areas of Ladakh.": 0,
-   "Chamba , Himachal Pradesh": 3,
+   "Chamba , Himachal Pradesh": 4,
    "Hamirpur, Uttar Pradesh": 0,
    "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti": 0,
    "30th October 2026": 0,
-   "Consumer Awareness Program at Chamba (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 3,
+   "Consumer Awareness Program at Chamba (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": 4,
    "Rajnandgaon, Chhattisgarh": 0,
    "30 October, 2026": 0,
    "11:30 AM": 0,
@@ -1757,11 +1755,9 @@
    "https://twitter.com/TRAI/status/2100153931691397235?ref_src=twsrc%5Etfw": 0,
    "https://dcrp.trai.gov.in/": 0,
    "https://www.trai.gov.in/draft-telecommunication-broadcasting-cable-services-drm-based-digital-addressable-systems-audit": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala": 7,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala": 7,
    "https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman": 1,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman": 1,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman": 2,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-south-andaman": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-kolkata-city-howrah": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-west-godavari-andhra-pradesh-ro-hyderabad": 0,
@@ -1771,7 +1767,7 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-patan-gujarat-consumer-protection-association": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-authorisation-framework-application-based": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-vijayanagara-district": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bandipora-jammu-and-kashmir-indian-institute-technology": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bandipora-jammu-and-kashmir-indian-institute-technology": 4,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-vijayanagara-district": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-authorisation-framework-application-based": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-september-2026": 0,
@@ -1784,7 +1780,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kachchh-area-including": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hamirpur-uttar-pradesh-upbhokta-sanrakchhan-kalyan": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamba-himachal-pradesh-indian-institute-technology": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamba-himachal-pradesh-indian-institute-technology": 4,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rajnandgaon-chhattisgarh-samarpit-centre-poverty": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-leh-and-nearby-areas-ladakh": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and": 0,
@@ -1916,7 +1912,9 @@
    "Consumer Outreach Program at Sepahijala (Tripura) by RO KOLKATA": "2026-11-01T05:54:56Z",
    "Consumer Awareness Program at Garhwa (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY": "2026-11-01T05:54:56Z",
    "Garhwa, Jharkhand": "2026-11-01T05:54:56Z",
-   "29 October, 2026": "2026-11-01T05:54:56Z"
+   "29 October, 2026": "2026-11-01T05:54:56Z",
+   "TRAI Assesses Mobile Network Quality Across in Thrissur District, Kerala LSA.": "2026-11-01T13:14:20Z",
+   "12th October 2026": "2026-11-01T13:14:20Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/notifications/press-release/trai-releases-standards-quality-service-duration-advertisements": "2026-10-02T17:51:44Z",
@@ -1984,7 +1982,9 @@
    "http://www.trai.gov.in/notifications/press-release/press-release-indian-telecom-services-performance-indicator-report-6": "2026-11-01T05:54:56Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hazaribagh-jharkhand-mahila-janshakti-sangathan": "2026-11-01T05:54:56Z",
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-sepahijala-tripura-ro-kolkata": "2026-11-01T05:54:56Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-garhwa-jharkhand-pragati-educational-academy": "2026-11-01T05:54:56Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-garhwa-jharkhand-pragati-educational-academy": "2026-11-01T05:54:56Z",
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala": "2026-11-01T13:14:20Z",
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-thrissur-district-kerala": "2026-11-01T13:14:20Z"
   }
  }
 }
