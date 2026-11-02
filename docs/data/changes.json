@@ -1,5 +1,72 @@
 [
  {
+  "id": "770ed6c4b695",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-02T10:55:11Z",
+  "summary": "4 new text blocks",
+  "added_lines": [
+   "वर्ष 2026 के दौरान केंद्रीय कर्मचारी योजना के तहत रक्षा उत्पादन विभाग के तहत गोवा शिपयार्ड लिमिटेड में सी. वी. ओ. के रूप में श्री शंकर लाल मेघवंशी, आई. टी. एस. (कर्मचारी संख्या 21210) का प्रतिनियुक्ति के आधार पर चयन",
+   "निदेशक (वित्त), आई. टी. आई. लिमिटेड के पद का अतिरिक्त प्रभार बढ़ाना।",
+   "महानगर टेलीफोन निगम लिमिटेड (एम. टी. एन. एल.) में निदेशक (एच. आर. और ई. बी.) के पद का अतिरिक्त प्रभार बढ़ाया गया है",
+   "अंतिम बार अद्यतन किया गयाः 02.11.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "5306715fe8e4",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-02T10:55:11Z",
+  "summary": "3 new links, 5 new text blocks",
+  "added_lines": [
+   "2nd November 2026",
+   "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026",
+   "Consumer Awareness Program at Bagalkot (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)",
+   "Bagalkot, Karnataka",
+   "2 November, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-issues-telecom-consumers-complaint-redressal-fourth-amendment",
+    "text": "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-issues-telecom-consumers-complaint-redressal-fourth-amendment",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bagalkot-karnataka-coordinated-action-consumer-voluntary",
+    "text": "Consumer Awareness Program at Bagalkot (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "18767ff24282",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-02T10:55:11Z",
+  "summary": "1 new text block, 2 items no longer on page",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 02.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "EOI for indigenous 1.5 T MRI Scanner"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "b1a240720f44",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

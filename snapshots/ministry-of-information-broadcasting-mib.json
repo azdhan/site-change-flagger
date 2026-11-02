@@ -559,27 +559,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -608,7 +616,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-02T00:37:55Z",
+ "fetched_at": "2026-11-02T10:55:11Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -780,7 +788,7 @@
    "3.11 मेगा बाइट |": 0,
    "वार्षिक रिपोर्ट्स": 0,
    "वार्षिक रिपोर्ट 2025-26": 0,
-   "30 अक्टूबर 2026": 6,
+   "30 अक्टूबर 2026": 7,
    "31 अक्टूबर 2026": 0
   },
   "links": {
@@ -862,12 +870,12 @@
    "https://www.ncs.gov.in/": 0,
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -892,7 +900,15 @@
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328551&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-10/hindi.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329405&reg=3&lang=2": 0,
-   "https://mib.gov.in/sites/default/files/2026-10/annual-report-hindi.pdf": 0
+   "https://mib.gov.in/sites/default/files/2026-10/annual-report-hindi.pdf": 0,
+   "https://mib.gov.in/index.php/hi/help": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0
   },
   "grave_lines": {
    "ई - बुक्स": "2026-10-15T21:19:01Z",
