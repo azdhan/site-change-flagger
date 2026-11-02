@@ -1,5 +1,61 @@
 [
  {
+  "id": "be2389ccca8a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-02T21:41:23Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के कनिष्ठ प्रशासनिक ग्रेड अधिकारियों को वरिष्ठ प्रशासनिक ग्रेड (वेतन मैट्रिक्स में स्तर 14 (₹1,44,200-2,18,200)) में गैर-कार्यात्मक उन्नयन का अनुदान",
+   "भारतीय डाक और दूरसंचार लेखा और वित्त सेवा, समूह 'ए' के वरिष्ठ प्रशासनिक ग्रेड अधिकारियों को उच्च प्रशासनिक ग्रेड (वेतन मैट्रिक्स में स्तर 15 (₹1,82,200-2,24,100)) में गैर-कार्यात्मक उन्नयन का अनुदान"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a61f9ed2ee6a",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-02T21:41:23Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Bandipora (Jammu and Kashmir) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jammu & Kashmir",
+   "Bandipora, Jammu and Kashmir"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f371d92044a7",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-02T21:41:23Z",
+  "summary": "1 new link, 3 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "सूचना और प्रसारण मंत्रालय में विधिक सलाहकार की नियुक्ति हेतु आवेदन प्रस्तुत करने की अंतिम तिथि बढ़ाए जाने के संबंध में।",
+   "सूचना और प्रसारण मंत्रालय में विधिक सलाहकार की नियुक्ति हेतु आवेदन प्रस्तुत…",
+   "02 नवंबर 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "30 अक्टूबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-11/hindi.pdf",
+    "text": "2.13 मेगा बाइट | सूचना और प्रसारण मंत्रालय में विधिक सलाहकार की नियुक्ति हेतु आवेदन प्रस्तुत करने की अंतिम तिथि बढ़ाए जाने के संबंध में।"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "770ed6c4b695",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
