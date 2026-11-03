@@ -1,5 +1,51 @@
 [
  {
+  "id": "bd25a573b100",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-03T06:40:11Z",
+  "summary": "5 new text blocks",
+  "added_lines": [
+   "परिपत्र संख्या 263-उन कर्मचारियों के लिए महँगाई भत्ते की दरों में संशोधन, जो छठे केंद्रीय वेतन आयोग के अनुसार वेतनमान/श्रेणी वेतन में अपना वेतन लेना जारी रखे हुए हैं",
+   "एस्टेट, पेंशन और पी. ए. टी",
+   "परिपत्र संख्या 262-केंद्र सरकार के कर्मचारियों के लिए महँगाई भत्ते की दरों में संशोधन 01-07-2026 से प्रभावी",
+   "परिपत्र संख्या 264-उन कर्मचारियों के लिए महँगाई भत्ते की दरों में संशोधन, जो 5वें केंद्रीय वेतन आयोग के अनुसार वेतनमान/श्रेणी वेतन में अपना वेतन लेना जारी रखे हुए हैं",
+   "अंतिम बार अद्यतन किया गयाः 03.11.2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "7016beee7ea7",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-03T06:40:11Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan",
+   "Aligarh, Uttar Pradesh",
+   "Consumer Awareness Program at Dumka (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jharkhand",
+   "Dumka , Jharkhand"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aligarh-uttar-pradesh-rastriya-samuddeshiya-vikas",
+    "text": "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dumka-jharkhand-indian-institute-technology-entrepreneur",
+    "text": "Consumer Awareness Program at Dumka (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jharkhand"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "be2389ccca8a",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
