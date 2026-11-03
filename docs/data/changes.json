@@ -1,5 +1,88 @@
 [
  {
+  "id": "c1135a636be2",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-03T16:59:49Z",
+  "summary": "6 new links, 9 new text blocks",
+  "added_lines": [
+   "3rd November 2026",
+   "TRAI released the Telecommunication Interconnection (Third Amendment) Regulations, 2026",
+   "Consumer Awareness Program at Nizamabad (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)",
+   "Nizamabad , Telangana",
+   "Consumer Awareness Program at Cuttack (Odisha) by Federation of Consumer Organisations Odisha",
+   "Cuttack, Odisha",
+   "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)",
+   "Deogarh, Odisha",
+   "3 November, 2026"
+  ],
+  "added_lines_total": 9,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-released-telecommunication-interconnection-third-amendment",
+    "text": "TRAI released the Telecommunication Interconnection (Third Amendment) Regulations, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-released-telecommunication-interconnection-third-amendment",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-garhwa-jharkhand-pragati-educational-academy-0",
+    "text": "Consumer Awareness Program at Garhwa (Jharkhand) by PRAGATI EDUCATIONAL ACADEMY"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nizamabad-telangana-society-health-and-agriculture-rural",
+    "text": "Consumer Awareness Program at Nizamabad (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cuttack-odisha-federation-consumer-organisations-odisha",
+    "text": "Consumer Awareness Program at Cuttack (Odisha) by Federation of Consumer Organisations Odisha"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-bhanja-institute-rural-development-bird",
+    "text": "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)"
+   }
+  ],
+  "new_links_total": 6
+ },
+ {
+  "id": "10cbc16565b6",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-03T16:59:49Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "03 नवंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://pmindiawebcast.nic.in/",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "59c2acee7f8c",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-03T16:59:49Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 03.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "bd25a573b100",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
