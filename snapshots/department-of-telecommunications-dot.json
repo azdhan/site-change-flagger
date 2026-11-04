@@ -47,8 +47,8 @@
   "Urdu",
   "(اردو)",
   "Powered by",
-  "भारत सरकार",
-  "संचार मंत्रालय, दूरसंचार विभाग",
+  "Government of India",
+  "Ministry of Communications, Department of Telecommunications",
   "search",
   "menu",
   "Home",
@@ -85,19 +85,13 @@
   "Grievance Redressal",
   "Citizen Engagement",
   "Parliament Questions",
-  "मुखपृष्ठ",
-  "मंत्रालय",
-  "पेशकशें",
-  "दस्तावेज़",
-  "मीडिया",
-  "जुड़ें",
   "pause",
   "chevron_left",
   "chevron_right",
-  "घोषणाएं",
-  "दूरसंचार ई-सेवा पोर्टल",
-  "दूरसंचार विनिर्माण क्षेत्र",
-  "मोबाइल, दूरसंचार, इलेक्ट्रॉनिक्स और प्रौद्योगिकी के पूरे पारिस्थितिकी तंत्र में, जहां भी वैश्विक चुनौती है, भारत के पास दुनिया को समाधान प्रदान करने का अवसर है।",
+  "Announcements",
+  "Telecom eServices Portal",
+  "Telecom Manufacturing Zone",
+  "Across the entire ecosystem of mobile, telecommunications, electronics, and technology, wherever there are global challenges, India has the opportunity to provide solutions to the world.",
   "इकोनॉमिक टाइम्स",
   "open_in_new",
   "कार्यक्रम देखें",
@@ -118,41 +112,36 @@
   "arrow_forward_ios",
   "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना",
   "तरंग संचार पोर्टल",
+  "दूरसंचार ई-सेवा पोर्टल",
   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project",
-  "अधिक देखें",
+  "View more",
   "नया क्या है",
   "एच. एम. ओ. सी. का संबोधन नोट-अक्टूबर 2026 संस्करण",
   "एच. एम. ओ. सी. का पता नोट-अक्टूबर 2026 संस्करण",
   "दूरसंचार विनिर्माण क्षेत्र योजना",
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
   "National Frequency Allocation Plan-2025",
-  "हाल के दस्तावेज़",
-  "आदेश और सूचनाएँ",
-  "राष्ट्रीय संचार अकादमी-दूरसंचार के महानिदेशक श्री अतुल सिन्हा को व्यापार परिवर्तन इकाई के प्रमुख का अतिरिक्त प्रभार सौंपा गया",
-  "परिपत्र संख्या 263-उन कर्मचारियों के लिए महँगाई भत्ते की दरों में संशोधन, जो छठे केंद्रीय वेतन आयोग के अनुसार वेतनमान/श्रेणी वेतन में अपना वेतन लेना जारी रखे हुए हैं",
-  "एस्टेट, पेंशन और पी. ए. टी",
-  "परिपत्र संख्या 262-केंद्र सरकार के कर्मचारियों के लिए महँगाई भत्ते की दरों में संशोधन 01-07-2026 से प्रभावी",
-  "परिपत्र संख्या 264-उन कर्मचारियों के लिए महँगाई भत्ते की दरों में संशोधन, जो 5वें केंद्रीय वेतन आयोग के अनुसार वेतनमान/श्रेणी वेतन में अपना वेतन लेना जारी रखे हुए हैं",
-  "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "मीडिया के लिए",
+  "Recent Documents",
+  "Entrustment of additional charge of Head, Business Transformation Unit to Sh Atul Sinha, Director General, National Communication Academy - Telecom",
+  "Circular no 263- Revision of rates of Dearness Allowance to the employees, who are continuing to draw their pay in the pay scale/grade pay as per 6th Central Pay Commission",
+  "Estt, Pension and PAT",
+  "Circular no 262 - Revision of rates of Dearness allowance to Central Government Employees effective from 01-07-2026",
+  "Circular no 264 - Revision of rates of Dearness Allowance to the employees, who are continuing to draw their pay in the pay scale/grade pay as per 5th Central Pay Commission",
+  "Explore User Personas",
+  "FOR MEDIA",
   "For Industry Professional",
   "For Researcher",
   "For Business Owner",
-  "महत्वपूर्ण लिंक",
-  "एम. टी. सी. टी. ई. पोर्टल",
-  "खोदने से पहले कॉल करें",
-  "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
-  "राजस्व प्रबंधन सेवाएँ",
+  "Important Links",
+  "MTCTE Portal",
+  "Call Before u Dig",
+  "PM-WANI- Telecom eServices Portal",
+  "Revenue Management Services",
   "Right Of Way -Telecom eServices Portal",
-  "सोशल मीडिया में",
-  "एक्स",
-  "यूट्यूब",
-  "फेसबुक",
-  "इंस्टाग्राम",
   "In Social Media",
-  "Instagram",
   "Youtube",
   "Facebook",
+  "Instagram",
   "उपयोगी लिंक",
   "अभिलेखागार",
   "वेबसाइट नीतियाँ",
@@ -176,7 +165,7 @@
   },
   {
    "url": "https://dot.gov.in/",
-   "text": "भारत सरकार संचार मंत्रालय, दूरसंचार विभाग"
+   "text": "Government of India Ministry of Communications, Department of Telecommunications"
   },
   {
    "url": "https://www.digitalindia.gov.in/",
@@ -300,11 +289,11 @@
   },
   {
    "url": "https://eservices.dot.gov.in/",
-   "text": "दूरसंचार ई-सेवा पोर्टल"
+   "text": "Telecom eServices Portal"
   },
   {
    "url": "https://sws.invest.mp.gov.in/",
-   "text": "दूरसंचार विनिर्माण क्षेत्र"
+   "text": "Telecom Manufacturing Zone"
   },
   {
    "url": "https://m.economictimes.com/news/india/modi-inaugurates-india-mobile-congress-2025-at-delhis-yashobhoomi/amp_articleshow/124378439.cms",
@@ -360,11 +349,11 @@
   },
   {
    "url": "https://dot.gov.in/whats-new",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa",
-   "text": "मीडिया के लिए"
+   "text": "FOR MEDIA"
   },
   {
    "url": "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa",
@@ -380,23 +369,23 @@
   },
   {
    "url": "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte",
-   "text": "एम. टी. सी. टी. ई. पोर्टल arrow_forward_ios"
+   "text": "MTCTE Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in",
-   "text": "दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   "text": "Telecom eServices Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/call-before-u-dig",
-   "text": "खोदने से पहले कॉल करें arrow_forward_ios"
+   "text": "Call Before u Dig arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/pm-wani-service-authorisation",
-   "text": "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल arrow_forward_ios"
+   "text": "PM-WANI- Telecom eServices Portal arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/about-mtcte",
-   "text": "राजस्व प्रबंधन सेवाएँ arrow_forward_ios"
+   "text": "Revenue Management Services arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/right-of-way-permissions",
@@ -404,11 +393,11 @@
   },
   {
    "url": "https://dot.gov.in/important-links",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
@@ -468,7 +457,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-04T06:07:31Z",
+ "fetched_at": "2026-11-04T14:24:16Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -955,7 +944,27 @@
    "एस्टेट, पेंशन और पी. ए. टी": 0,
    "परिपत्र संख्या 263-उन कर्मचारियों के लिए महँगाई भत्ते की दरों में संशोधन, जो छठे केंद्रीय वेतन आयोग के अनुसार वेतनमान/श्रेणी वेतन में अपना वेतन लेना जारी रखे हुए हैं": 0,
    "राष्ट्रीय संचार अकादमी-दूरसंचार के महानिदेशक श्री अतुल सिन्हा को व्यापार परिवर्तन इकाई के प्रमुख का अतिरिक्त प्रभार सौंपा गया": 0,
-   "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0,
+   "Government of India": 0,
+   "Telecom Manufacturing Zone": 0,
+   "Across the entire ecosystem of mobile, telecommunications, electronics, and technology, wherever there are global challenges, India has the opportunity to provide solutions to the world.": 0,
+   "Circular no 262 - Revision of rates of Dearness allowance to Central Government Employees effective from 01-07-2026": 0,
+   "Call Before u Dig": 0,
+   "Important Links": 0,
+   "Telecom eServices Portal": 0,
+   "Ministry of Communications, Department of Telecommunications": 0,
+   "Revenue Management Services": 0,
+   "Recent Documents": 0,
+   "MTCTE Portal": 0,
+   "Circular no 263- Revision of rates of Dearness Allowance to the employees, who are continuing to draw their pay in the pay scale/grade pay as per 6th Central Pay Commission": 0,
+   "Entrustment of additional charge of Head, Business Transformation Unit to Sh Atul Sinha, Director General, National Communication Academy - Telecom": 0,
+   "Explore User Personas": 0,
+   "FOR MEDIA": 0,
+   "Circular no 264 - Revision of rates of Dearness Allowance to the employees, who are continuing to draw their pay in the pay scale/grade pay as per 5th Central Pay Commission": 0,
+   "View more": 0,
+   "Announcements": 0,
+   "Estt, Pension and PAT": 0,
+   "PM-WANI- Telecom eServices Portal": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,

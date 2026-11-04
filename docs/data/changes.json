@@ -1,5 +1,108 @@
 [
  {
+  "id": "8230b5e1df8a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-04T14:24:16Z",
+  "summary": "10 new text blocks",
+  "added_lines": [
+   "Government of India",
+   "Ministry of Communications, Department of Telecommunications",
+   "Announcements",
+   "Telecom Manufacturing Zone",
+   "Across the entire ecosystem of mobile, telecommunications, electronics, and technology, wherever there are global challenges, India has the opportunity to provide solutions to the world.",
+   "Entrustment of additional charge of Head, Business Transformation Unit to Sh Atul Sinha, Director General, National Communication Academy - Telecom",
+   "Circular no 263- Revision of rates of Dearness Allowance to the employees, who are continuing to draw their pay in the pay scale/grade pay as per 6th Central Pay Commission",
+   "Estt, Pension and PAT",
+   "Circular no 262 - Revision of rates of Dearness allowance to Central Government Employees effective from 01-07-2026",
+   "Circular no 264 - Revision of rates of Dearness Allowance to the employees, who are continuing to draw their pay in the pay scale/grade pay as per 5th Central Pay Commission"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "7d6c2699ccd8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-04T14:24:16Z",
+  "summary": "7 new links, 4 new text blocks, 3 items no longer on page",
+  "added_lines": [
+   "🚀 TRAI Launches Network Anubhav Platform | Click Here for More Information",
+   "4th November 2026",
+   "TRAI Launches Network Anubhav Platform",
+   "4 November, 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality across parts of South Andaman district and coastal route from Port Blair to Havelock in the Union Territory (UT) of Andaman and Nicobar Islands under West Bengal LSA."
+  ],
+  "removed_lines_total": 3,
+  "new_links": [
+   {
+    "url": "https://anubhav.trai.gov.in",
+    "text": ""
+   },
+   {
+    "url": "https://anubhav.trai.gov.in/",
+    "text": "🚀 TRAI Launches Network Anubhav Platform | Click Here for More Information"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-launches-network-anubhav-platform",
+    "text": "TRAI Launches Network Anubhav Platform"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-launches-network-anubhav-platform",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/photo-gallery/network-anubhav-platform-launch-4th-november-2026",
+    "text": ""
+   },
+   {
+    "url": "https://www.trai.gov.in/photo-gallery/lecture-indian-patent-issues",
+    "text": ""
+   },
+   {
+    "url": "https://www.trai.gov.in/photo-gallery/trai-mycall-app",
+    "text": ""
+   }
+  ],
+  "new_links_total": 7
+ },
+ {
+  "id": "bc2224de208d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-04T14:24:16Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "04 नवंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a9aac498465f",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-04T14:24:16Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "2a37377a85ec",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
