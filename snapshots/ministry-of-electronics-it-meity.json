@@ -47,7 +47,7 @@
   "Urdu",
   "(اردو)",
   "Powered by",
-  "भारत सरकार",
+  "Government of India",
   "Ministry of Electronics and Information Technology",
   "search",
   "menu",
@@ -81,25 +81,19 @@
   "Grievance Redressal",
   "Citizen Engagement",
   "Parliament Questions",
-  "मुखपृष्ठ",
-  "मंत्रालय",
-  "पेशकशें",
-  "दस्तावेज़",
-  "मीडिया",
-  "जुड़ें",
   "pause",
   "chevron_left",
   "chevron_right",
-  "घोषणाएं",
-  "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान",
-  "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई",
-  "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार",
-  "भारत की डिजिटल अर्थव्यवस्था के अनुमान और मापन पर रिपोर्ट",
-  "दुनिया भारत पर भरोसा करती है, दुनिया भारत में विश्वास करती है और दुनिया भारत के साथ सेमीकंडक्टर भविष्य के निर्माण के लिए तैयार है।",
-  "हम एक संपूर्ण पारिस्थितिकी तंत्र बना रहे हैं, एक ऐसा पारिस्थितिकी तंत्र जहां डिजाइनिंग, निर्माण, पैकेजिंग और उच्च तकनीक वाले उपकरण, सब कुछ भारत में उपलब्ध है।",
-  "सेमिकॉन इंडिया 2025",
+  "Announcements",
+  "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics",
+  "EOI for Industry Partners for the Project proposal on MEMS Sensors",
+  "EOI: Development & Production Partners for Advanced Photonics Packaging",
+  "Report on Estimation and Measurement of India's Digital Economy",
+  "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.",
+  "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.",
+  "SEMICON India 2025",
   "open_in_new",
-  "कार्यक्रम देखें",
+  "View Event",
   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
   "Shri Ashwini Vaishnaw",
   "HON’BLE MINISTER",
@@ -114,7 +108,6 @@
   "Visvesvaraya PhD Scheme",
   "View more",
   "What’s New",
-  "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics",
   "Digital Personal Data Protection(Removal of Difficulties) Order,2026",
   "Monthly Achievements for the month of July, 2026",
   "Recent Documents",
@@ -123,37 +116,30 @@
   "Report",
   "CAG and PAC ParasIFD",
   "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg",
-  "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "आईटी पेशेवरों के लिए",
+  "Explore User Personas",
+  "For IT Professional",
   "For Researcher",
   "For Business Owner",
   "For Media",
-  "महत्वपूर्ण लिंक",
-  "एमईआईटीवाई डैशबोर्ड",
-  "निविदा के लिए आवेदन करने में रुचि रखते हैं?",
-  "सार्वजनिक शिकायतें",
-  "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए",
-  "पता लगाएँ कि नया क्या है",
-  "सोशल मीडिया में",
-  "एक्स",
-  "यूट्यूब",
-  "फेसबुक",
-  "इंस्टाग्राम",
+  "Important Links",
+  "MeitY Dashboard",
+  "Interested in Applying for Tender?",
+  "Public Grievances",
+  "Section 69A of IT Act",
+  "Explore What's new",
   "In Social Media",
-  "Instagram",
   "Youtube",
   "Facebook",
-  "उपयोगी लिंक",
-  "अभिलेखागार",
-  "वेबसाइट नीतियाँ",
-  "संबंधित लिंक",
-  "साइटमैप",
-  "मदद",
-  "हमसे संपर्क करें",
-  "फीडबैक",
-  "यह वेबसाइट इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय, भारत सरकार की है",
-  "अद्यतन के लिए सदस्यता लें",
-  "अंतिम बार अद्यतन किया गयाः 04.11.2026",
+  "Instagram",
+  "Useful Links",
+  "Archives",
+  "Website Policies",
+  "Related Links",
+  "Sitemap",
+  "Help",
+  "Feedback",
+  "This Website belong to Ministry of Electronics and Information Technology, Government of India",
+  "Subscribe for Updates",
   "arrow_upward",
   "Rate this translation",
   "Do you like to give feedback",
@@ -166,7 +152,7 @@
   },
   {
    "url": "https://meity.gov.in/",
-   "text": "भारत सरकार Ministry of Electronics and Information Technology"
+   "text": "Government of India Ministry of Electronics and Information Technology"
   },
   {
    "url": "https://digitalindia.gov.in/",
@@ -286,19 +272,19 @@
   },
   {
    "url": "https://meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf",
-   "text": "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई"
+   "text": "EOI for Industry Partners for the Project proposal on MEMS Sensors"
   },
   {
    "url": "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf",
-   "text": "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार"
+   "text": "EOI: Development & Production Partners for Advanced Photonics Packaging"
   },
   {
    "url": "https://meity.gov.in/static/uploads/2025/01/5ff397f9e8152d5562ed4cef1a6b767b.pdf",
-   "text": "भारत की डिजिटल अर्थव्यवस्था के अनुमान और मापन पर रिपोर्ट"
+   "text": "Report on Estimation and Measurement of India's Digital Economy"
   },
   {
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163000",
-   "text": "open_in_new कार्यक्रम देखें"
+   "text": "open_in_new View Event"
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
@@ -354,7 +340,7 @@
   },
   {
    "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
-   "text": "आईटी पेशेवरों के लिए"
+   "text": "For IT Professional"
   },
   {
    "url": "https://meity.gov.in/persona/researcher-wNwIDOtQWa",
@@ -370,15 +356,15 @@
   },
   {
    "url": "https://meity.dashboard.nic.in/",
-   "text": "एमईआईटीवाई डैशबोर्ड arrow_forward_ios"
+   "text": "MeitY Dashboard arrow_forward_ios"
   },
   {
    "url": "https://pgportal.gov.in/",
-   "text": "सार्वजनिक शिकायतें arrow_forward_ios"
+   "text": "Public Grievances arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/documents/act-and-policies/section-69a-of-it-act-2-YjNxgTMtQWa?pageTitle=Section-69A-of-IT-Act",
-   "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
+   "text": "Section 69A of IT Act arrow_forward_ios"
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
@@ -394,27 +380,27 @@
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
-   "text": "अभिलेखागार"
+   "text": "Archives"
   },
   {
    "url": "https://meity.gov.in/policies",
-   "text": "वेबसाइट नीतियाँ"
+   "text": "Website Policies"
   },
   {
    "url": "https://meity.gov.in/RelatedLinks",
-   "text": "संबंधित लिंक"
+   "text": "Related Links"
   },
   {
    "url": "https://meity.gov.in/sitemap",
-   "text": "साइटमैप"
+   "text": "Sitemap"
   },
   {
    "url": "https://meity.gov.in/help",
-   "text": "मदद"
+   "text": "Help"
   },
   {
    "url": "https://meity.gov.in/feedback",
-   "text": "फीडबैक"
+   "text": "Feedback"
   },
   {
    "url": "https://twitter.com/GoI_MeitY?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
@@ -442,7 +428,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-04T14:24:16Z",
+ "fetched_at": "2026-11-04T21:16:21Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -733,7 +719,7 @@
    "ए. आई. प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)": 0,
    "अंतिम बार अद्यतन किया गयाः 30.10.2026": 0,
    "For IT Professional": 0,
-   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 2,
+   "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": 3,
    "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg": 0,
    "कृत्रिम बुद्धिमत्ता प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)": 0,
    "अंतिम बार अद्यतन किया गयाः 02.11.2026": 0,
@@ -741,7 +727,32 @@
    "प्रकाशन": 0,
    "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान": 0,
    "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0,
-   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 0
+   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 0,
+   "Sitemap": 0,
+   "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.": 0,
+   "SEMICON India 2025": 0,
+   "Explore User Personas": 0,
+   "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.": 0,
+   "Archives": 0,
+   "Announcements": 0,
+   "Public Grievances": 0,
+   "View Event": 0,
+   "Subscribe for Updates": 0,
+   "MeitY Dashboard": 0,
+   "Useful Links": 0,
+   "Government of India": 0,
+   "Related Links": 0,
+   "Feedback": 0,
+   "Website Policies": 0,
+   "Explore What's new": 0,
+   "This Website belong to Ministry of Electronics and Information Technology, Government of India": 0,
+   "Help": 0,
+   "EOI: Development & Production Partners for Advanced Photonics Packaging": 0,
+   "Section 69A of IT Act": 0,
+   "EOI for Industry Partners for the Project proposal on MEMS Sensors": 0,
+   "Interested in Applying for Tender?": 0,
+   "Important Links": 0,
+   "Report on Estimation and Measurement of India's Digital Economy": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -798,7 +809,7 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies": 1,
+   "https://meity.gov.in/documents/publications/grant-challenge-notification-EDM3gjMtQWa?pageTitle=Call-for-Proposals-for-Grant-challenges-on-Next-Generation-Electronics,-Communications,-and-Sensing-Technologies": 2,
    "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 0,
    "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa": 0,
