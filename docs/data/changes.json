@@ -1,5 +1,47 @@
 [
  {
+  "id": "2a37377a85ec",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-04T06:07:31Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "राष्ट्रीय संचार अकादमी-दूरसंचार के महानिदेशक श्री अतुल सिन्हा को व्यापार परिवर्तन इकाई के प्रमुख का अतिरिक्त प्रभार सौंपा गया",
+   "अंतिम बार अद्यतन किया गयाः 04.11.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "d49ff4b2384f",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-04T06:07:31Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान",
+   "प्रकाशन",
+   "अंतिम बार अद्यतन किया गयाः 04.11.2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://meity.gov.in/documents/publications/iicg-innovation-grant-for-graphene-2d-materials-for-advanced-electronics-and-photonics-kDMwAzMtQWa?pageTitle=IICG-Innovation-Grant-for-Graphene%2F2D-Materials-for-Advanced-Electronics-and-Photonics",
+    "text": ""
+   },
+   {
+    "url": "https://meity.gov.in/documents/publications/iicg-innovation-grant-for-graphene-2d-materials-for-advanced-electronics-and-photonics-kDMwAzMtQWa?pageTitle=IICG-Innovation-Grant-for-Graphene/2D-Materials-for-Advanced-Electronics-and-Photonics",
+    "text": "प्रकाशन उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "5b5a4b0ddf71",
   "site": "Ministry of Electronics & IT (MeitY)",
   "url": "https://meity.gov.in/",
