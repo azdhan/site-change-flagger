@@ -1,5 +1,41 @@
 [
  {
+  "id": "e0b4382ecba9",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-05T23:35:31Z",
+  "summary": "10 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Etawah (Uttar Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Uttar Pradesh",
+   "Etawah, Uttar Pradesh",
+   "Amritsar, Punjab",
+   "Consumer Awareness Program at Amritsar (Punjab) by Indian Institute Of Technology & Entrepreneur Development (IITED), Punjab",
+   "2 November, 2026",
+   "Dumka , Jharkhand",
+   "Consumer Awareness Program at Dumka (Jharkhand) by Indian Institute Of Technology & Entrepreneur Development (IITED), Jharkhand"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f8d2c974684d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-05T23:35:31Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "02 नवंबर 2026"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "1c171e12481e",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
