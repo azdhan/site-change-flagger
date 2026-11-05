@@ -1,5 +1,107 @@
 [
  {
+  "id": "1c171e12481e",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-05T17:20:29Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 05.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026",
+    "text": "आदेश और सूचनाएँ शॉर्टकोड का आवंटन-2026"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "a065fcdb42b6",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-05T17:20:29Z",
+  "summary": "10 new links, 7 new text blocks, 6 items no longer on page",
+  "added_lines": [
+   "5th November 2026",
+   "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.",
+   "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)",
+   "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.",
+   "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers",
+   "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
+   "5 November, 2026"
+  ],
+  "added_lines_total": 7,
+  "removed_lines": [
+   "South West Delhi, Delhi",
+   "Consumer Outreach Program at South West Delhi (Delhi) by RO DELHI",
+   "Alwar, Rajasthan",
+   "Consumer Awareness Program at Alwar (Rajasthan) by PMRY Club"
+  ],
+  "removed_lines_total": 6,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and",
+    "text": "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-nuh-palwal-cities-and",
+    "text": "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-nuh-palwal-cities-and",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district",
+    "text": "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
+    "text": "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
+    "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 10
+ },
+ {
+  "id": "4ec21b6f9eba",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-05T17:20:29Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "05 नवंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "12dd6ce0384f",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",

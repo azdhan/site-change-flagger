@@ -165,7 +165,7 @@
   "यह वेबसाइट सूचना एवं प्रसारण मंत्रालय, भारत सरकार की है",
   "अपडेट के लिए सदस्यता लें",
   "अंतिम अद्यतन:",
-  "04 नवंबर 2026"
+  "05 नवंबर 2026"
  ],
  "links": [
   {
@@ -553,35 +553,27 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/archives",
-   "text": "पुरालेखागार"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/website-policy",
+   "url": "https://mib.gov.in/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/related-link",
+   "url": "https://mib.gov.in/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/sitemap",
+   "url": "https://mib.gov.in/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/help",
+   "url": "https://mib.gov.in/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
-   "text": "हमसे संपर्क करें"
-  },
-  {
-   "url": "https://mib.gov.in/index.php/hi/feedback",
+   "url": "https://mib.gov.in/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -610,7 +602,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-05T06:36:13Z",
+ "fetched_at": "2026-11-05T17:20:29Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -770,7 +762,7 @@
    "परामर्श": 0,
    "92.76 किलोबाइट |": 0,
    "स्रोत \"सौजन्य: संसद टीवी\" को प्रमुखता से प्रदर्शित करने के संबंध में।": 0,
-   "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे": 1,
+   "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे": 2,
    "केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम, 1994 के अंतर्गत निर्धारित कार्यक्रम संहिता का कड़ाई से अनुपालन सुनिश्चित किए जाने के संबंध में सभी प्राइवेट सैटेलाइट टीवी चैनल हेतु एडवाइजरी।": 0,
    "केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम,…": 0,
    "407.46 किलोबाइट |": 0,
@@ -778,12 +770,13 @@
    "3.11 मेगा बाइट |": 0,
    "वार्षिक रिपोर्ट्स": 0,
    "वार्षिक रिपोर्ट 2025-26": 0,
-   "02 नवंबर 2026": 6,
+   "02 नवंबर 2026": 7,
    "सूचना और प्रसारण मंत्रालय में विधिक सलाहकार की नियुक्ति हेतु आवेदन प्रस्तुत…": 0,
    "सूचना और प्रसारण मंत्रालय में विधिक सलाहकार की नियुक्ति हेतु आवेदन प्रस्तुत करने की अंतिम तिथि बढ़ाए जाने के संबंध में।": 0,
-   "03 नवंबर 2026": 3,
-   "04 नवंबर 2026": 0,
-   "पीआईबी नागपुर के ‘नक्सल मुक्त भारत’ विषय पर आयोजित वार्तालाप में गढ़चिरौली में सुरक्षा, विकास और सामुदायिक भागीदारी पर जोर दिया गया": 0
+   "03 नवंबर 2026": 4,
+   "04 नवंबर 2026": 1,
+   "पीआईबी नागपुर के ‘नक्सल मुक्त भारत’ विषय पर आयोजित वार्तालाप में गढ़चिरौली में सुरक्षा, विकास और सामुदायिक भागीदारी पर जोर दिया गया": 0,
+   "05 नवंबर 2026": 0
   },
   "links": {
    "https://mib.gov.in/hi": 0,
@@ -863,12 +856,12 @@
    "https://www.ncs.gov.in/": 0,
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
-   "https://mib.gov.in/hi/website-policy": 1,
-   "https://mib.gov.in/hi/related-link": 1,
-   "https://mib.gov.in/hi/sitemap": 1,
-   "https://mib.gov.in/hi/help": 1,
-   "https://mib.gov.in/hi/feedback": 1,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/hi/website-policy": 0,
+   "https://mib.gov.in/hi/related-link": 0,
+   "https://mib.gov.in/hi/sitemap": 0,
+   "https://mib.gov.in/hi/help": 0,
+   "https://mib.gov.in/hi/feedback": 0,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -886,21 +879,21 @@
    "https://mib.gov.in/sites/default/files/2026-09/g.s.r-773-e-the-draft-telecommunications-television-radio-and-associated-services-rules-2026_1.pdf": 0,
    "https://mib.gov.in/hi/whats-new": 0,
    "https://www.mygov.in/campaigns/make-in-india/?target=webview&type=campaign&nid=0": 0,
-   "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-25th-october-2026?target=inapp&type=group_issue&nid=5934": 6,
+   "https://www.mygov.in/group-issue/inviting-ideas-mann-ki-baat-prime-minister-narendra-modi-25th-october-2026?target=inapp&type=group_issue&nid=5934": 7,
    "https://e-hrms.gov.in/home": 0,
    "https://mib.gov.in/sites/default/files/2026-10/advisory-dated-07102026.pdf": 0,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328551&reg=3&lang=2": 1,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2328551&reg=3&lang=2": 2,
    "https://mib.gov.in/sites/default/files/2026-10/hindi.pdf": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2329405&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-10/annual-report-hindi.pdf": 0,
-   "https://mib.gov.in/index.php/hi/help": 0,
-   "https://mib.gov.in/index.php/hi/related-link": 0,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 0,
-   "https://mib.gov.in/index.php/hi/sitemap": 0,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
-   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/help": 1,
+   "https://mib.gov.in/index.php/hi/related-link": 1,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 1,
+   "https://mib.gov.in/index.php/hi/feedback": 1,
+   "https://mib.gov.in/index.php/hi/website-policy": 1,
+   "https://mib.gov.in/index.php/hi/sitemap": 1,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 1,
+   "https://mib.gov.in/index.php/hi/archives": 1,
    "https://mib.gov.in/sites/default/files/2026-11/hindi.pdf": 0,
    "https://pmindiawebcast.nic.in/": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2332834&reg=3&lang=2": 0
