@@ -1,5 +1,67 @@
 [
  {
+  "id": "dd2ec17d7557",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-06T23:12:07Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग, तेलंगाना सरकार, टी. आर. आई. आई. सी. एल., बी. एस. एन. एल. और टी-फाइबर के बीच तेलंगाना में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए समझौते पर हस्ताक्षर किए गए",
+   "अंतिम बार अद्यतन किया गयाः 06.11.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "97c13e10f901",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-06T23:12:07Z",
+  "summary": "10 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "🔊 TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback",
+   "26th October 2026",
+   "TRAI releases Recommendations on Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services'",
+   "3 November, 2026"
+  ],
+  "removed_lines_total": 10,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "b89e62acbbef",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-06T23:12:07Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "03 नवंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "0d97c2612cfb",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-06T23:12:07Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "06406add350f",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
