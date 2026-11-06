@@ -1,5 +1,65 @@
 [
  {
+  "id": "06406add350f",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-06T16:43:05Z",
+  "summary": "3 new links, 5 new text blocks",
+  "added_lines": [
+   "6th November 2026",
+   "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026",
+   "Consumer Awareness Program at Sri Potti Sriramulu Nellore (Andhra Pradesh) by Rural Action for Social Services",
+   "Sri Potti Sriramulu Nellore, Andhra Pradesh",
+   "6 November, 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-released-register-interconnect-agreements-fourth-amendment",
+    "text": "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-released-register-interconnect-agreements-fourth-amendment",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sri-potti-sriramulu-nellore-andhra-pradesh-rural-action",
+    "text": "Consumer Awareness Program at Sri Potti Sriramulu Nellore (Andhra Pradesh) by Rural Action for Social Services"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
+  "id": "b0fbd28e8673",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-06T16:43:05Z",
+  "summary": "2 new links, 5 new text blocks",
+  "added_lines": [
+   "1.56 मेगा बाइट |",
+   "लोअर डिवीज़न क्लर्क (एलडीसी) के पद के लिए भर्ती नियम (आरआर) का मसौदा, 2026",
+   "9.01 मेगा बाइट |",
+   "मन की बात सितंबर 2026",
+   "06 नवंबर 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-11/laoara-daivaijana-kalaraka-eladaisai-kae-pada-kae-laie-bharatai-naiyama-araara-kaa-masaaudaa-2026.pdf",
+    "text": "06-11-2026 | 1.56 मेगा बाइट | लोअर डिवीज़न क्लर्क (एलडीसी) के पद के लिए भर्ती नियम (आरआर) का मसौदा, 2026"
+   },
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-11/mann-ki-baat-hindi.pdf",
+    "text": "मन की बात सितंबर 2026"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "5dac51cef9f5",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
