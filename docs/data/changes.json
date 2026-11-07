@@ -1,5 +1,89 @@
 [
  {
+  "id": "ec91cc31ef07",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-07T19:23:31Z",
+  "summary": "34 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Government of India",
+   "Telecom Manufacturing Zone",
+   "Across the entire ecosystem of mobile, telecommunications, electronics, and technology, wherever there are global challenges, India has the opportunity to provide solutions to the world.",
+   "Circular no 262 - Revision of rates of Dearness allowance to Central Government Employees effective from 01-07-2026",
+   "Ministry of Communications, Department of Telecommunications",
+   "Circular no 263- Revision of rates of Dearness Allowance to the employees, who are continuing to draw their pay in the pay scale/grade pay as per 6th Central Pay Commission",
+   "Entrustment of additional charge of Head, Business Transformation Unit to Sh Atul Sinha, Director General, National Communication Academy - Telecom",
+   "Circular no 264 - Revision of rates of Dearness Allowance to the employees, who are continuing to draw their pay in the pay scale/grade pay as per 5th Central Pay Commission",
+   "Announcements",
+   "Estt, Pension and PAT"
+  ],
+  "removed_lines_total": 34,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "46d06faff4ee",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-07T19:23:31Z",
+  "summary": "13 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "TRAI releases Telecom Subscription Data as on September 2026",
+   "27th October 2026",
+   "28th October 2026",
+   "TRAI Assesses Mobile Network Quality Across Gonda, Bahraich, Shravasti & Balrampur City, Prayagraj to Gonda and Gonda to Bahraich Highway.",
+   "TRAI Assesses Mobile Network Quality across Kachchh area including Gandhidham & Bhuj cities and Bhuj to Bachau highway (in Gujarat LSA)",
+   "29th October 2026",
+   "4 November, 2026"
+  ],
+  "removed_lines_total": 13,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "000edf96b9b2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-07T19:23:31Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "04 नवंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "284c57fa85d1",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-07T19:23:31Z",
+  "summary": "25 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Sitemap",
+   "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.",
+   "SEMICON India 2025",
+   "Explore User Personas",
+   "We are creating a complete ecosystem, an ecosystem where designing, manufacturing, packaging and high-tech devices, everything is available right here in India.",
+   "Archives",
+   "Announcements",
+   "Public Grievances",
+   "View Event",
+   "Subscribe for Updates"
+  ],
+  "removed_lines_total": 25,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "9f34141cad3d",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",
