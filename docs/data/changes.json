@@ -1,5 +1,21 @@
 [
  {
+  "id": "08cda921548a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-07T05:51:34Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Telangana, TRIICL, BSNL & T-Fibre for Implementation of Amended BharatNet Program in Telangana",
+   "Allocation of work in DoT, HQ"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "dd2ec17d7557",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
