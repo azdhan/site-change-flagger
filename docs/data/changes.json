@@ -1,5 +1,20 @@
 [
  {
+  "id": "9f34141cad3d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-07T12:53:48Z",
+  "summary": "2 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "'भारत के लौह पुरुष' को श्रद्धांजलिः कृषि मंत्री शिवराज सिंह चौहान 27 अक्टूबर को प्रतिष्ठित सरदार पटेल स्मृति व्याख्यान देंगे"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "08cda921548a",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

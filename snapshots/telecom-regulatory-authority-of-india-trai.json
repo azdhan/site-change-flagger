@@ -191,11 +191,11 @@
   "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026",
   "Explore",
   "5th November 2026",
-  "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers",
   "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
   "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.",
   "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)",
   "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.",
+  "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers",
   "4th November 2026",
   "TRAI Launches Network Anubhav Platform",
   "3rd November 2026",
@@ -203,7 +203,7 @@
   "2nd November 2026",
   "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026",
   "30th October 2026",
-  "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026",
+  "TRAI releases draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services for stakeholders comments.",
   "On-going Consultation",
   "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services",
   "Comments",
@@ -231,10 +231,10 @@
   "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
   "12:00 PM",
   "Hamirpur, Uttar Pradesh",
-  "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)",
-  "Deogarh, Odisha",
   "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
   "Mahendragarh, Haryana",
+  "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)",
+  "Deogarh, Odisha",
   "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan",
   "Aligarh, Uttar Pradesh",
   "Consumer Awareness Program at Sri Potti Sriramulu Nellore (Andhra Pradesh) by Rural Action for Social Services",
@@ -912,14 +912,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
-   "text": "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
    "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
   },
@@ -952,6 +944,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
+   "text": "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-launches-network-anubhav-platform",
    "text": "TRAI Launches Network Anubhav Platform"
   },
@@ -976,11 +976,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft",
-   "text": "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026"
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence",
+   "text": "TRAI releases draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services for stakeholders comments."
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence",
    "text": "Explore"
   },
   {
@@ -1024,12 +1024,12 @@
    "text": "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-bhanja-institute-rural-development-bird",
-   "text": "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mahendragarh-haryana-rashtriya-samuddeshiya-vikas",
    "text": "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-bhanja-institute-rural-development-bird",
+   "text": "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aligarh-uttar-pradesh-rastriya-samuddeshiya-vikas",
@@ -1237,7 +1237,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-07T05:51:34Z",
+ "fetched_at": "2026-11-07T12:53:48Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1526,32 +1526,32 @@
    "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD": 0,
    "West Godavari, Andhra Pradesh": 0,
    "📣 ITU Workshop & SG-12RG-AP Meeting | 2–3 December 2026 | Hyderabad, India | Click Here for More Information": 0,
-   "TRAI releases Telecom Subscription Data as on September 2026": 6,
-   "27th October 2026": 6,
-   "28th October 2026": 6,
-   "TRAI Assesses Mobile Network Quality Across Gonda, Bahraich, Shravasti & Balrampur City, Prayagraj to Gonda and Gonda to Bahraich Highway.": 6,
-   "TRAI Assesses Mobile Network Quality across Kachchh area including Gandhidham & Bhuj cities and Bhuj to Bachau highway (in Gujarat LSA)": 6,
+   "TRAI releases Telecom Subscription Data as on September 2026": 7,
+   "27th October 2026": 7,
+   "28th October 2026": 7,
+   "TRAI Assesses Mobile Network Quality Across Gonda, Bahraich, Shravasti & Balrampur City, Prayagraj to Gonda and Gonda to Bahraich Highway.": 7,
+   "TRAI Assesses Mobile Network Quality across Kachchh area including Gandhidham & Bhuj cities and Bhuj to Bachau highway (in Gujarat LSA)": 7,
    "Consumer Awareness Program at Hnahthial (Mizoram) by Mizoram Consumers' Union Hqrs": 0,
-   "29th October 2026": 6,
+   "29th October 2026": 7,
    "Hnahthial, Mizoram": 0,
-   "TRAI Assesses Mobile Network Quality in Leh and Nearby Areas of Ladakh.": 3,
+   "TRAI Assesses Mobile Network Quality in Leh and Nearby Areas of Ladakh.": 4,
    "Hamirpur, Uttar Pradesh": 0,
    "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti": 0,
    "30th October 2026": 0,
    "Rajnandgaon, Chhattisgarh": 0,
    "11:30 AM": 0,
-   "TRAI Assesses Mobile Network Quality in Adoni, Mantralayam, Hyderabad and Nearby Areas.": 4,
+   "TRAI Assesses Mobile Network Quality in Adoni, Mantralayam, Hyderabad and Nearby Areas.": 5,
    "12:00 PM": 0,
    "Consumer Awareness Program at Rajnandgaon (Chhattisgarh) by SAMARPIT Centre for Poverty Alleviation and Social Researc": 0,
    "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services": 0,
-   "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026": 0,
-   "TRAI releases draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services for stakeholders comments.": 2,
+   "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026": 1,
+   "TRAI releases draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services for stakeholders comments.": 0,
    "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan": 0,
    "Mahendragarh, Haryana": 0,
    "2nd November 2026": 0,
-   "Bagalkot, Karnataka": 3,
+   "Bagalkot, Karnataka": 4,
    "10:00 AM": 0,
-   "Consumer Awareness Program at Bagalkot (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": 3,
+   "Consumer Awareness Program at Bagalkot (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": 4,
    "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026": 0,
    "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan": 0,
    "Aligarh, Uttar Pradesh": 0,
@@ -1565,11 +1565,11 @@
    "TRAI released the Telecommunication Interconnection (Third Amendment) Regulations, 2026": 0,
    "🚀 TRAI Launches Network Anubhav Platform | Click Here for More Information": 0,
    "4th November 2026": 0,
-   "4 November, 2026": 6,
+   "4 November, 2026": 7,
    "TRAI Launches Network Anubhav Platform": 0,
    "5th November 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.": 0,
-   "5 November, 2026": 3,
+   "5 November, 2026": 4,
    "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.": 0,
    "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers": 0,
    "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)": 0,
@@ -1773,26 +1773,26 @@
    "https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-west-godavari-andhra-pradesh-ro-hyderabad": 0,
    "https://www.trai.gov.in/itu-trai-workshop-2026": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-september-2026": 6,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-september-2026": 6,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gonda-bahraich-shravasti": 6,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gonda-bahraich-shravasti": 6,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-september-2026": 7,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-telecom-subscription-data-september-2026": 7,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gonda-bahraich-shravasti": 7,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-gonda-bahraich-shravasti": 7,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hnahthial-mizoram-mizoram-consumers-union-hqrs": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kachchh-area-including": 6,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kachchh-area-including": 6,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kachchh-area-including": 7,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-kachchh-area-including": 7,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hamirpur-uttar-pradesh-upbhokta-sanrakchhan-kalyan": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and": 4,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rajnandgaon-chhattisgarh-samarpit-centre-poverty": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-leh-and-nearby-areas-ladakh": 3,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and": 4,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-leh-and-nearby-areas-ladakh": 3,
-   "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft": 0,
-   "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft": 0,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-leh-and-nearby-areas-ladakh": 4,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-adoni-mantralayam-hyderabad-and": 5,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-leh-and-nearby-areas-ladakh": 4,
+   "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft": 1,
+   "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft": 1,
    "https://www.trai.gov.in/draft-guidelines-responsible-use-artificial-intelligence-ai-telecommunication-networks-and": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence": 2,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence": 2,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence": 0,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mahendragarh-haryana-rashtriya-samuddeshiya-vikas": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bagalkot-karnataka-coordinated-action-consumer-voluntary": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bagalkot-karnataka-coordinated-action-consumer-voluntary": 4,
    "http://www.trai.gov.in/notifications/press-release/trai-issues-telecom-consumers-complaint-redressal-fourth-amendment": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-issues-telecom-consumers-complaint-redressal-fourth-amendment": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aligarh-uttar-pradesh-rastriya-samuddeshiya-vikas": 0,
@@ -1826,7 +1826,6 @@
    "01:00 PM": "2026-10-24T04:29:16Z",
    "Old Delhi, Delhi": "2026-10-24T04:29:16Z",
    "10:30 AM": "2026-10-15T21:19:01Z",
-   "5 October, 2026": "2026-10-08T10:28:21Z",
    "TRAI Strengthens Framework for Curbing UCC through Technology-Driven Enforcement and Enhanced Consumer Protection": "2026-10-09T18:19:39Z",
    "18th September 2026": "2026-10-09T18:19:39Z",
    "6 October, 2026": "2026-10-09T18:19:39Z",
