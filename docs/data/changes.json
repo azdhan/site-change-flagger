@@ -1,5 +1,41 @@
 [
  {
+  "id": "ef01ed6c876e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-08T17:54:05Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Bagalkot, Karnataka",
+   "Consumer Awareness Program at Bagalkot (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)",
+   "5 November, 2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "f62888e01f2c",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-08T17:54:05Z",
+  "summary": "6 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "15.78 मेगा बाइट |",
+   "वित्त वर्ष 2024-2025 के लिए NFDC की वार्षिक रिपोर्ट",
+   "परामर्श",
+   "केबल टेलीविजन नेटवर्क (विनियमन) अधिनियम, 1995 तथा केबल टेलीविजन नेटवर्क नियम, 1994 के अंतर्गत निर्धारित कार्यक्रम संहिता का कड़ाई से अनुपालन सुनिश्चित किए जाने के संबंध में सभी प्राइवेट सैटेलाइट टीवी चैनल हेतु एडवाइजरी।",
+   "05 नवंबर 2026"
+  ],
+  "removed_lines_total": 6,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "d3de35b64639",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
