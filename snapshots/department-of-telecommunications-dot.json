@@ -111,17 +111,10 @@
   "डॉ. पेम्मासानी चंद्र शेखर",
   "माननीय राज्य मंत्री",
   "प्रमुख प्रस्ताव",
-  "योजनाएं और सेवाएँ",
-  "रिक्तियां",
-  "निविदाएं",
-  "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना",
-  "arrow_forward_ios",
-  "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना",
-  "तरंग संचार पोर्टल",
-  "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project",
   "अधिक देखें",
   "नया क्या है",
   "एच. एम. ओ. सी. का संबोधन नोट-अक्टूबर 2026 संस्करण",
+  "arrow_forward_ios",
   "एच. एम. ओ. सी. का पता नोट-अक्टूबर 2026 संस्करण",
   "दूरसंचार विनिर्माण क्षेत्र योजना",
   "टी. एस. डी. एस. आई. ने टी. एस. जी. 107-कुल 347 दस्तावेजों के परिणामस्वरूप 3जी. पी. पी. विनिर्देशों को रिलीज 13 से 18 तक राष्ट्रीय मानकों के रूप में अपनाया",
@@ -142,7 +135,7 @@
   "एम. टी. सी. टी. ई. पोर्टल",
   "खोदने से पहले कॉल करें",
   "पीएम-वाणी-दूरसंचार ई-सेवा पोर्टल",
-  "Revenue Management Services",
+  "राजस्व प्रबंधन सेवाएँ",
   "Right Of Way -Telecom eServices Portal",
   "सोशल मीडिया में",
   "एक्स",
@@ -319,26 +312,6 @@
    "text": "डॉ. पेम्मासानी चंद्र शेखर माननीय राज्य मंत्री"
   },
   {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa",
-   "text": "उत्पादन से जुड़ी प्रोत्साहन (पी. एल. आई.) योजना"
-  },
-  {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa",
-   "text": "दूरसंचार प्रौद्योगिकी विकास कोष (टी. टी. डी. एफ) योजना"
-  },
-  {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa",
-   "text": "तरंग संचार पोर्टल"
-  },
-  {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa",
-   "text": "दूरसंचार ई-सेवा पोर्टल"
-  },
-  {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa",
-   "text": "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project"
-  },
-  {
    "url": "https://www.dot.gov.in/static/uploads/2026/10/b0febb4cc0cfc3ee9420a48838eb1741.pdf",
    "text": "एच. एम. ओ. सी. का संबोधन नोट-अक्टूबर 2026 संस्करण arrow_forward_ios"
   },
@@ -404,7 +377,7 @@
   },
   {
    "url": "https://eservices.dot.gov.in/about-mtcte",
-   "text": "Revenue Management Services arrow_forward_ios"
+   "text": "राजस्व प्रबंधन सेवाएँ arrow_forward_ios"
   },
   {
    "url": "https://eservices.dot.gov.in/right-of-way-permissions",
@@ -413,18 +386,6 @@
   {
    "url": "https://dot.gov.in/important-links",
    "text": "अधिक देखें chevron_right"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
-  },
-  {
-   "url": "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
   },
   {
    "url": "https://dot.gov.in/archives?page=tenders",
@@ -476,7 +437,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-08T00:30:54Z",
+ "fetched_at": "2026-11-08T10:11:44Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -894,7 +855,7 @@
    "दूरसंचार विभाग के आई. टी. एस. समूह 'ए' के जे. टी. एस. की अंतिम वरिष्ठता सूची 01.01.2026-रेग पर": 0,
    "हमारे विभाग": 0,
    "Our Divisions": 0,
-   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 0,
+   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project": 1,
    "Our Organisations": 0,
    "हमारे संगठन": 0,
    "डाक और टेलीग्राफ भवन निर्माण कार्य सेवा के कनिष्ठ प्रशासनिक ग्रेड स्तर के अधिकारी के कार्य का आवंटन": 0,
@@ -964,24 +925,24 @@
    "परिपत्र संख्या 263-उन कर्मचारियों के लिए महँगाई भत्ते की दरों में संशोधन, जो छठे केंद्रीय वेतन आयोग के अनुसार वेतनमान/श्रेणी वेतन में अपना वेतन लेना जारी रखे हुए हैं": 0,
    "राष्ट्रीय संचार अकादमी-दूरसंचार के महानिदेशक श्री अतुल सिन्हा को व्यापार परिवर्तन इकाई के प्रमुख का अतिरिक्त प्रभार सौंपा गया": 0,
    "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0,
-   "Call Before u Dig": 3,
-   "Important Links": 3,
-   "Telecom eServices Portal": 3,
-   "Revenue Management Services": 0,
-   "Recent Documents": 3,
-   "MTCTE Portal": 3,
-   "Explore User Personas": 3,
-   "FOR MEDIA": 3,
-   "View more": 3,
-   "PM-WANI- Telecom eServices Portal": 3,
+   "Call Before u Dig": 4,
+   "Important Links": 4,
+   "Telecom eServices Portal": 4,
+   "Revenue Management Services": 1,
+   "Recent Documents": 4,
+   "MTCTE Portal": 4,
+   "Explore User Personas": 4,
+   "FOR MEDIA": 4,
+   "View more": 4,
+   "PM-WANI- Telecom eServices Portal": 4,
    "HMoC का संबोधन नोट – अक्टूबर 2026 संस्करण": 0,
    "अंतिम बार अद्यतन किया गयाः 05.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 06.11.2026": 0,
    "डी. बी. एन. (डिजिटल भारत निधि)-दूरसंचार विभाग, तेलंगाना सरकार, टी. आर. आई. आई. सी. एल., बी. एस. एन. एल. और टी-फाइबर के बीच तेलंगाना में संशोधित भारतनेट कार्यक्रम के कार्यान्वयन के लिए समझौते पर हस्ताक्षर किए गए": 0,
-   "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Telangana, TRIICL, BSNL & T-Fibre for Implementation of Amended BharatNet Program in Telangana": 3,
-   "Allotment of shortcodes - 2026": 3,
-   "Allocation of work in DoT, HQ": 3,
-   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Oct – Dec 2026)": 3
+   "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Telangana, TRIICL, BSNL & T-Fibre for Implementation of Amended BharatNet Program in Telangana": 4,
+   "Allotment of shortcodes - 2026": 4,
+   "Allocation of work in DoT, HQ": 4,
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Oct – Dec 2026)": 4
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -1020,8 +981,8 @@
    "https://m.economictimes.com/news/india/modi-inaugurates-india-mobile-congress-2025-at-delhis-yashobhoomi/amp_articleshow/124378439.cms": 0,
    "https://dot.gov.in/ministry/our-team/details/Shri%20Jyotiraditya%20M%20Scindia": 0,
    "https://dot.gov.in/ministry/our-team/details/Dr.%20Pemmasani%20Chandra%20Sekhar": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/pli-scheme-MjNzETMtQWa": 1,
+   "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa": 1,
    "https://dot.gov.in/whats-new": 0,
    "https://dot.gov.in/persona/FOR%20MEDIA-EDOzUzMtQWa": 0,
    "https://dot.gov.in/persona/For%20Industry%20Professional-UjM0UzMtQWa": 0,
@@ -1046,16 +1007,16 @@
    "https://eservices.dot.gov.in/mandatory-testing-certification-telecommunication-equipment-mtcte": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/b110cdc386d3a4e41c8483d7ffd7c410.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/02/c12c312f2e5ba73cc8306a571106e2f6.pdf": 0,
-   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 0,
+   "https://www.instagram.com/reel/DcF1Ry1IHKH/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGrsVZhJHQ/?utm_source=ig_embed&utm_campaign=loading": 1,
+   "https://www.instagram.com/reel/DcGRQkERBLt/?utm_source=ig_embed&utm_campaign=loading": 1,
    "https://eservices.dot.gov.in/pm-wani-service-authorisation": 0,
    "https://www.dot.gov.in/static/uploads/2026/09/d9f064686fb76fb49475dae90b342146.pdf": 0,
    "https://sws.invest.mp.gov.in/": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 1,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 1,
+   "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 1,
    "https://www.dot.gov.in/static/uploads/2026/10/b0febb4cc0cfc3ee9420a48838eb1741.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/8581d175750d2eb4b7d84e75e31f1ed9.pdf": 0,
    "https://dot.gov.in/documents/orders-and-notices/allotment-of-shortcodes-cDOxATNtQWa?pageTitle=Allotment-of-shortcodes-2026": 0,
