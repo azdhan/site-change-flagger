@@ -1,5 +1,64 @@
 [
  {
+  "id": "ee479760fd7c",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-09T16:11:03Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Telangana, TRIICL, BSNL & T-Fibre for Implementation of Amended BharatNet Program in Telangana",
+   "Allotment of shortcodes - 2026",
+   "Allocation of work in DoT, HQ",
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Oct – Dec 2026)"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "7ae4dd262512",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-09T16:11:03Z",
+  "summary": "2 new links, 3 new text blocks",
+  "added_lines": [
+   "9th November 2026",
+   "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026",
+   "9 November, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third",
+    "text": "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "f862216fed93",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-09T16:11:03Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "09 नवंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "f8b669da5314",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
