@@ -1,5 +1,64 @@
 [
  {
+  "id": "f8b669da5314",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-09T06:13:09Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 09.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "22d191654439",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-09T06:13:09Z",
+  "summary": "2 new links, 2 new text blocks",
+  "added_lines": [
+   "वेवएक्स ने आईएफएफआई गोवा 2026 के वेव्स बाज़ार में भाग लेने के लिए स्टार्टअप कंपनियों को आमंत्रित किया",
+   "सूचना और प्रसारण मंत्रालय ने 1.63 लाख किलोग्राम से अधिक स्क्रैप का निपटान करने और 40,278 वर्ग फुट कार्यालय स्थान खाली करने के साथ विशेष अभियान 6.0 का सफलतापूर्वक समापन किया"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333954&reg=3&lang=2",
+    "text": "वेवएक्स ने आईएफएफआई गोवा 2026 के वेव्स बाज़ार में भाग लेने के लिए स्टार्टअप कंपनियों को आमंत्रित किया"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2333576&reg=3&lang=2",
+    "text": "सूचना और प्रसारण मंत्रालय ने 1.63 लाख किलोग्राम से अधिक स्क्रैप का निपटान करने और 40,278 वर्ग फुट कार्यालय स्थान खाली करने के साथ विशेष अभियान 6.0 का सफलतापूर्वक समापन किया"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "51b19e88ae0d",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-09T06:13:09Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "CAG and PAC ParasIFD",
+   "Report",
+   "Act and policies",
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training",
+   "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "0d5999c459f1",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
