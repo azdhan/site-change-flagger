@@ -1,5 +1,52 @@
 [
  {
+  "id": "f004be70f790",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-10T11:02:29Z",
+  "summary": "2 new text blocks",
+  "added_lines": [
+   "जी. एम. डी. एस. एस.-जी. ओ. सी. फरवरी 2026 परीक्षा का परिणाम-दक्षिण क्षेत्र",
+   "अंतिम बार अद्यतन किया गयाः 10.11.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "00df99d58606",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-10T11:02:29Z",
+  "summary": "3 new links, 2 new text blocks, 3 items no longer on page",
+  "added_lines": [
+   "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam.",
+   "10 November, 2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "TRAI Assesses Mobile Network Quality in Leh and Nearby Areas of Ladakh."
+  ],
+  "removed_lines_total": 3,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new",
+    "text": "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/sites/default/files/2026-11/STQC_3.0_2026.pdf",
+    "text": ""
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "ee479760fd7c",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
