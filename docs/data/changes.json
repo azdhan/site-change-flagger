@@ -1,5 +1,26 @@
 [
  {
+  "id": "184e3be9846b",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-10T19:40:26Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "Consumer Outreach Program at Saharanpur (Uttar Pradesh) by RO BHOPAL",
+   "Saharanpur , Uttar Pradesh"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-saharanpur-uttar-pradesh-ro-bhopal",
+    "text": "Consumer Outreach Program at Saharanpur (Uttar Pradesh) by RO BHOPAL"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "f004be70f790",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
