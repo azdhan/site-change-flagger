@@ -47,7 +47,7 @@
   "Urdu",
   "(اردو)",
   "Powered by",
-  "भारत सरकार",
+  "Government of India",
   "Ministry of Electronics and Information Technology",
   "search",
   "menu",
@@ -81,21 +81,15 @@
   "Grievance Redressal",
   "Citizen Engagement",
   "Parliament Questions",
-  "मुखपृष्ठ",
-  "मंत्रालय",
-  "पेशकशें",
-  "दस्तावेज़",
-  "मीडिया",
-  "जुड़ें",
   "pause",
   "chevron_left",
   "chevron_right",
-  "घोषणाएं",
-  "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान",
-  "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई",
-  "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार",
-  "भारत की डिजिटल अर्थव्यवस्था के अनुमान और मापन पर रिपोर्ट",
-  "दुनिया भारत पर भरोसा करती है, दुनिया भारत में विश्वास करती है और दुनिया भारत के साथ सेमीकंडक्टर भविष्य के निर्माण के लिए तैयार है।",
+  "Announcements",
+  "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics",
+  "EOI for Industry Partners for the Project proposal on MEMS Sensors",
+  "EOI: Development & Production Partners for Advanced Photonics Packaging",
+  "Report on Estimation and Measurement of India's Digital Economy",
+  "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.",
   "हम एक संपूर्ण पारिस्थितिकी तंत्र बना रहे हैं, एक ऐसा पारिस्थितिकी तंत्र जहां डिजाइनिंग, निर्माण, पैकेजिंग और उच्च तकनीक वाले उपकरण, सब कुछ भारत में उपलब्ध है।",
   "सेमिकॉन इंडिया 2025",
   "open_in_new",
@@ -110,23 +104,20 @@
   "arrow_forward_ios",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "Mobile Phone Manufacturing Scheme (MPMS)",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
-  "विश्वेश्वरैया पीएचडी योजना",
   "Digital India Internship Scheme 2026",
   "Visvesvaraya PhD Scheme",
   "अधिक देखें",
-  "नया क्या है",
-  "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
-  "हाल के दस्तावेज़",
-  "प्रकाशन",
-  "कानून और नीतियाँ",
-  "कृत्रिम बुद्धिमत्ता प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)",
-  "रिपोर्ट करें",
-  "सी. ए. जी. और पी. ए. सी. पैरासिफड",
-  "आदेश और सूचनाएँ",
-  "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) में अधिकारियों को अतिरिक्त जिम्मेदारियां सौंपना -",
+  "What’s New",
+  "Monthly Achievements for the month of July, 2026",
+  "View more",
+  "Recent Documents",
+  "Act and policies",
+  "Data Empowerment and Protection Architecture (DEPA) for AI Training",
+  "Report",
+  "CAG and PAC ParasIFD",
+  "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "आईटी पेशेवरों के लिए",
+  "For IT Professional",
   "For Researcher",
   "For Business Owner",
   "For Media",
@@ -141,6 +132,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -168,7 +160,7 @@
   },
   {
    "url": "https://meity.gov.in/",
-   "text": "भारत सरकार Ministry of Electronics and Information Technology"
+   "text": "Government of India Ministry of Electronics and Information Technology"
   },
   {
    "url": "https://digitalindia.gov.in/",
@@ -288,15 +280,15 @@
   },
   {
    "url": "https://meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf",
-   "text": "एम. ई. एम. एस. सेंसर पर परियोजना प्रस्ताव के लिए उद्योग भागीदारों के लिए ई. ओ. आई"
+   "text": "EOI for Industry Partners for the Project proposal on MEMS Sensors"
   },
   {
    "url": "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf",
-   "text": "ई. ओ. आई.: उन्नत फोटोनिक्स पैकेजिंग के लिए विकास और उत्पादन भागीदार"
+   "text": "EOI: Development & Production Partners for Advanced Photonics Packaging"
   },
   {
    "url": "https://meity.gov.in/static/uploads/2025/01/5ff397f9e8152d5562ed4cef1a6b767b.pdf",
-   "text": "भारत की डिजिटल अर्थव्यवस्था के अनुमान और मापन पर रिपोर्ट"
+   "text": "Report on Estimation and Measurement of India's Digital Economy"
   },
   {
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2163000",
@@ -324,35 +316,35 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
-   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026"
+   "text": "Digital India Internship Scheme 2026"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa",
-   "text": "विश्वेश्वरैया पीएचडी योजना"
+   "text": "Visvesvaraya PhD Scheme"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
-   "text": "जुलाई, 2026 के लिए मासिक उपलब्धियाँ arrow_forward_ios"
+   "text": "Monthly Achievements for the month of July, 2026 arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
-   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026 arrow_forward_ios"
+   "text": "Digital India Internship Scheme 2026 arrow_forward_ios"
   },
   {
    "url": "https://meity.gov.in/whats-new",
-   "text": "अधिक देखें chevron_right"
+   "text": "View more chevron_right"
   },
   {
    "url": "https://meity.gov.in/documents/publications/iicg-innovation-grant-for-graphene-2d-materials-for-advanced-electronics-and-photonics-kDMwAzMtQWa?pageTitle=IICG-Innovation-Grant-for-Graphene/2D-Materials-for-Advanced-Electronics-and-Photonics",
-   "text": "प्रकाशन उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान"
+   "text": "Publications IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics"
   },
   {
    "url": "https://meity.gov.in/documents/reports/cag-pac-parasifd-ATM4kjMtQWa?pageTitle=CAG-and-PAC-ParasIFD",
-   "text": "रिपोर्ट करें सी. ए. जी. और पी. ए. सी. पैरासिफड"
+   "text": "Report CAG and PAC ParasIFD"
   },
   {
    "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
-   "text": "आईटी पेशेवरों के लिए"
+   "text": "For IT Professional"
   },
   {
    "url": "https://meity.gov.in/persona/researcher-wNwIDOtQWa",
@@ -380,7 +372,7 @@
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "View this post on Instagram"
+   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
@@ -440,7 +432,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-10T19:40:26Z",
+ "fetched_at": "2026-11-11T01:12:40Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -579,7 +571,7 @@
    "HON’BLE MINISTER": 0,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
-   "What’s New": 1,
+   "What’s New": 0,
    "अभिलेखागार": 0,
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
@@ -641,7 +633,7 @@
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 1,
+   "Monthly Achievements for the month of July, 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
    "जुलाई, 2026 के लिए मासिक उपलब्धियाँ": 0,
    "अंतिम बार अद्यतन किया गयाः 17.08.2026": 0,
@@ -687,7 +679,7 @@
    "अंतिम बार अद्यतन किया गयाः 24.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 25.09.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 28.09.2026": 0,
-   "Key Offerings": 1,
+   "Key Offerings": 2,
    "अंतिम बार अद्यतन किया गयाः 01.10.2026": 0,
    "डिजिलॉकर के लिए विशेष पारिस्थितिकी तंत्र सक्षम भागीदारों के लिए मसौदा अनुरोध (आर. एफ. ई.) पर सुझावों और प्रतिक्रिया के लिए निमंत्रण": 0,
    "अंतिम बार अद्यतन किया गयाः 05.10.2026": 0,
@@ -696,7 +688,7 @@
    "अंतिम बार अद्यतन किया गयाः 08.10.2026": 0,
    "डिजिटल व्यक्तिगत डेटा संरक्षण (कठिनाइयों को दूर करना) आदेश, 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 09.10.2026": 0,
-   "Digital Personal Data Protection(Removal of Difficulties) Order,2026": 6,
+   "Digital Personal Data Protection(Removal of Difficulties) Order,2026": 7,
    "अंतिम बार अद्यतन किया गयाः 12.10.2026": 0,
    "एमईआईटीवाई 12.10.2026 में समूह समन्वयकों/एचएजी स्तर के अधिकारियों के बीच संशोधित कार्य वितरण": 0,
    "समूह समन्वयकों/एच. ए. जी. स्तर के कार्यालय के बीच संशोधित कार्य वितरण 13.04.2026": 0,
@@ -708,7 +700,7 @@
    "अंतिम बार अद्यतन किया गयाः 18.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 19.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 20.10.2026": 0,
-   "View more": 2,
+   "View more": 0,
    "अंतिम बार अद्यतन किया गयाः 21.10.2026": 0,
    "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) में अधिकारियों को अतिरिक्त जिम्मेदारियां सौंपना -": 0,
    "अंतिम बार अद्यतन किया गयाः 22.10.2026": 0,
@@ -725,15 +717,26 @@
    "अंतिम बार अद्यतन किया गयाः 29.10.2026": 0,
    "ए. आई. प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)": 0,
    "अंतिम बार अद्यतन किया गयाः 30.10.2026": 0,
-   "For IT Professional": 5,
+   "For IT Professional": 0,
    "कृत्रिम बुद्धिमत्ता प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)": 0,
    "अंतिम बार अद्यतन किया गयाः 02.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 03.11.2026": 0,
    "प्रकाशन": 0,
    "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान": 0,
    "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0,
-   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 1,
-   "Recent Documents": 3
+   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 0,
+   "Recent Documents": 0,
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 0,
+   "Government of India": 0,
+   "Report": 0,
+   "Act and policies": 0,
+   "Announcements": 0,
+   "EOI: Development & Production Partners for Advanced Photonics Packaging": 0,
+   "CAG and PAC ParasIFD": 0,
+   "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg": 0,
+   "EOI for Industry Partners for the Project proposal on MEMS Sensors": 0,
+   "The world trusts India, the world believes in India, and the world is ready to build the semiconductor future with India.": 0,
+   "Report on Estimation and Measurement of India's Digital Economy": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -801,7 +804,7 @@
    "https://meity.gov.in/persona/media-QOwIDOtQWa": 0,
    "https://meity.gov.in/persona/it-professional-gMwIDOtQWa": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa": 0,
-   "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf": 5,
+   "https://www.meity.gov.in/static/uploads/2026/10/daf495a7b5798a3dfa72a944b51fc176.pdf": 6,
    "https://meity.gov.in/documents/reports/cag-pac-parasifd-ATM4kjMtQWa?pageTitle=CAG-and-PAC-ParasIFD": 0,
    "https://fellowship.indiaai.gov.in": 0,
    "https://meity.gov.in/documents/publications/iicg-innovation-grant-for-graphene-2d-materials-for-advanced-electronics-and-photonics-kDMwAzMtQWa?pageTitle=IICG-Innovation-Grant-for-Graphene/2D-Materials-for-Advanced-Electronics-and-Photonics": 0,
