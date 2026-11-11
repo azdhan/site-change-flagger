@@ -1,5 +1,34 @@
 [
  {
+  "id": "a04339881271",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-11T19:32:12Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "सूचना और प्रसारण मंत्रालय ने 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) 2026 के लिए मीडिया प्रत्‍यायन की अंतिम तिथि 4 नवंबर 2026 तक बढ़ाई",
+   "वार्षिक रिपोर्ट्स"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "c6b58bddaaa5",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-11T19:32:12Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "c24d53b97f7b",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
