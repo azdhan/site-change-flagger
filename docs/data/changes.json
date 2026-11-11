@@ -1,5 +1,91 @@
 [
  {
+  "id": "c24d53b97f7b",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-11T10:47:36Z",
+  "summary": "1 new link, 25 new text blocks",
+  "added_lines": [
+   "Choose your language",
+   "Hindi (हिन्दी)",
+   "Assamese (অসমীয়া)",
+   "Bengali (বাংলা)",
+   "Bodo (बड़ो)",
+   "Dogri (डोगरी)",
+   "Gujarati (ગુજરાતી)",
+   "Kannada (ಕನ್ನಡ)",
+   "Kashmiri (कश्मीरी)",
+   "Maithili (मैथिली)",
+   "Malayalam (മലയാളം)",
+   "Manipuri (মণিপুরী)",
+   "Marathi (मराठी)",
+   "Nepali (नेपाली)",
+   "Odia (ଓଡ଼ିଆ)",
+   "Punjabi (ਪੰਜਾਬੀ)",
+   "Sanskrit (संस्कृत)",
+   "Santali (संताली)",
+   "Tamil (தமிழ்)",
+   "Telugu (తెలుగు)"
+  ],
+  "added_lines_total": 25,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320680&reg=3&lang=1",
+    "text": "open_in_new View Event"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "8950fbffcfbe",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-11T10:47:36Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "11 November, 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "5939fc1fe267",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-11T10:47:36Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "11 नवंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "da46bb1646d4",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-11T10:47:36Z",
+  "summary": "1 new text block, 1 item no longer on page",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 11.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "Digital Personal Data Protection(Removal of Difficulties) Order,2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "6a5faf34ab15",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
