@@ -1,5 +1,64 @@
 [
  {
+  "id": "6c395ae40959",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-12T10:57:26Z",
+  "summary": "3 new text blocks",
+  "added_lines": [
+   "5G BTS status as on 31-Oct-2026",
+   "Government Strengthens Rural 4G Connectivity Through 4G Saturation Project",
+   "Cyber Threats Respect No Borders, Neither Should Cooperation: Union MoS for Communications Dr. Chandra Sekhar Pemmasani at ITU PP-26"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "fa91317d9542",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-12T10:57:26Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Outreach Program at Thoothukudi (Tamil Nadu) by RO BENGALURU",
+   "Thoothukudi, Tamil Nadu",
+   "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+   "Bharuch, Gujarat"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-thoothukudi-tamil-nadu-ro-bengaluru",
+    "text": "Consumer Outreach Program at Thoothukudi (Tamil Nadu) by RO BENGALURU"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharuch-gujarat-bhavnagar-grahak-suraksha-mandal",
+    "text": "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "cadb028d55c2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-12T10:57:26Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "12 नवंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "af0e21b0141d",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
