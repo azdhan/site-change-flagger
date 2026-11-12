@@ -1,5 +1,50 @@
 [
  {
+  "id": "b715130ef76a",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-12T19:51:40Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a042f5b67ce9",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-12T19:51:40Z",
+  "summary": "5 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "2nd November 2026",
+   "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026",
+   "9 November, 2026"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "06d54c5d765a",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-12T19:51:40Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 12.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "6c395ae40959",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

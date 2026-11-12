@@ -194,11 +194,11 @@
   "6th November 2026",
   "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026",
   "5th November 2026",
-  "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
   "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.",
   "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)",
   "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.",
   "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers",
+  "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
   "4th November 2026",
   "TRAI Launches Network Anubhav Platform",
   "3rd November 2026",
@@ -220,11 +220,11 @@
   "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
   "12:00 PM",
   "Hamirpur, Uttar Pradesh",
-  "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)",
-  "11:00 AM",
-  "Deogarh, Odisha",
   "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+  "11:00 AM",
   "Mahendragarh, Haryana",
+  "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)",
+  "Deogarh, Odisha",
   "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan",
   "Aligarh, Uttar Pradesh",
   "Consumer Outreach Program at Saharanpur (Uttar Pradesh) by RO BHOPAL",
@@ -928,14 +928,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
-   "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and",
    "text": "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh."
   },
@@ -965,6 +957,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
+   "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
    "text": "Explore"
   },
   {
@@ -1008,12 +1008,12 @@
    "text": "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-bhanja-institute-rural-development-bird",
-   "text": "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mahendragarh-haryana-rashtriya-samuddeshiya-vikas",
    "text": "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-bhanja-institute-rural-development-bird",
+   "text": "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aligarh-uttar-pradesh-rastriya-samuddeshiya-vikas",
@@ -1241,7 +1241,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-12T10:57:26Z",
+ "fetched_at": "2026-11-12T19:51:40Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1527,11 +1527,11 @@
    "1,300.25 Million": 0,
    "Total Wireless Subscribers - June 2026": 0,
    "10:30 AM": 0,
-   "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD": 1,
-   "West Godavari, Andhra Pradesh": 1,
+   "Consumer Outreach Program at West Godavari (Andhra Pradesh) by RO HYDERABAD": 2,
+   "West Godavari, Andhra Pradesh": 2,
    "📣 ITU Workshop & SG-12RG-AP Meeting | 2–3 December 2026 | Hyderabad, India | Click Here for More Information": 0,
-   "Consumer Awareness Program at Hnahthial (Mizoram) by Mizoram Consumers' Union Hqrs": 4,
-   "Hnahthial, Mizoram": 4,
+   "Consumer Awareness Program at Hnahthial (Mizoram) by Mizoram Consumers' Union Hqrs": 5,
+   "Hnahthial, Mizoram": 5,
    "Hamirpur, Uttar Pradesh": 0,
    "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti": 0,
    "30th October 2026": 0,
@@ -1542,14 +1542,12 @@
    "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services": 0,
    "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan": 0,
    "Mahendragarh, Haryana": 0,
-   "2nd November 2026": 7,
    "10:00 AM": 0,
-   "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026": 7,
    "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan": 0,
    "Aligarh, Uttar Pradesh": 0,
    "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)": 0,
-   "Consumer Awareness Program at Cuttack (Odisha) by Federation of Consumer Organisations Odisha": 1,
-   "Cuttack, Odisha": 1,
+   "Consumer Awareness Program at Cuttack (Odisha) by Federation of Consumer Organisations Odisha": 2,
+   "Cuttack, Odisha": 2,
    "Deogarh, Odisha": 0,
    "3rd November 2026": 0,
    "TRAI released the Telecommunication Interconnection (Third Amendment) Regulations, 2026": 0,
@@ -1569,9 +1567,8 @@
    "Dhenkanal , Odisha": 0,
    "Consumer Awareness Program at Dhenkanal (Odisha) by PARIBARTAN": 0,
    "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026": 0,
-   "9 November, 2026": 7,
    "9th November 2026": 0,
-   "10 November, 2026": 4,
+   "10 November, 2026": 5,
    "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam.": 0,
    "Consumer Outreach Program at Saharanpur (Uttar Pradesh) by RO BHOPAL": 0,
    "Saharanpur , Uttar Pradesh": 0,
@@ -1772,18 +1769,16 @@
    "https://dcrp.trai.gov.in/": 0,
    "https://www.trai.gov.in/draft-telecommunication-broadcasting-cable-services-drm-based-digital-addressable-systems-audit": 0,
    "https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-west-godavari-andhra-pradesh-ro-hyderabad": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-west-godavari-andhra-pradesh-ro-hyderabad": 2,
    "https://www.trai.gov.in/itu-trai-workshop-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hnahthial-mizoram-mizoram-consumers-union-hqrs": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hnahthial-mizoram-mizoram-consumers-union-hqrs": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-hamirpur-uttar-pradesh-upbhokta-sanrakchhan-kalyan": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-rajnandgaon-chhattisgarh-samarpit-centre-poverty": 0,
    "https://www.trai.gov.in/draft-guidelines-responsible-use-artificial-intelligence-ai-telecommunication-networks-and": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mahendragarh-haryana-rashtriya-samuddeshiya-vikas": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-issues-telecom-consumers-complaint-redressal-fourth-amendment": 7,
-   "https://www.trai.gov.in/notifications/press-release/trai-issues-telecom-consumers-complaint-redressal-fourth-amendment": 7,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aligarh-uttar-pradesh-rastriya-samuddeshiya-vikas": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-released-telecommunication-interconnection-third-amendment": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cuttack-odisha-federation-consumer-organisations-odisha": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cuttack-odisha-federation-consumer-organisations-odisha": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-released-telecommunication-interconnection-third-amendment": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-bhanja-institute-rural-development-bird": 0,
    "https://www.trai.gov.in/photo-gallery/network-anubhav-platform-launch-4th-november-2026": 0,
@@ -1820,8 +1815,6 @@
    "01:00 PM": "2026-10-24T04:29:16Z",
    "Old Delhi, Delhi": "2026-10-24T04:29:16Z",
    "10:30 AM": "2026-10-15T21:19:01Z",
-   "Consumer Awareness Program at Kinnaur (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": "2026-10-13T19:13:34Z",
-   "Kinnaur , Himachal Pradesh": "2026-10-13T19:13:34Z",
    "25th September 2026": "2026-10-14T14:29:00Z",
    "TRAI Launches Digital Connectivity Rating Platform": "2026-10-14T14:29:00Z",
    "9 October, 2026": "2026-10-14T14:29:00Z",
@@ -1944,10 +1937,12 @@
    "TRAI releases draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services for stakeholders comments.": "2026-11-12T02:14:16Z",
    "Nizamabad , Telangana": "2026-11-12T02:14:16Z",
    "Consumer Awareness Program at Nizamabad (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": "2026-11-12T02:14:16Z",
-   "6 November, 2026": "2026-11-12T02:14:16Z"
+   "6 November, 2026": "2026-11-12T02:14:16Z",
+   "2nd November 2026": "2026-11-12T19:51:40Z",
+   "TRAI issues the Telecom Consumers Complaint Redressal (Fourth Amendment) Regulations, 2026": "2026-11-12T19:51:40Z",
+   "9 November, 2026": "2026-11-12T19:51:40Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kinnaur-himachal-pradesh-indian-institute-technology": "2026-10-13T19:13:34Z",
    "http://www.trai.gov.in/notifications/press-release/trai-launches-digital-connectivity-rating-platform": "2026-10-14T14:29:00Z",
    "https://www.trai.gov.in/notifications/press-release/trai-launches-digital-connectivity-rating-platform": "2026-10-14T14:29:00Z",
    "https://www.trai.gov.in/sites/default/files/2026-06/QPIR_22062026.pdf": "2026-10-14T19:19:27Z",
@@ -2029,7 +2024,9 @@
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft": "2026-11-11T01:12:40Z",
    "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence": "2026-11-12T02:14:16Z",
    "https://www.trai.gov.in/notifications/press-release/trai-releases-draft-guidelines-responsible-use-artificial-intelligence": "2026-11-12T02:14:16Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nizamabad-telangana-society-health-and-agriculture-rural": "2026-11-12T02:14:16Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nizamabad-telangana-society-health-and-agriculture-rural": "2026-11-12T02:14:16Z",
+   "http://www.trai.gov.in/notifications/press-release/trai-issues-telecom-consumers-complaint-redressal-fourth-amendment": "2026-11-12T19:51:40Z",
+   "https://www.trai.gov.in/notifications/press-release/trai-issues-telecom-consumers-complaint-redressal-fourth-amendment": "2026-11-12T19:51:40Z"
   }
  }
 }
