@@ -1,5 +1,83 @@
 [
  {
+  "id": "5e83f27d5982",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-13T10:51:56Z",
+  "summary": "5 new links, 10 new text blocks",
+  "added_lines": [
+   "13th November 2026",
+   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.07.2026 to 30.09.2026",
+   "Consumer Awareness Program at Mumbai City (Maharashtra) by Patil Foundation, Pune, Maharashtra",
+   "Mumbai , Maharashtra",
+   "Consumer Awareness Program at Mumbai Suburban (Maharashtra) by Patil Foundation, Pune, Maharashtra",
+   "06:00 PM",
+   "Mumbai Suburban, Maharashtra",
+   "Consumer Outreach Program at Palwal (Haryana) by RO JAIPUR",
+   "Palwal, Haryana",
+   "13 November, 2026"
+  ],
+  "added_lines_total": 10,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0",
+    "text": "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.07.2026 to 30.09.2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mumbai-city-maharashtra-patil-foundation-pune",
+    "text": "Consumer Awareness Program at Mumbai City (Maharashtra) by Patil Foundation, Pune, Maharashtra"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mumbai-suburban-maharashtra-patil-foundation-pune",
+    "text": "Consumer Awareness Program at Mumbai Suburban (Maharashtra) by Patil Foundation, Pune, Maharashtra"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-palwal-haryana-ro-jaipur",
+    "text": "Consumer Outreach Program at Palwal (Haryana) by RO JAIPUR"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "ebabbe9da122",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-13T10:51:56Z",
+  "summary": "3 new links, 6 new text blocks",
+  "added_lines": [
+   "150.37 किलोबाइट |",
+   "सूचना प्रौद्योगिकी अधिनियम, 2000 तथा इसके अंतर्गत बनाए गए नियमों के अनुपालन के…",
+   "सूचना प्रौद्योगिकी अधिनियम, 2000 तथा इसके अंतर्गत बनाए गए नियमों के अनुपालन के संबंध में ऑनल्राइन सृजित सामग्री के सभी प्रकाशकों तथा ऑनलाइन प्लेटफॉर्म पर समाचार और समसामयिक मामलों के प्रकाशकों के लिए एजवाईजरी।",
+   "57वां इफ्फी: 20 से 28 नवंबर 2026 तक गोवा में दुनिया भर के सिनेमा और रचनात्मक आवाज़ों का संगम",
+   "आईएफएफआई (इफ्फी) गोवा 2026 में वेवएक्स स्टार्टअप पवेलियन के लिए पंजीकरण कल बंद हो जाएगा",
+   "13 नवंबर 2026"
+  ],
+  "added_lines_total": 6,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://mib.gov.in/sites/default/files/2026-11/advisory-02112026-hindi.pdf",
+    "text": "13-11-2026 | 150.37 किलोबाइट | सूचना प्रौद्योगिकी अधिनियम, 2000 तथा इसके अंतर्गत बनाए गए नियमों के अनुपालन के…"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335660&reg=3&lang=2",
+    "text": "57वां इफ्फी: 20 से 28 नवंबर 2026 तक गोवा में दुनिया भर के सिनेमा और रचनात्मक आवाज़ों का संगम"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335350&reg=3&lang=2",
+    "text": "आईएफएफआई (इफ्फी) गोवा 2026 में वेवएक्स स्टार्टअप पवेलियन के लिए पंजीकरण कल बंद हो जाएगा"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "b715130ef76a",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
