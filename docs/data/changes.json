@@ -1,5 +1,79 @@
 [
  {
+  "id": "991fd232144c",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-13T19:36:21Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "d3aab5545a9e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-13T19:36:21Z",
+  "summary": "1 new link, 2 new text blocks, 4 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Cooch Behar (West Bengal) by Hemnagar Sundarban Dream",
+   "Cooch Behar, West Bengal"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [
+   "Consumer Awareness Program at Hnahthial (Mizoram) by Mizoram Consumers' Union Hqrs",
+   "Hnahthial, Mizoram",
+   "10 November, 2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cooch-behar-west-bengal-hemnagar-sundarban-dream",
+    "text": "Consumer Awareness Program at Cooch Behar (West Bengal) by Hemnagar Sundarban Dream"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "d93a1d94019d",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-13T19:36:21Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "09 नवंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "b70a110f703f",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-13T19:36:21Z",
+  "summary": "1 new link, 2 new text blocks",
+  "added_lines": [
+   "डी. पी. डी. पी. अधिनियम के तहत सहमति प्रबंधक पंजीकरण अब लाइव है!",
+   "अंतिम बार अद्यतन किया गयाः 13.11.2026"
+  ],
+  "added_lines_total": 2,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dpbi.gov.in/",
+    "text": "डी. पी. डी. पी. अधिनियम के तहत सहमति प्रबंधक पंजीकरण अब लाइव है!"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "5e83f27d5982",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
