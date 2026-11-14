@@ -166,6 +166,7 @@
   "This Website belongs to Department of Telecommunications, Ministry of Communications, GoI.",
   "Subscribe for Updates",
   "arrow_upward",
+  "Hi, I'm DoT Mitra. How can I help?",
   "Rate this translation",
   "Do you like to give feedback",
   "Submit"
@@ -469,7 +470,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-14T01:25:46Z",
+ "fetched_at": "2026-11-14T10:14:50Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -971,10 +972,10 @@
    "FOR MEDIA": 0,
    "Call Before u Dig": 0,
    "Telecom eServices Portal": 0,
-   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Oct – Dec 2026)": 6,
-   "Allocation of work in DoT, HQ": 6,
+   "Blocking Notifications/instructions to Internet Service Licensees under court orders (Oct – Dec 2026)": 7,
+   "Allocation of work in DoT, HQ": 7,
    "MTCTE Portal": 0,
-   "Result of the GMDSS-GOC February 2026 examination – South region": 6,
+   "Result of the GMDSS-GOC February 2026 examination – South region": 7,
    "Recent Documents": 0,
    "Explore User Personas": 0,
    "Important Links": 0,
@@ -1032,7 +1033,8 @@
    "Nepali (नेपाली)": 0,
    "Cyber Threats Respect No Borders, Neither Should Cooperation: Union MoS for Communications Dr. Chandra Sekhar Pemmasani at ITU PP-26": 0,
    "Government Strengthens Rural 4G Connectivity Through 4G Saturation Project": 0,
-   "5G BTS status as on 31-Oct-2026": 0
+   "5G BTS status as on 31-Oct-2026": 0,
+   "Hi, I'm DoT Mitra. How can I help?": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -1108,7 +1110,7 @@
    "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/b0febb4cc0cfc3ee9420a48838eb1741.pdf": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/8581d175750d2eb4b7d84e75e31f1ed9.pdf": 0,
-   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": 6,
+   "https://dot.gov.in/documents/orders-and-notices/blocking-notifications-instructions-to-internet-service-licensees-under-court-orders-oct-dec-2026-EjMwgDOtQWa?pageTitle=Blocking-Notifications/instructions-to-Internet-Service-Licensees-under-court-orders-(Oct-%E2%80%93-Dec-2026)": 7,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320680&reg=3&lang=1": 0
   },
   "grave_lines": {

@@ -109,6 +109,9 @@
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "arrow_forward_ios",
   "NeGD’s Non-Technical (Summer) Internship Programme",
+  "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
+  "विश्वेश्वरैया पीएचडी योजना",
   "Mobile Phone Manufacturing Scheme (MPMS)",
   "Digital India Internship Scheme 2026",
   "Visvesvaraya PhD Scheme",
@@ -121,7 +124,7 @@
   "हाल के दस्तावेज़",
   "प्रकाशन",
   "कानून और नीतियाँ",
-  "ए. आई. प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)",
+  "कृत्रिम बुद्धिमत्ता प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)",
   "रिपोर्ट करें",
   "सी. ए. जी. और पी. ए. सी. पैरासिफड",
   "आदेश और सूचनाएँ",
@@ -321,15 +324,15 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa",
-   "text": "Mobile Phone Manufacturing Scheme (MPMS)"
+   "text": "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
-   "text": "Digital India Internship Scheme 2026"
+   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa",
-   "text": "Visvesvaraya PhD Scheme"
+   "text": "विश्वेश्वरैया पीएचडी योजना"
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
@@ -381,11 +384,15 @@
   },
   {
    "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "text": "View this post on Instagram"
   },
   {
    "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
+  },
+  {
+   "url": "https://innovateindia.mygov.in/cyber-security-grand-challenge/",
+   "text": ""
   },
   {
    "url": "https://meity.gov.in/archives?page=tenders_post",
@@ -437,7 +444,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-14T01:25:46Z",
+ "fetched_at": "2026-11-14T10:14:50Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -721,7 +728,7 @@
    "अंतिम बार अद्यतन किया गयाः 29.10.2026": 0,
    "ए. आई. प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)": 0,
    "अंतिम बार अद्यतन किया गयाः 30.10.2026": 0,
-   "For IT Professional": 5,
+   "For IT Professional": 6,
    "कृत्रिम बुद्धिमत्ता प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)": 0,
    "अंतिम बार अद्यतन किया गयाः 02.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 03.11.2026": 0,
@@ -729,9 +736,9 @@
    "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान": 0,
    "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0,
    "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 0,
-   "Recent Documents": 1,
-   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 1,
-   "Act and policies": 1,
+   "Recent Documents": 2,
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 2,
+   "Act and policies": 2,
    "अंतिम बार अद्यतन किया गयाः 11.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.11.2026": 0,
@@ -793,12 +800,12 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 2,
+   "https://meity.gov.in/static/uploads/2026/08/3cb88a0d03d6282fcd56e751877e7aa4.pdf": 3,
    "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 0,
    "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa": 0,
    "https://meity.gov.in/ministry/directory": 0,
    "https://meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf": 0,
-   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 1,
+   "https://innovateindia.mygov.in/cyber-security-grand-challenge/": 0,
    "https://meity.gov.in/persona/business-owner-AOwIDOtQWa": 0,
    "https://meity.gov.in/persona/researcher-wNwIDOtQWa": 0,
    "https://meity.gov.in/persona/media-QOwIDOtQWa": 0,
