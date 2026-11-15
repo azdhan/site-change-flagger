@@ -557,27 +557,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -606,7 +614,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-15T16:18:20Z",
+ "fetched_at": "2026-11-15T22:45:57Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -772,7 +780,7 @@
    "वेवएक्स ने आईएफएफआई गोवा 2026 के वेव्स बाज़ार में भाग लेने के लिए स्टार्टअप कंपनियों को आमंत्रित किया": 0,
    "57वां इफ्फी: 20 से 28 नवंबर 2026 तक गोवा में दुनिया भर के सिनेमा और रचनात्मक आवाज़ों का संगम": 0,
    "आईएफएफआई (इफ्फी) गोवा 2026 में वेवएक्स स्टार्टअप पवेलियन के लिए पंजीकरण कल बंद हो जाएगा": 0,
-   "13 नवंबर 2026": 5,
+   "13 नवंबर 2026": 6,
    "परामर्श": 0,
    "सूचना प्रौद्योगिकी अधिनियम, 2000 तथा इसके अंतर्गत बनाए गए नियमों के अनुपालन के संबंध में ऑनल्राइन सृजित सामग्री के सभी प्रकाशकों तथा ऑनलाइन प्लेटफॉर्म पर समाचार और समसामयिक मामलों के प्रकाशकों के लिए एजवाईजरी।": 0,
    "सूचना प्रौद्योगिकी अधिनियम, 2000 तथा इसके अंतर्गत बनाए गए नियमों के अनुपालन के…": 0,
@@ -856,12 +864,12 @@
    "https://www.ncs.gov.in/": 0,
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -889,14 +897,14 @@
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335350&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2335660&reg=3&lang=2": 0,
    "https://mib.gov.in/sites/default/files/2026-11/advisory-02112026-hindi.pdf": 0,
-   "https://mib.gov.in/index.php/hi/feedback": 4,
-   "https://mib.gov.in/index.php/hi/website-policy": 4,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 4,
-   "https://mib.gov.in/index.php/hi/archives": 4,
-   "https://mib.gov.in/index.php/hi/sitemap": 4,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 4,
-   "https://mib.gov.in/index.php/hi/related-link": 4,
-   "https://mib.gov.in/index.php/hi/help": 4
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://mib.gov.in/index.php/hi/help": 0
   },
   "grave_lines": {
    "14 अक्टूबर 2026": "2026-10-17T04:18:10Z",
