@@ -1,5 +1,49 @@
 [
  {
+  "id": "c2bc1503425d",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-15T16:18:20Z",
+  "summary": "16 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Hamirpur, Uttar Pradesh",
+   "Consumer Awareness Program at Hamirpur (Uttar Pradesh) by Upbhokta Sanrakchhan & Kalyan Samiti",
+   "Rajnandgaon, Chhattisgarh",
+   "11:30 AM",
+   "12:00 PM",
+   "Consumer Awareness Program at Rajnandgaon (Chhattisgarh) by SAMARPIT Centre for Poverty Alleviation and Social Researc",
+   "3rd November 2026",
+   "TRAI released the Telecommunication Interconnection (Third Amendment) Regulations, 2026",
+   "11 November, 2026",
+   "Bharuch, Gujarat"
+  ],
+  "removed_lines_total": 16,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "dbbe3c813ac1",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-15T16:18:20Z",
+  "summary": "9 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "पीआईबी नागपुर के ‘नक्सल मुक्त भारत’ विषय पर आयोजित वार्तालाप में गढ़चिरौली में सुरक्षा, विकास और सामुदायिक भागीदारी पर जोर दिया गया",
+   "ई - बुक्स",
+   "मन की बात सितंबर 2026",
+   "9.01 मेगा बाइट |",
+   "सूचना और प्रसारण मंत्रालय ने 1.63 लाख किलोग्राम से अधिक स्क्रैप का निपटान करने और 40,278 वर्ग फुट कार्यालय स्थान खाली करने के साथ विशेष अभियान 6.0 का सफलतापूर्वक समापन किया",
+   "12 नवंबर 2026"
+  ],
+  "removed_lines_total": 9,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "f89e201a4ef9",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
