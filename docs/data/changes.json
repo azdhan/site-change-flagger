@@ -1,5 +1,67 @@
 [
  {
+  "id": "56916e6865d1",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-16T06:18:12Z",
+  "summary": "2 new links, 4 new text blocks",
+  "added_lines": [
+   "Consumer Outreach Program at Hooghly (West Bengal) by RO KOLKATA",
+   "Hooghly, West Bengal",
+   "Consumer Awareness Program at Jaunpur (Uttar Pradesh) by Citizen Development Institute",
+   "Jaunpur, Uttar Pradesh"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hooghly-west-bengal-ro-kolkata",
+    "text": "Consumer Outreach Program at Hooghly (West Bengal) by RO KOLKATA"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jaunpur-uttar-pradesh-citizen-development-institute",
+    "text": "Consumer Awareness Program at Jaunpur (Uttar Pradesh) by Citizen Development Institute"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "e71f8e91cfcc",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-16T06:18:12Z",
+  "summary": "4 new links, 4 new text blocks",
+  "added_lines": [
+   "आकाशवाणी ने युवा संगीत प्रतिभाओं को राष्ट्रीय मंच देने के लिए ‘एआईआर उभरते सितारे’ कार्यक्रम का शुभारंभ किया",
+   "57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव में चार फिल्मों के विशेष प्रदर्शन के माध्यम से भागीदार देश रूस के साथ सिनेमाई संबंधों का उत्सव मनाया जाएगा",
+   "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई)-2026 में मलयालम सिनेमा का उत्सव मनाया जाएगा, प्रेम नजीर की विरासत को याद किया जाएगा और नई पीढ़ी के फिल्मकारों पर ध्यान केन्द्रित किया जाएगा",
+   "वेव्स फिल्म बाजार का भारतीय सिनेमा को वैश्विक फिल्म उद्योग से जोड़ने के दो दशक पूरे होने का उत्सव"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336700&reg=3&lang=2",
+    "text": "आकाशवाणी ने युवा संगीत प्रतिभाओं को राष्ट्रीय मंच देने के लिए ‘एआईआर उभरते सितारे’ कार्यक्रम का शुभारंभ किया"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336676&reg=3&lang=2",
+    "text": "57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव में चार फिल्मों के विशेष प्रदर्शन के माध्यम से भागीदार देश रूस के साथ सिनेमाई संबंधों का उत्सव मनाया जाएगा"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336571&reg=3&lang=2",
+    "text": "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई)-2026 में मलयालम सिनेमा का उत्सव मनाया जाएगा, प्रेम नजीर की विरासत को याद किया जाएगा और नई पीढ़ी के फिल्मकारों पर ध्यान केन्द्रित किया जाएगा"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2336638&reg=3&lang=2",
+    "text": "वेव्स फिल्म बाजार का भारतीय सिनेमा को वैश्विक फिल्म उद्योग से जोड़ने के दो दशक पूरे होने का उत्सव"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
   "id": "1165c8390e8c",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
