@@ -131,7 +131,6 @@
   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project",
   "View more",
   "What’s New",
-  "HMoC का संबोधन नोट – अक्टूबर 2026 संस्करण",
   "HMoC's Address Note- October 2026 Edition",
   "Telecom Manufacturing Zone Scheme",
   "Adoption of TSDSI transposed 3GPP specifications from Release 13 to 18 as national standards, as an outcome of TSG107 - total 347 documents",
@@ -340,10 +339,6 @@
    "text": "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project"
   },
   {
-   "url": "https://www.dot.gov.in/static/uploads/2026/10/b0febb4cc0cfc3ee9420a48838eb1741.pdf",
-   "text": "HMoC का संबोधन नोट – अक्टूबर 2026 संस्करण arrow_forward_ios"
-  },
-  {
    "url": "https://www.dot.gov.in/static/uploads/2026/10/8581d175750d2eb4b7d84e75e31f1ed9.pdf",
    "text": "HMoC's Address Note- October 2026 Edition arrow_forward_ios"
   },
@@ -469,7 +464,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-17T03:46:06Z",
+ "fetched_at": "2026-11-17T15:54:27Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1103,7 +1098,7 @@
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
-   "https://www.dot.gov.in/static/uploads/2026/10/b0febb4cc0cfc3ee9420a48838eb1741.pdf": 0,
+   "https://www.dot.gov.in/static/uploads/2026/10/b0febb4cc0cfc3ee9420a48838eb1741.pdf": 1,
    "https://www.dot.gov.in/static/uploads/2026/10/8581d175750d2eb4b7d84e75e31f1ed9.pdf": 0,
    "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320680&reg=3&lang=1": 0
   },
