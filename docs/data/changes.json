@@ -1,5 +1,58 @@
 [
  {
+  "id": "9a8598f4396e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-18T11:34:57Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "Consumer Awareness Program at Bhilwara (Rajasthan) by Maruti Seva Samiti",
+   "Bhilwara , Rajasthan",
+   "18 November, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhilwara-rajasthan-maruti-seva-samiti",
+    "text": "Consumer Awareness Program at Bhilwara (Rajasthan) by Maruti Seva Samiti"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "ede4d668d4fc",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-18T11:34:57Z",
+  "summary": "3 new links, 4 new text blocks",
+  "added_lines": [
+   "आईएफएफआई 2026 में हिमालयी क्षितिज की चमक: लद्दाखी और कश्मीरी कहानियाँ बनीं आकर्षण का केंद्र",
+   "इफ्फी 2026 कन्नड़ और तुलु सिनेमा का जश्न",
+   "57वें इफ्फी में भारतीय पैनोरमा के लिए चुनी गई चार फिल्मों के चयन के साथ पूर्वोत्तर सिनेमा को मिली खास पहचान",
+   "18 नवंबर 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337692&reg=3&lang=2",
+    "text": "आईएफएफआई 2026 में हिमालयी क्षितिज की चमक: लद्दाखी और कश्मीरी कहानियाँ बनीं आकर्षण का केंद्र"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337563&reg=3&lang=2",
+    "text": "इफ्फी 2026 कन्नड़ और तुलु सिनेमा का जश्न"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337688&reg=3&lang=2",
+    "text": "57वें इफ्फी में भारतीय पैनोरमा के लिए चुनी गई चार फिल्मों के चयन के साथ पूर्वोत्तर सिनेमा को मिली खास पहचान"
+   }
+  ],
+  "new_links_total": 3
+ },
+ {
   "id": "fe0f5b0976ae",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
