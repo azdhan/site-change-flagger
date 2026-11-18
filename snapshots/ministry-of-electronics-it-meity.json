@@ -149,6 +149,7 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
+  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -395,6 +396,10 @@
    "text": "View this post on Instagram"
   },
   {
+   "url": "https://innovateindia.mygov.in/cyber-security-grand-challenge/",
+   "text": ""
+  },
+  {
    "url": "https://meity.gov.in/archives?page=tenders_post",
    "text": "अभिलेखागार"
   },
@@ -444,7 +449,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-17T15:54:27Z",
+ "fetched_at": "2026-11-18T00:55:01Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -645,7 +650,7 @@
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 1,
+   "Monthly Achievements for the month of July, 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
    "जुलाई, 2026 के लिए मासिक उपलब्धियाँ": 0,
    "अंतिम बार अद्यतन किया गयाः 17.08.2026": 0,
@@ -710,7 +715,7 @@
    "अंतिम बार अद्यतन किया गयाः 18.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 19.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 20.10.2026": 0,
-   "View more": 1,
+   "View more": 0,
    "अंतिम बार अद्यतन किया गयाः 21.10.2026": 0,
    "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) में अधिकारियों को अतिरिक्त जिम्मेदारियां सौंपना -": 0,
    "अंतिम बार अद्यतन किया गयाः 22.10.2026": 0,
@@ -740,7 +745,11 @@
    "Consent Manager Registration under DPDP Act is now Live!": 0,
    "डी. पी. डी. पी. अधिनियम के तहत सहमति प्रबंधक पंजीकरण अब लाइव है!": 0,
    "अंतिम बार अद्यतन किया गयाः 16.11.2026": 0,
-   "अंतिम बार अद्यतन किया गयाः 17.11.2026": 0
+   "अंतिम बार अद्यतन किया गयाः 17.11.2026": 0,
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 0,
+   "Recent Documents": 0,
+   "Key Offerings": 0,
+   "Act and policies": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,

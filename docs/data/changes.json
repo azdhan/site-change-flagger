@@ -1,5 +1,29 @@
 [
  {
+  "id": "fe0f5b0976ae",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-18T00:55:01Z",
+  "summary": "2 new links, 1 new text block",
+  "added_lines": [
+   "17th November 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0",
+    "text": "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0",
+    "text": "Explore"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
   "id": "dc803ed63c7e",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
