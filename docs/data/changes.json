@@ -1,5 +1,43 @@
 [
  {
+  "id": "0f9fe7baba18",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-19T02:31:06Z",
+  "summary": "9 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan",
+   "Mahendragarh, Haryana",
+   "Consumer Awareness Program at Deogarh (Odisha) by Bhanja Institute for Rural Development (BIRD)",
+   "Deogarh, Odisha",
+   "Mumbai , Maharashtra",
+   "Consumer Awareness Program at Mumbai City (Maharashtra) by Patil Foundation, Pune, Maharashtra"
+  ],
+  "removed_lines_total": 9,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "b5523b977e63",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-19T02:31:06Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "वेवएक्स ने आईएफएफआई गोवा 2026 के वेव्स बाज़ार में भाग लेने के लिए स्टार्टअप कंपनियों को आमंत्रित किया",
+   "57वां इफ्फी: 20 से 28 नवंबर 2026 तक गोवा में दुनिया भर के सिनेमा और रचनात्मक आवाज़ों का संगम",
+   "आईएफएफआई (इफ्फी) गोवा 2026 में वेवएक्स स्टार्टअप पवेलियन के लिए पंजीकरण कल बंद हो जाएगा",
+   "सूचना प्रौद्योगिकी अधिनियम, 2000 तथा इसके अंतर्गत बनाए गए नियमों के अनुपालन के संबंध में ऑनल्राइन सृजित सामग्री के सभी प्रकाशकों तथा ऑनलाइन प्लेटफॉर्म पर समाचार और समसामयिक मामलों के प्रकाशकों के लिए एजवाईजरी।"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "9a8598f4396e",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

@@ -101,30 +101,24 @@
   "open_in_new",
   "कार्यक्रम देखें",
   "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
-  "हमारी टीम",
-  "हमारे संगठन",
-  "हमारा प्रदर्शन",
   "Shri Ashwini Vaishnaw",
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
   "प्रमुख प्रस्ताव",
-  "योजनाएं और सेवाएँ",
-  "रिक्तियां",
-  "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश",
-  "arrow_forward_ios",
-  "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम",
-  "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
-  "विश्वेश्वरैया पीएचडी योजना",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
+  "arrow_forward_ios",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "Mobile Phone Manufacturing Scheme (MPMS)",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
+  "विश्वेश्वरैया पीएचडी योजना",
   "Digital India Internship Scheme 2026",
   "Visvesvaraya PhD Scheme",
   "अधिक देखें",
-  "नया क्या है",
-  "जुलाई, 2026 के लिए मासिक उपलब्धियाँ",
+  "What’s New",
+  "Consent Manager Registration under DPDP Act is now Live!",
+  "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics",
+  "Monthly Achievements for the month of July, 2026",
   "हाल के दस्तावेज़",
   "प्रकाशन",
   "कानून और नीतियाँ",
@@ -320,15 +314,15 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
-   "text": "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश"
+   "text": "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
-   "text": "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम"
+   "text": "NeGD’s Non-Technical (Summer) Internship Programme"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa",
-   "text": "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)"
+   "text": "Mobile Phone Manufacturing Scheme (MPMS)"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
@@ -340,7 +334,7 @@
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf",
-   "text": "जुलाई, 2026 के लिए मासिक उपलब्धियाँ arrow_forward_ios"
+   "text": "Monthly Achievements for the month of July, 2026 arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
@@ -448,7 +442,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-18T20:25:53Z",
+ "fetched_at": "2026-11-19T02:31:06Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -587,7 +581,7 @@
    "HON’BLE MINISTER": 0,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
-   "What’s New": 1,
+   "What’s New": 0,
    "अभिलेखागार": 0,
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
@@ -649,7 +643,7 @@
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 1,
+   "Monthly Achievements for the month of July, 2026": 0,
    "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
    "जुलाई, 2026 के लिए मासिक उपलब्धियाँ": 0,
    "अंतिम बार अद्यतन किया गयाः 17.08.2026": 0,
@@ -714,7 +708,7 @@
    "अंतिम बार अद्यतन किया गयाः 18.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 19.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 20.10.2026": 0,
-   "View more": 2,
+   "View more": 3,
    "अंतिम बार अद्यतन किया गयाः 21.10.2026": 0,
    "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) में अधिकारियों को अतिरिक्त जिम्मेदारियां सौंपना -": 0,
    "अंतिम बार अद्यतन किया गयाः 22.10.2026": 0,
@@ -737,18 +731,18 @@
    "प्रकाशन": 0,
    "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान": 0,
    "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0,
-   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 1,
+   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 0,
    "अंतिम बार अद्यतन किया गयाः 11.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.11.2026": 0,
-   "Consent Manager Registration under DPDP Act is now Live!": 1,
+   "Consent Manager Registration under DPDP Act is now Live!": 0,
    "डी. पी. डी. पी. अधिनियम के तहत सहमति प्रबंधक पंजीकरण अब लाइव है!": 0,
    "अंतिम बार अद्यतन किया गयाः 16.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 17.11.2026": 0,
-   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 2,
-   "Recent Documents": 2,
-   "Key Offerings": 2,
-   "Act and policies": 2
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 3,
+   "Recent Documents": 3,
+   "Key Offerings": 3,
+   "Act and policies": 3
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -824,7 +818,6 @@
   "grave_lines": {
    "Recent Documents": "2026-11-16T06:18:12Z",
    "For IT Professional": "2026-11-14T22:18:01Z",
-   "Revised work distribution amongst Group Coordinators/HAG level office 13.04.2026": "2026-10-19T20:33:43Z",
    "Declaration of the Indian Computer Emergency Response Team (ICERT),as an Attached Office": "2026-11-06T16:43:05Z",
    "EOI for 1.5 T INDIGENOUS MRI SYSTEM": "2026-10-24T15:52:18Z",
    "EOI for indigenous 1.5 T MRI Scanner": "2026-11-02T10:55:11Z",
