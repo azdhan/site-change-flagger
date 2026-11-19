@@ -1,5 +1,109 @@
 [
  {
+  "id": "4bf5971e9e58",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-19T11:31:24Z",
+  "summary": "5 new text blocks",
+  "added_lines": [
+   "स्क्रीन पर लाखों का मुनाफा, असल में आपकी मेहनत की कमाई पर डाका!",
+   "Sanchar Saathi is your hidden safeguard, always ready to help you fight cyber fraud",
+   "AI Voice Cloning, Deepfake और नकली Customer Care से सावधान रहें।",
+   "अनजान कॉल पर भरोसा करने से पहले रुकें और सोचें, क्योंकि आपकी सतर्कता ही आपकी सुरक्षा है।",
+   "ग्वालियर बनेगा टेलीकॉम मैन्युफैक्चरिंग का नया केंद्र, आत्मनिर्भर भारत को मिलेगी नई उड़ान!"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "ab013e5bebcf",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-19T11:31:24Z",
+  "summary": "1 new link, 3 new text blocks, 5 items no longer on page",
+  "added_lines": [
+   "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan",
+   "Dehradun, Uttarakhand",
+   "19 November, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [
+   "06:00 PM",
+   "13 November, 2026",
+   "Mumbai Suburban, Maharashtra",
+   "Consumer Awareness Program at Mumbai Suburban (Maharashtra) by Patil Foundation, Pune, Maharashtra"
+  ],
+  "removed_lines_total": 5,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-rastriya-samuddeshiya-vikas",
+    "text": "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "f8653c708ad2",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-19T11:31:24Z",
+  "summary": "4 new links, 5 new text blocks, 1 item no longer on page",
+  "added_lines": [
+   "आईएफएफआई 2026 में सर्वश्रेष्ठ वेब सीरीज पुरस्कार के लिए पांच वेब सीरीज नामांकित",
+   "57वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) भारतीय सिनेमा की समृद्धि के साथ ‘मिशन लाइफ’ को भी प्रदर्शित करेगा",
+   "57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव में पहली बार ‘फिल्म्स अबाउट फिल्म्स’ नामक विशेष खंड की शुरुआत",
+   "एनिमेशन आधारित कहानी कहने की कला और भावनात्मक गहराई प्रदर्शित करने के लिए 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) 2026 में नई एनिमेशन श्रेणी की शुरुआत",
+   "19 नवंबर 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [
+   "14 नवंबर 2026"
+  ],
+  "removed_lines_total": 1,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337892&reg=3&lang=2",
+    "text": "आईएफएफआई 2026 में सर्वश्रेष्ठ वेब सीरीज पुरस्कार के लिए पांच वेब सीरीज नामांकित"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337926&reg=3&lang=2",
+    "text": "57वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) भारतीय सिनेमा की समृद्धि के साथ ‘मिशन लाइफ’ को भी प्रदर्शित करेगा"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337891&reg=3&lang=2",
+    "text": "57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव में पहली बार ‘फिल्म्स अबाउट फिल्म्स’ नामक विशेष खंड की शुरुआत"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337889&reg=3&lang=2",
+    "text": "एनिमेशन आधारित कहानी कहने की कला और भावनात्मक गहराई प्रदर्शित करने के लिए 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) 2026 में नई एनिमेशन श्रेणी की शुरुआत"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "aa61b9c4c3cb",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-19T11:31:24Z",
+  "summary": "1 new link, 1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 19.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.meity.gov.in/static/uploads/2026/11/54bd52b8b79c582828a5dce48f3bcbb3.pdf",
+    "text": "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027 arrow_forward_ios"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "0f9fe7baba18",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
