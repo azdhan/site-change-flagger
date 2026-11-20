@@ -1,5 +1,94 @@
 [
  {
+  "id": "049eaf37cfc5",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-20T11:26:20Z",
+  "summary": "2 new links, 4 new text blocks, 4 items no longer on page",
+  "added_lines": [
+   "Nizamabad, Telangana",
+   "Consumer Awareness Program at Kupwara (Jammu and Kashmir) by Helpage Social Welfare Society",
+   "Kupwara, Jammu and Kashmir",
+   "20 November, 2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [
+   "4th November 2026",
+   "TRAI Launches Network Anubhav Platform"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nizamabad-telangana-society-health-and-agriculture-0",
+    "text": "Consumer Awareness Program at Nizamabad (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kupwara-jammu-and-kashmir-helpage-social-welfare-society",
+    "text": "Consumer Awareness Program at Kupwara (Jammu and Kashmir) by Helpage Social Welfare Society"
+   }
+  ],
+  "new_links_total": 2
+ },
+ {
+  "id": "f4838ce84500",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-20T11:26:20Z",
+  "summary": "4 new links, 5 new text blocks",
+  "added_lines": [
+   "वेव्स फिल्म बाजार ने वैश्विक फिल्म सहयोग को बढ़ावा देने के 20 साल पूरे किए",
+   "सिनेमा की भाषा की गहरी समझ: इफ्फी 2026 से पहले पीआईबी-एफटीआईआई का फिल्म एप्रिसिएशन कोर्स में फिल्म निर्माण की कला, तकनीक और अभिव्यक्ति के विभिन्न पहलुओं से परिचित कराएगा",
+   "गोवा में कल से 57वें इफ्फी (IFFI) का शुभारंभ, जीवंत होंगी 'सरहदों से परे की कहानियां'",
+   "लेंस के ज़रिए: गोवा के पणजी में 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) की मेज़बानी के लिए तैयारियाँ ज़ोरों पर",
+   "20 नवंबर 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338842&reg=3&lang=2",
+    "text": "वेव्स फिल्म बाजार ने वैश्विक फिल्म सहयोग को बढ़ावा देने के 20 साल पूरे किए"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338799&reg=3&lang=2",
+    "text": "सिनेमा की भाषा की गहरी समझ: इफ्फी 2026 से पहले पीआईबी-एफटीआईआई का फिल्म एप्रिसिएशन कोर्स में फिल्म निर्माण की कला, तकनीक और अभिव्यक्ति के विभिन्न पहलुओं से परिचित कराएगा"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338795&reg=3&lang=2",
+    "text": "गोवा में कल से 57वें इफ्फी (IFFI) का शुभारंभ, जीवंत होंगी 'सरहदों से परे की कहानियां'"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338738&reg=3&lang=2",
+    "text": "लेंस के ज़रिए: गोवा के पणजी में 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) की मेज़बानी के लिए तैयारियाँ ज़ोरों पर"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "acba78744702",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-20T11:26:20Z",
+  "summary": "1 new link, 4 new text blocks",
+  "added_lines": [
+   "भारत ने सेमीकंडक्टर मिशन का दूसरा चरण शुरू कर दिया है। एक तरफ भारत की अर्थव्यवस्था बढ़ रही है तो दूसरी तरफ भारत में दुनिया का विश्वास भी बढ़ रहा है।",
+   "दुनिया में जहां भी अर्धचालक पारिस्थितिकी तंत्र का निर्माण किया गया है, उन्हें दशकों के प्रयास के बाद तैयार किया गया है। भारत अर्धचालक उद्योग के लिए खुद को एक पसंदीदा गंतव्य बनाने के लिए हर आवश्यक कदम उठा रहा है।",
+   "सेमिकॉन इंडिया 2026",
+   "अंतिम बार अद्यतन किया गयाः 20.11.2026"
+  ],
+  "added_lines_total": 4,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311301&reg=48&lang=2",
+    "text": "open_in_new कार्यक्रम देखें"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
   "id": "03fb9b987f1c",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
