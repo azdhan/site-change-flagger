@@ -1,5 +1,53 @@
 [
  {
+  "id": "03fb9b987f1c",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-20T02:16:04Z",
+  "summary": "1 item no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 1,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e9d3fc793575",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-20T02:16:04Z",
+  "summary": "4 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan",
+   "Aligarh, Uttar Pradesh",
+   "16 November, 2026"
+  ],
+  "removed_lines_total": 4,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "a8b0e3aed22f",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-20T02:16:04Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव में चार फिल्मों के विशेष प्रदर्शन के माध्यम से भागीदार देश रूस के साथ सिनेमाई संबंधों का उत्सव मनाया जाएगा",
+   "वेव्स फिल्म बाजार का भारतीय सिनेमा को वैश्विक फिल्म उद्योग से जोड़ने के दो दशक पूरे होने का उत्सव",
+   "भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई)-2026 में मलयालम सिनेमा का उत्सव मनाया जाएगा, प्रेम नजीर की विरासत को याद किया जाएगा और नई पीढ़ी के फिल्मकारों पर ध्यान केन्द्रित किया जाएगा",
+   "16 नवंबर 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "4bf5971e9e58",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",

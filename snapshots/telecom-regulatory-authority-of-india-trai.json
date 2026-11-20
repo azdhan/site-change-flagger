@@ -198,18 +198,16 @@
   "6th November 2026",
   "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026",
   "5th November 2026",
-  "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
   "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.",
   "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)",
   "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.",
   "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers",
+  "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
   "On-going Consultation",
   "30th October 2026",
   "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services",
   "Comments",
   "Counter Comments",
-  "9th October 2026",
-  "Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders",
   "Events",
   "Consumer Awareness Program at Sri Potti Sriramulu Nellore (Andhra Pradesh) by Rural Action for Social Services",
   "Date :",
@@ -234,11 +232,11 @@
   "Consumer Awareness Program at Bhilwara (Rajasthan) by Maruti Seva Samiti",
   "12:00 PM",
   "Bhilwara , Rajasthan",
-  "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan",
-  "11:00 AM",
-  "Dehradun, Uttarakhand",
   "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+  "11:00 AM",
   "Bharuch, Gujarat",
+  "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan",
+  "Dehradun, Uttarakhand",
   "TRAI Dashboard",
   "1087.50 Million",
   "Broadband Subscribers",
@@ -944,14 +942,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
-   "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and",
    "text": "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh."
   },
@@ -984,16 +974,20 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
+   "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/open-consultation",
    "text": "View All"
   },
   {
    "url": "https://www.trai.gov.in/draft-guidelines-responsible-use-artificial-intelligence-ai-telecommunication-networks-and",
    "text": "30th October 2026 Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services"
-  },
-  {
-   "url": "https://www.trai.gov.in/draft-telecommunication-broadcasting-cable-services-drm-based-digital-addressable-systems-audit",
-   "text": "9th October 2026 Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders"
   },
   {
    "url": "https://www.trai.gov.in/events",
@@ -1032,12 +1026,12 @@
    "text": "Consumer Awareness Program at Bhilwara (Rajasthan) by Maruti Seva Samiti"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-rastriya-samuddeshiya-vikas",
-   "text": "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharuch-gujarat-bhavnagar-grahak-suraksha-mandal",
    "text": "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-rastriya-samuddeshiya-vikas",
+   "text": "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan"
   },
   {
    "url": "https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf",
@@ -1241,7 +1235,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-19T20:29:20Z",
+ "fetched_at": "2026-11-20T02:16:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1529,11 +1523,9 @@
    "30th October 2026": 0,
    "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services": 0,
    "10:00 AM": 0,
-   "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan": 7,
-   "Aligarh, Uttar Pradesh": 7,
    "🚀 TRAI Launches Network Anubhav Platform | Click Here for More Information": 0,
-   "4th November 2026": 6,
-   "TRAI Launches Network Anubhav Platform": 6,
+   "4th November 2026": 7,
+   "TRAI Launches Network Anubhav Platform": 7,
    "5th November 2026": 0,
    "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.": 0,
    "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.": 0,
@@ -1549,14 +1541,14 @@
    "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026": 0,
    "9th November 2026": 0,
    "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam.": 0,
-   "Consumer Outreach Program at Saharanpur (Uttar Pradesh) by RO BHOPAL": 5,
-   "Saharanpur , Uttar Pradesh": 5,
-   "Palwal, Haryana": 2,
+   "Consumer Outreach Program at Saharanpur (Uttar Pradesh) by RO BHOPAL": 6,
+   "Saharanpur , Uttar Pradesh": 6,
+   "Palwal, Haryana": 3,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.07.2026 to 30.09.2026": 0,
-   "Consumer Outreach Program at Palwal (Haryana) by RO JAIPUR": 2,
+   "Consumer Outreach Program at Palwal (Haryana) by RO JAIPUR": 3,
    "13th November 2026": 0,
-   "Consumer Awareness Program at Cooch Behar (West Bengal) by Hemnagar Sundarban Dream": 2,
-   "Cooch Behar, West Bengal": 2,
+   "Consumer Awareness Program at Cooch Behar (West Bengal) by Hemnagar Sundarban Dream": 3,
+   "Cooch Behar, West Bengal": 3,
    "Consumer Awareness Program at Jaunpur (Uttar Pradesh) by Citizen Development Institute": 0,
    "Consumer Outreach Program at Thoothukudi (Tamil Nadu) by RO BENGALURU": 0,
    "Consumer Outreach Program at Hooghly (West Bengal) by RO KOLKATA": 0,
@@ -1564,18 +1556,17 @@
    "Hooghly, West Bengal": 0,
    "Jaunpur, Uttar Pradesh": 0,
    "Consumer Awareness Program at Kutch (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 0,
-   "16 November, 2026": 7,
    "Kutch, Gujarat": 0,
    "Consumer Awareness Program at Bokaro (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust": 0,
-   "17 November, 2026": 5,
+   "17 November, 2026": 6,
    "Bokaro, Jharkhand": 0,
    "01:00 PM": 0,
-   "9th October 2026": 0,
-   "Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders": 0,
+   "9th October 2026": 1,
+   "Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders": 1,
    "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026": 0,
    "17th November 2026": 0,
    "12:00 PM": 0,
-   "18 November, 2026": 2,
+   "18 November, 2026": 3,
    "Consumer Awareness Program at Bhilwara (Rajasthan) by Maruti Seva Samiti": 0,
    "Bhilwara , Rajasthan": 0,
    "Bharuch, Gujarat": 0,
@@ -1776,12 +1767,11 @@
    "https://www.trai.gov.in/sites/default/files/2026-10/QPIR_12102026.pdf": 0,
    "https://www.trai.gov.in/itu-trai-workshop-2026": 0,
    "https://www.trai.gov.in/draft-guidelines-responsible-use-artificial-intelligence-ai-telecommunication-networks-and": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aligarh-uttar-pradesh-rastriya-samuddeshiya-vikas": 7,
    "https://www.trai.gov.in/photo-gallery/network-anubhav-platform-launch-4th-november-2026": 0,
    "https://anubhav.trai.gov.in/": 0,
    "https://www.trai.gov.in/photo-gallery/trai-mycall-app": 0,
-   "http://www.trai.gov.in/notifications/press-release/trai-launches-network-anubhav-platform": 6,
-   "https://www.trai.gov.in/notifications/press-release/trai-launches-network-anubhav-platform": 6,
+   "http://www.trai.gov.in/notifications/press-release/trai-launches-network-anubhav-platform": 7,
+   "https://www.trai.gov.in/notifications/press-release/trai-launches-network-anubhav-platform": 7,
    "https://www.trai.gov.in/photo-gallery/lecture-indian-patent-issues": 0,
    "https://anubhav.trai.gov.in": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and": 0,
@@ -1803,18 +1793,18 @@
    "https://www.trai.gov.in/sites/default/files/2026-11/STQC_3.0_2026.pdf": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-saharanpur-uttar-pradesh-ro-bhopal": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-saharanpur-uttar-pradesh-ro-bhopal": 6,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-palwal-haryana-ro-jaipur": 2,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cooch-behar-west-bengal-hemnagar-sundarban-dream": 2,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-palwal-haryana-ro-jaipur": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cooch-behar-west-bengal-hemnagar-sundarban-dream": 3,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jaunpur-uttar-pradesh-citizen-development-institute": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-thoothukudi-tamil-nadu-ro-bengaluru": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hooghly-west-bengal-ro-kolkata": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kutch-gujarat-shree-jagruti-grahak-suraksha-mahila": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-sudhindra-nath-and-milina-mukherjee": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0": 0,
-   "https://www.trai.gov.in/draft-telecommunication-broadcasting-cable-services-drm-based-digital-addressable-systems-audit": 0,
+   "https://www.trai.gov.in/draft-telecommunication-broadcasting-cable-services-drm-based-digital-addressable-systems-audit": 1,
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhilwara-rajasthan-maruti-seva-samiti": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-rastriya-samuddeshiya-vikas": 0,
@@ -1943,7 +1933,10 @@
    "06:00 PM": "2026-11-19T11:31:24Z",
    "13 November, 2026": "2026-11-19T11:31:24Z",
    "Mumbai Suburban, Maharashtra": "2026-11-19T11:31:24Z",
-   "Consumer Awareness Program at Mumbai Suburban (Maharashtra) by Patil Foundation, Pune, Maharashtra": "2026-11-19T11:31:24Z"
+   "Consumer Awareness Program at Mumbai Suburban (Maharashtra) by Patil Foundation, Pune, Maharashtra": "2026-11-19T11:31:24Z",
+   "Consumer Awareness Program at Aligarh (Uttar Pradesh) by Rastriya Samuddeshiya Vikas Sansthan": "2026-11-20T02:16:04Z",
+   "Aligarh, Uttar Pradesh": "2026-11-20T02:16:04Z",
+   "16 November, 2026": "2026-11-20T02:16:04Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hassan-karnataka-ro-bengaluru": "2026-10-24T04:29:16Z",
@@ -2023,7 +2016,8 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mahendragarh-haryana-rashtriya-samuddeshiya-vikas": "2026-11-19T02:31:06Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-bhanja-institute-rural-development-bird": "2026-11-19T02:31:06Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mumbai-city-maharashtra-patil-foundation-pune": "2026-11-19T02:31:06Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mumbai-suburban-maharashtra-patil-foundation-pune": "2026-11-19T11:31:24Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mumbai-suburban-maharashtra-patil-foundation-pune": "2026-11-19T11:31:24Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-aligarh-uttar-pradesh-rastriya-samuddeshiya-vikas": "2026-11-20T02:16:04Z"
   }
  }
 }

@@ -109,22 +109,19 @@
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
   "प्रमुख प्रस्ताव",
-  "योजनाएं और सेवाएँ",
-  "रिक्तियां",
-  "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश",
-  "arrow_forward_ios",
-  "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम",
-  "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
-  "विश्वेश्वरैया पीएचडी योजना",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
+  "arrow_forward_ios",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "Mobile Phone Manufacturing Scheme (MPMS)",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
+  "विश्वेश्वरैया पीएचडी योजना",
   "Digital India Internship Scheme 2026",
   "Visvesvaraya PhD Scheme",
   "अधिक देखें",
-  "नया क्या है",
-  "राष्ट्रीय परीक्षण एजेंसी ने श्रेष्ठ (एन. ई. टी. एस.)-2027 के लिए ऑनलाइन आवेदन आमंत्रित किए",
+  "What’s New",
+  "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027",
+  "Consent Manager Registration under DPDP Act is now Live!",
+  "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics",
   "हाल के दस्तावेज़",
   "प्रकाशन",
   "कानून और नीतियाँ",
@@ -320,15 +317,15 @@
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
-   "text": "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश"
+   "text": "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
-   "text": "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम"
+   "text": "NeGD’s Non-Technical (Summer) Internship Programme"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa",
-   "text": "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)"
+   "text": "Mobile Phone Manufacturing Scheme (MPMS)"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
@@ -340,7 +337,7 @@
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/11/54bd52b8b79c582828a5dce48f3bcbb3.pdf",
-   "text": "राष्ट्रीय परीक्षण एजेंसी ने श्रेष्ठ (एन. ई. टी. एस.)-2027 के लिए ऑनलाइन आवेदन आमंत्रित किए arrow_forward_ios"
+   "text": "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027 arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
@@ -387,11 +384,11 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
-   "text": "इस पोस्ट को इंस्टाग्राम पर देखें"
+   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
+   "text": "View this post on Instagram"
   },
   {
-   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -448,7 +445,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-19T20:29:20Z",
+ "fetched_at": "2026-11-20T02:16:04Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -587,7 +584,7 @@
    "HON’BLE MINISTER": 0,
    "Digital India Internship Scheme 2026": 0,
    "अद्यतन के लिए सदस्यता लें": 0,
-   "What’s New": 1,
+   "What’s New": 0,
    "अभिलेखागार": 0,
    "साइटमैप": 0,
    "वेबसाइट नीतियाँ": 0,
@@ -649,7 +646,7 @@
    "अंतिम बार अद्यतन किया गयाः 11.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.08.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.08.2026": 0,
-   "Monthly Achievements for the month of July, 2026": 2,
+   "Monthly Achievements for the month of July, 2026": 3,
    "अंतिम बार अद्यतन किया गयाः 14.08.2026": 0,
    "जुलाई, 2026 के लिए मासिक उपलब्धियाँ": 0,
    "अंतिम बार अद्यतन किया गयाः 17.08.2026": 0,
@@ -714,7 +711,7 @@
    "अंतिम बार अद्यतन किया गयाः 18.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 19.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 20.10.2026": 0,
-   "View more": 5,
+   "View more": 6,
    "अंतिम बार अद्यतन किया गयाः 21.10.2026": 0,
    "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) में अधिकारियों को अतिरिक्त जिम्मेदारियां सौंपना -": 0,
    "अंतिम बार अद्यतन किया गयाः 22.10.2026": 0,
@@ -737,20 +734,20 @@
    "प्रकाशन": 0,
    "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान": 0,
    "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0,
-   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 2,
+   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 0,
    "अंतिम बार अद्यतन किया गयाः 11.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.11.2026": 0,
-   "Consent Manager Registration under DPDP Act is now Live!": 1,
+   "Consent Manager Registration under DPDP Act is now Live!": 0,
    "डी. पी. डी. पी. अधिनियम के तहत सहमति प्रबंधक पंजीकरण अब लाइव है!": 0,
    "अंतिम बार अद्यतन किया गयाः 16.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 17.11.2026": 0,
-   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 5,
-   "Recent Documents": 5,
-   "Key Offerings": 5,
-   "Act and policies": 5,
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 6,
+   "Recent Documents": 6,
+   "Key Offerings": 6,
+   "Act and policies": 6,
    "अंतिम बार अद्यतन किया गयाः 19.11.2026": 0,
-   "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027": 1,
+   "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027": 0,
    "राष्ट्रीय परीक्षण एजेंसी ने श्रेष्ठ (एन. ई. टी. एस.)-2027 के लिए ऑनलाइन आवेदन आमंत्रित किए": 0
   },
   "links": {
@@ -808,7 +805,7 @@
    "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa": 0,
    "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading": 0,
    "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading": 0,
-   "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 2,
+   "https://www.meity.gov.in/static/uploads/2026/08/48daae9f011aaa4f97f4f3feb61c803d.pdf": 3,
    "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa": 0,
    "https://meity.gov.in/ministry/directory": 0,
    "https://meity.gov.in/static/uploads/2026/09/bc799bd8532b8521713ee03a3a3e9ea9.pdf": 0,
