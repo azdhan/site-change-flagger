@@ -1,5 +1,75 @@
 [
  {
+  "id": "21b533334098",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-21T19:08:02Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "e2e9551edd76",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-21T19:08:02Z",
+  "summary": "7 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Palwal, Haryana",
+   "Consumer Outreach Program at Palwal (Haryana) by RO JAIPUR",
+   "Consumer Awareness Program at Cooch Behar (West Bengal) by Hemnagar Sundarban Dream",
+   "Cooch Behar, West Bengal",
+   "18 November, 2026"
+  ],
+  "removed_lines_total": 7,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "8efb2ae23385",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-21T19:08:02Z",
+  "summary": "1 new text block, 9 items no longer on page",
+  "added_lines": [
+   "21 नवंबर 2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "पत्रकारिता को अभिव्यक्ति की स्वतंत्रता और जिम्मेदारी के बीच संतुलन बनाना होगा; मीडिया को तेजी से हो रहे प्रौद्योगिकीय बदलावों के अनुरूप खुद को ढालना होगा: केंद्रीय मंत्री श्री अश्विनी वैष्णव",
+   "18 नवंबर 2026",
+   "57वें इफ्फी में भारतीय पैनोरमा के लिए चुनी गई चार फिल्मों के चयन के साथ पूर्वोत्तर सिनेमा को मिली खास पहचान",
+   "इफ्फी 2026 कन्नड़ और तुलु सिनेमा का जश्न",
+   "आईएफएफआई 2026 में हिमालयी क्षितिज की चमक: लद्दाखी और कश्मीरी कहानियाँ बनीं आकर्षण का केंद्र"
+  ],
+  "removed_lines_total": 9,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "0769ed607327",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-21T19:08:02Z",
+  "summary": "1 new text block, 2 items no longer on page",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 21.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [
+   "Monthly Achievements for the month of July, 2026"
+  ],
+  "removed_lines_total": 2,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "474da805bcd2",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
