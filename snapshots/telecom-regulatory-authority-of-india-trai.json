@@ -195,11 +195,11 @@
   "6th November 2026",
   "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026",
   "5th November 2026",
-  "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
-  "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.",
   "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)",
   "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.",
   "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers",
+  "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
+  "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.",
   "On-going Consultation",
   "30th October 2026",
   "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services",
@@ -940,22 +940,6 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
-   "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and",
-   "text": "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-nuh-palwal-cities-and",
    "text": "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)"
   },
@@ -977,6 +961,22 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
+   "text": "TRAI Assesses Mobile Network Quality Across in Mumbai LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and",
+   "text": "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and",
    "text": "Explore"
   },
   {
@@ -1064,11 +1064,11 @@
    "text": ""
   },
   {
-   "url": "https://www.trai.gov.in/photo-gallery/lecture-indian-patent-issues",
+   "url": "https://www.trai.gov.in/photo-gallery/trai-mycall-app",
    "text": ""
   },
   {
-   "url": "https://www.trai.gov.in/photo-gallery/trai-mycall-app",
+   "url": "https://www.trai.gov.in/photo-gallery/lecture-indian-patent-issues",
    "text": ""
   },
   {
@@ -1233,7 +1233,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-22T11:10:54Z",
+ "fetched_at": "2026-11-22T19:30:31Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1416,9 +1416,6 @@
    "Prof. Bose is the national coordinator for the Ministry of Education’s Mission Project on Virtual Labs, which enables students across India to perform laboratory experiments remotely. With 230+ Virtual Labs, the project has reached over 21 million usages and established more than 2,000 nodal centers across the nation. His contributions extend to the National Program on Technology Enhanced Learning (NPTEL) and the National Pedagogy Project, with his NPTEL course on Wireless Communications garnering over 2,000,000 cumulative views. He has served on the editorial boards of IEEE Access and Computers & Security (Elsevier), and was the Editor-in-Chief of the IETE Journal of Education.": 0,
    "Prof. Bose holds several significant positions, including on the Board of Governors of IIIT Guwahati, Governing Council of SETS, Governing Council of CRIS, Chairman of the Search Committee for Director DIA-CoE at IIT Kharagpur, Member (PT) TRAI, and Member of the Search cum Selection Committee for Director of IIIT Una. He has served on numerous reputed committees such as the Security Advisory Board of GSTN, the IDEA steering committee, the Technology Advisory Group of Empowered Technology Group of the Office of the PSA, the CII National Committee on R&D & Innovation, and the Delhi Knowledge and Development Fund (DKDF). His expertise has been sought as a Domain Expert for DRDO, SAG, NATGRID, Delhi Police, and BPR&D, and he has served as a Jury Member for the Dataquest ICT Business Awards in 2023 and 2024. He is also on the Board of Directors of Delhi Research Implementation and Innovation (DRIIV), a Section 8 company supported by the Office of the PSA.": 0,
    "Prof. Bose's accolades include the Dr. Vikram Sarabhai Research Award, the National Systems Gold Medal, the URSI Young Scientist Award, the INAE Young Engineers Award, the AICTE Career Award for Young Teachers, and the BOYSCAST Fellowship. He is a Fellow of the IET (UK) and a Humboldt Fellow (Germany).": 0,
-   "Neelkanth Mishra": 7,
-   "Neelkanth Mishra is Chief Economist, Axis Bank. He is also the Head of Global Research and a Whole Time Director of Axis Capital. He has been consistently rated the best analyst in India in investor polls over the years. A highly respected expert and media columnist on global and Indian macroeconomic trends, he joined Axis in May 2023 after a long and distinguished two-decade career at Credit Suisse, where he was Co-Head of Asia Pacific Strategy and the India Strategist.": 7,
-   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.": 7,
    "What’s New": 0,
    "Explore": 0,
    "On-going Consultation": 0,
@@ -1530,20 +1527,16 @@
    "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 0,
    "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026": 0,
    "6th November 2026": 0,
-   "Sri Potti Sriramulu Nellore, Andhra Pradesh": 7,
-   "Consumer Awareness Program at Sri Potti Sriramulu Nellore (Andhra Pradesh) by Rural Action for Social Services": 7,
-   "Dhenkanal , Odisha": 7,
-   "Consumer Awareness Program at Dhenkanal (Odisha) by PARIBARTAN": 7,
    "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026": 0,
    "9th November 2026": 0,
    "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam.": 0,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.07.2026 to 30.09.2026": 0,
    "13th November 2026": 0,
    "Consumer Awareness Program at Jaunpur (Uttar Pradesh) by Citizen Development Institute": 0,
-   "Consumer Outreach Program at Thoothukudi (Tamil Nadu) by RO BENGALURU": 4,
-   "Consumer Outreach Program at Hooghly (West Bengal) by RO KOLKATA": 4,
-   "Thoothukudi, Tamil Nadu": 4,
-   "Hooghly, West Bengal": 4,
+   "Consumer Outreach Program at Thoothukudi (Tamil Nadu) by RO BENGALURU": 5,
+   "Consumer Outreach Program at Hooghly (West Bengal) by RO KOLKATA": 5,
+   "Thoothukudi, Tamil Nadu": 5,
+   "Hooghly, West Bengal": 5,
    "Jaunpur, Uttar Pradesh": 0,
    "Consumer Awareness Program at Kutch (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 0,
    "Kutch, Gujarat": 0,
@@ -1557,7 +1550,6 @@
    "Bhilwara , Rajasthan": 0,
    "Bharuch, Gujarat": 0,
    "Dehradun, Uttarakhand": 0,
-   "19 November, 2026": 7,
    "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal": 0,
    "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan": 0,
    "Nizamabad, Telangana": 0,
@@ -1780,8 +1772,6 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-released-register-interconnect-agreements-fourth-amendment": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-released-register-interconnect-agreements-fourth-amendment": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sri-potti-sriramulu-nellore-andhra-pradesh-rural-action": 7,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dhenkanal-odisha-paribartan": 7,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third": 0,
    "https://www.trai.gov.in/sites/default/files/2026-11/STQC_3.0_2026.pdf": 0,
@@ -1790,8 +1780,8 @@
    "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jaunpur-uttar-pradesh-citizen-development-institute": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-thoothukudi-tamil-nadu-ro-bengaluru": 4,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hooghly-west-bengal-ro-kolkata": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-thoothukudi-tamil-nadu-ro-bengaluru": 5,
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hooghly-west-bengal-ro-kolkata": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kutch-gujarat-shree-jagruti-grahak-suraksha-mahila": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-sudhindra-nath-and-milina-mukherjee": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0": 0,
@@ -1937,7 +1927,15 @@
    "Consumer Outreach Program at Palwal (Haryana) by RO JAIPUR": "2026-11-21T19:08:02Z",
    "Consumer Awareness Program at Cooch Behar (West Bengal) by Hemnagar Sundarban Dream": "2026-11-21T19:08:02Z",
    "Cooch Behar, West Bengal": "2026-11-21T19:08:02Z",
-   "18 November, 2026": "2026-11-21T19:08:02Z"
+   "18 November, 2026": "2026-11-21T19:08:02Z",
+   "Neelkanth Mishra": "2026-11-22T19:30:31Z",
+   "Neelkanth Mishra is Chief Economist, Axis Bank. He is also the Head of Global Research and a Whole Time Director of Axis Capital. He has been consistently rated the best analyst in India in investor polls over the years. A highly respected expert and media columnist on global and Indian macroeconomic trends, he joined Axis in May 2023 after a long and distinguished two-decade career at Credit Suisse, where he was Co-Head of Asia Pacific Strategy and the India Strategist.": "2026-11-22T19:30:31Z",
+   "He is a part-time member of the Indian Prime Minister’s Economic Advisory Council as well as part-time Chairman of UIDAI (Aadhaar) and a part-time member of the Telecom Regulatory Authority of India (TRAI). He has also advised government bodies like the India Semiconductor Mission and the 15th & 16th Finance Commission. He is a member of the CII’s Economic Affairs Council, and a frequent presenter to corporate boards. He has also worked at HUL and Infosys. He is a gold-medalist and Distinguished Alumnus Awardee from IIT-Kanpur and was ranked fourth in the entrance exam to the IITs.": "2026-11-22T19:30:31Z",
+   "Sri Potti Sriramulu Nellore, Andhra Pradesh": "2026-11-22T19:30:31Z",
+   "Consumer Awareness Program at Sri Potti Sriramulu Nellore (Andhra Pradesh) by Rural Action for Social Services": "2026-11-22T19:30:31Z",
+   "Dhenkanal , Odisha": "2026-11-22T19:30:31Z",
+   "Consumer Awareness Program at Dhenkanal (Odisha) by PARIBARTAN": "2026-11-22T19:30:31Z",
+   "19 November, 2026": "2026-11-22T19:30:31Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hassan-karnataka-ro-bengaluru": "2026-10-24T04:29:16Z",
@@ -2023,7 +2021,9 @@
    "https://www.trai.gov.in/notifications/press-release/trai-launches-network-anubhav-platform": "2026-11-20T11:26:20Z",
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-saharanpur-uttar-pradesh-ro-bhopal": "2026-11-20T20:05:10Z",
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-palwal-haryana-ro-jaipur": "2026-11-21T19:08:02Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cooch-behar-west-bengal-hemnagar-sundarban-dream": "2026-11-21T19:08:02Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cooch-behar-west-bengal-hemnagar-sundarban-dream": "2026-11-21T19:08:02Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sri-potti-sriramulu-nellore-andhra-pradesh-rural-action": "2026-11-22T19:30:31Z",
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dhenkanal-odisha-paribartan": "2026-11-22T19:30:31Z"
   }
  }
 }
