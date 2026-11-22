@@ -560,27 +560,35 @@
    "text": ""
   },
   {
-   "url": "https://mib.gov.in/hi/website-policy",
+   "url": "https://mib.gov.in/index.php/hi/archives",
+   "text": "पुरालेखागार"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/website-policy",
    "text": "वेबसाइट नीति"
   },
   {
-   "url": "https://mib.gov.in/hi/related-link",
+   "url": "https://mib.gov.in/index.php/hi/related-link",
    "text": "संबंधित लिंक (मीडिया इकाइयाँ)"
   },
   {
-   "url": "https://mib.gov.in/hi/sitemap",
+   "url": "https://mib.gov.in/index.php/hi/sitemap",
    "text": "साइट मैप"
   },
   {
-   "url": "https://mib.gov.in/hi/help",
+   "url": "https://mib.gov.in/index.php/hi/help",
    "text": "सहायता"
   },
   {
-   "url": "https://mib.gov.in/hi/feedback",
+   "url": "https://mib.gov.in/index.php/hi/connect/WIM-Info",
+   "text": "हमसे संपर्क करें"
+  },
+  {
+   "url": "https://mib.gov.in/index.php/hi/feedback",
    "text": "प्रतिक्रिया"
   },
   {
-   "url": "https://mib.gov.in/hi/connect/notification/FAQs",
+   "url": "https://mib.gov.in/index.php/hi/connect/notification/FAQs",
    "text": "एफएक्यू"
   },
   {
@@ -609,7 +617,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-22T01:13:05Z",
+ "fetched_at": "2026-11-22T11:10:54Z",
  "script": "deva",
  "memory": {
   "lines": {
@@ -774,16 +782,16 @@
    "सूचना और प्रसारण मंत्रालय में विधिक सलाहकार की नियुक्ति हेतु आवेदन प्रस्तुत करने की अंतिम तिथि बढ़ाए जाने के संबंध में।": 0,
    "सूचना प्रौद्योगिकी अधिनियम, 2000 तथा इसके अंतर्गत बनाए गए नियमों के अनुपालन के…": 0,
    "150.37 किलोबाइट |": 0,
-   "आईएफएफआई 2026 में सर्वश्रेष्ठ वेब सीरीज पुरस्कार के लिए पांच वेब सीरीज नामांकित": 6,
-   "57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव में पहली बार ‘फिल्म्स अबाउट फिल्म्स’ नामक विशेष खंड की शुरुआत": 6,
-   "एनिमेशन आधारित कहानी कहने की कला और भावनात्मक गहराई प्रदर्शित करने के लिए 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) 2026 में नई एनिमेशन श्रेणी की शुरुआत": 6,
-   "57वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) भारतीय सिनेमा की समृद्धि के साथ ‘मिशन लाइफ’ को भी प्रदर्शित करेगा": 6,
-   "19 नवंबर 2026": 6,
+   "आईएफएफआई 2026 में सर्वश्रेष्ठ वेब सीरीज पुरस्कार के लिए पांच वेब सीरीज नामांकित": 7,
+   "57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव में पहली बार ‘फिल्म्स अबाउट फिल्म्स’ नामक विशेष खंड की शुरुआत": 7,
+   "एनिमेशन आधारित कहानी कहने की कला और भावनात्मक गहराई प्रदर्शित करने के लिए 57वें भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (आईएफएफआई) 2026 में नई एनिमेशन श्रेणी की शुरुआत": 7,
+   "57वां भारतीय अंतरराष्ट्रीय फिल्म महोत्सव (इफ्फी) भारतीय सिनेमा की समृद्धि के साथ ‘मिशन लाइफ’ को भी प्रदर्शित करेगा": 7,
+   "19 नवंबर 2026": 7,
    "लेंस के ज़रिए: गोवा के पणजी में 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (इफ्फी) की मेज़बानी के लिए तैयारियाँ ज़ोरों पर": 0,
    "सिनेमा की भाषा की गहरी समझ: इफ्फी 2026 से पहले पीआईबी-एफटीआईआई का फिल्म एप्रिसिएशन कोर्स में फिल्म निर्माण की कला, तकनीक और अभिव्यक्ति के विभिन्न पहलुओं से परिचित कराएगा": 0,
    "वेव्स फिल्म बाजार ने वैश्विक फिल्म सहयोग को बढ़ावा देने के 20 साल पूरे किए": 0,
    "गोवा में कल से 57वें इफ्फी (IFFI) का शुभारंभ, जीवंत होंगी 'सरहदों से परे की कहानियां'": 0,
-   "20 नवंबर 2026": 2,
+   "20 नवंबर 2026": 3,
    "21 नवंबर 2026": 0
   },
   "links": {
@@ -863,12 +871,12 @@
    "https://www.ncs.gov.in/": 0,
    "https://www.pmindia.gov.in/hi/": 0,
    "https://swachhbharatmission.ddws.gov.in/hi": 0,
-   "https://mib.gov.in/hi/website-policy": 0,
-   "https://mib.gov.in/hi/related-link": 0,
-   "https://mib.gov.in/hi/sitemap": 0,
-   "https://mib.gov.in/hi/help": 0,
-   "https://mib.gov.in/hi/feedback": 0,
-   "https://mib.gov.in/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/hi/website-policy": 1,
+   "https://mib.gov.in/hi/related-link": 1,
+   "https://mib.gov.in/hi/sitemap": 1,
+   "https://mib.gov.in/hi/help": 1,
+   "https://mib.gov.in/hi/feedback": 1,
+   "https://mib.gov.in/hi/connect/notification/FAQs": 1,
    "https://x.com/MIB_India": 0,
    "https://www.youtube.com/@inbministry": 0,
    "https://www.facebook.com/inbministry": 0,
@@ -893,25 +901,24 @@
    "https://mib.gov.in/sites/default/files/2026-11/hindi.pdf": 0,
    "https://pmindiawebcast.nic.in/": 0,
    "https://mib.gov.in/sites/default/files/2026-11/advisory-02112026-hindi.pdf": 0,
-   "https://mib.gov.in/index.php/hi/website-policy": 5,
-   "https://mib.gov.in/index.php/hi/feedback": 5,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337889&reg=3&lang=2": 6,
-   "https://mib.gov.in/index.php/hi/related-link": 5,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337926&reg=3&lang=2": 6,
-   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 5,
-   "https://mib.gov.in/index.php/hi/archives": 5,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337891&reg=3&lang=2": 6,
-   "https://mib.gov.in/index.php/hi/help": 5,
-   "https://mib.gov.in/index.php/hi/sitemap": 5,
-   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 5,
-   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337892&reg=3&lang=2": 6,
+   "https://mib.gov.in/index.php/hi/website-policy": 0,
+   "https://mib.gov.in/index.php/hi/feedback": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337889&reg=3&lang=2": 7,
+   "https://mib.gov.in/index.php/hi/related-link": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337926&reg=3&lang=2": 7,
+   "https://mib.gov.in/index.php/hi/connect/notification/FAQs": 0,
+   "https://mib.gov.in/index.php/hi/archives": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337891&reg=3&lang=2": 7,
+   "https://mib.gov.in/index.php/hi/help": 0,
+   "https://mib.gov.in/index.php/hi/sitemap": 0,
+   "https://mib.gov.in/index.php/hi/connect/WIM-Info": 0,
+   "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2337892&reg=3&lang=2": 7,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338795&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338738&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338799&reg=3&lang=2": 0,
    "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2338842&reg=3&lang=2": 0
   },
   "grave_lines": {
-   "19 अक्टूबर 2026": "2026-10-23T04:41:21Z",
    "21 अक्टूबर 2026": "2026-10-24T10:51:51Z",
    "22 अक्टूबर 2026": "2026-10-24T23:08:18Z",
    "डॉ. एल. मुरुगन ने युवाओं से 2047 तक विकसित भारत यात्रा में देश का नेतृत्व करने का आह्वान किया": "2026-10-28T05:31:31Z",
