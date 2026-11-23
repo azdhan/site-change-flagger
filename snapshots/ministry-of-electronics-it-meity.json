@@ -105,7 +105,7 @@
   "HON’BLE MINISTER",
   "Shri Jitin Prasada",
   "HON’BLE MINISTER OF STATE",
-  "Key Offerings",
+  "प्रमुख प्रस्ताव",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
   "arrow_forward_ios",
   "NeGD’s Non-Technical (Summer) Internship Programme",
@@ -120,14 +120,13 @@
   "View more",
   "Recent Documents",
   "Act and policies",
-  "Data Empowerment and Protection Architecture (DEPA) for AI Training",
-  "कृत्रिम बुद्धिमत्ता प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)",
+  "ए. आई. प्रशिक्षण के लिए डेटा सशक्तिकरण और संरक्षण वास्तुकला (डी. ई. पी. ए.)",
   "रिपोर्ट करें",
   "सी. ए. जी. और पी. ए. सी. पैरासिफड",
   "आदेश और सूचनाएँ",
   "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) में अधिकारियों को अतिरिक्त जिम्मेदारियां सौंपना -",
   "उपयोगकर्ता व्यक्तित्व का अन्वेषण करें",
-  "For IT Professional",
+  "आईटी पेशेवरों के लिए",
   "For Researcher",
   "For Business Owner",
   "For Media",
@@ -142,7 +141,6 @@
   "यूट्यूब",
   "फेसबुक",
   "इंस्टाग्राम",
-  "इलेक्ट्रॉनिक और सूचना प्रौद्योगिकी मंत्रालय द्वारा साझा की गई एक पोस्ट (@goi_meity)",
   "In Social Media",
   "Instagram",
   "Youtube",
@@ -346,7 +344,7 @@
   },
   {
    "url": "https://meity.gov.in/documents/publications/iicg-innovation-grant-for-graphene-2d-materials-for-advanced-electronics-and-photonics-kDMwAzMtQWa?pageTitle=IICG-Innovation-Grant-for-Graphene/2D-Materials-for-Advanced-Electronics-and-Photonics",
-   "text": "Publications IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics"
+   "text": "Publications उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान"
   },
   {
    "url": "https://meity.gov.in/documents/reports/cag-pac-parasifd-ATM4kjMtQWa?pageTitle=CAG-and-PAC-ParasIFD",
@@ -354,7 +352,7 @@
   },
   {
    "url": "https://meity.gov.in/persona/it-professional-gMwIDOtQWa",
-   "text": "For IT Professional"
+   "text": "आईटी पेशेवरों के लिए"
   },
   {
    "url": "https://meity.gov.in/persona/researcher-wNwIDOtQWa",
@@ -442,7 +440,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-22T19:30:31Z",
+ "fetched_at": "2026-11-23T01:37:06Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -738,20 +736,20 @@
    "डी. पी. डी. पी. अधिनियम के तहत सहमति प्रबंधक पंजीकरण अब लाइव है!": 0,
    "अंतिम बार अद्यतन किया गयाः 16.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 17.11.2026": 0,
-   "Key Offerings": 0,
+   "Key Offerings": 1,
    "अंतिम बार अद्यतन किया गयाः 19.11.2026": 0,
    "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027": 0,
    "राष्ट्रीय परीक्षण एजेंसी ने श्रेष्ठ (एन. ई. टी. एस.)-2027 के लिए ऑनलाइन आवेदन आमंत्रित किए": 0,
    "सेमिकॉन इंडिया 2026": 0,
    "दुनिया में जहां भी अर्धचालक पारिस्थितिकी तंत्र का निर्माण किया गया है, उन्हें दशकों के प्रयास के बाद तैयार किया गया है। भारत अर्धचालक उद्योग के लिए खुद को एक पसंदीदा गंतव्य बनाने के लिए हर आवश्यक कदम उठा रहा है।": 0,
    "अंतिम बार अद्यतन किया गयाः 20.11.2026": 0,
-   "For IT Professional": 0,
+   "For IT Professional": 1,
    "भारत ने सेमीकंडक्टर मिशन का दूसरा चरण शुरू कर दिया है। एक तरफ भारत की अर्थव्यवस्था बढ़ रही है तो दूसरी तरफ भारत में दुनिया का विश्वास भी बढ़ रहा है।": 0,
-   "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg": 5,
-   "Report": 5,
+   "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg": 6,
+   "Report": 6,
    "Act and policies": 0,
-   "CAG and PAC ParasIFD": 5,
-   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 0,
+   "CAG and PAC ParasIFD": 6,
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 1,
    "Recent Documents": 0,
    "अंतिम बार अद्यतन किया गयाः 21.11.2026": 0
   },
