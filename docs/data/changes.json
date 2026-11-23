@@ -1,5 +1,78 @@
 [
  {
+  "id": "e379da26086c",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-23T12:21:25Z",
+  "summary": "1 new link, 3 new text blocks",
+  "added_lines": [
+   "Consumer Outreach Program at Hamirpur (Himachal Pradesh) by RO DELHI",
+   "Hamirpur, Himachal Pradesh",
+   "23 November, 2026"
+  ],
+  "added_lines_total": 3,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hamirpur-himachal-pradesh-ro-delhi",
+    "text": "Consumer Outreach Program at Hamirpur (Himachal Pradesh) by RO DELHI"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "65890205b39c",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-23T12:21:25Z",
+  "summary": "4 new links, 5 new text blocks",
+  "added_lines": [
+   "57वें इफ्फी में ‘फिल्म्स फ्रॉम ब्रिक्स’की शुरुआत ‘रामायण: राइज़ ऑफ़ अ लीजेंड’ (भाग 1) से हुई",
+   "57वें इफ्फी में फिल्म उद्योग के दिग्गजों ने फिल्म स्कूलों की भूमिका पर चर्चा की",
+   "“गंगा से पोषित हज़ारों वर्षों के जीवंत अनुभव”: IFFI 2026 में ‘बनारस’ के लिए फिर साथ आए भरत बाला और ए.आर. रहमान",
+   "57वें इफ्फी में ब्रिक्स फिल्म फेस्टिवल राउंडटेबल ने सह-निर्माण, वितरण और प्रौद्योगिकी आदान-प्रदान के अवसरों पर चर्चा की",
+   "23 नवंबर 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340115&reg=3&lang=2",
+    "text": "57वें इफ्फी में ‘फिल्म्स फ्रॉम ब्रिक्स’की शुरुआत ‘रामायण: राइज़ ऑफ़ अ लीजेंड’ (भाग 1) से हुई"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340126&reg=3&lang=2",
+    "text": "57वें इफ्फी में फिल्म उद्योग के दिग्गजों ने फिल्म स्कूलों की भूमिका पर चर्चा की"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340069&reg=3&lang=2",
+    "text": "“गंगा से पोषित हज़ारों वर्षों के जीवंत अनुभव”: IFFI 2026 में ‘बनारस’ के लिए फिर साथ आए भरत बाला और ए.आर. रहमान"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340129&reg=3&lang=2",
+    "text": "57वें इफ्फी में ब्रिक्स फिल्म फेस्टिवल राउंडटेबल ने सह-निर्माण, वितरण और प्रौद्योगिकी आदान-प्रदान के अवसरों पर चर्चा की"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "c933f5025673",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-23T12:21:25Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 23.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "77cba8bfaead",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",
