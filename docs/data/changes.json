@@ -1,5 +1,21 @@
 [
  {
+  "id": "6561f114ebf8",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-24T02:09:32Z",
+  "summary": "3 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "Consumer Outreach Program at Hooghly (West Bengal) by RO KOLKATA",
+   "Hooghly, West Bengal"
+  ],
+  "removed_lines_total": 3,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "e379da26086c",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

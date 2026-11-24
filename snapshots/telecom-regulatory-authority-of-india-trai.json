@@ -224,12 +224,12 @@
   "Consumer Awareness Program at Bhilwara (Rajasthan) by Maruti Seva Samiti",
   "12:00 PM",
   "Bhilwara , Rajasthan",
-  "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
-  "Bharuch, Gujarat",
   "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan",
   "Dehradun, Uttarakhand",
   "Consumer Awareness Program at Gajapati (Odisha) by Federation of Consumer Organisations Odisha",
   "Gajapati, Odisha",
+  "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal",
+  "Bharuch, Gujarat",
   "ITU Workshop on TSQ & SG-12RG-AP Meeting",
   "Hyderabad, Telangana",
   "Consumer Outreach Program at Hamirpur (Himachal Pradesh) by RO DELHI",
@@ -1011,16 +1011,16 @@
    "text": "Consumer Awareness Program at Bhilwara (Rajasthan) by Maruti Seva Samiti"
   },
   {
-   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharuch-gujarat-bhavnagar-grahak-suraksha-mandal",
-   "text": "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
-  },
-  {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-rastriya-samuddeshiya-vikas",
    "text": "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan"
   },
   {
    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gajapati-odisha-federation-consumer-organisations-odisha",
    "text": "Consumer Awareness Program at Gajapati (Odisha) by Federation of Consumer Organisations Odisha"
+  },
+  {
+   "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharuch-gujarat-bhavnagar-grahak-suraksha-mandal",
+   "text": "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal"
   },
   {
    "url": "https://www.trai.gov.in/events/itu-workshop-tsq-sg-12rg-ap-meeting",
@@ -1063,11 +1063,11 @@
    "text": ""
   },
   {
-   "url": "https://www.trai.gov.in/photo-gallery/trai-mycall-app",
+   "url": "https://www.trai.gov.in/photo-gallery/lecture-indian-patent-issues",
    "text": ""
   },
   {
-   "url": "https://www.trai.gov.in/photo-gallery/lecture-indian-patent-issues",
+   "url": "https://www.trai.gov.in/photo-gallery/trai-mycall-app",
    "text": ""
   },
   {
@@ -1232,7 +1232,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-23T12:21:25Z",
+ "fetched_at": "2026-11-24T02:09:32Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1512,7 +1512,7 @@
    "Telecom Financial Data - Gross Revenue (GR) - June 2026": 0,
    "1,300.25 Million": 0,
    "Total Wireless Subscribers - June 2026": 0,
-   "10:30 AM": 1,
+   "10:30 AM": 2,
    "📣 ITU Workshop & SG-12RG-AP Meeting | 2–3 December 2026 | Hyderabad, India | Click Here for More Information": 0,
    "30th October 2026": 0,
    "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services": 0,
@@ -1531,12 +1531,8 @@
    "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam.": 0,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.07.2026 to 30.09.2026": 0,
    "13th November 2026": 0,
-   "Consumer Awareness Program at Jaunpur (Uttar Pradesh) by Citizen Development Institute": 1,
-   "Consumer Outreach Program at Thoothukudi (Tamil Nadu) by RO BENGALURU": 7,
-   "Consumer Outreach Program at Hooghly (West Bengal) by RO KOLKATA": 7,
-   "Thoothukudi, Tamil Nadu": 7,
-   "Hooghly, West Bengal": 7,
-   "Jaunpur, Uttar Pradesh": 1,
+   "Consumer Awareness Program at Jaunpur (Uttar Pradesh) by Citizen Development Institute": 2,
+   "Jaunpur, Uttar Pradesh": 2,
    "Consumer Awareness Program at Kutch (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 0,
    "Kutch, Gujarat": 0,
    "Consumer Awareness Program at Bokaro (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust": 0,
@@ -1551,12 +1547,12 @@
    "Dehradun, Uttarakhand": 0,
    "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal": 0,
    "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan": 0,
-   "Nizamabad, Telangana": 1,
-   "20 November, 2026": 1,
+   "Nizamabad, Telangana": 2,
+   "20 November, 2026": 2,
    "11:30 AM": 0,
    "Consumer Awareness Program at Kupwara (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
    "Kupwara, Jammu and Kashmir": 0,
-   "Consumer Awareness Program at Nizamabad (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 1,
+   "Consumer Awareness Program at Nizamabad (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 2,
    "Consumer Awareness Program at YSR Kadapa (Andhra Pradesh) by P.S.S. Educational Development Society": 0,
    "Consumer Awareness Program at Gajapati (Odisha) by Federation of Consumer Organisations Odisha": 0,
    "Gajapati, Odisha": 0,
@@ -1783,9 +1779,7 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jaunpur-uttar-pradesh-citizen-development-institute": 1,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-thoothukudi-tamil-nadu-ro-bengaluru": 7,
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hooghly-west-bengal-ro-kolkata": 7,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jaunpur-uttar-pradesh-citizen-development-institute": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kutch-gujarat-shree-jagruti-grahak-suraksha-mahila": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-sudhindra-nath-and-milina-mukherjee": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0": 0,
@@ -1794,15 +1788,13 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-rastriya-samuddeshiya-vikas": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharuch-gujarat-bhavnagar-grahak-suraksha-mandal": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kupwara-jammu-and-kashmir-helpage-social-welfare-society": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nizamabad-telangana-society-health-and-agriculture-0": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nizamabad-telangana-society-health-and-agriculture-0": 2,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gajapati-odisha-federation-consumer-organisations-odisha": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ysr-kadapa-andhra-pradesh-pss-educational-development": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hamirpur-himachal-pradesh-ro-delhi": 0,
    "https://www.trai.gov.in/events/itu-workshop-tsq-sg-12rg-ap-meeting": 0
   },
   "grave_lines": {
-   "TRAI revamps TRAI MyCall mobile application to assess voice call quality through consumer feedback": "2026-10-24T23:08:18Z",
-   "22 October, 2026": "2026-10-24T23:08:18Z",
    "ITU Workshop on TSQ & SG-12RG-AP Meeting": "2026-10-25T04:33:54Z",
    "Hyderabad, Telangana": "2026-10-25T04:33:54Z",
    "Consumer Awareness Program at Udupi (Karnataka) by Coordinated Action of Consumer & Voluntary Organisations of Karnataka (CAOCVO)": "2026-10-25T20:46:48Z",
@@ -1901,8 +1893,8 @@
    "11 November, 2026": "2026-11-15T16:18:20Z",
    "Bharuch, Gujarat": "2026-11-15T16:18:20Z",
    "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal": "2026-11-15T16:18:20Z",
-   "Consumer Outreach Program at Thoothukudi (Tamil Nadu) by RO BENGALURU": "2026-11-15T22:45:57Z",
-   "Thoothukudi, Tamil Nadu": "2026-11-15T22:45:57Z",
+   "Consumer Outreach Program at Thoothukudi (Tamil Nadu) by RO BENGALURU": "2026-11-24T02:09:32Z",
+   "Thoothukudi, Tamil Nadu": "2026-11-24T02:09:32Z",
    "Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual’ for seeking comments of Stakeholders": "2026-11-22T11:10:54Z",
    "9th October 2026": "2026-11-22T11:10:54Z",
    "Consumer Awareness Program at Mahendragarh (Haryana) by Rashtriya Samuddeshiya Vikas Sansthan": "2026-11-19T02:31:06Z",
@@ -1935,7 +1927,9 @@
    "Consumer Awareness Program at Sri Potti Sriramulu Nellore (Andhra Pradesh) by Rural Action for Social Services": "2026-11-22T19:30:31Z",
    "Dhenkanal , Odisha": "2026-11-22T19:30:31Z",
    "Consumer Awareness Program at Dhenkanal (Odisha) by PARIBARTAN": "2026-11-22T19:30:31Z",
-   "19 November, 2026": "2026-11-22T19:30:31Z"
+   "19 November, 2026": "2026-11-22T19:30:31Z",
+   "Consumer Outreach Program at Hooghly (West Bengal) by RO KOLKATA": "2026-11-24T02:09:32Z",
+   "Hooghly, West Bengal": "2026-11-24T02:09:32Z"
   },
   "grave_links": {
    "https://www.trai.gov.in/events/itu-workshop-tsq-sg-12rg-ap-meeting": "2026-10-25T04:33:54Z",
@@ -2008,7 +2002,7 @@
    "https://www.trai.gov.in/notifications/press-release/trai-released-telecommunication-interconnection-third-amendment": "2026-11-15T16:18:20Z",
    "http://www.trai.gov.in/notifications/press-release/trai-released-telecommunication-interconnection-third-amendment": "2026-11-15T16:18:20Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharuch-gujarat-bhavnagar-grahak-suraksha-mandal": "2026-11-15T16:18:20Z",
-   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-thoothukudi-tamil-nadu-ro-bengaluru": "2026-11-15T22:45:57Z",
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-thoothukudi-tamil-nadu-ro-bengaluru": "2026-11-24T02:09:32Z",
    "https://www.trai.gov.in/draft-telecommunication-broadcasting-cable-services-drm-based-digital-addressable-systems-audit": "2026-11-22T11:10:54Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-mahendragarh-haryana-rashtriya-samuddeshiya-vikas": "2026-11-19T02:31:06Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-deogarh-odisha-bhanja-institute-rural-development-bird": "2026-11-19T02:31:06Z",
@@ -2021,7 +2015,8 @@
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-palwal-haryana-ro-jaipur": "2026-11-21T19:08:02Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-cooch-behar-west-bengal-hemnagar-sundarban-dream": "2026-11-21T19:08:02Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-sri-potti-sriramulu-nellore-andhra-pradesh-rural-action": "2026-11-22T19:30:31Z",
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dhenkanal-odisha-paribartan": "2026-11-22T19:30:31Z"
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dhenkanal-odisha-paribartan": "2026-11-22T19:30:31Z",
+   "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hooghly-west-bengal-ro-kolkata": "2026-11-24T02:09:32Z"
   }
  }
 }
