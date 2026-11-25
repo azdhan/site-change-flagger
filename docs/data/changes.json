@@ -1,5 +1,82 @@
 [
  {
+  "id": "c12c05093c42",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-25T19:11:14Z",
+  "summary": "5 new links, 9 new text blocks",
+  "added_lines": [
+   "25th November 2026",
+   "TRAI Assesses Mobile Network Quality in Ghaziabad, Noida, Greater Noida and Nearby Areas.",
+   "Consumer Awareness Program at Gariaband (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation",
+   "Gariaband, Chhattisgarh",
+   "Consumer Education Workshop at Sri Ganganagar (Rajasthan) by Vodafone Idea Limited",
+   "Sri Ganganagar, Rajasthan",
+   "Consumer Awareness Program at Kaushambi (Uttar Pradesh) by Consumer Guild",
+   "Kaushambi, Uttar Pradesh",
+   "25 November, 2026"
+  ],
+  "added_lines_total": 9,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ghaziabad-noida-greater-noida-and",
+    "text": "TRAI Assesses Mobile Network Quality in Ghaziabad, Noida, Greater Noida and Nearby Areas."
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ghaziabad-noida-greater-noida-and",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gariaband-chhattisgarh-upbhokta-surksha-avam-shiksha",
+    "text": "Consumer Awareness Program at Gariaband (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-education-workshop-sri-ganganagar-rajasthan-vodafone-idea-limited",
+    "text": "Consumer Education Workshop at Sri Ganganagar (Rajasthan) by Vodafone Idea Limited"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kaushambi-uttar-pradesh-consumer-guild",
+    "text": "Consumer Awareness Program at Kaushambi (Uttar Pradesh) by Consumer Guild"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
+  "id": "feaf49efcc27",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-25T19:11:14Z",
+  "summary": "1 new link",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.indiacode.nic.in/",
+    "text": ""
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "cabb00a0ff33",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-25T19:11:14Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 25.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "1e73b53a5850",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
