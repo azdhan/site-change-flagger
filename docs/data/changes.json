@@ -1,5 +1,60 @@
 [
  {
+  "id": "1e73b53a5850",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-25T08:21:30Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "The telecom services have been recognized the world-over as an important tool for socio-economic development for a nation and hence telecom infrastructure is treated as a crucial factor to realize the socio-economic objectives in India. Accordingly, the Department of Telecom has been formulating developmental policies for the accelerated growth of the telecommunication services. The Department is also responsible for grant of licenses for various telecommunications services, such as Unified Access Services, Internet services and VSAT services. The Department is also responsible for frequency management in the field of radio communication in close coordination with the international bodies. It also enforces wireless regulatory measures by monitoring wireless transmission of all users in the country."
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
+  "id": "7bc9d117ff5a",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-25T08:21:30Z",
+  "summary": "5 new links, 5 new text blocks",
+  "added_lines": [
+   "“सिनेमा लोगों को जोड़ने का उत्सव है”: गुजराती फिल्म लालो – कृष्ण सदा सहायते ने इफ्फी 2026 में दर्शकों का दिल जीता",
+   "एलिफेंट्स इन द फॉग’ सामाजिक स्वीकृति और बहिष्कार के विरोधाभास की पड़ताल करती है: निर्देशक अभिनाश बिक्रम शाह",
+   "मिड-फेस्ट फिल्म ‘आई मैटर’ पहचान, अपनेपन और मानवता की अनेक परतों की पड़ताल करती है: आईएफएफआई 2026 में निर्देशक एलिना सरबन",
+   "आईएफएफआई मास्टरक्लास में सौरभ सचदेवा ने कलाकारों से डर से निपटने, जोखिम उठाने और अपने लक्ष्यों के अनुरूप कार्य करने का किया आग्रह",
+   "25 नवंबर 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://pgportal.gov.in/Signin",
+    "text": ""
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341014&reg=3&lang=2",
+    "text": "“सिनेमा लोगों को जोड़ने का उत्सव है”: गुजराती फिल्म लालो – कृष्ण सदा सहायते ने इफ्फी 2026 में दर्शकों का दिल जीता"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341030&reg=3&lang=2",
+    "text": "एलिफेंट्स इन द फॉग’ सामाजिक स्वीकृति और बहिष्कार के विरोधाभास की पड़ताल करती है: निर्देशक अभिनाश बिक्रम शाह"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2341018&reg=3&lang=2",
+    "text": "मिड-फेस्ट फिल्म ‘आई मैटर’ पहचान, अपनेपन और मानवता की अनेक परतों की पड़ताल करती है: आईएफएफआई 2026 में निर्देशक एलिना सरबन"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2340965&reg=3&lang=2",
+    "text": "आईएफएफआई मास्टरक्लास में सौरभ सचदेवा ने कलाकारों से डर से निपटने, जोखिम उठाने और अपने लक्ष्यों के अनुरूप कार्य करने का किया आग्रह"
+   }
+  ],
+  "new_links_total": 5
+ },
+ {
   "id": "dfa3d07a221b",
   "site": "Ministry of Information & Broadcasting (MIB)",
   "url": "https://mib.gov.in/",

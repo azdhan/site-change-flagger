@@ -195,11 +195,11 @@
   "6th November 2026",
   "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026",
   "5th November 2026",
+  "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.",
   "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers",
   "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.",
   "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.",
   "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)",
-  "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.",
   "On-going Consultation",
   "30th October 2026",
   "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services",
@@ -939,6 +939,14 @@
    "text": "Explore"
   },
   {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district",
+   "text": "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district",
+   "text": "Explore"
+  },
+  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network",
    "text": "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers"
   },
@@ -968,14 +976,6 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-nuh-palwal-cities-and",
-   "text": "Explore"
-  },
-  {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district",
-   "text": "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA."
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district",
    "text": "Explore"
   },
   {
@@ -1232,7 +1232,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-24T23:51:55Z",
+ "fetched_at": "2026-11-25T08:21:30Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1512,7 +1512,7 @@
    "Telecom Financial Data - Gross Revenue (GR) - June 2026": 0,
    "1,300.25 Million": 0,
    "Total Wireless Subscribers - June 2026": 0,
-   "10:30 AM": 4,
+   "10:30 AM": 5,
    "📣 ITU Workshop & SG-12RG-AP Meeting | 2–3 December 2026 | Hyderabad, India | Click Here for More Information": 0,
    "30th October 2026": 0,
    "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services": 0,
@@ -1531,8 +1531,8 @@
    "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam.": 0,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.07.2026 to 30.09.2026": 0,
    "13th November 2026": 0,
-   "Consumer Awareness Program at Jaunpur (Uttar Pradesh) by Citizen Development Institute": 4,
-   "Jaunpur, Uttar Pradesh": 4,
+   "Consumer Awareness Program at Jaunpur (Uttar Pradesh) by Citizen Development Institute": 5,
+   "Jaunpur, Uttar Pradesh": 5,
    "Consumer Awareness Program at Kutch (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 0,
    "Kutch, Gujarat": 0,
    "Consumer Awareness Program at Bokaro (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust": 0,
@@ -1547,12 +1547,12 @@
    "Dehradun, Uttarakhand": 0,
    "Consumer Awareness Program at Bharuch (Gujarat) by Bhavnagar Grahak Suraksha Mandal": 0,
    "Consumer Awareness Program at Dehradun (Uttarakhand) by Rastriya Samuddeshiya Vikas Sansthan": 0,
-   "Nizamabad, Telangana": 4,
-   "20 November, 2026": 4,
+   "Nizamabad, Telangana": 5,
+   "20 November, 2026": 5,
    "11:30 AM": 0,
    "Consumer Awareness Program at Kupwara (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
    "Kupwara, Jammu and Kashmir": 0,
-   "Consumer Awareness Program at Nizamabad (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 4,
+   "Consumer Awareness Program at Nizamabad (Telangana) by Society for Health and Agriculture in Rural Enviroment (SHARE)": 5,
    "Consumer Awareness Program at YSR Kadapa (Andhra Pradesh) by P.S.S. Educational Development Society": 0,
    "Consumer Awareness Program at Gajapati (Odisha) by Federation of Consumer Organisations Odisha": 0,
    "Gajapati, Odisha": 0,
@@ -1779,7 +1779,7 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jaunpur-uttar-pradesh-citizen-development-institute": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-jaunpur-uttar-pradesh-citizen-development-institute": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kutch-gujarat-shree-jagruti-grahak-suraksha-mahila": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-sudhindra-nath-and-milina-mukherjee": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0": 0,
@@ -1788,7 +1788,7 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dehradun-uttarakhand-rastriya-samuddeshiya-vikas": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharuch-gujarat-bhavnagar-grahak-suraksha-mandal": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kupwara-jammu-and-kashmir-helpage-social-welfare-society": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nizamabad-telangana-society-health-and-agriculture-0": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-nizamabad-telangana-society-health-and-agriculture-0": 5,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gajapati-odisha-federation-consumer-organisations-odisha": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ysr-kadapa-andhra-pradesh-pss-educational-development": 0,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hamirpur-himachal-pradesh-ro-delhi": 0,
