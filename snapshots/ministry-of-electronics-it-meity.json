@@ -100,31 +100,23 @@
   "सेमिकॉन इंडिया 2026",
   "open_in_new",
   "कार्यक्रम देखें",
-  "हमारे बारे में",
-  "भारत सरकार के तहत इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) एक स्वतंत्र मंत्रिस्तरीय एजेंसी है, जो इलेक्ट्रॉनिक्स और आई. टी. उद्योग के निरंतर विकास को सक्षम बनाने के उद्देश्य से राष्ट्रीय नीतियों और कार्यक्रमों को तैयार करने और लागू करने के लिए जिम्मेदार है। एम. ई. आई. टी. वाई. के प्रमुख क्षेत्रों में भारत में इलेक्ट्रॉनिक्स और आई. टी. उद्योग का विकास, संवर्धन और विनियमन, डिजिटल शासन को बढ़ावा देना, उभरती प्रौद्योगिकियों में नवाचार को सक्षम बनाना और देश के भीतर साइबर सुरक्षा पहलों को बढ़ावा देना शामिल है।",
-  "हमारी टीम",
-  "हमारे संगठन",
-  "हमारा प्रदर्शन",
-  "श्री अश्विनी वैष्णव",
-  "माननीय मंत्री",
-  "श्री जितिन प्रसाद",
-  "माननीय राज्य मंत्री",
+  "The Ministry of Electronics and Information Technology (MeitY), under Government of India, is a stand-alone ministerial agency, responsible for formulating and implementing national policies and programs aimed at enabling the continuous development of the electronics and IT industry. MeitY’s focus areas include the development, promotion, and regulation of the electronics and IT industry in India, fostering digital governance, enabling innovation in emerging technologies and promoting cybersecurity initiatives within country.",
+  "Shri Ashwini Vaishnaw",
+  "HON’BLE MINISTER",
+  "Shri Jitin Prasada",
+  "HON’BLE MINISTER OF STATE",
   "प्रमुख प्रस्ताव",
-  "योजनाएं और सेवाएँ",
-  "रिक्तियां",
-  "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश",
-  "arrow_forward_ios",
-  "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम",
-  "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)",
-  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
-  "Visvesvaraya PhD Scheme",
   "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges",
+  "arrow_forward_ios",
   "NeGD’s Non-Technical (Summer) Internship Programme",
   "Mobile Phone Manufacturing Scheme (MPMS)",
   "Digital India Internship Scheme 2026",
+  "Visvesvaraya PhD Scheme",
   "अधिक देखें",
-  "नया क्या है",
-  "राष्ट्रीय परीक्षण एजेंसी ने श्रेष्ठ (एन. ई. टी. एस.)-2027 के लिए ऑनलाइन आवेदन आमंत्रित किए",
+  "What’s New",
+  "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027",
+  "Consent Manager Registration under DPDP Act is now Live!",
+  "डिजिटल इंडिया इंटर्नशिप योजना 2026",
   "हाल के दस्तावेज़",
   "प्रकाशन",
   "कानून और नीतियाँ",
@@ -312,27 +304,27 @@
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Ashwini%20Vaishnaw",
-   "text": "श्री अश्विनी वैष्णव माननीय मंत्री"
+   "text": "Shri Ashwini Vaishnaw HON’BLE MINISTER"
   },
   {
    "url": "https://meity.gov.in/ministry/our-team/details/Shri%20Jitin%20Prasada",
-   "text": "श्री जितिन प्रसाद माननीय राज्य मंत्री"
+   "text": "Shri Jitin Prasada HON’BLE MINISTER OF STATE"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/guidelines-for-implementation-of-scheme-for-reimbursement-of-testing-and-certification-charges-for-start-ups-and-telecom-mses-cjNwMjMtQWa",
-   "text": "परीक्षण और प्रमाणन शुल्क की प्रतिपूर्ति के लिए योजना के कार्यान्वयन के लिए दिशानिर्देश"
+   "text": "Guidelines for implementation of Scheme for reimbursement of Testing and Certification Charges"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/negds-non-technical-summer-internship-programme-kzM0cjMtQWa",
-   "text": "एन. ई. जी. डी. का गैर-तकनीकी (ग्रीष्मकालीन) इंटर्नशिप कार्यक्रम"
+   "text": "NeGD’s Non-Technical (Summer) Internship Programme"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/mobile-phone-manufacturing-scheme-mpms-ITM1kjMtQWa",
-   "text": "मोबाइल फोन निर्माण योजना (एम. पी. एम. एस.)"
+   "text": "Mobile Phone Manufacturing Scheme (MPMS)"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/digital-india-internship-scheme-2026-kDN3YjMtQWa",
-   "text": "डिजिटल इंडिया इंटर्नशिप योजना 2026"
+   "text": "Digital India Internship Scheme 2026"
   },
   {
    "url": "https://meity.gov.in/offerings/schemes-and-services/details/visvesvaraya-phd-scheme-gTMzcjMtQWa",
@@ -340,7 +332,7 @@
   },
   {
    "url": "https://www.meity.gov.in/static/uploads/2026/11/54bd52b8b79c582828a5dce48f3bcbb3.pdf",
-   "text": "राष्ट्रीय परीक्षण एजेंसी ने श्रेष्ठ (एन. ई. टी. एस.)-2027 के लिए ऑनलाइन आवेदन आमंत्रित किए arrow_forward_ios"
+   "text": "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027 arrow_forward_ios"
   },
   {
    "url": "https://intern.meity.gov.in",
@@ -387,11 +379,11 @@
    "text": "सूचना प्रौद्योगिकी अधिनियम की धारा 69ए arrow_forward_ios"
   },
   {
-   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
+   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
-   "url": "https://www.instagram.com/p/CdEhFSNMbC7/?utm_source=ig_embed&utm_campaign=loading",
+   "url": "https://www.instagram.com/p/CaUrK3vsUls/?utm_source=ig_embed&utm_campaign=loading",
    "text": "View this post on Instagram"
   },
   {
@@ -448,7 +440,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-27T12:05:54Z",
+ "fetched_at": "2026-11-27T21:08:52Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -713,7 +705,7 @@
    "अंतिम बार अद्यतन किया गयाः 18.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 19.10.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 20.10.2026": 0,
-   "View more": 0,
+   "View more": 1,
    "अंतिम बार अद्यतन किया गयाः 21.10.2026": 0,
    "इलेक्ट्रॉनिकी और सूचना प्रौद्योगिकी मंत्रालय (एम. ई. आई. टी. वाई.) में अधिकारियों को अतिरिक्त जिम्मेदारियां सौंपना -": 0,
    "अंतिम बार अद्यतन किया गयाः 22.10.2026": 0,
@@ -736,7 +728,7 @@
    "प्रकाशन": 0,
    "उन्नत इलेक्ट्रॉनिक्स और फोटोनिक्स के लिए ग्राफीन/2डी सामग्री के लिए आई. आई. सी. जी. नवाचार अनुदान": 0,
    "अंतिम बार अद्यतन किया गयाः 04.11.2026": 0,
-   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 0,
+   "IICG Innovation Grant for Graphene/2D Materials for Advanced Electronics and Photonics": 1,
    "अंतिम बार अद्यतन किया गयाः 11.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 12.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 13.11.2026": 0,
@@ -744,26 +736,26 @@
    "डी. पी. डी. पी. अधिनियम के तहत सहमति प्रबंधक पंजीकरण अब लाइव है!": 0,
    "अंतिम बार अद्यतन किया गयाः 16.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 17.11.2026": 0,
-   "Key Offerings": 0,
+   "Key Offerings": 1,
    "अंतिम बार अद्यतन किया गयाः 19.11.2026": 0,
    "National Testing Agency inviting Online Applications for SHRESHTA (NETS) - 2027": 0,
    "राष्ट्रीय परीक्षण एजेंसी ने श्रेष्ठ (एन. ई. टी. एस.)-2027 के लिए ऑनलाइन आवेदन आमंत्रित किए": 0,
    "सेमिकॉन इंडिया 2026": 0,
    "दुनिया में जहां भी अर्धचालक पारिस्थितिकी तंत्र का निर्माण किया गया है, उन्हें दशकों के प्रयास के बाद तैयार किया गया है। भारत अर्धचालक उद्योग के लिए खुद को एक पसंदीदा गंतव्य बनाने के लिए हर आवश्यक कदम उठा रहा है।": 0,
    "अंतिम बार अद्यतन किया गयाः 20.11.2026": 0,
-   "For IT Professional": 0,
+   "For IT Professional": 1,
    "भारत ने सेमीकंडक्टर मिशन का दूसरा चरण शुरू कर दिया है। एक तरफ भारत की अर्थव्यवस्था बढ़ रही है तो दूसरी तरफ भारत में दुनिया का विश्वास भी बढ़ रहा है।": 0,
-   "Act and policies": 0,
-   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 0,
-   "Recent Documents": 0,
+   "Act and policies": 1,
+   "Data Empowerment and Protection Architecture (DEPA) for AI Training": 1,
+   "Recent Documents": 1,
    "अंतिम बार अद्यतन किया गयाः 21.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 23.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 25.11.2026": 0,
    "अंतिम बार अद्यतन किया गयाः 26.11.2026": 0,
-   "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg": 0,
+   "Assigning of Additional Responsibilities to officers in Ministry of Electronics and Information Technology (MeitY)- reg": 1,
    "अंतिम बार अद्यतन किया गयाः 27.11.2026": 0,
-   "CAG and PAC ParasIFD": 0,
-   "Report": 0
+   "CAG and PAC ParasIFD": 1,
+   "Report": 1
   },
   "links": {
    "https://bhashini.gov.in": 0,

@@ -185,12 +185,12 @@
   "Prof. Bose's accolades include the Dr. Vikram Sarabhai Research Award, the National Systems Gold Medal, the URSI Young Scientist Award, the INAE Young Engineers Award, the AICTE Career Award for Young Teachers, and the BOYSCAST Fellowship. He is a Fellow of the IET (UK) and a Humboldt Fellow (Germany).",
   "What’s New",
   "27th November 2026",
-  "TRAI extends use of the 1601-series for Service and Transactional Voice Calls to Additional Sectors under Phase-II",
-  "Explore",
   "TRAI releases The Telecommunication Interconnection (Reference Interconnect Offer) (Amendment) Regulations, 2026",
+  "Explore",
+  "TRAI extends use of the 1601-series for Service and Transactional Voice Calls to Additional Sectors under Phase-II",
   "26th November 2026",
-  "TRAI Assesses Mobile Network Quality Across Una, Mandi, Joginder Nagar and nearby areas of Himachal Pradesh.",
   "Extension of last date to receive comments on TRAI's Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services.",
+  "TRAI Assesses Mobile Network Quality Across Una, Mandi, Joginder Nagar and nearby areas of Himachal Pradesh.",
   "25th November 2026",
   "TRAI Assesses Mobile Network Quality in Ghaziabad, Noida, Greater Noida and Nearby Areas.",
   "17th November 2026",
@@ -198,8 +198,8 @@
   "13th November 2026",
   "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.07.2026 to 30.09.2026",
   "9th November 2026",
-  "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026",
   "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam.",
+  "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026",
   "6th November 2026",
   "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026",
   "On-going Consultation",
@@ -901,14 +901,6 @@
    "text": "View All"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-extends-use-1601-series-service-and-transactional-voice-calls",
-   "text": "TRAI extends use of the 1601-series for Service and Transactional Voice Calls to Additional Sectors under Phase-II"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-extends-use-1601-series-service-and-transactional-voice-calls",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-reference-interconnect",
    "text": "TRAI releases The Telecommunication Interconnection (Reference Interconnect Offer) (Amendment) Regulations, 2026"
   },
@@ -917,11 +909,11 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-una-mandi-joginder-nagar",
-   "text": "TRAI Assesses Mobile Network Quality Across Una, Mandi, Joginder Nagar and nearby areas of Himachal Pradesh."
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-extends-use-1601-series-service-and-transactional-voice-calls",
+   "text": "TRAI extends use of the 1601-series for Service and Transactional Voice Calls to Additional Sectors under Phase-II"
   },
   {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-una-mandi-joginder-nagar",
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-extends-use-1601-series-service-and-transactional-voice-calls",
    "text": "Explore"
   },
   {
@@ -930,6 +922,14 @@
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/extension-last-date-receive-comments-trais-draft-guidelines-responsible",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-una-mandi-joginder-nagar",
+   "text": "TRAI Assesses Mobile Network Quality Across Una, Mandi, Joginder Nagar and nearby areas of Himachal Pradesh."
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-una-mandi-joginder-nagar",
    "text": "Explore"
   },
   {
@@ -957,19 +957,19 @@
    "text": "Explore"
   },
   {
-   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third",
-   "text": "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026"
-  },
-  {
-   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third",
-   "text": "Explore"
-  },
-  {
    "url": "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new",
    "text": "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam."
   },
   {
    "url": "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new",
+   "text": "Explore"
+  },
+  {
+   "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third",
+   "text": "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026"
+  },
+  {
+   "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third",
    "text": "Explore"
   },
   {
@@ -1234,7 +1234,7 @@
   }
  ],
  "renderer": "static",
- "fetched_at": "2026-11-27T12:05:54Z",
+ "fetched_at": "2026-11-27T21:08:52Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -1514,18 +1514,18 @@
    "Telecom Financial Data - Gross Revenue (GR) - June 2026": 0,
    "1,300.25 Million": 0,
    "Total Wireless Subscribers - June 2026": 0,
-   "10:30 AM": 1,
+   "10:30 AM": 2,
    "📣 ITU Workshop & SG-12RG-AP Meeting | 2–3 December 2026 | Hyderabad, India | Click Here for More Information": 0,
    "30th October 2026": 0,
    "Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services": 0,
    "10:00 AM": 0,
    "🚀 TRAI Launches Network Anubhav Platform | Click Here for More Information": 0,
-   "5th November 2026": 1,
-   "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.": 1,
-   "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.": 3,
-   "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers": 1,
-   "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)": 3,
-   "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 2,
+   "5th November 2026": 2,
+   "TRAI Assesses Mobile Network Quality Across in Ratnagiri District, Maharashtra LSA.": 2,
+   "TRAI Assesses Mobile Network Quality across parts of Lohit district and from Silluk-Tin-Ali to Tohangam along National Highway (NH)-13 under North-East LSA in the state of Arunachal Pradesh.": 4,
+   "TRAI releases Recommendations on the Framework for Satellite Communication Network Provider Authorisation, and Assignment of Spectrum to Satellite Communication Network Providers": 2,
+   "TRAI Assesses Mobile Network Quality across Nuh & Palwal cities and adjoining areas (in Haryana LSA)": 4,
+   "TRAI Assesses Mobile Network Quality Across in Mumbai LSA.": 3,
    "TRAI released The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026": 0,
    "6th November 2026": 0,
    "TRAI releases The Telecommunication Interconnection (Port Charges) (Third Amendment) Regulations, 2026": 0,
@@ -1533,10 +1533,10 @@
    "TRAI Assesses Mobile Network Quality across Railway route between New Tinsukia Railway station and Guwahati Railway station under Assam LSA in the state of Assam.": 0,
    "TRAI releases Quarterly Highlights of Action Against Unsolicited Commercial Communications (UCC) For the period 01.07.2026 to 30.09.2026": 0,
    "13th November 2026": 0,
-   "Consumer Awareness Program at Kutch (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 3,
-   "Kutch, Gujarat": 3,
-   "Consumer Awareness Program at Bokaro (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust": 1,
-   "Bokaro, Jharkhand": 1,
+   "Consumer Awareness Program at Kutch (Gujarat) by Shree Jagruti Grahak Suraksha Mahila Mandal": 4,
+   "Kutch, Gujarat": 4,
+   "Consumer Awareness Program at Bokaro (Jharkhand) by Sudhindra Nath and Milina Mukherjee Social Developmment Trust": 2,
+   "Bokaro, Jharkhand": 2,
    "01:00 PM": 0,
    "Extension of last date for submission of comments from stakeholders on the Draft Telecommunication (Broadcasting & Cable) Services DRM Based Digital Addressable Systems Audit Manual, 2026": 0,
    "17th November 2026": 0,
@@ -1550,30 +1550,30 @@
    "11:30 AM": 0,
    "Consumer Awareness Program at Kupwara (Jammu and Kashmir) by Helpage Social Welfare Society": 0,
    "Kupwara, Jammu and Kashmir": 0,
-   "Consumer Awareness Program at YSR Kadapa (Andhra Pradesh) by P.S.S. Educational Development Society": 3,
+   "Consumer Awareness Program at YSR Kadapa (Andhra Pradesh) by P.S.S. Educational Development Society": 4,
    "Consumer Awareness Program at Gajapati (Odisha) by Federation of Consumer Organisations Odisha": 0,
    "Gajapati, Odisha": 0,
-   "Kadapa , Andhra Pradesh": 3,
+   "Kadapa , Andhra Pradesh": 4,
    "Hyderabad, Telangana": 0,
    "Hamirpur, Himachal Pradesh": 0,
    "Consumer Outreach Program at Hamirpur (Himachal Pradesh) by RO DELHI": 0,
    "ITU Workshop on TSQ & SG-12RG-AP Meeting": 0,
-   "23 November, 2026": 5,
+   "23 November, 2026": 6,
    "TRAI Assesses Mobile Network Quality in Ghaziabad, Noida, Greater Noida and Nearby Areas.": 0,
    "25th November 2026": 0,
-   "Consumer Education Workshop at Sri Ganganagar (Rajasthan) by Vodafone Idea Limited": 1,
-   "Gariaband, Chhattisgarh": 3,
+   "Consumer Education Workshop at Sri Ganganagar (Rajasthan) by Vodafone Idea Limited": 2,
+   "Gariaband, Chhattisgarh": 4,
    "Kaushambi, Uttar Pradesh": 0,
-   "Sri Ganganagar, Rajasthan": 1,
-   "Consumer Awareness Program at Gariaband (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation": 3,
-   "25 November, 2026": 3,
+   "Sri Ganganagar, Rajasthan": 2,
+   "Consumer Awareness Program at Gariaband (Chhattisgarh) by Upbhokta Surksha Avam Shiksha Foundation": 4,
+   "25 November, 2026": 4,
    "Consumer Awareness Program at Kaushambi (Uttar Pradesh) by Consumer Guild": 0,
-   "Dharmapuri, Tamil Nadu": 1,
-   "26 November, 2026": 1,
+   "Dharmapuri, Tamil Nadu": 2,
+   "26 November, 2026": 2,
    "TRAI Assesses Mobile Network Quality Across Una, Mandi, Joginder Nagar and nearby areas of Himachal Pradesh.": 0,
    "Extension of last date to receive comments on TRAI's Draft Guidelines on Responsible Use of Artificial Intelligence (AI) in Telecommunication Networks and Provision of Telecommunication Services.": 0,
    "26th November 2026": 0,
-   "Consumer Awareness Program at Dharmapuri (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": 1,
+   "Consumer Awareness Program at Dharmapuri (Tamil Nadu) by Tamilnadu Consumer Protection and Environmental Research Centre (TNCPERC)": 2,
    "Palakkad, Kerala": 0,
    "Consumer Outreach Program at Palakkad (Kerala) by RO BENGALURU": 0,
    "TRAI releases The Telecommunication Interconnection (Reference Interconnect Offer) (Amendment) Regulations, 2026": 0,
@@ -1731,7 +1731,7 @@
    "https://www.trai.gov.in/photo-gallery": 0,
    "https://www.trai.gov.in/photo-gallery/coai-digicom-summit-2026": 0,
    "https://www.trai.gov.in/photo-gallery/trai-et-telecom-5g-congress-2026": 0,
-   "https://www.trai.gov.in/photo-gallery/trai-convergence-india-expo-2026": 3,
+   "https://www.trai.gov.in/photo-gallery/trai-convergence-india-expo-2026": 4,
    "https://www.trai.gov.in/video-gallery": 0,
    "https://www.trai.gov.in/25-years-of-trai": 0,
    "https://www.trai.gov.in/International-Organizations": 0,
@@ -1780,16 +1780,16 @@
    "https://www.trai.gov.in/photo-gallery/trai-mycall-app": 0,
    "https://www.trai.gov.in/photo-gallery/lecture-indian-patent-issues": 0,
    "https://anubhav.trai.gov.in": 0,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and": 3,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-nuh-palwal-cities-and": 3,
-   "https://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0": 2,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and": 3,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district": 1,
-   "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network": 1,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-nuh-palwal-cities-and": 3,
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district": 1,
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and": 4,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-nuh-palwal-cities-and": 4,
+   "https://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0": 3,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-parts-lohit-district-and": 4,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district": 2,
+   "http://www.trai.gov.in/notifications/press-release/trai-releases-recommendations-framework-satellite-communication-network": 2,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-nuh-palwal-cities-and": 4,
+   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-ratnagiri-district": 2,
+   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-mumbai-lsa-0": 3,
    "http://www.trai.gov.in/notifications/press-release/trai-released-register-interconnect-agreements-fourth-amendment": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-released-register-interconnect-agreements-fourth-amendment": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-port-charges-third": 0,
@@ -1799,8 +1799,8 @@
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-railway-route-between-new": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-releases-quarterly-highlights-action-against-unsolicited-0": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kutch-gujarat-shree-jagruti-grahak-suraksha-mahila": 3,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-sudhindra-nath-and-milina-mukherjee": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kutch-gujarat-shree-jagruti-grahak-suraksha-mahila": 4,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bokaro-jharkhand-sudhindra-nath-and-milina-mukherjee": 2,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0": 0,
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-submission-comments-stakeholders-draft-0": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bhilwara-rajasthan-maruti-seva-samiti": 0,
@@ -1808,17 +1808,17 @@
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-bharuch-gujarat-bhavnagar-grahak-suraksha-mandal": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kupwara-jammu-and-kashmir-helpage-social-welfare-society": 0,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gajapati-odisha-federation-consumer-organisations-odisha": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ysr-kadapa-andhra-pradesh-pss-educational-development": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-ysr-kadapa-andhra-pradesh-pss-educational-development": 4,
    "https://www.trai.gov.in/consumer/events/consumer-outreach-program-hamirpur-himachal-pradesh-ro-delhi": 0,
    "https://www.trai.gov.in/events/itu-workshop-tsq-sg-12rg-ap-meeting": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gariaband-chhattisgarh-upbhokta-surksha-avam-shiksha": 3,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-gariaband-chhattisgarh-upbhokta-surksha-avam-shiksha": 4,
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-kaushambi-uttar-pradesh-consumer-guild": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ghaziabad-noida-greater-noida-and": 0,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-ghaziabad-noida-greater-noida-and": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-education-workshop-sri-ganganagar-rajasthan-vodafone-idea-limited": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-education-workshop-sri-ganganagar-rajasthan-vodafone-idea-limited": 2,
    "http://www.trai.gov.in/notifications/press-release/extension-last-date-receive-comments-trais-draft-guidelines-responsible": 0,
    "https://www.trai.gov.in/photo-gallery/constitution-day-celebration-2026": 0,
-   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dharmapuri-tamil-nadu-tamilnadu-consumer-protection-and": 1,
+   "https://www.trai.gov.in/consumer/events/consumer-awareness-program-dharmapuri-tamil-nadu-tamilnadu-consumer-protection-and": 2,
    "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-una-mandi-joginder-nagar": 0,
    "https://www.trai.gov.in/notifications/press-release/extension-last-date-receive-comments-trais-draft-guidelines-responsible": 0,
    "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-una-mandi-joginder-nagar": 0,
@@ -1830,13 +1830,8 @@
    "https://www.trai.gov.in/notifications/press-release/trai-extends-use-1601-series-service-and-transactional-voice-calls": 0
   },
   "grave_lines": {
-   "TRAI Assesses Mobile Network Quality in and around Balasore City, covering Balasore, Soro, Remuna, Nilagiri, Jaleswar, Baliapal and nearby areas.": "2026-10-28T12:43:55Z",
-   "7th October 2026": "2026-10-28T12:43:55Z",
-   "8th October 2026": "2026-10-28T12:43:55Z",
-   "TRAI Assesses Mobile Network Quality across Fazilka city and adjoining areas (in Punjab LSA)": "2026-10-28T12:43:55Z",
    "Chamba , Himachal Pradesh": "2026-11-02T21:41:23Z",
    "Consumer Awareness Program at Chamba (Himachal Pradesh) by Indian Institute Of Technology & Entrepreneur Development (IITED), Himachal Pradesh": "2026-11-02T21:41:23Z",
-   "23 October, 2026": "2026-10-28T12:43:55Z",
    "26 October, 2026": "2026-10-29T09:51:40Z",
    "TRAI Releases Draft Telecommunication (Broadcasting and Cable) Services DRM- based Digital Addressable Systems Audit Manual, 2026": "2026-10-30T17:59:06Z",
    "Chandigarh , Chandigarh": "2026-10-30T17:59:06Z",
@@ -1966,10 +1961,6 @@
    "20 November, 2026": "2026-11-26T16:48:32Z"
   },
   "grave_links": {
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-and-around-balasore-city-covering": "2026-10-28T12:43:55Z",
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-and-around-balasore-city-covering": "2026-10-28T12:43:55Z",
-   "http://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-fazilka-city-and-adjoining": "2026-10-28T12:43:55Z",
-   "https://www.trai.gov.in/notifications/press-release/trai-assesses-mobile-network-quality-across-fazilka-city-and-adjoining": "2026-10-28T12:43:55Z",
    "https://www.trai.gov.in/consumer/events/consumer-awareness-program-chamba-himachal-pradesh-indian-institute-technology": "2026-11-02T21:41:23Z",
    "https://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0": "2026-10-30T17:59:06Z",
    "http://www.trai.gov.in/notifications/press-release/trai-releases-draft-telecommunication-broadcasting-and-cable-services-0": "2026-10-30T17:59:06Z",
