@@ -1,5 +1,127 @@
 [
  {
+  "id": "1e94691ec9f2",
+  "site": "Department of Telecommunications (DoT)",
+  "url": "https://dot.gov.in/",
+  "time": "2026-11-27T12:05:54Z",
+  "summary": "1 new link, 5 new text blocks",
+  "added_lines": [
+   "Special Assistance to States for Capital Investment (SASCI), 2026-27",
+   "Telecom Startups and MSME Conclave 2026",
+   "Gwalior is gearing up to become India’s next hub of telecom manufacturing!",
+   "ग्वालियर बन रहा है टेलीकॉम मैन्युफैक्चरिंग में निवेश का नया केंद्र!",
+   "Gwalior Telecom Manufacturing Zone Takes Off | LoIs Distributed to 25 Companies"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa",
+    "text": "Special Assistance to States for Capital Investment (SASCI), 2026-27"
+   }
+  ],
+  "new_links_total": 1
+ },
+ {
+  "id": "5f57c05ee96e",
+  "site": "Telecom Regulatory Authority of India (TRAI)",
+  "url": "https://www.trai.gov.in/",
+  "time": "2026-11-27T12:05:54Z",
+  "summary": "6 new links, 8 new text blocks",
+  "added_lines": [
+   "27th November 2026",
+   "TRAI extends use of the 1601-series for Service and Transactional Voice Calls to Additional Sectors under Phase-II",
+   "TRAI releases The Telecommunication Interconnection (Reference Interconnect Offer) (Amendment) Regulations, 2026",
+   "Consumer Awareness Program at Vidisha (Madhya Pradesh) by National Centre for Human Settlement and Enviorment (NCHSE)",
+   "Vidisha, Madhya Pradesh",
+   "Consumer Outreach Program at Palakkad (Kerala) by RO BENGALURU",
+   "Palakkad, Kerala",
+   "27 November, 2026"
+  ],
+  "added_lines_total": 8,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-extends-use-1601-series-service-and-transactional-voice-calls",
+    "text": "TRAI extends use of the 1601-series for Service and Transactional Voice Calls to Additional Sectors under Phase-II"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-extends-use-1601-series-service-and-transactional-voice-calls",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-reference-interconnect",
+    "text": "TRAI releases The Telecommunication Interconnection (Reference Interconnect Offer) (Amendment) Regulations, 2026"
+   },
+   {
+    "url": "http://www.trai.gov.in/notifications/press-release/trai-releases-telecommunication-interconnection-reference-interconnect",
+    "text": "Explore"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-awareness-program-vidisha-madhya-pradesh-national-centre-human-settlement",
+    "text": "Consumer Awareness Program at Vidisha (Madhya Pradesh) by National Centre for Human Settlement and Enviorment (NCHSE)"
+   },
+   {
+    "url": "https://www.trai.gov.in/consumer/events/consumer-outreach-program-palakkad-kerala-ro-bengaluru",
+    "text": "Consumer Outreach Program at Palakkad (Kerala) by RO BENGALURU"
+   }
+  ],
+  "new_links_total": 6
+ },
+ {
+  "id": "3f8003f27697",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-27T12:05:54Z",
+  "summary": "4 new links, 5 new text blocks",
+  "added_lines": [
+   "आर्यन के नजरिए से: श्रीहरि हरिदास ने मॉक्यूमेंट्री शैली में कहानी कहने, व्यक्तिगत प्रभावों और अपनी फीचर फिल्म ‘अजयन्ते मरणम्: ओरु केस स्टडी’ के निर्माण पर चर्चा की",
+   "मूल्यांकन के लिए कहानी का मानवीय चरित्र एवं गांधीवादी आदर्शों के साथ जुड़ाव सबसे प्रमुख विचार: आईसीएफटी-यूनेस्को गांधी पदक जूरी सदस्य मनोज कदम",
+   "ऑस्कर को समझना: 57वें आईएफएफआई में नताली वेड ने फिल्म निर्माताओं को सबमिशन प्रक्रिया और वैश्विक अवसरों के बारे में जानकारी दी",
+   "क्या आपका स्मार्टफोन आपको नियंत्रित कर रहा है? आईएफएफआई 2026 में तमिल थ्रिलर 'स्क्रॉल' ने डिजिटल दुनिया को लेकर एक नई चेतावनी दी है",
+   "27 नवंबर 2026"
+  ],
+  "added_lines_total": 5,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342250&reg=3&lang=2",
+    "text": "आर्यन के नजरिए से: श्रीहरि हरिदास ने मॉक्यूमेंट्री शैली में कहानी कहने, व्यक्तिगत प्रभावों और अपनी फीचर फिल्म ‘अजयन्ते मरणम्: ओरु केस स्टडी’ के निर्माण पर चर्चा की"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342231&reg=3&lang=2",
+    "text": "मूल्यांकन के लिए कहानी का मानवीय चरित्र एवं गांधीवादी आदर्शों के साथ जुड़ाव सबसे प्रमुख विचार: आईसीएफटी-यूनेस्को गांधी पदक जूरी सदस्य मनोज कदम"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342246&reg=3&lang=2",
+    "text": "ऑस्कर को समझना: 57वें आईएफएफआई में नताली वेड ने फिल्म निर्माताओं को सबमिशन प्रक्रिया और वैश्विक अवसरों के बारे में जानकारी दी"
+   },
+   {
+    "url": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2342241&reg=3&lang=2",
+    "text": "क्या आपका स्मार्टफोन आपको नियंत्रित कर रहा है? आईएफएफआई 2026 में तमिल थ्रिलर 'स्क्रॉल' ने डिजिटल दुनिया को लेकर एक नई चेतावनी दी है"
+   }
+  ],
+  "new_links_total": 4
+ },
+ {
+  "id": "e521a742a005",
+  "site": "Ministry of Electronics & IT (MeitY)",
+  "url": "https://meity.gov.in/",
+  "time": "2026-11-27T12:05:54Z",
+  "summary": "1 new text block",
+  "added_lines": [
+   "अंतिम बार अद्यतन किया गयाः 27.11.2026"
+  ],
+  "added_lines_total": 1,
+  "removed_lines": [],
+  "removed_lines_total": 0,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "f15f84ca57a6",
   "site": "Telecom Regulatory Authority of India (TRAI)",
   "url": "https://www.trai.gov.in/",

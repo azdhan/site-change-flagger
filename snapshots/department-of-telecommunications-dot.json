@@ -126,8 +126,9 @@
   "Key Offerings",
   "Production Linked Incentive (PLI) scheme",
   "arrow_forward_ios",
-  "Telecom Technology Development Fund (TTDF) Scheme",
   "Tarang Sanchar Portal",
+  "Special Assistance to States for Capital Investment (SASCI), 2026-27",
+  "Telecom Technology Development Fund (TTDF) Scheme",
   "Sanchar Saathi initiative under Digital Intelligence Unit (DIU) project",
   "View more",
   "What’s New",
@@ -135,11 +136,6 @@
   "Telecom Manufacturing Zone Scheme",
   "Adoption of TSDSI transposed 3GPP specifications from Release 13 to 18 as national standards, as an outcome of TSG107 - total 347 documents",
   "National Frequency Allocation Plan-2025",
-  "Recent Documents",
-  "5G BTS status as on 31-Oct-2026",
-  "Government Strengthens Rural 4G Connectivity Through 4G Saturation Project",
-  "Cyber Threats Respect No Borders, Neither Should Cooperation: Union MoS for Communications Dr. Chandra Sekhar Pemmasani at ITU PP-26",
-  "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Telangana, TRIICL, BSNL & T-Fibre for Implementation of Amended BharatNet Program in Telangana",
   "Explore User Personas",
   "FOR MEDIA",
   "For Industry Professional",
@@ -153,11 +149,11 @@
   "Right Of Way -Telecom eServices Portal",
   "In Social Media",
   "Youtube",
+  "Telecom Startups and MSME Conclave 2026",
+  "Gwalior is gearing up to become India’s next hub of telecom manufacturing!",
+  "ग्वालियर बन रहा है टेलीकॉम मैन्युफैक्चरिंग में निवेश का नया केंद्र!",
+  "Gwalior Telecom Manufacturing Zone Takes Off | LoIs Distributed to 25 Companies",
   "स्क्रीन पर लाखों का मुनाफा, असल में आपकी मेहनत की कमाई पर डाका!",
-  "Sanchar Saathi is your hidden safeguard, always ready to help you fight cyber fraud",
-  "AI Voice Cloning, Deepfake और नकली Customer Care से सावधान रहें।",
-  "अनजान कॉल पर भरोसा करने से पहले रुकें और सोचें, क्योंकि आपकी सतर्कता ही आपकी सुरक्षा है।",
-  "ग्वालियर बनेगा टेलीकॉम मैन्युफैक्चरिंग का नया केंद्र, आत्मनिर्भर भारत को मिलेगी नई उड़ान!",
   "Facebook",
   "Instagram",
   "Useful Links",
@@ -328,16 +324,16 @@
    "text": "Production Linked Incentive (PLI) scheme"
   },
   {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa",
-   "text": "Telecom Technology Development Fund (TTDF) Scheme"
-  },
-  {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa",
    "text": "Tarang Sanchar Portal"
   },
   {
-   "url": "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa",
-   "text": "Telecom eServices Portal"
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa",
+   "text": "Special Assistance to States for Capital Investment (SASCI), 2026-27"
+  },
+  {
+   "url": "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa",
+   "text": "Telecom Technology Development Fund (TTDF) Scheme"
   },
   {
    "url": "https://dot.gov.in/offerings/schemes-and-services/details/sanchar-saathi-initiative-under-digital-intelligence-unit-diu-project-gjN3YTNtQWa",
@@ -457,7 +453,7 @@
   }
  ],
  "renderer": "browser",
- "fetched_at": "2026-11-27T01:41:24Z",
+ "fetched_at": "2026-11-27T12:05:54Z",
  "script": "latin",
  "memory": {
   "lines": {
@@ -954,13 +950,13 @@
    "अंतिम बार अद्यतन किया गयाः 10.11.2026": 0,
    "जी. एम. डी. एस. एस.-जी. ओ. सी. फरवरी 2026 परीक्षा का परिणाम-दक्षिण क्षेत्र": 0,
    "PM-WANI- Telecom eServices Portal": 0,
-   "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Telangana, TRIICL, BSNL & T-Fibre for Implementation of Amended BharatNet Program in Telangana": 0,
+   "Agreement Signed between DBN (Digital Bharat Nidhi) - Department of Telecommunications, Government of Telangana, TRIICL, BSNL & T-Fibre for Implementation of Amended BharatNet Program in Telangana": 1,
    "View more": 0,
    "FOR MEDIA": 0,
    "Call Before u Dig": 0,
    "Telecom eServices Portal": 0,
    "MTCTE Portal": 0,
-   "Recent Documents": 0,
+   "Recent Documents": 1,
    "Explore User Personas": 0,
    "Important Links": 0,
    "Assamese (অসমীয়া)": 0,
@@ -993,7 +989,7 @@
    "Announcements": 0,
    "Adoption of TSDSI transposed 3GPP specifications from Release 13 to 18 as national standards, as an outcome of TSG107 - total 347 documents": 0,
    "Telecom Manufacturing Zone": 0,
-   "The telecom services have been recognized the world-over as an important tool for socio-economic development for a nation and hence telecom infrastructure is treated as a crucial factor to realize the socio-economic objectives in India. Accordingly, the Department of Telecom has been formulating developmental policies for the accelerated growth of the telecommunication services. The Department is also responsible for grant of licenses for various telecom services like Unified Access Service, Internet and VSAT service. The Department is also responsible for frequency management in the field of radio communication in close coordination with the international bodies. It also enforces wireless regulatory measures by monitoring wireless transmission of all users in the country.": 5,
+   "The telecom services have been recognized the world-over as an important tool for socio-economic development for a nation and hence telecom infrastructure is treated as a crucial factor to realize the socio-economic objectives in India. Accordingly, the Department of Telecom has been formulating developmental policies for the accelerated growth of the telecommunication services. The Department is also responsible for grant of licenses for various telecom services like Unified Access Service, Internet and VSAT service. The Department is also responsible for frequency management in the field of radio communication in close coordination with the international bodies. It also enforces wireless regulatory measures by monitoring wireless transmission of all users in the country.": 6,
    "Odia (ଓଡ଼ିଆ)": 0,
    "Archives": 0,
    "Maithili (मैथिली)": 0,
@@ -1015,15 +1011,20 @@
    "Production Linked Incentive (PLI) scheme": 0,
    "Tamil (தமிழ்)": 0,
    "Nepali (नेपाली)": 0,
-   "Cyber Threats Respect No Borders, Neither Should Cooperation: Union MoS for Communications Dr. Chandra Sekhar Pemmasani at ITU PP-26": 0,
-   "Government Strengthens Rural 4G Connectivity Through 4G Saturation Project": 0,
-   "5G BTS status as on 31-Oct-2026": 0,
-   "Sanchar Saathi is your hidden safeguard, always ready to help you fight cyber fraud": 0,
+   "Cyber Threats Respect No Borders, Neither Should Cooperation: Union MoS for Communications Dr. Chandra Sekhar Pemmasani at ITU PP-26": 1,
+   "Government Strengthens Rural 4G Connectivity Through 4G Saturation Project": 1,
+   "5G BTS status as on 31-Oct-2026": 1,
+   "Sanchar Saathi is your hidden safeguard, always ready to help you fight cyber fraud": 1,
    "AI Voice Cloning, Deepfake और नकली Customer Care से सावधान रहें।": 0,
    "अनजान कॉल पर भरोसा करने से पहले रुकें और सोचें, क्योंकि आपकी सतर्कता ही आपकी सुरक्षा है।": 0,
    "स्क्रीन पर लाखों का मुनाफा, असल में आपकी मेहनत की कमाई पर डाका!": 0,
    "ग्वालियर बनेगा टेलीकॉम मैन्युफैक्चरिंग का नया केंद्र, आत्मनिर्भर भारत को मिलेगी नई उड़ान!": 0,
-   "The telecom services have been recognized the world-over as an important tool for socio-economic development for a nation and hence telecom infrastructure is treated as a crucial factor to realize the socio-economic objectives in India. Accordingly, the Department of Telecom has been formulating developmental policies for the accelerated growth of the telecommunication services. The Department is also responsible for grant of licenses for various telecommunications services, such as Unified Access Services, Internet services and VSAT services. The Department is also responsible for frequency management in the field of radio communication in close coordination with the international bodies. It also enforces wireless regulatory measures by monitoring wireless transmission of all users in the country.": 0
+   "The telecom services have been recognized the world-over as an important tool for socio-economic development for a nation and hence telecom infrastructure is treated as a crucial factor to realize the socio-economic objectives in India. Accordingly, the Department of Telecom has been formulating developmental policies for the accelerated growth of the telecommunication services. The Department is also responsible for grant of licenses for various telecommunications services, such as Unified Access Services, Internet services and VSAT services. The Department is also responsible for frequency management in the field of radio communication in close coordination with the international bodies. It also enforces wireless regulatory measures by monitoring wireless transmission of all users in the country.": 0,
+   "Special Assistance to States for Capital Investment (SASCI), 2026-27": 0,
+   "Telecom Startups and MSME Conclave 2026": 0,
+   "ग्वालियर बन रहा है टेलीकॉम मैन्युफैक्चरिंग में निवेश का नया केंद्र!": 0,
+   "Gwalior is gearing up to become India’s next hub of telecom manufacturing!": 0,
+   "Gwalior Telecom Manufacturing Zone Takes Off | LoIs Distributed to 25 Companies": 0
   },
   "links": {
    "https://bhashini.gov.in": 0,
@@ -1092,10 +1093,11 @@
    "https://sws.invest.mp.gov.in/": 0,
    "https://dot.gov.in/offerings/schemes-and-services/details/telecom-technology-development-fund-ttdf-kjM2YDOtQWa": 0,
    "https://dot.gov.in/persona/For%20Business%20Owner-ETO0UzMtQWa": 0,
-   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/telecom-eservices-portal-gTO2gDOtQWa": 1,
    "https://dot.gov.in/offerings/schemes-and-services/details/tarang-sanchar-portal-gDO2gDOtQWa": 0,
    "https://www.dot.gov.in/static/uploads/2026/10/8581d175750d2eb4b7d84e75e31f1ed9.pdf": 0,
-   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320680&reg=3&lang=1": 0
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320680&reg=3&lang=1": 0,
+   "https://dot.gov.in/offerings/schemes-and-services/details/special-assistance-to-states-for-capital-investment-sasci-gDN3YDOtQWa": 0
   },
   "grave_lines": {
    "Revenue Management Services": "2026-11-01T19:36:53Z",
