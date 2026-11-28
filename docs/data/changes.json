@@ -1,5 +1,24 @@
 [
  {
+  "id": "cecdcee1e42e",
+  "site": "Ministry of Information & Broadcasting (MIB)",
+  "url": "https://mib.gov.in/",
+  "time": "2026-11-28T03:15:22Z",
+  "summary": "9 items no longer on page",
+  "added_lines": [],
+  "added_lines_total": 0,
+  "removed_lines": [
+   "57वें इफ्फी में फिल्म उद्योग के दिग्गजों ने फिल्म स्कूलों की भूमिका पर चर्चा की",
+   "“गंगा से पोषित हज़ारों वर्षों के जीवंत अनुभव”: IFFI 2026 में ‘बनारस’ के लिए फिर साथ आए भरत बाला और ए.आर. रहमान",
+   "23 नवंबर 2026",
+   "57वें इफ्फी में ‘फिल्म्स फ्रॉम ब्रिक्स’की शुरुआत ‘रामायण: राइज़ ऑफ़ अ लीजेंड’ (भाग 1) से हुई",
+   "57वें इफ्फी में ब्रिक्स फिल्म फेस्टिवल राउंडटेबल ने सह-निर्माण, वितरण और प्रौद्योगिकी आदान-प्रदान के अवसरों पर चर्चा की"
+  ],
+  "removed_lines_total": 9,
+  "new_links": [],
+  "new_links_total": 0
+ },
+ {
   "id": "1e94691ec9f2",
   "site": "Department of Telecommunications (DoT)",
   "url": "https://dot.gov.in/",
